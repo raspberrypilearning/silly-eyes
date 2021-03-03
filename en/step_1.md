@@ -1,59 +1,39 @@
 ## Introduction
 
-Add project description here. What will learners be making? Broadly what skills will they be learning?
+You will design and create a googly eye character. Googly eyes are silly large eyes, yours will follow the mouse to bring your character to life.
 
-### What you will make
+You will decide how many eyes your character has and make decisions about the colour and graphic effects that you use. 
+
+You will:
++ Make a project with **user interaction**
++ Personalize a project with colour and graphic effects
++ Learn about design in digital making 
 
 --- no-print ---
-Add instructions for interacting with the embedded content here.
+--- task ---
+### Try it
+<div style="display: flex; flex-wrap: wrap">
+<div style="flex-basis: 200px; flex-grow: 1">  
+Move the mouse around the screen and watch what happens to Gobo's eyes. If you're on a tablet, move your finger around the screen.
 
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
+What happens when you move the mouse (or your finger if you are on a tablet) between Gobo's eyes?
+
 </div>
+<div class="scratch-preview" style="margin-left: 15px;">
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/485673032/?autostart=false" frameborder="0"></iframe>
+</div>
+</div>
+--- /task ---
 --- /no-print ---
 
 --- print-only ---
 ![Complete project](images/showcase_static.png)
 --- /print-only ---
 
---- collapse ---
----
-title: What you will need
----
-### Hardware
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
+<span style="color: #0faeb0">Design</span> means deciding on the way a project looks and what it does. 
+</p>
 
-+ A computer or tablet capable of running Scratch 3
-
-### Software
-
-+ Scratch 3 (either [online](https://scratch.mit.edu/){:target="_blank"} or [offline](https://scratch.mit.edu/download){:target="_blank"})
-+ Python 3
-+ This project can be completed in a web browser using [trinket.io](https://trinket.io/)
-
-### Downloads
-
-+ Download the project [starter file](http://rpf.io/p/en/projectName-go){:target="_blank"} if working offline
-
---- /collapse ---
-
---- collapse ---
----
-title: What you will learn
----
-
-+ Learning objective 1
-+ Learning objective 2
-+ Learning objective 3
-
---- /collapse ---
-
---- collapse ---
----
-title: Additional information for educators
----
-
-You can download the completed project [here](http://rpf.io/p/en/projectName-get){:target="_blank"}.
-
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/projectName/print){:target="_blank"}.
-
---- /collapse ---
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
+"User" means the person using the project (not just making it), and <span style="color: #0faeb0">User interaction</span> is how the project reacts to the user doing things such as moving the mouse and clicking on the screen. 
+</p>
