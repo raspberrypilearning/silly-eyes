@@ -40,4 +40,11 @@ Can you match your character to it's new environment?
 
 --- /task ---
 
+--- task ---
+<mark>Add instructions for full screen mode</mark>
+
+<mark>Say more about user interaction?</mark>
+
+--- /task ---
+
 --- save ---
