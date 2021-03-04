@@ -49,7 +49,7 @@ You are going to make some design decisions to create your character. Think abou
 
 ### Get inspiration 
 
-You are going to make some design decisions to create your character. Think about what kind of googly eye character you want to make: how many eyes does your character have, what backgrounds and costume accessories, what colour and graphic effects you will use. See inside example projects in [Scratch 1: Googly eye character - Examples](https://scratch.mit.edu/studios/29029028/){:target=blank} Scratch studio.
+You are going to make some design decisions to create your character. Think about what kind of googly eye character you want to make: how many eyes does your character have, what backgrounds and costume accessories, what colour and graphic effects you will use. See inside example projects in [Scratch 1: Googly eye character - Examples](https://scratch.mit.edu/studios/29029028/){:target="_blank"} Scratch studio.
 
 ![Gobo watching project for inspiration](images/gobo-watching.png)
 ![Dont eat donut project for inspiration](images/dont-eat-donut.png)
@@ -59,9 +59,10 @@ You are going to make some design decisions to create your character. Think abou
 --- /print-only ---
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-<span style="color: #0faeb0">Design</span> means deciding on the way a project looks and what it does. 
+<span style="color: #0faeb0">Design</span> means deciding on the way a project looks and making decisions about what it does. 
 </p>
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
 "User" means the person using the project (not just making it), and <span style="color: #0faeb0">User interaction</span> is how the project reacts to the user doing things such as moving the mouse and clicking on the screen. 
 </p>
+ 

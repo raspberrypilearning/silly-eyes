@@ -18,7 +18,6 @@ You don't have to choose a person or animal, you could choose an object like the
 
 [[[generic-scratch3-backdrop-from-library]]]
 
-
 --- collapse ---
 
 ---

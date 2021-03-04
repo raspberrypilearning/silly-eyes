@@ -1,5 +1,7 @@
 ## Get inspired
 
+<mark>To be removed?</mark>
+
 You are going to make some design decisions to create your character, how many eyes your character has, and what colour and graphic effects that you use.
 
 Start getting some ideas by investigating projects created by others.

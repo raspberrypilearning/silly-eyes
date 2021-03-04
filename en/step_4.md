@@ -24,7 +24,6 @@ title: Draw an eye in the Paint editor
 title: Turn a round costume into an eye
 ---
 
-
 --- /collapse ---
 
 **Tip:** To draw a perfect circle (or square), hold down the Shift key on the keyboard while you draw with the oval (or rectangle) tool.
@@ -81,12 +80,18 @@ Make sure you have added the code to the eye sprite(s) and **clicked the green f
 
 --- collapse ---
 --- 
-title: The eyes point in the wrong direction
+title: The eye(s) point away from the mouse
 ---
 
-Check that the pupil is on the right in the eye costume. The costume will rotate so that the right of the costume is closest to the mouse pointer.
+Check that the pupil is on the right ([past the blue cross in the middle) in the eye costume(s). 
 
-![An eye costume with the pupil on the right](images/eye-right.png)
+The eyeball has the `all around`{:class="block3motion"} `rotation style`{:class="block3motion"} so it can rotate in any direction. 
+
+When the eyeball rotates to `point towards`{:class="block3motion"} the `mouse pointer`{:class="block3motion"}, the pupil will be closest to the mouse pointer. 
+
+![An eye costume with the pupil on the right](images/eye-right.gif)
+
+![An eye costume with the pupil on the right](images/eye-costume.png)
 
 --- /collapse ---
 
@@ -97,16 +102,29 @@ title: The eyes jump around the Stage
 
 Check that the costume is centered. Drag the costume so that the blue cross lines up with the grey cross in the Paint editor.
 
-![An eye costume centered in the Paint editor](images/eye-centered.png)
+![An eye costume centered in the Paint editor](images/eye-centered.gif)
+
+![An eye costume centered in the Paint editor](images/eye-costume.png)
 
 --- /collapse ---
+
+If you drag your character sprite then it will go in front of the eyes.
 
 --- collapse ---
 
 --- 
-title: The eyes go behind the character sprite
+title: Keeping a sprite at the back
 ---
 
+When you drag a sprite to position it on the Stage it moves in front of the other sprites. 
+
+To get a sprite to stay at the back use:
+
+```blocks3
+when green flag clicked
+forever
+go to [back v] layer // behind all other sprites
+```
 
 --- /collapse ---
 
