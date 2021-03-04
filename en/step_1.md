@@ -11,17 +11,35 @@ You will:
 
 --- no-print ---
 --- task ---
-### Try it
+
+
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1">  
-Move the mouse around the screen and watch what happens to Gobo's eyes. If you're on a tablet, move your finger around the screen.
 
-What happens when you move the mouse (or your finger if you are on a tablet) between Gobo's eyes?
+### Try it
+Move the mouse around the screen and watch what happens to Gobo's eyes. If you're on a tablet, move your finger around the screen. What happens when you move between Gobo's eyes?
 
-</div>
+### Get inspiration 
+You are going to make some design decisions to create your character, what kind of googly eye character you want to make? how many eyes your character has, and what colour and graphic effects that you use.
+
+**Gobo watching**: [See inside](https://scratch.mit.edu/projects/495141114/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/485673032/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projectmbed/495141114/?autostart=false" frameborder="0"></iframe>
 </div>
+
+**Don't eat donut**: [See inside](https://scratch.mit.edu/projects/495865093/editor){:target="_blank"}
+<div class="scratch-preview" style="margin-left: 15px;">
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/495865093/?autostart=false" frameborder="0"></iframe>
+</div>
+
+**Under the sea**: [See inside](https://scratch.mit.edu/projects/495866460/editor){:target="_blank"}
+<div class="scratch-preview" style="margin-left: 15px;">
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/495866460/?autostart=false" frameborder="0"></iframe>
+</div>
+
+**Sporg**: [See inside](https://scratch.mit.edu/projects/495865892/editor){:target="_blank"}
+<div class="scratch-preview" style="margin-left: 15px;">
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/495865892/?autostart=false" frameborder="0"></iframe>
 </div>
 --- /task ---
 --- /no-print ---

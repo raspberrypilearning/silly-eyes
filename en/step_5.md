@@ -44,16 +44,41 @@ title: Graphic effects in action
 
 --- /collapse ---
 
---- /task ---
+**Tip**: To reset your graphics effects at any point. Click on the `clear graphic effects`{:class="block3looks"} block in the `Looks`{:class="block3looks"} Blocks menu.
 
---- task --- 
-
-Add a new script to `clear graphic effects`{:class="block3looks"} when you start your project.
-
-```blocks3
-when green flag clicked  
+```blocks3 
 clear graphic effects
 ```
+
+--- /task ---
+
+--- task ---
+Another way to change a sprite when you click on it is to change to the `next costume`{:class="block3looks"}
+
+--- collapse ---
+
+---
+title: Make a sprite change costume when clicked
+---
+
+Some sprites have a choice of costumes.
+
+You can add code to change to the `next costume`{:class="block3looks"} when you click on a sprite:
+
+```blocks3
+when this sprite clicked
+next costume
+```
+
+**Tip:** If you position a sprite on the Stage and then switch costume the sprite might appear to 'jump'. You will need to position the costumes in the Paint editor so that they all appear in the right position on the Stage. 
+
+You can also add any costume to a sprite. 
+
+Click on the Costumes tab and then 'Choose a costume' to add any costume to the sprite. 
+
+![Choose a costume menu highlighted](images/choose-a-costume.png)
+
+--- /collapse ---
 
 --- /task ---
 
