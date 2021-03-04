@@ -1,4 +1,4 @@
-## Make googly eyes
+# Make googly eyes
 
 Each eye needs to be a sprite so it can move separately.
 
@@ -16,7 +16,28 @@ It's really important that:
 title: Draw an eye in the Paint editor
 ---
 
+Select the oval tool.
+
+You need to draw a perfect circle otherwise the whole eye will wobble around (instead of it being a Googly eye). 
+
+To draw a perfect circle, press and hold the `Shift` key on the keyboard while you draw with the oval. If you are on a tablet, try and get as close to a perfect circle as possible, otherwise you can turn a round costume into an eye.
+
+This is the outline of the eye so in the example we made it black. Make sure the circle is in the centre.
+
+![centred circle](images/eyeball_circle_centre.png)
+
+Draw a smaller perfect circle and position it in the first circle.
+
+You can either change the outline colour and thickness and make the outline the iris:
+
+![two circles, the middle one with a red outline 40 thickness](images/eyeball_two_circles.png)
+
+Or, you can change the colour of your second circle and draw a third perfect circle as the pupil:
+
+![3 circles, the second one red and the third one black, the second and third positioned to the right of the centre](images/eyeball_three_circles.png)
+
 --- /collapse ---
+
 
 --- collapse ---
 
@@ -24,9 +45,15 @@ title: Draw an eye in the Paint editor
 title: Turn a round costume into an eye
 ---
 
---- /collapse ---
+There are costumes in Scratch that can be edited to make googly eyes for your character. Examples of these are 'Ball' and 'Button1' though there are many others you can choose from.
 
-**Tip:** To draw a perfect circle (or square), hold down the Shift key on the keyboard while you draw with the oval (or rectangle) tool.
+Use the Paint editor to add circles, change fill colours or remove parts of the costume to turn it into a googly eye. The collapse above tells you how to do this in more detail.
+
+![Existing Scratch costumes as eyes](images/costume-eyes.gif)
+
+![Paint editor with edited button1 sprite](images/button-eye.png)
+
+--- /collapse ---
 
 --- /task ---
 
@@ -45,7 +72,7 @@ end
 --- /task ---
 
 --- task ---
-Drag the eye into position on the Stage and change its size tofit your character.15px
+Drag the eye into position on the Stage and change its size to fit your character.
 
 --- /task ---
 

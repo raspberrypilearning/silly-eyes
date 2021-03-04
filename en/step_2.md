@@ -1,4 +1,4 @@
-## Get inspired
+# Get inspired
 
 <mark>To be removed?</mark>
 

@@ -1,4 +1,4 @@
-## Introduction
+# Introduction
 
 You will design and create a googly eye character. Googly eyes are silly large eyes, yours will follow the mouse to bring your character to life.
 
@@ -15,7 +15,7 @@ You will:
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1">  
 
-### Try it 
+## Try it 
 
 Try out these projects by moving the mouse around the screen and watch what happens to each character's eyes. If you're on a tablet, move your finger around the screen. What happens when you move between the character's eyes? Try clicking on the eyes, characters and backdrops to customise the scene.
 
