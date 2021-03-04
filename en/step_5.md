@@ -62,3 +62,5 @@ clear graphic effects
 **Test** Work on your sprites until they interact in the way that you want. Try one change at a time and test what it does so you can easily spot the change and undo anything you do not like.  
 
 --- /task ---
+
+--- save ---

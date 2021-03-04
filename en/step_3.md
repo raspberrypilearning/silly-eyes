@@ -31,6 +31,8 @@ Don't add the eyes, they need to be separate sprites.
 
 --- /collapse ---
 
+--- /task ---
+
 At the moment your character will be much smaller than the characters in our example projects. You can make your character bigger so that they fill more of the screen.
 
 --- task ---
@@ -38,8 +40,6 @@ At the moment your character will be much smaller than the characters in our exa
 From the Sprite pane change the number in the **Size** property to a number of your choice. 
 
 ![The size property in the Sprite pane](images/size-property.png)
-
---- /task ---
 
 --- /task ---
 
@@ -52,3 +52,5 @@ Your character can live anywhere you like. You can **choose** a backdrop that is
 [[[generic-scratch3-backdrop-from-library]]]
 
 --- /task ---
+
+--- save ---
