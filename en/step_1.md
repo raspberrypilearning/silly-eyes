@@ -12,20 +12,21 @@ You will:
 --- no-print ---
 --- task ---
 
-
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1">  
 
-### Try it
-Move the mouse around the screen and watch what happens to Gobo's eyes. If you're on a tablet, move your finger around the screen. What happens when you move between Gobo's eyes?
+### Try it 
 
-### Get inspiration 
-You are going to make some design decisions to create your character, what kind of googly eye character you want to make? how many eyes your character has, and what colour and graphic effects that you use.
+Try out these projects by moving the mouse around the screen and watch what happens to each character's eyes. If you're on a tablet, move your finger around the screen. What happens when you move between the character's eyes? Try clicking on the eyes, characters and backdrops to customise the scene.
 
 **Gobo watching**: [See inside](https://scratch.mit.edu/projects/495141114/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/495141114/?autostart=false" frameborder="0"></iframe>
 </div>
+
+### Get inspiration 
+
+You are going to make some design decisions to create your character. Think about what kind of googly eye character you want to make: how many eyes does your character have, what backgrounds and costume accessories, what colour and graphic effects you will use.  
 
 **Don't eat donut**: [See inside](https://scratch.mit.edu/projects/495865093/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
@@ -45,7 +46,16 @@ You are going to make some design decisions to create your character, what kind 
 --- /no-print ---
 
 --- print-only ---
-![Complete project](images/showcase_static.png)
+
+### Get inspiration 
+
+You are going to make some design decisions to create your character. Think about what kind of googly eye character you want to make: how many eyes does your character have, what backgrounds and costume accessories, what colour and graphic effects you will use. See inside example projects in [Scratch 1: Googly eye character - Examples](https://scratch.mit.edu/studios/29029028/){:target=blank} Scratch studio.
+
+![Gobo watching project for inspiration](images/gobo-watching.png)
+![Dont eat donut project for inspiration](images/dont-eat-donut.png)
+![Under the sea project for inspiration](images/under-the-sea.png)
+![Sporg project for inspiration](images/sporg.png)
+
 --- /print-only ---
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
