@@ -86,6 +86,7 @@ end
 --- /task ---
 
 --- task ---
+
 Drag the eye into position on the Stage and change its size to fit your character.
 
 --- /task ---
@@ -93,6 +94,7 @@ Drag the eye into position on the Stage and change its size to fit your characte
 If your character is a cyclops then you are done. 
 
 --- task ---
+
 Otherwise, right-click (or tap and hold on a tablet) on the sprite in the Sprite list and choose 'duplicate' to create more eyes.
 
 [[[scratch3-duplicate-sprite]]]
@@ -168,5 +170,7 @@ go to [back v] layer // behind all other sprites
 ```
 
 --- /collapse ---
+
+--- /task ---
 
 --- save ---
