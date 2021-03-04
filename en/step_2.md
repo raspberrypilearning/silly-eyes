@@ -1,38 +1,74 @@
-# Get inspired
+## Your character
 
-<mark>To be removed?</mark>
-
-You are going to make some design decisions to create your character, how many eyes your character has, and what colour and graphic effects that you use.
-
-Start getting some ideas by investigating projects created by others.
+Have you got an idea about your own character? Now you can make it!
 
 --- task ---
 
-Try out these projects by moving the mouse around the Stage. 
+Open a [new Scratch project](https://scratch.mit.edu/projects/editor){:target=”_blank”} to look at the range of sprites and backdrops. Take five minutes to think about your character.
 
-Try clicking on the eyes, characters and backdrops to customise the scene.
+What is your character's personality? How about their mood or background story? 
 
-Think about what kind of googly eye character you want to make. 
-
-**Gobo watching**: [See inside](https://scratch.mit.edu/projects/485673032/editor){:target="_blank"}
-<div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projectmbed/485673032/?autostart=false" frameborder="0"></iframe>
-</div>
-
-**Don't eat donut**: [See inside](https://scratch.mit.edu/projects/495865093/editor){:target="_blank"}
-<div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/495865093/?autostart=false" frameborder="0"></iframe>
-</div>
-
-**Under the sea**: [See inside](https://scratch.mit.edu/projects/495866460/editor){:target="_blank"}
-<div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/495866460/?autostart=false" frameborder="0"></iframe>
-</div>
-
-**Sporg**: [See inside](https://scratch.mit.edu/projects/495865892/editor){:target="_blank"}
-<div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/495865892/?autostart=false" frameborder="0"></iframe>
-</div>
+If you're not sure then you could get Scratch to add a 'Surprise' sprite.
 
 --- /task ---
 
+--- task ---
+
+Choose a sprite **or** create your own simple sprite in the Paint editor.
+
+You don't have to choose a person or animal, you could choose an object like the donut.
+
+[[[generic-scratch3-sprite-from-library]]]
+
+--- collapse ---
+
+---
+title: Paint your own character
+---
+
+You can create a character from shapes using the rectangle and oval tools. 
+
+Don't add the eyes, they need to be separate sprites.
+
+![Pig costume created using the paint editor](images/pig-costume.png)
+
+--- /collapse ---
+
+--- collapse ---
+
+---
+title: Get a surprise sprite
+---
+
+Not sure which sprite to choose? Click on 'Choose a sprite' and then choose the 'Surprise' option. 
+
+This will add a surprise sprite to your project.
+
+![Surprise sprite option highlighted](images/surprise-sprite.png)
+
+
+--- /collapse ---
+
+--- /task ---
+
+At the moment your character will be much smaller than the characters in our example projects. You can make your character bigger so that they fill more of the screen.
+
+--- task ---
+
+From the Sprite pane change the number in the **Size** property to a number of your choice. 
+
+![The size property in the Sprite pane](images/size-property.png)
+
+--- /task ---
+
+Where do you want your character to live? 
+
+--- task ---
+
+Your character can live anywhere you like. You can **choose** a backdrop that is sensible or silly. 
+
+[[[generic-scratch3-backdrop-from-library]]]
+
+--- /task ---
+
+--- save ---

@@ -1,25 +1,22 @@
-# Share
+## What next?
 
-If you are in a club, why not share your project with friends and peers?
+If you are following the [Scratch 1](https://projects.raspberrypi.org/en/raspberrypi/scratch-1) pathway, you can move on to the [Surprise! story](https://projects.raspberrypi.org/en/projects/surprise-story) project. In this project, you will make a story animation with a surprise.
 
-You could also show your family how your project works.
+--- print-only ---
 
-If you have a Scratch account, you can share your project through Scratch. You can send a link to people you know, and the whole Scratch community will be able to find your project and try it out.
+![Surprise! story](images/surprise-story.png)
 
-[[[share-scratch]]]
+--- /print-only ---
 
-Why not invite your friends to create a project? Let them know how you had fun.
+--- no-print ---
 
-If you have a Scratch account, and have shared your googly eye project, keep an eye out for comments that others may make about your creation. Feedback is a great way to reflect on your work. Ignore any comments that are unhelpful or irrelevant.
+Click the green flag to watch the story:
 
-[[[comments-feedback-scratch]]]
+<div class="scratch-preview" style="margin-left: 15px;">
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/495932563/?autostart=false" frameborder="0"></iframe>
+</div>
 
---- task ---
+--- /no-print ---
 
-Inspire the Raspberry Pi Foundation community with your project!
+If you want to have more fun exploring Scratch, then you could try out any of [these projects](https://projects.raspberrypi.org/en/projects?software%5B%5D=scratch&curriculum%5B%5D=%201).
 
-We regularly share projects made by the community in our challenges. To submit your Googly eye character project, please complete [this form](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}.
-
-Remember to revisit the challenges to get inspired by other creators and, who knows, one of the projects shared might be yours!
-
---- /task ---

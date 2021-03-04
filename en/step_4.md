@@ -1,160 +1,133 @@
-# Make googly eyes
+## Sprite effects
 
-Each eye needs to be a sprite so it can move separately.
+You can make your character sprite and googly eye sprites change their `Looks`{:class="block3looks"} when you click on them. 
+
+## Googly eye effects
+
+What code blocks would you use to change your sprite's eye colour when you click on them?
 
 --- task ---
 
-You will create an eye costume in the Paint editor. You can either draw your eye or start from a round sprite.
-
-It's really important that:
-- the costume has the pupil facing to the right
-- the eyeball costume is centered
+Add a `when this sprite clicked`{:class="block3events"} block to your sprite. Can you work out what code block you would put underneath?
 
 --- collapse ---
 
 ---
-title: Draw an eye in the Paint editor
+title: Change graphic effects when clicked
 ---
-
-Select the oval tool.
-
-You need to draw a perfect circle otherwise the whole eye will wobble around (instead of it being a Googly eye). 
-
-To draw a perfect circle, press and hold the `Shift` key on the keyboard while you draw with the oval. If you are on a tablet, try and get as close to a perfect circle as possible, otherwise you can turn a round costume into an eye.
-
-This is the outline of the eye so in the example we made it black. Make sure the circle is in the centre.
-
-![centred circle](images/eyeball_circle_centre.png)
-
-Draw a smaller perfect circle and position it in the first circle.
-
-You can either change the outline colour and thickness and make the outline the iris:
-
-![two circles, the middle one with a red outline 40 thickness](images/eyeball_two_circles.png)
-
-Or, you can change the colour of your second circle and draw a third perfect circle as the pupil:
-
-![3 circles, the second one red and the third one black, the second and third positioned to the right of the centre](images/eyeball_three_circles.png)
-
---- /collapse ---
-
-
---- collapse ---
-
----
-title: Turn a round costume into an eye
----
-
-There are costumes in Scratch that can be edited to make googly eyes for your character. Examples of these are 'Ball' and 'Button1' though there are many others you can choose from.
-
-Use the Paint editor to add circles, change fill colours or remove parts of the costume to turn it into a googly eye. The collapse above tells you how to do this in more detail.
-
-![Existing Scratch costumes as eyes](images/costume-eyes.gif)
-
-![Paint editor with edited button1 sprite](images/button-eye.png)
-
---- /collapse ---
-
---- /task ---
-
---- task ---
-
-Add code to make the eye point towards the mouse pointer:
 
 ```blocks3
-when flag clicked
-set rotation style [all around v]
-forever
-point towards (mouse-pointer v)
-end
-```
-
---- /task ---
-
---- task ---
-Drag the eye into position on the Stage and change its size to fit your character.
-
---- /task ---
-
---- task ---
-If your character is a cyclops then you are done. 
-
-Otherwise, you can right-click on the sprite in the Sprite list and choose 'duplicate' to create more eyes.
-
-[[[scratch3-duplicate-sprite]]]
-
---- /task ---
-
---- task ---
-
-**Test:** Click the green flag and try your project out, do the googly eyes follow you as you move the mouse around?
-
-**Tip:** You don't have to keep the mouse pointer on the Stage. The eyes will follow you as you carry on coding in Scratch.
-
---- /task ---
-
---- task ---
-**Debug:** 
-
---- collapse ---
---- 
-title: The eyes don't move
----
-
-Make sure you have added the code to the eye sprite(s) and **clicked the green flag**. Your code won't run until you click the green flag.
-
---- /collapse ---
-
---- collapse ---
---- 
-title: The eye(s) point away from the mouse
----
-
-Check that the pupil is on the right ([past the blue cross in the middle) in the eye costume(s). 
-
-The eyeball has the `all around`{:class="block3motion"} `rotation style`{:class="block3motion"} so it can rotate in any direction. 
-
-When the eyeball rotates to `point towards`{:class="block3motion"} the `mouse pointer`{:class="block3motion"}, the pupil will be closest to the mouse pointer. 
-
-![An eye costume with the pupil on the right](images/eye-right.gif)
-
-![An eye costume with the pupil on the right](images/eye-costume.png)
-
---- /collapse ---
-
---- collapse ---
---- 
-title: The eyes jump around the Stage
----
-
-Check that the costume is centered. Drag the costume so that the blue cross lines up with the grey cross in the Paint editor.
-
-![An eye costume centered in the Paint editor](images/eye-centered.gif)
-
-![An eye costume centered in the Paint editor](images/eye-costume.png)
-
---- /collapse ---
-
-If you drag your character sprite then it will go in front of the eyes.
-
---- collapse ---
-
---- 
-title: Keeping a sprite at the back
----
-
-When you drag a sprite to position it on the Stage it moves in front of the other sprites. 
-
-To get a sprite to stay at the back use:
-
-```blocks3
-when green flag clicked
-forever
-go to [back v] layer // behind all other sprites
+when this sprite clicked  
+change [color v] effect by (25)
 ```
 
 --- /collapse ---
+
+--- /task ---
+
+What else do you want to do to change the graphic effects of the eyes?
+
+--- task ---
+
+**Choose** what other effect you want to use by selecting it from the drop-down box in the `change color effect`{:class="block3looks"} code block. Experiment with the numbers until you have the change you like.   
+
+--- collapse ---
+---
+title: Graphic effects in action
+---
+**Rooster effects**: [See inside](https://scratch.mit.edu/projects/435730522/editor){:target="_blank"}
+
+<div class="scratch-preview">
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/435730522/?autostart=false" frameborder="0"></iframe>
+</div>
+
++`color`{:class="block3looks"}: From 0 to 199 (bigger numbers will wrap around, so 200 is the same as 0)
++`fisheye`{:class="block3looks"}: 0 is no effect, bigger numbers give a bigger ‘bulge’ effect
++`whirl`{:class="block3looks"}: 0 is no effect, big number gives a big whirl to the left, big negative number gives a big whirl to the right
++`pixelate`{:class="block3looks"}: 0 is no effect, bigger numbers create more pixels
++`mosaic`{:class="block3looks"}: 0 is no effect, bigger numbers create more copies
++`brightness`{:class="block3looks"}: 0 is no effect, bigger numbers up to 100 make the sprite lighter, and negative numbers down to -100 make the sprite darker
++`ghost`{:class="block3looks"}: 0 is no effect, bigger numbers up to 100 make the sprite more transparent
+
+**Tip:** A colour effect of 225 is the same as a colour effect of 25 so you can keep changing the colour. For other effects nothing will happen after you reach the maximum number for the effect. You can click on `clear graphic effects`{:class="block3looks"} in the `Looks`{:class="block3looks"} Blocks menu or click on the green flag to start again.
+
+--- /collapse ---
+
+--- /task ---
+
+**Tip**: To reset your graphics effects at any point, click on the `clear graphic effects`{:class="block3looks"} block in the `Looks`{:class="block3looks"} Blocks menu. Clicking the green flag also clears graphic effects.
+
+```blocks3 
+clear graphic effects
+```
+
+## Character effects
+
+You can also make your character sprite change colour or add other graphic effects, when you click on it. 
+
+--- task ---
+
+Add graphic effects to your character like you did with the Googly eyes
+
+--- /task ---
+
+Now add an accessory that changes when you click on it using the `next costume`{:class="block3looks"} block. This is how we got Gobo's hat to change.
+
+--- task ---
+
+Add an accessory or costume changeof your choicee.
+
+--- collapse ---
+
+---
+title: Make a sprite change costume when clicked
+---
+
+** Gobo with costume accessories **: [See inside](https://scratch.mit.edu/projects/496334057/editor){:target="_blank"}
+<div class="scratch-preview">
+<iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/496334057/?autostart=false" frameborder="0"></iframe>
+</div>
+
+Some sprites already have a choice of costumes.
+
+To change the costumes, add code to change to the `next costume`{:class="block3looks"} when you click on a sprite:
+
+```blocks3
+when this sprite clicked
+next costume
+```
+
+--- /collapse ---
+
+
+If your sprite doesn't have a choice of costumes, or you want to add more, you can add any costume to a sprite.
+
+--- collapse ---
+
+---
+title: Add costumes to a sprite
+---
+
+Click on the Costumes tab and then 'Choose a costume' to add any costume to the sprite. 
+
+![Choose a costume menu highlighted](images/choose-a-costume.png)
+
+You will need to position and resize the added costumes in the Paint editor to match your other costumes.
+
+
+**Tip:** If you position a sprite on the Stage and then switch costume the sprite might appear to 'jump' or change size. You will need to position and resize the costumes in the **Paint editor** so that they all appear in the right position on the Stage. 
+
+
+--- /collapse ---
+
+
+--- /task ---
+
+--- task ---
+
+**Test** Work on your sprites until they interact in the way that you want. Try one change at a time and test what it does so you can easily spot the change and undo anything you do not like.  
 
 --- /task ---
 
 --- save ---
+
