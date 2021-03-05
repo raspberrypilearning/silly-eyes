@@ -3,26 +3,42 @@
 legend: Question 3 of 3
 ---
 
-<span style="color: #0faeb0">User interaction</span> is how the project reacts to the user. Which of these scripts allows user interaction after the green flag is clicked?
+<span style="color: #0faeb0">User interaction</span> is how the project reacts to the user. Which of these scripts allows user interaction after the program is running?
 
 --- choices ---
 
-- ( ) Say hello for 2 seconds
+- ( ) `say hello for 2 seconds`{:class="block3looks"}
+```blocks3
+when flag clicked
+say hello for (2) seconds
+```
 
  --- feedback ---
 ,
  --- /feedback ---
-- ( ) clear graphic effects
+- ( ) `clear graphic effects`{:class="block3looks"}
+```blocks3
+when timer > 10
+clear graphic effects
+```
 
  --- feedback ---
 ,
  --- /feedback ---
-- ( ) Change backdrop
+- ( ) 
+```blocks3
+when backdrop switches to backdrop1
+show
+```
 
  --- feedback ---
 ,
  --- /feedback ---
-- (x) Click on sprite to change colour
+- (x) 
+```blocks3
+when this sprite clicked
+change colour effect by 25
+```
 
  --- feedback ---
 ,

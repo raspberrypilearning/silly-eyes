@@ -19,7 +19,7 @@ set rotation style [all around v]
 forever
 point towards [mouse-pointer v]
 ```
-Which of these  actions make the eyeball rotate?
+Which of these actions make the eyeball rotate?
 
 --- choices ---
 
@@ -46,6 +46,6 @@ If you put `set rotation style` inside the forever loop, nothing will change.
  --- feedback ---
 You don't need to click on the Stage to get the eyeball to rotate. It should just follow the mouse or your finger. 
  --- /feedback ---
- 
+
 --- /choices ---
 --- /question ---
