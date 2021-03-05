@@ -28,7 +28,7 @@ Right is the default position for correctly pointing towards your mouse pointer 
 - ( ) ![rocket facing up](images/rocket_up.png)
 
  --- feedback ---
-If the rocket is facing down, it will be facing a different direction from the mouse pointer when it rotates.
+If the rocket is facing up, it will be facing a different direction from the mouse pointer when it rotates.
  --- /feedback ---
 --- /choices ---
 --- /question ---
