@@ -1,29 +1,28 @@
-,
 
 ---
 legend: Question 2 of 3
 ---
 
-Question
+Which rocket costume is pointing in the right direction to correctly look towards the mouse pointer with rotation style set to all around?
 
 --- choices ---
 
-- ( ) Answer.
+- ( ) [image with rocket to the left]
 
  --- feedback ---
 ,
  --- /feedback ---
-- ( ) Answer.
+- ( ) [image with the rocket facing down]
 
  --- feedback ---
 ,
  --- /feedback ---
-- (x) Correct answer.
+- (x) [image with rocket pointing to the right]
 
  --- feedback ---
 ,
  --- /feedback ---
-- ( ) Answer.
+- ( ) [image with rocket facing up]
 
  --- feedback ---
 ,

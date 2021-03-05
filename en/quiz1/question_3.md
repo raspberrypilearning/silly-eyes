@@ -1,29 +1,28 @@
-,
 
 ---
 legend: Question 3 of 3
 ---
 
-Question
+<span style="color: #0faeb0">User interaction</span> is how the project reacts to the user. Which of these scripts allows user interaction after the green flag is clicked?
 
 --- choices ---
 
-- ( ) Answer.
+- ( ) Say hello for 2 seconds
 
  --- feedback ---
 ,
  --- /feedback ---
-- ( ) Answer.
+- ( ) clear graphic effects
 
  --- feedback ---
 ,
  --- /feedback ---
-- (x) Correct answer.
+- ( ) Change backdrop
 
  --- feedback ---
 ,
  --- /feedback ---
-- ( ) Answer.
+- (x) Click on sprite to change colour
 
  --- feedback ---
 ,
