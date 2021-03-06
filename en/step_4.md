@@ -63,7 +63,7 @@ clear graphic effects
 
 ## Character effects
 
-You can also make your character sprite change colour or add other graphic effects, when you click on it. 
+If you want to, you can also make your character sprite change colour or add other graphic effects, when you click on it. 
 
 --- task ---
 
@@ -75,7 +75,7 @@ Now add an accessory that changes when you click on it using the `next costume`{
 
 --- task ---
 
-Add an accessory or costume changeof your choicee.
+Add an accessory or costume change of your choicee.
 
 --- collapse ---
 

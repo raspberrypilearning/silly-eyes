@@ -69,7 +69,7 @@ Add a script to `set the rotation style`{:class="block3motion"} to make the eye 
 --- collapse ---
 
 ---
-title: Make a sprite point towards another sprite
+title: Make a sprite point towards the mouse pointer
 ---
 
 ```blocks3
@@ -126,7 +126,7 @@ Make sure you have added the code to the eye sprite(s) and **clicked the green f
 title: The eye(s) point away from the mouse
 ---
 
-Check that the pupil is on the right ([past the blue cross in the middle) in the eye costume(s). 
+Check that the pupil is on the right (past the blue cross in the middle) in the eye costume(s). 
 
 The eyeball has the `all around`{:class="block3motion"} `rotation style`{:class="block3motion"} so it can rotate in any direction. 
 

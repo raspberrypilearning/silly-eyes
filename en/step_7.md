@@ -6,6 +6,7 @@ Here are some ideas you could try:
 - Add more body parts
 - Add more sprites with googly eyes
 - Add more backdrops
+- Add more accessories, or add more costumes to your accessories
 - Try different graphic effects
 
 The Sporg character also has arms that `point towards`{:class="block3motion"} the mouse pointer.
