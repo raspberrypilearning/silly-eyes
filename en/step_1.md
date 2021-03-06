@@ -1,6 +1,6 @@
 ## Introduction
 
-You will design and create a googly eye character. Googly eyes are silly large eyes, yours will follow the mouse to bring your character to life.
+You will design and create a googly eye character. Googly eyes are silly large eyes, yours will follow the mouse pointer to bring your character to life.
 
 You will decide how many eyes your character has and make decisions about the colour and graphic effects that you use. 
 
@@ -10,23 +10,39 @@ You will:
 + Learn about design in digital making 
 
 --- no-print ---
+
 --- task ---
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1">  
-
 ### Try it 
 
-Try out these projects by moving the mouse around the screen and watch what happens to each character's eyes. If you're on a tablet, move your finger around the screen. What happens when you move between the character's eyes? Try clicking on the eyes, characters and backdrops to customise the scene.
+Move the mouse around the screen and watch what happens to Gobo's eyes. If you're on a tablet, move your finger around the screen.
 
+What happens when you move between the Gobo's eyes? Try clicking on the eyes, Gobo, the hat and the backdrop to customise the scene.
+
+</div>
+<div>
 **Gobo watching**: [See inside](https://scratch.mit.edu/projects/495141114/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/495141114/?autostart=false" frameborder="0"></iframe>
 </div>
 
+</div>
+
+--- /task ---
+
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
+<span style="color: #0faeb0">Design</span> means deciding on the way a project looks and making decisions about what it does. 
+</p>
+
 ### Get inspiration 
 
+--- task ---
+
 You are going to make some design decisions to create your character. Think about what kind of googly eye character you want to make: how many eyes does your character have, what backgrounds and costume accessories, what colour and graphic effects you will use.  
+
+Explore these example projects to get more ideas:
 
 **Don't eat donut**: [See inside](https://scratch.mit.edu/projects/495865093/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
@@ -47,6 +63,10 @@ You are going to make some design decisions to create your character. Think abou
 
 --- print-only ---
 
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
+<span style="color: #0faeb0">Design</span> means deciding on the way a project looks and making decisions about what it does. 
+</p>
+
 ### Get inspiration 
 
 You are going to make some design decisions to create your character. Think about what kind of googly eye character you want to make: how many eyes does your character have, what backgrounds and costume accessories, what colour and graphic effects you will use. See inside example projects in [Scratch 1: Googly eye character - Examples](https://scratch.mit.edu/studios/29029028/){:target="_blank"} Scratch studio.
@@ -57,10 +77,6 @@ You are going to make some design decisions to create your character. Think abou
 ![Sporg project for inspiration](images/sporg.png)
 
 --- /print-only ---
-
-<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-<span style="color: #0faeb0">Design</span> means deciding on the way a project looks and making decisions about what it does. 
-</p>
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
 "User" means the person using the project (not just making it), and <span style="color: #0faeb0">User interaction</span> is how the project reacts to the user doing things such as moving the mouse and clicking on the screen. 
