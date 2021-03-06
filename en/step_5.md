@@ -46,7 +46,7 @@ Can you match your character to it's new environment?
 --- collapse ---
 
 ---
-title: Run Scratch project in fullscreen
+title: Run a Scratch project in fullscreen
 ---
 
 To run your project in fullscreen in Scratch, find the button with four arrown pointing outwards.
@@ -57,10 +57,10 @@ To go back to the regular view, click the same button again.
 
 --- /collapse ---
 
-<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-It is important to think about **user interaction** when you are doing digital making. Here, by making your project full screen, you are trying to see what you have made from the perspective of someone playing your game.
-</p>
-
 --- /task ---
+
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
+It is important to think about **user interaction** when you are doing digital making. By making your project full screen, you are seeing what you have made from the perspective of a user who is playing with your project.
+</p>
 
 --- save ---
