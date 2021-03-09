@@ -4,7 +4,7 @@ Have you got an idea about your own character? Now you can make it!
 
 --- task ---
 
-Open a [new Scratch project](https://scratch.mit.edu/projects/editor){:target=”_blank”} to look at the range of sprites and backdrops. Take five minutes to think about your character.
+Open a [new Scratch project](https://scratch.mit.edu/projects/editor){:target=”_blank”} to look at the range of sprites and backdrops. Take some time to think about your character.
 
 What is your character's personality? How about their mood or background story? 
 
