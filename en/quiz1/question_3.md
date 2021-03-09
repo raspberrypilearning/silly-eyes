@@ -16,7 +16,7 @@ clear graphic effects
 ```
 
  --- feedback ---
-,
+The graphic effects are cleared after the timer reaches 10. The user doesn't have to do anything so there is no user interaction.
  --- /feedback ---
 - ( ) 
 ```blocks3
@@ -25,7 +25,7 @@ say hello for (2) seconds
 ```
 
  --- feedback ---
-,
+The sprite says hello after the backdrop switches. The user doesn't have to do anything so there is no user interaction.
  --- /feedback ---
 - (x) 
 ```blocks3
@@ -34,7 +34,7 @@ change colour effect by 25
 ```
 
  --- feedback ---
-,
+The user has to click the sprite to change the colour. This is user interaction.
  --- /feedback ---
  
  
