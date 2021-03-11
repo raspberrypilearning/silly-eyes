@@ -3,6 +3,7 @@
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
 You can also make the project do something when you click on the Stage.
+</div>
 <div>
 ![Stage with graphic effects](images/stage-effects.png)  
 </div>
