@@ -5,7 +5,7 @@
 Each eye needs to be a sprite so it can move separately.
 </div>
 <div>
-![Large character ready for googly eyes](images/character.png)  
+![Character with googly eyes](images/character-with-eyes.png)  
 </div>
 </div>
 
