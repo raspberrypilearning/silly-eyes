@@ -1,6 +1,13 @@
 ## Your character
 
+<div style="display: flex; flex-wrap: wrap">
+<div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
 Have you got an idea about your own character? Now you can make it!
+</div>
+<div>
+![Large character ready for googly eyes](images/character.png)  
+</div>
+</div>
 
 --- task ---
 
