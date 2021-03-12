@@ -5,7 +5,7 @@
 You can make your character sprite and googly eye sprites change their `Looks`{:class="block3looks"} when you click on them. 
 </div>
 <div>
-![Character and eyes with graphic effects](images/character-graphic-effects.png)  
+![Character and eyes with graphic effects](images/character-graphic-effects.png){:width="300px"}  
 </div>
 </div>
 
@@ -103,7 +103,6 @@ You will need to position and resize the added costumes in the Paint editor to m
 
 
 **Tip:** If you position a sprite on the Stage and then switch costume the sprite might appear to 'jump' or change size. You will need to position and resize the costumes in the **Paint editor** so that they all appear in the right position on the Stage. 
-
 
 --- /collapse ---
 
