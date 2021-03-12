@@ -12,7 +12,7 @@ Which of these scripts allows user interaction after the program has started?
 
 - ( ) 
 ```blocks3
-when timer > 10
+when [timer v] > (10)
 clear graphic effects
 ```
 
@@ -22,7 +22,7 @@ The graphic effects are cleared after the timer reaches 10. The user doesn't hav
 - ( ) 
 ```blocks3
 when backdrop switches to [forest v]
-say hello for (2) seconds
+say [hello] for (2) secs
 ```
 
   --- feedback ---
@@ -31,7 +31,7 @@ The sprite says hello after the backdrop switches. The user doesn't have to do a
 - (x) 
 ```blocks3
 when this sprite clicked
-change colour effect by 25
+change [colour v] effect by (25)
 ```
 
   --- feedback ---
