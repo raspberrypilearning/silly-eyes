@@ -5,11 +5,11 @@
 You can make your character sprite and googly eye sprites change their `Looks`{:class="block3looks"} when you click on them. 
 </div>
 <div>
-![Character and eyes with graphic effects](images/graphic-effects.png)  
+![Character and eyes with graphic effects](images/character-graphic-effects.png)  
 </div>
 </div>
 
-## Googly eye effects
+### Googly eye effects
 
 What code blocks would you use to change your sprite's eye colour when you click on them?
 
@@ -38,27 +38,7 @@ What else do you want to do to change the graphic effects of the eyes?
 
 **Choose** what other effect you want to use by selecting it from the drop-down box in the `change color effect`{:class="block3looks"} code block. Experiment with the numbers until you have the change you like.   
 
---- collapse ---
----
-title: Graphic effects in action
----
-**Rooster effects**: [See inside](https://scratch.mit.edu/projects/435730522/editor){:target="_blank"}
-
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/435730522/?autostart=false" frameborder="0"></iframe>
-</div>
-
-+`color`{:class="block3looks"}: From 0 to 199 (bigger numbers will wrap around, so 200 is the same as 0)
-+`fisheye`{:class="block3looks"}: 0 is no effect, bigger numbers give a bigger ‘bulge’ effect
-+`whirl`{:class="block3looks"}: 0 is no effect, big number gives a big whirl to the left, big negative number gives a big whirl to the right
-+`pixelate`{:class="block3looks"}: 0 is no effect, bigger numbers create more pixels
-+`mosaic`{:class="block3looks"}: 0 is no effect, bigger numbers create more copies
-+`brightness`{:class="block3looks"}: 0 is no effect, bigger numbers up to 100 make the sprite lighter, and negative numbers down to -100 make the sprite darker
-+`ghost`{:class="block3looks"}: 0 is no effect, bigger numbers up to 100 make the sprite more transparent
-
-**Tip:** A colour effect of 225 is the same as a colour effect of 25 so you can keep changing the colour. For other effects nothing will happen after you reach the maximum number for the effect. You can click on `clear graphic effects`{:class="block3looks"} in the `Looks`{:class="block3looks"} Blocks menu or click on the green flag to start again.
-
---- /collapse ---
+[[[scratch3-graphic-effects]]]
 
 --- /task ---
 
@@ -68,7 +48,7 @@ title: Graphic effects in action
 clear graphic effects
 ```
 
-## Character effects
+### Character effects
 
 If you want to, you can also make your character sprite change colour or add other graphic effects, when you click on it. 
 

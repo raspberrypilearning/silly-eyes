@@ -1,4 +1,4 @@
-## Backdrop effects
+## Stage effects
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
@@ -11,12 +11,10 @@ You can also make the project do something when you click on the Stage.
 
 --- task ---
 
-<mark>Should we talk about changing the effects for the Stage rather than the backdrop?</mark>
-
 --- collapse ---
 
 ---
-title: Change backdrop effects when Stage clicked
+title: Change graphic effects when Stage clicked
 ---
 
 ```blocks3
@@ -25,7 +23,6 @@ change [color v] effect by [25]
 ```
 
 --- /collapse ---
-
 
 --- collapse ---
 
