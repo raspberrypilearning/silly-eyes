@@ -18,15 +18,6 @@ We added this code to an eyeball sprite but the eyeball is not rotating.
 
 ![Screenshot showing the script and Stage](images/code-not-running.png)
 
-<mark>Replace code with screenshot showing that the code is not running (not highlighted in yellow).</mark>
-
-```blocks3
-when flag clicked
-set rotation style [all around v]
-forever
-point towards [mouse-pointer v]
-```
-
 How could you fix the problem with just one action?
 
 --- choices ---
