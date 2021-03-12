@@ -10,7 +10,7 @@ If you are following the [Scratch 1](https://projects.raspberrypi.org/en/raspber
 
 --- no-print ---
 
-Click the green flag to watch the story:
+Click the green flag to watch the animation:
 
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/495932563/?autostart=false" frameborder="0"></iframe>
