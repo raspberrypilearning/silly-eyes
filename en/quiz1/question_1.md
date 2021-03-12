@@ -41,7 +41,7 @@ Forgetting to click the green flag is a really common mistake, we all do it!
 The script does not start with a `when this sprite clicked`{:class="block3events"} block.
   --- /feedback ---
 
-- ( ) Move `set rotation style`{:class="block3looks"}  inside the forever loop.
+- ( ) Move the 'set rotation style' inside the 'forever' loop.
 
   --- feedback ---
 You don't need to run the `set rotation style`{:class="block3looks"} lots of times. Just setting it once before the loop changes it until you set it to a different style. Moving the `set rotation style`{:class="block3looks"} block won't help with this problem.
