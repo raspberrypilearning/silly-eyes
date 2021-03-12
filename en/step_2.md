@@ -27,19 +27,11 @@ You don't have to choose a person or animal, you could choose an object like the
 
 [[[generic-scratch3-sprite-from-library]]]
 
---- collapse ---
-
----
-title: Paint your own character
----
-
-You can create a character from shapes using the rectangle and oval tools. 
-
-Don't add the eyes, they need to be separate sprites.
+If you paint your own sprite **don't add eyes yet because they need to be separate sprites.**
 
 ![Pig costume created using the paint editor](images/pig-costume.png)
 
---- /collapse ---
+[[[scratch3-backdrops-and-sprites-using-shapes]]]
 
 --- collapse ---
 
