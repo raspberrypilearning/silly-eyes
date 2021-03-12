@@ -18,8 +18,6 @@ If you have a Scratch account, and have shared your googly eye project, keep an 
 
 Inspire the Raspberry Pi Foundation community with your project!
 
-We regularly share projects made by the community in our challenges. To submit your Googly eye character project, please complete [this form](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}.
-
-Remember to revisit the challenges to get inspired by other creators and, who knows, one of the projects shared might be yours!
+To submit your project to our Googly eye character Scratch studio, please complete [this form](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}.
 
 --- /task ---
