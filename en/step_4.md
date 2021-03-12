@@ -6,6 +6,7 @@ You can make your character sprite and googly eye sprites change their `Looks`{:
 </div>
 <div>
 ![Character and eyes with graphic effects](images/character-graphic-effects.png){:width="300px"}  
+![Character and eyes with graphic effects](images/character-graphic-effects-say.png){:width="300px"}  
 </div>
 </div>
 

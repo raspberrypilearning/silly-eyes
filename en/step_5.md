@@ -5,7 +5,8 @@
 You can also make the project do something when you click on the Stage.
 </div>
 <div>
-![Stage with graphic effects](images/stage-effects.png){:width="300px"}  
+![Stage with graphic effects](images/stage-effects.png){:width="300px"} 
+![Stage with graphic effects](images/stage-effects-say.png){:width="300px"}  
 </div>
 </div>
 

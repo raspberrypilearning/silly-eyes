@@ -9,8 +9,6 @@ You will:
 + Personalize a project with colour and graphic effects
 + Learn about design in digital making 
 
-![Examples of projects you can create](images/showcase-grid.png){:width="300px"}
-
 ![Examples of many projects you can create](images/showcase-line.png)
 
 --- no-print ---

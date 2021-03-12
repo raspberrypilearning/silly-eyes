@@ -6,6 +6,7 @@ Have you got an idea about your own character? Now you can make it!
 </div>
 <div>
 ![Large character ready for googly eyes](images/character.png)  
+![Large character ready for googly eyes](images/character-say.png)  
 </div>
 </div>
 

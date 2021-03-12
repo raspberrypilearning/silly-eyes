@@ -5,7 +5,8 @@
 In this step, make the googly eyes! Each eye needs to be a separate sprite so it can move separately.
 </div>
 <div>
-![Character with googly eyes](images/character-with-eyes.png){:width="300px"}  
+![Character with googly eyes](images/character-with-eyes.png)
+![Character with googly eyes](images/character-with-eyes-say.png){:width="300px"}  
 </div>
 </div>
 
@@ -74,11 +75,11 @@ Use the Paint editor to change the costumes to add circles, choose a different f
 
 --- /collapse ---
 
+--- /task ---
+
 --- task ---
 
 Name your sprite 'Eyeball' in the Sprite pane.
-
---- /task ---
 
 --- /task ---
 
@@ -103,7 +104,6 @@ end
 ```
 
 --- /collapse ---
-
 
 --- /task ---
 
@@ -201,7 +201,7 @@ title: The character and the eyes follow the mouse pointer
 
 Did you add the eyes as costumes to your character instead of as costumes on separate sprites? Don't worry you can fix that. 
 
-One way to fix it is to duplicate the character sprite and then rename the copy as Eyeball. Then delete the eye costumes from the character, and the character costumes from the eye. Then you can duplicate the Eyeball sprite and name it Eyeball2.
+One way to fix it is to duplicate the character sprite and then rename the copy as Eyeball. Then delete the eye costumes from the character, and the character costumes from the eye. Then you can duplicate the Eyeball sprite and name it 'Eyeball 2'.
 
 The code to `point towards`{:class="block3motion"} the `mouse-pointer`{:class="block3motion"} should be on the Eyeball sprites and not the character sprite.
 
