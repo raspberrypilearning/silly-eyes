@@ -11,12 +11,21 @@ In this step, make the googly eyes! Each eye needs to be a separate sprite so it
 
 --- task ---
 
-Add a new sprite. Create an eye costume for this sprite in the Paint editor. You can either draw your eye **or** start from a round sprite.
+Add a new **sprite** using the Paint option. 
+
+![paint a sprite button](images/paint-a-sprite.png)
+
+The Paint editor will open for you to paint your Eyeball.
+
+--- /task ---
 
 It's really important that:
 - the costume has the black pupil and coloured iris facing to the right
 - the eyeball costume is centered
 
+--- task ---
+
+**Choose:** draw your eye **or** start from a round sprite.
 
 --- collapse ---
 
@@ -65,9 +74,15 @@ Use the Paint editor to change the costumes to add circles, choose a different f
 
 --- /collapse ---
 
+--- task ---
+
+Name your sprite 'Eyeball' in the Sprite pane.
+
 --- /task ---
 
-Now you have the eyes, add code to make them googly.
+--- /task ---
+
+Now you have an eye, make it look at the `mouse-pointer`{:class="block3motion"}.
 
 --- task ---
 
@@ -181,12 +196,24 @@ go to [back v] layer // behind all other sprites
 --- collapse ---
 
 ---
-title: The whole character follows the mouse pointer
+title: The character and the eyes follow the mouse pointer
+---
+
+Did you add the eyes as costumes to your character instead of as costumes on separate sprites? Don't worry you can fix that. 
+
+One way to fix it is to duplicate the character sprite and then rename the copy as Eyeball. Then delete the eye costumes from the character, and the character costumes from the eye. Then you can duplicate the Eyeball sprite and name it Eyeball2.
+
+The code to `point towards`{:class="block3motion"} the `mouse-pointer`{:class="block3motion"} should be on the Eyeball sprites and not the character sprite.
+
+--- /collapse ---
+
+--- collapse ---
+
+---
+title: The character follows the mouse pointer (and the eyes don't)
 ---
 
 You need to add the `point towards`{:class="block3motion"} code to the individual eye sprites, not your character sprite!
-
-If you 
 
 You can drag the code from the Code area of you character to the eyeball sprite(s) in the Sprite list to copy it. 
 
