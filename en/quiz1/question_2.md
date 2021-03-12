@@ -10,26 +10,28 @@ Which rocket costume is pointing in the accurate direction to correctly look tow
 
 - ( ) ![rocket pointing to the left](images/rocket_left.png)
 
- --- feedback ---
+  --- feedback ---
 If your rocket is pointing to the left, the rocket will be facing the opposite direction to (away from) the mouse pointer when it rotates.
- --- /feedback ---
+  --- /feedback ---
 
 - ( ) ![rocket facing down](images/rocket_down.png)
 
- --- feedback ---
+  --- feedback ---
 If the rocket is facing down, it will be facing a different direction from the mouse pointer when it rotates.
- --- /feedback ---
+  --- /feedback ---
 
 - (x) ![rocket pointing to the right](images/rocket_right.png)
 
- --- feedback ---
+  --- feedback ---
 Right is the default position for correctly pointing towards your mouse pointer if your rotation style is set to all around.
- --- /feedback ---
+  --- /feedback ---
 
 - ( ) ![rocket facing up](images/rocket_up.png)
 
- --- feedback ---
+  --- feedback ---
 If the rocket is facing up, it will be facing a different direction from the mouse pointer when it rotates.
- --- /feedback ---
+  --- /feedback ---
+  
 --- /choices ---
+
 --- /question ---
