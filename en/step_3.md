@@ -5,10 +5,12 @@
 In this step, make the googly eyes! Each eye needs to be a separate sprite so it can move separately.
 </div>
 <div>
-![Character with googly eyes](images/character-with-eyes.png)
-![Character with googly eyes](images/character-with-eyes-say.png){:width="300px"}  
+![Character with googly eyes. Look at my lovely googly eye sprites.](images/character-with-eyes.png)
+{:width="300px"}  
 </div>
 </div>
+
+![Character with googly eyes](images/character-with-eyes-say.png)
 
 --- task ---
 
@@ -16,7 +18,7 @@ Add a new **sprite** using the Paint option.
 
 ![paint a sprite button](images/paint-a-sprite.png)
 
-The Paint editor will open for you to paint your Eyeball.
+The Paint editor will open for you to paint your Eyeball sprite's costume.
 
 --- /task ---
 
@@ -26,21 +28,21 @@ It's really important that:
 
 --- task ---
 
-**Choose:** draw your eye **or** start from a round sprite.
+**Choose:** draw your eyeball **or** start from a round sprite.
 
 --- collapse ---
 
 ---
-title: Draw an eye in the Paint editor
+title: Draw an eyeball in the Paint editor
 ---
 
 Select the oval tool.
 
-You need to draw a perfect circle otherwise the whole eye will wobble around (instead of it being a Googly eye). 
+You need to draw a perfect circle otherwise the whole eyeball will wobble around (instead of it being a Googly eye). 
 
 To draw a perfect circle, press and hold the `Shift` key on the keyboard while you draw with the oval. If you are on a tablet, try and get as close to a perfect circle as possible.
 
-This is the outline of the eye so in the example we made it black. Make sure the circle is in the centre.
+This is the outline of the eyeball so in the example we made it black. Make sure the circle is in the centre.
 
 ![centred circle](images/eyeball_circle_centre.png)
 
@@ -60,7 +62,7 @@ Or, you can change the colour of your second circle and draw a third perfect cir
 --- collapse ---
 
 ---
-title: Turn a round costume into an eye
+title: Turn a round costume into an eyeball
 ---
 
 There are costumes in Scratch that can be edited to make googly eyes for your character. Examples of these are 'Ball' and 'Button1' though there are many others you can choose from.
@@ -83,11 +85,11 @@ Name your sprite 'Eyeball' in the Sprite pane.
 
 --- /task ---
 
-Now you have an eye, make it look at the `mouse-pointer`{:class="block3motion"}.
+Now you have an eyeball, make it look at the `mouse-pointer`{:class="block3motion"}.
 
 --- task ---
 
-Add a script to `set the rotation style`{:class="block3motion"} to make the eye `point towards the mouse pointer`{:class="block3motion"} `forever`{:class="block3control"}. 
+Add a script to `set the rotation style`{:class="block3motion"} to make the eyeball `point towards the mouse pointer`{:class="block3motion"} `forever`{:class="block3control"}. 
 
 --- collapse ---
 
@@ -109,7 +111,7 @@ end
 
 --- task ---
 
-Drag the eye sprite into the position you want it on the Stage and change its size to fit your character.
+Drag the Eyeball sprite into the position you want it on the Stage and change its size to fit your character.
 
 --- /task ---
 

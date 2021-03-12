@@ -5,10 +5,11 @@
 You can make your character sprite and googly eye sprites change their `Looks`{:class="block3looks"} when you click on them. 
 </div>
 <div>
-![Character and eyes with graphic effects](images/character-graphic-effects.png){:width="300px"}  
-![Character and eyes with graphic effects](images/character-graphic-effects-say.png){:width="300px"}  
+![Character and eyes with graphic effects. Hey! Who pixelated me? Why are my eyes different colours?](images/character-graphic-effects.png){:width="300px"}    
 </div>
 </div>
+
+![Character and eyes with graphic effects](images/character-graphic-effects-say.png)
 
 ### Googly eye effects
 
