@@ -9,8 +9,6 @@ Have you got an idea about your own character? Now you can make it!
 </div>
 </div>
 
-![Large character ready for googly eyes](images/character-say.png){:width="500px"}   
-
 --- task ---
 
 Open a [new Scratch project](https://scratch.mit.edu/projects/editor){:target=”_blank”} to look at the range of sprites and backdrops. Take some time to think about your character.

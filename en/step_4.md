@@ -9,15 +9,13 @@ You can make your character sprite and googly eye sprites change their `Looks`{:
 </div>
 </div>
 
-![Character and eyes with graphic effects](images/character-graphic-effects-say.png){:width="500px"} 
-
 ### Googly eye effects
 
 What code blocks would you use to change your sprite's eye colour when you click on them?
 
 --- task ---
 
-Add a `when this sprite clicked`{:class="block3events"} block to your sprite. Can you work out what code block you would put underneath?
+Add a `when this sprite clicked`{:class="block3events"} block to your Eyeball sprite. Can you work out what code block you would put underneath?
 
 --- collapse ---
 
@@ -44,6 +42,12 @@ What else do you want to do to change the graphic effects of the eyes?
 
 --- /task ---
 
+
+--- task ---
+If you want both Eyeballs to have the same effect then you will need to copy your scripts to 'Eyeball 2'.
+
+--- /task ---
+
 **Tip**: To reset your graphics effects at any point, click on the `clear graphic effects`{:class="block3looks"} block in the `Looks`{:class="block3looks"} Blocks menu. Clicking the green flag also clears graphic effects.
 
 ```blocks3 
@@ -56,11 +60,13 @@ If you want to, you can also make your character sprite change colour or add oth
 
 --- task ---
 
-Add graphic effects to your character like you did with the Googly eyes
+Click on your character sprite and then the Code tab.
+
+Add graphic effects to your character like you did with the Googly eyes. 
 
 --- /task ---
 
-Now add an accessory that changes when you click on it using the `next costume`{:class="block3looks"} block. This is how we got Gobo's hat to change.
+Now add an accessory sprite that changes when you click on it using the `next costume`{:class="block3looks"} block. This is how we got Gobo's hat to change.
 
 --- task ---
 
@@ -88,11 +94,9 @@ next costume
 
 --- /collapse ---
 
-
 If your sprite doesn't have a choice of costumes, or you want to add more, you can add any costume to a sprite.
 
 [[[scratch3-add-costumes-to-a-sprite]]]
-
 
 --- /task ---
 

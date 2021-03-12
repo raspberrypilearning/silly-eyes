@@ -10,8 +10,6 @@ In this step, make the googly eyes! Each eye needs to be a separate sprite so it
 </div>
 </div>
 
-![Character with googly eyes](images/character-with-eyes-say.png){:width="500px"}  
-
 --- task ---
 
 Add a new **sprite** using the Paint option. 

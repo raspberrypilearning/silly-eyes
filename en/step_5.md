@@ -10,9 +10,11 @@ You can also make the project do something when you click on the Stage.
 </div>
 </div>
 
-![Stage with graphic effects](images/stage-effects-say.png){:width="500px"} 
-
 --- task ---
+
+Click on the Stage pane and then the Code tab to add code to the Stage.
+
+**Choose:** what you want to change when the Stage is clicked.
 
 --- collapse ---
 
