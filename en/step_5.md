@@ -10,7 +10,7 @@ You can also make the project do something when you click on the Stage.
 </div>
 </div>
 
-![Stage with graphic effects](images/stage-effects-say.png)
+![Stage with graphic effects](images/stage-effects-say.png){:width="500px"} 
 
 --- task ---
 

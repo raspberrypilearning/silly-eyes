@@ -9,7 +9,7 @@ You can make your character sprite and googly eye sprites change their `Looks`{:
 </div>
 </div>
 
-![Character and eyes with graphic effects](images/character-graphic-effects-say.png)
+![Character and eyes with graphic effects](images/character-graphic-effects-say.png){:width="500px"} 
 
 ### Googly eye effects
 

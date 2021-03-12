@@ -10,7 +10,7 @@ In this step, make the googly eyes! Each eye needs to be a separate sprite so it
 </div>
 </div>
 
-![Character with googly eyes](images/character-with-eyes-say.png)
+![Character with googly eyes](images/character-with-eyes-say.png){:width="500px"}  
 
 --- task ---
 
@@ -119,7 +119,7 @@ If your character is a cyclops then you are done.
 
 --- task ---
 
-Otherwise, right-click (or tap and hold on a tablet) on ythe eye sprite in the Sprite list and choose 'duplicate' to create more eyes.
+Otherwise, right-click (or tap and hold on a tablet) on the Eyeball sprite in the Sprite list and choose 'duplicate' to create more eyes.
 
 [[[scratch3-duplicate-sprite]]]
 
@@ -215,7 +215,7 @@ The code to `point towards`{:class="block3motion"} the `mouse-pointer`{:class="b
 title: The character follows the mouse pointer (and the eyes don't)
 ---
 
-You need to add the `point towards`{:class="block3motion"} code to the individual eye sprites, not your character sprite!
+You need to add the `point towards`{:class="block3motion"} code to the individual Eyeball sprites, not your character sprite!
 
 You can drag the code from the Code area of you character to the eyeball sprite(s) in the Sprite list to copy it. 
 
