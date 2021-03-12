@@ -10,7 +10,7 @@ steps:
   - title: Your character
   - title: Make googly eyes
   - title: Sprite effects
-  - title: Backdrop effects
+  - title: Stage effects
   - title: Reflection
     knowledge_quiz:
       path: quiz1
