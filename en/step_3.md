@@ -2,7 +2,7 @@
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-Each eye needs to be a sprite so it can move separately.
+In this step, make the googly eyes! Each eye needs to be a separate sprite so it can move separately.
 </div>
 <div>
 ![Character with googly eyes](images/character-with-eyes.png){:width="300px"}  
@@ -11,7 +11,7 @@ Each eye needs to be a sprite so it can move separately.
 
 --- task ---
 
-Create an eye costume in the Paint editor. You can either draw your eye **or** start from a round sprite.
+Add a new sprite. Create an eye costume for this sprite in the Paint editor. You can either draw your eye **or** start from a round sprite.
 
 It's really important that:
 - the costume has the black pupil and coloured iris facing to the right
@@ -94,7 +94,7 @@ end
 
 --- task ---
 
-Drag the eye into position on the Stage and change its size to fit your character.
+Drag the eye sprite into the position you want it on the Stage and change its size to fit your character.
 
 --- /task ---
 
@@ -102,7 +102,7 @@ If your character is a cyclops then you are done.
 
 --- task ---
 
-Otherwise, right-click (or tap and hold on a tablet) on the sprite in the Sprite list and choose 'duplicate' to create more eyes.
+Otherwise, right-click (or tap and hold on a tablet) on ythe eye sprite in the Sprite list and choose 'duplicate' to create more eyes.
 
 [[[scratch3-duplicate-sprite]]]
 
@@ -175,6 +175,22 @@ when green flag clicked
 forever
 go to [back v] layer // behind all other sprites
 ```
+
+--- /collapse ---
+
+--- collapse ---
+
+---
+title: The whole character follows the mouse pointer
+---
+
+You need to add the `point towards`{:class="block3motion"} code to the individual eye sprites, not your character sprite!
+
+If you 
+
+You can drag the code from the Code area of you character to the eyeball sprite(s) in the Sprite list to copy it. 
+
+You will also need to delete the script from the character sprite by dragging it to the Blocks menu.
 
 --- /collapse ---
 
