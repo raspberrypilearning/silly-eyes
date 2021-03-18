@@ -1,6 +1,6 @@
 ## What next?
 
-If you are following the [Scratch 1](https://projects.raspberrypi.org/en/raspberrypi/scratch-1) pathway, you can move on to the [Surprise! story](https://projects.raspberrypi.org/en/projects/surprise-story) project. In this project, you will make a story animation with a surprise.
+If you are following the [Introduction to Scratch](https://projects.raspberrypi.org/en/pathways/scratch-intro) pathway, you can move on to the [Surprise! story](https://projects.raspberrypi.org/en/projects/surprise-story) project. In this project, you will make a story animation with a surprise.
 
 --- print-only ---
 
