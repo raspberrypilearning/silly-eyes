@@ -13,12 +13,7 @@ Have you got an idea about your own character? Now you can make it!
 
 Open a [new Scratch project](http://rpf.io/scratch-new){:target="_blank"}. Scratch will open in another browser tab.
 
---- collapse ---
----
-title: Working offline
----
-To set up Scratch for offline use visit [our Scratch guide](https://learning-admin.raspberrypi.org/en/projects/getting-started-scratch/1){:target="_blank"}.
---- /collapse ---
+[[[working-offline]]]
 
 --- /task ---
 
@@ -67,7 +62,7 @@ Where do you want your character to live?
 
 --- task ---
 
-Your character can live anywhere you like. You can **choose** a backdrop that is sensible or silly. 
+**Choose** a backdrop that is sensible or silly. 
 
 [[[generic-scratch3-backdrop-from-library]]]
 
