@@ -145,7 +145,7 @@ Make sure you have added the code to the eye sprite(s) and **clicked the green f
 
 --- collapse ---
 --- 
-title: The eye(s) point away from the mouse
+title: The eyes point away from the mouse
 ---
 
 Check that the pupil is on the right (past the blue cross in the middle) in the eye costume(s). 
