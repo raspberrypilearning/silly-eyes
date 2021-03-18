@@ -46,7 +46,7 @@ Make sure the eyeball is centered so the blue cross is inside the grey circle.
 
 Draw a smaller perfect circle and position it on the right of the eyeball:
 
-![eyeball with red iris and black pupil](images/eyeball-iris.png)
+![eyeball with red iris and black pupil](images/eyeball-with-iris.png)
 
 You could also draw circles inside circles, or make the eyeball coloured to get different effects.
 
