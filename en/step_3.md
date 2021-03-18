@@ -36,23 +36,19 @@ title: Draw an eyeball in the Paint editor
 
 Select the oval tool.
 
-You need to draw a perfect circle otherwise the whole eyeball will wobble around (instead of it being a Googly eye). 
-
 To draw a perfect circle, press and hold the `Shift` key on the keyboard while you draw with the oval. If you are on a tablet, try and get as close to a perfect circle as possible.
 
-This is the outline of the eyeball so in the example we made it black. Make sure the circle is in the centre.
+We set the outline to black and the eyeball to white:
 
-![centred circle](images/eyeball_circle_centre.png)
+![white eyeball with black outline](images/eyeball-outline.png)
 
-Draw a smaller perfect circle and position it in the first circle.
+Make sure the eyeball is centered so the blue cross is inside the grey circle.
 
-You can either change the outline colour and thickness and make the outline the iris:
+Draw a smaller perfect circle and position it on the right of the eyeball:
 
-![two circles, the middle one with a red outline 40 thickness](images/eyeball_two_circles.png)
+![eyeball with red iris and black pupil](images/eyeball-iris.png)
 
-Or, you can change the colour of your second circle and draw a third perfect circle as the pupil:
-
-![3 circles, the second one red and the third one black, the second and third positioned to the right of the centre](images/eyeball_three_circles.png)
+You could also draw circles inside circles, or make the eyeball coloured to get different effects.
 
 --- /collapse ---
 
