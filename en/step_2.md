@@ -11,7 +11,14 @@ Have you got an idea about your own character? Now you can make it!
 
 --- task ---
 
-Open a [new Scratch project](https://scratch.mit.edu/projects/editor){:target="_blank"} to look at the range of sprites and backdrops. 
+Open a [new Scratch project](http://rpf.io/scratch-new){:target="_blank"}. Scratch will open in another browser tab.
+
+--- collapse ---
+---
+title: Working offline
+---
+To set up Scratch for offline use visit [our Scratch guide](https://learning-admin.raspberrypi.org/en/projects/getting-started-scratch/1){:target="_blank"}.
+--- /collapse ---
 
 --- /task ---
 
