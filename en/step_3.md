@@ -87,7 +87,7 @@ Now you have an eyeball, make it look at the `mouse-pointer`{:class="block3motio
 
 --- task ---
 
-Add a script to `set the rotation style`{:class="block3motion"} to make the eyeball `point towards the mouse pointer`{:class="block3motion"} `forever`{:class="block3control"}. 
+Add a script to `set the rotation style`{:class="block3motion"} to `all around`{:class="block3motion"} to make the eyeball `point towards the mouse pointer`{:class="block3motion"} `forever`{:class="block3control"}. 
 
 --- collapse ---
 
@@ -173,17 +173,15 @@ Check that the costume is centered. Drag the costume so that the blue cross line
 
 --- /collapse ---
 
-If you drag your character sprite then it will go in front of the eyes.
-
 --- collapse ---
 
 --- 
-title: Keeping a sprite at the back
+title: The character is in front of the eyes
 ---
 
 When you drag a sprite to position it on the Stage it moves in front of the other sprites. 
 
-To get a sprite to stay at the back use:
+To get your character sprite to stay at the back use:
 
 ```blocks3
 when green flag clicked
