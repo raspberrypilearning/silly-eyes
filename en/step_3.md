@@ -36,23 +36,19 @@ title: Draw an eyeball in the Paint editor
 
 Select the oval tool.
 
-You need to draw a perfect circle otherwise the whole eyeball will wobble around (instead of it being a Googly eye). 
-
 To draw a perfect circle, press and hold the `Shift` key on the keyboard while you draw with the oval. If you are on a tablet, try and get as close to a perfect circle as possible.
 
-This is the outline of the eyeball so in the example we made it black. Make sure the circle is in the centre.
+We set the outline to black and the eyeball to white:
 
-![centred circle](images/eyeball_circle_centre.png)
+![white eyeball with black outline](images/eyeball-outline.png)
 
-Draw a smaller perfect circle and position it in the first circle.
+Make sure the eyeball is centered so the blue cross is inside the grey circle.
 
-You can either change the outline colour and thickness and make the outline the iris:
+Draw a smaller perfect circle and position it on the right of the eyeball:
 
-![two circles, the middle one with a red outline 40 thickness](images/eyeball_two_circles.png)
+![eyeball with red iris and black pupil](images/eyeball-with-iris.png)
 
-Or, you can change the colour of your second circle and draw a third perfect circle as the pupil:
-
-![3 circles, the second one red and the third one black, the second and third positioned to the right of the centre](images/eyeball_three_circles.png)
+You could also draw circles inside circles, or make the eyeball coloured to get different effects.
 
 --- /collapse ---
 
@@ -63,9 +59,9 @@ Or, you can change the colour of your second circle and draw a third perfect cir
 title: Turn a round costume into an eyeball
 ---
 
-There are costumes in Scratch that can be edited to make googly eyes for your character. Examples of these are 'Ball' and 'Button1' though there are many others you can choose from.
+There are costumes in Scratch that can be edited to make googly eyes for your character. Examples of these are 'Ball' and 'Button1' though there are many others you can choose.
 
-Use the Paint editor to change the costumes to add circles, choose a different fill colour or remove parts of the costume to turn it into a googly eye. 
+Use the Paint editor to change the costumes to add circles, and choose a different fill colour or remove parts of the costume to turn it into a googly eye. 
 
 **Tip**: The costume will need to be centered in the Paint editor using the crosshair so that it rotates smoothly as it turns. The black pupil and coloured iris need to be positioned to the right side of the costume so that it follows the mouse pointer.
 
@@ -87,7 +83,7 @@ Now you have an eyeball, make it look at the `mouse-pointer`{:class="block3motio
 
 --- task ---
 
-Add a script to `set the rotation style`{:class="block3motion"} to make the eyeball `point towards the mouse pointer`{:class="block3motion"} `forever`{:class="block3control"}. 
+Add a script to `set the rotation style`{:class="block3motion"} to `all around`{:class="block3motion"} to make the eyeball `point towards the mouse pointer`{:class="block3motion"} `forever`{:class="block3control"}. 
 
 --- collapse ---
 
@@ -145,7 +141,7 @@ Make sure you have added the code to the eye sprite(s) and **clicked the green f
 
 --- collapse ---
 --- 
-title: The eye(s) point away from the mouse
+title: The eyes point away from the mouse
 ---
 
 Check that the pupil is on the right (past the blue cross in the middle) in the eye costume(s). 
@@ -173,17 +169,15 @@ Check that the costume is centered. Drag the costume so that the blue cross line
 
 --- /collapse ---
 
-If you drag your character sprite then it will go in front of the eyes.
-
 --- collapse ---
 
 --- 
-title: Keeping a sprite at the back
+title: The character is in front of the eyes
 ---
 
 When you drag a sprite to position it on the Stage it moves in front of the other sprites. 
 
-To get a sprite to stay at the back use:
+To get your character sprite to stay at the back use:
 
 ```blocks3
 when green flag clicked

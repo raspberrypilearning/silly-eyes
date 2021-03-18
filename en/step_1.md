@@ -2,8 +2,6 @@
 
 You will design and create a googly eye character. Googly eyes are silly large eyes, yours will follow the mouse pointer to bring your character to life.
 
-You will decide how many eyes your character has and make decisions about the colour and graphic effects that you use. 
-
 You will:
 + Make a project with **user interaction**
 + Personalize a project with colour and graphic effects
@@ -16,12 +14,13 @@ You will:
 --- task ---
 
 <div style="display: flex; flex-wrap: wrap">
-<div style="flex-basis: 200px; flex-grow: 1">  
+<div style="flex-basis: 175px; flex-grow: 1">  
+
 ### Try it 
 
-Move the mouse around the screen and watch what happens to Gobo's eyes. If you're on a tablet, move your finger around the screen.
+Move the mouse (or your finger on a tablet) around the screen and watch what happens to Gobo's eyes.
 
-What happens when you move between the Gobo's eyes? Try clicking on the eyes, Gobo, the hat and the backdrop to customise the scene.
+What happens when you move between the Gobo's eyes? Try clicking on different parts to customise the scene.
 
 </div>
 <div>
@@ -40,9 +39,9 @@ What happens when you move between the Gobo's eyes? Try clicking on the eyes, Go
 
 ### Get inspiration 
 
---- task ---
+You are going to make some design decisions to create your character. Think about what kind of googly eye character you want to make.
 
-You are going to make some design decisions to create your character. Think about what kind of googly eye character you want to make: how many eyes does your character have, what backgrounds and costume accessories, what colour and graphic effects you will use.  
+--- task ---
 
 Explore these example projects to get more ideas:
 
@@ -71,7 +70,7 @@ Explore these example projects to get more ideas:
 
 ### Get inspiration 
 
-You are going to make some design decisions to create your character. Think about what kind of googly eye character you want to make: how many eyes does your character have, what backgrounds and costume accessories, what colour and graphic effects you will use. See inside example projects in [Scratch 1: Googly eye character - Examples](https://scratch.mit.edu/studios/29029028/){:target="_blank"} Scratch studio.
+You are going to make some design decisions to create your character. See inside example projects in [Scratch 1: Googly eye character - Examples](https://scratch.mit.edu/studios/29029028/){:target="_blank"} Scratch studio.
 
 ![Gobo watching project for inspiration](images/gobo-watching.png)
 ![Dont eat donut project for inspiration](images/dont-eat-donut.png)
