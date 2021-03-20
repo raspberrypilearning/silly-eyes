@@ -59,7 +59,7 @@ You could also draw circles inside circles, or make the eyeball coloured to get 
 title: Turn a round costume into an eyeball
 ---
 
-There are costumes in Scratch that can be edited to make googly eyes for your character. Examples of these are 'Ball' and 'Button1' though there are many others you can choose.
+There are costumes in Scratch that can be edited to make googly eyes for your character. 
 
 Use the Paint editor to change the costumes to add circles, and choose a different fill colour or remove parts of the costume to turn it into a googly eye. 
 
