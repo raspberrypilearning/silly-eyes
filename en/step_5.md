@@ -47,8 +47,6 @@ next backdrop
 --- task ---
 **Test:** Click on the Stage to see the backdrop switch or change graphic effects. 
 
-Can you match your character to it's new environment?
-
 --- /task ---
 
 --- task ---
@@ -71,7 +69,7 @@ To go back to the regular view, click the same button again.
 --- /task ---
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-It is important to think about **user interaction** when you are doing digital making. By making your project full screen, you are seeing what you have made from the perspective of a user who is playing with your project.
+By making your project full screen, you are seeing what you have made from the perspective of a user who is playing with your project. **User interaction** is important in digital making. 
 </p>
 
 --- save ---

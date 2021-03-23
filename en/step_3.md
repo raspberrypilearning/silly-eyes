@@ -42,6 +42,11 @@ We set the outline to black and the eyeball to white:
 
 ![white eyeball with black outline](images/eyeball-outline.png)
 
+Use the **Fill** tool to choose your colours. To make black, slide both the **Saturation** and **Brightness** to `0`. To make white, slide the **Saturation** to `0` and **Brightness** to `100`.
+
+![](images/black-colour.png)
+![](images/white-colour.png)
+
 Make sure the eyeball is centered so the blue cross is inside the grey circle.
 
 Draw a smaller perfect circle and position it on the right of the eyeball:
@@ -79,6 +84,12 @@ Name your sprite 'Eyeball' in the Sprite pane.
 
 --- /task ---
 
+--- task ---
+
+Drag the Eyeball sprite into the position you want it on the Stage and change its size to fit your character.
+
+--- /task ---
+
 Now you have an eyeball, make it look at the `mouse-pointer`{:class="block3motion"}.
 
 --- task ---
@@ -103,11 +114,6 @@ end
 
 --- /task ---
 
---- task ---
-
-Drag the Eyeball sprite into the position you want it on the Stage and change its size to fit your character.
-
---- /task ---
 
 If your character is a cyclops then you are done. 
 
@@ -128,7 +134,7 @@ Otherwise, right-click (or tap and hold on a tablet) on the Eyeball sprite in th
 --- /task ---
 
 --- task ---
-**Debug:** 
+**Debug:** You might find some bugs in your project that you need to fix. Here are some common bugs.
 
 --- collapse ---
 --- 
@@ -214,6 +220,12 @@ You can drag the code from the Code area of you character to the eyeball sprite(
 You will also need to delete the script from the character sprite by dragging it to the Blocks menu.
 
 --- /collapse ---
+
+You might find a bug that we have not listed here. Can you figure out how to fix it? 
+
+We love hearing about your bugs and how you fixed them. Use the feedback button at the bottom of this page if you found a different bug in your project. 
+
+![](images/send-feedback.png)
 
 --- /task ---
 

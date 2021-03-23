@@ -13,7 +13,7 @@ You can make your character sprite and googly eye sprites change their `Looks`{:
 
 --- task ---
 
-Add a `when this sprite clicked`{:class="block3events"} block to your Eyeball sprite. 
+Add a `when this sprite clicked`{:class="block3events"} block to your **Eyeball** sprite. 
 
 Can you work out what code block you would put underneath to change your sprite's eye colour when you click on them?
 
@@ -32,37 +32,27 @@ change [color v] effect by (25)
 
 --- /task ---
 
-What else do you want to do to change the graphic effects of the eyes?
-
 --- task ---
 
-**Choose** another effect by selecting it from the drop-down box in the `change color effect`{:class="block3looks"} code block. Experiment with the numbers until you have the change you like.   
+If you want both Eyeballs to have the same effect then you will need to copy your script to 'Eyeball 2'.
 
-[[[scratch3-graphic-effects]]]
-
---- /task ---
-
---- task ---
-
-If you want both Eyeballs to have the same effect then you will need to copy your scripts to 'Eyeball 2'.
+[[[scratch3-copy-code]]]
 
 --- /task ---
-
-**Tip**: To reset your graphics effects at any point, click on the `clear graphic effects`{:class="block3looks"} block in the `Looks`{:class="block3looks"} Blocks menu. Clicking the green flag also clears graphic effects.
-
-```blocks3 
-clear graphic effects
-```
 
 ### Character effects
 
-If you want to, you can also make your character sprite change colour and other graphic effects when you click on it. 
+If you want to, you can also make your **Character** sprite change colour and other graphic effects when you click on it. 
 
 --- task ---
 
 Click on your character sprite and then the **Code** tab.
 
-Add graphic effects to your character like you did with the Googly eyes. 
+Add the same script you used to change the eye colour. Which graphic effects do you want to do to change on your character?
+
+**Choose** an effect by selecting it from the drop-down box in the `change color effect`{:class="block3looks"} block. Experiment with the numbers until you have the change you like.   
+
+[[[scratch3-graphic-effects]]]
 
 --- /task ---
 
@@ -105,6 +95,28 @@ If your sprite doesn't have a choice of costumes, or you want to add more, you c
 **Test:** Work on your sprites until they interact in the way that you want. Try one change at a time and test what it does so you can easily spot the change and undo anything you do not like.  
 
 --- /task ---
+
+--- task ---
+
+**Debug:**
+
+If you add code to the wrong sprite you can fix that:
+
+[[[scratch3-copy-code]]]
+
+--- collapse ---
+
+---
+title: I don't want these graphic effects  
+---
+
+To reset your graphics effects at any point, click on the clear graphic effects block in the `Looks`{:class="block3looks"} Blocks menu. Clicking the green flag also clears graphic effects.
+
+```blocks3
+clear graphic effects
+```
+--- /collapse ---
+
 
 --- save ---
 

@@ -14,7 +14,7 @@ Have fun!
 legend: Question 1 of 3
 ---
 
-We added this code to an eyeball sprite but the eyeball is not rotating. 
+We added this code to an eyeball sprite but the eyeball is not rotating when the mouse pointer moves. 
 
 ![Screenshot showing the script and Stage](images/code-not-running.png)
 
