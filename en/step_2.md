@@ -54,7 +54,7 @@ At the moment your character will be much smaller than the characters in our exa
 
 From the Sprite pane change the number in the **Size** property to a number of your choice. 
 
-![The size property in the Sprite pane](images/size-property.png){:width="300px"}
+![The size property in the Sprite pane](images/size-property.png){:width="500px"}
 
 --- /task ---
 

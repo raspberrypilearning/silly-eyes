@@ -4,7 +4,17 @@
 legend: Question 2 of 3
 ---
 
-Which rocket costume is pointing in the accurate direction to correctly look towards the mouse pointer with rotation style set to all around?
+The rocket sprite has this script:
+
+```blocks3
+when flag clicked
+set rotation style [all around v]
+forever
+point towards (mouse-pointer v)
+end
+```
+
+Which rocket costume should we use so that the nose of the rocket will point towards the mouse pointer?
 
 --- choices ---
 
