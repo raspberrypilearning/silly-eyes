@@ -52,19 +52,7 @@ next backdrop
 --- task ---
 **Test** your project again, this time making it fullscreen so you can see how it will appear to someone looking at it.
 
---- collapse ---
-
----
-title: Run a Scratch project in fullscreen
----
-
-To run your project in fullscreen in Scratch, find the button with four arrown pointing outwards.
-
-![A sprite with fullscreen button highlighted above the sprite towards the right corner](images/fullscreen_frank.png)
-
-To go back to the regular view, click the same button again.
-
---- /collapse ---
+[[[scratch3-full-screen]]]
 
 --- /task ---
 
