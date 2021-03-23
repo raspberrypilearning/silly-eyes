@@ -221,11 +221,10 @@ You will also need to delete the script from the character sprite by dragging it
 
 --- /collapse ---
 
-You might find a bug that we have not listed here. Can you figure out how to fix it? 
+You might find a bug not listed here. Can you figure out how to fix it? 
 
 We love hearing about your bugs and how you fixed them. Use the feedback button at the bottom of this page if you found a different bug in your project. 
 
-![](images/send-feedback.png)
 
 --- /task ---
 
