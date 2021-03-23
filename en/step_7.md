@@ -20,6 +20,6 @@ If you add other body parts then you will need to centre them at the point you w
 
 [[[scratch-crosshair]]]
 
-Take a look at some Googly eye character projects created by community members in the Raspberry Pi Foundation’s studio of Googly eye character Community Projects [See inside](https://scratch.mit.edu/studios/29120534){:target="_blank"}.
+Take a look at our [Googly eye character Scratch studio](https://scratch.mit.edu/studios/29120534){:target="_blank"} to see projects created by community members.
 
 --- save ---
