@@ -9,6 +9,8 @@ Here are some ideas you could try:
 - Add more accessories, or add more costumes to your accessories
 - Try different graphic effects
 
+Each example project in the [Introduction](.) has a ‘See Inside’ link for you to open the project in Scratch and look at the code to get ideas and see how they work.
+
 The Sporg character also has arms that `point towards`{:class="block3motion"} the mouse pointer.
 
 **Sporg**: [See inside](https://scratch.mit.edu/projects/495865892/editor){:target="_blank"}
