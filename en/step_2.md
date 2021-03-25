@@ -2,7 +2,7 @@
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-Have you got an idea about your own character? Now you can make it!
+Have you got an idea about your own character? Now you can get it ready for googly eyes!
 </div>
 <div>
 ![Large character ready for googly eyes. Which character will you choose?](images/character.png){:width="300px"}    
