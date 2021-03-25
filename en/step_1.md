@@ -12,7 +12,7 @@ You will:
 + Learn about design in digital making 
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-"User" means the person using the project (not just making it), and <span style="color: #0faeb0">User interaction</span> is how the project reacts to the user doing things such as moving the mouse and clicking on the screen. 
+<span style="color: #0faeb0">User</span> means the person using the project (not just making it), and <span style="color: #0faeb0">User interaction</span> is how the project reacts to the user doing things such as moving the mouse and clicking on the screen. 
 </p>
 
 ![Examples of many projects you can create](images/showcase-line.png)
@@ -40,10 +40,6 @@ What happens when you move between the Gobo's eyes? Try clicking on different pa
 </div>
 
 --- /task ---
-
-<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-<span style="color: #0faeb0">Design</span> means deciding on the way a project looks and making decisions about what it does. 
-</p>
 
 ### Get inspiration 
 
