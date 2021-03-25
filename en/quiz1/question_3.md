@@ -38,7 +38,6 @@ change [colour v] effect by (25)
 The user has to click the sprite to change the colour. This is user interaction.
   --- /feedback ---
  
- 
 
 - ( ) Give me a clue.
 
