@@ -4,7 +4,7 @@
 legend: Question 2 of 3
 ---
 
-The **rocket** sprite has this script:
+To make the rocket interactive, the **rocket** sprite has this script:
 
 ```blocks3
 when flag clicked

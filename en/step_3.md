@@ -3,6 +3,8 @@
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
 In this step, you will make the googly eyes! Each eye needs to be a separate sprite so that it can move separately.
+
+If you get stuck, you can look at the 'Debug' tips at the bottom.
 </div>
 <div>
 ![Character with googly eyes. Look at my lovely googly eye sprites.](images/character-with-eyes.png)
@@ -81,6 +83,8 @@ Use the Paint editor to change the costumes to add circles, and choose a differe
 --- task ---
 
 Name your sprite `Eyeball` in the Sprite pane.
+
+![Sprite pane properties.](images/eyeball-name.png)
 
 --- /task ---
 

@@ -56,11 +56,14 @@ Add the same script as you used to change the eye colour. Which graphic effects 
 
 --- /task ---
 
-Now, add an **accessory** sprite that changes when you click on it using the `next costume`{:class="block3looks"} block. This is how we got Gobo's hat to change.
+Now, add an **accessory** sprite, such as a hat, that changes when you click on it using the `next costume`{:class="block3looks"} block. 
 
 --- task ---
 
 Add an accessory or costume change of your choice.
+
+
+![Sprites with accessories.](images/accessory-sprite.png)
 
 --- collapse ---
 

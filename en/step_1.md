@@ -2,10 +2,18 @@
 
 In this project, you will design and create a googly-eyed character. Googly eyes are silly large eyes, and the character's eyes will follow the mouse pointer to bring your character to life.
 
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
+<span style="color: #0faeb0">**Design**</span> means deciding on the way that a project looks and making decisions about what it does. 
+</p>
+
 You will:
 + Make a project with **user interaction**
 + Personalise a project with colour and graphic effects
 + Learn about design in digital making 
+
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
+<span style="color: #0faeb0">**User**</span> means the person using the project (not just making it), and <span style="color: #0faeb0">**user interaction**</span> is how the project reacts to the user doing things such as moving the mouse and clicking on the screen. 
+</p>
 
 ![Examples of many projects that you can create.](images/showcase-line.png)
 
@@ -32,10 +40,6 @@ What happens when you move between Gobo's eyes? Try clicking on different parts 
 </div>
 
 --- /task ---
-
-<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-<span style="color: #0faeb0">**Design**</span> means deciding on the way that a project looks and making decisions about what it does. 
-</p>
 
 ### Get inspiration 
 
@@ -64,10 +68,6 @@ Explore these example projects to get more ideas:
 
 --- print-only ---
 
-<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-<span style="color: #0faeb0">**Design**</span> means deciding on the way that a project looks and making decisions about what it does. 
-</p>
-
 ### Get inspiration 
 
 You are going to make some design decisions to create your character. See inside example projects in the [Scratch 1: Googly-eyed character — Examples](https://scratch.mit.edu/studios/29029028/){:target="_blank"} Scratch studio.
@@ -79,7 +79,4 @@ You are going to make some design decisions to create your character. See inside
 
 --- /print-only ---
 
-<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-**User** means the person using the project (not just making it), and <span style="color: #0faeb0">**user interaction**</span> is how the project reacts to the user doing things such as moving the mouse and clicking on the screen. 
-</p>
  
