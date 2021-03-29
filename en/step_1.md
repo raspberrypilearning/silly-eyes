@@ -1,13 +1,13 @@
 ## Introduction
 
-You will design and create a googly eye character. Googly eyes are silly large eyes, yours will follow the mouse pointer to bring your character to life.
+In this project, you will design and create a googly-eyed character. Googly eyes are silly large eyes, and the character's eyes will follow the mouse pointer to bring your character to life.
 
 You will:
 + Make a project with **user interaction**
-+ Personalize a project with colour and graphic effects
++ Personalise a project with colour and graphic effects
 + Learn about design in digital making 
 
-![Examples of many projects you can create](images/showcase-line.png)
+![Examples of many projects that you can create.](images/showcase-line.png)
 
 --- no-print ---
 
@@ -18,9 +18,9 @@ You will:
 
 ### Try it 
 
-Move the mouse (or your finger on a tablet) around the screen and watch what happens to Gobo's eyes.
+Move the mouse (or your finger, on a tablet) around the screen and watch what happens to Gobo's eyes.
 
-What happens when you move between the Gobo's eyes? Try clicking on different parts to customise the scene.
+What happens when you move between Gobo's eyes? Try clicking on different parts to customise the scene.
 
 </div>
 <div>
@@ -34,12 +34,12 @@ What happens when you move between the Gobo's eyes? Try clicking on different pa
 --- /task ---
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-<span style="color: #0faeb0">Design</span> means deciding on the way a project looks and making decisions about what it does. 
+<span style="color: #0faeb0">**Design**</span> means deciding on the way that a project looks and making decisions about what it does. 
 </p>
 
 ### Get inspiration 
 
-You are going to make some design decisions to create your character. Think about what kind of googly eye character you want to make.
+You are going to make some design decisions to create your character. Think about what kind of googly-eyed character you want to make.
 
 --- task ---
 
@@ -65,21 +65,21 @@ Explore these example projects to get more ideas:
 --- print-only ---
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-<span style="color: #0faeb0">Design</span> means deciding on the way a project looks and making decisions about what it does. 
+<span style="color: #0faeb0">**Design**</span> means deciding on the way that a project looks and making decisions about what it does. 
 </p>
 
 ### Get inspiration 
 
-You are going to make some design decisions to create your character. See inside example projects in [Scratch 1: Googly eye character - Examples](https://scratch.mit.edu/studios/29029028/){:target="_blank"} Scratch studio.
+You are going to make some design decisions to create your character. See inside example projects in the [Scratch 1: Googly-eyed character — Examples](https://scratch.mit.edu/studios/29029028/){:target="_blank"} Scratch studio.
 
-![Gobo watching project for inspiration](images/gobo-watching.png)
-![Dont eat donut project for inspiration](images/dont-eat-donut.png)
-![Under the sea project for inspiration](images/under-the-sea.png)
-![Sporg project for inspiration](images/sporg.png)
+![Gobo watching project for inspiration.](images/gobo-watching.png)
+![Don't eat donut project for inspiration.](images/dont-eat-donut.png)
+![Under the sea project for inspiration.](images/under-the-sea.png)
+![Sporg project for inspiration.](images/sporg.png)
 
 --- /print-only ---
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-"User" means the person using the project (not just making it), and <span style="color: #0faeb0">User interaction</span> is how the project reacts to the user doing things such as moving the mouse and clicking on the screen. 
+**User** means the person using the project (not just making it), and <span style="color: #0faeb0">**user interaction**</span> is how the project reacts to the user doing things such as moving the mouse and clicking on the screen. 
 </p>
  

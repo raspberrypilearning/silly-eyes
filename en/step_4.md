@@ -34,7 +34,7 @@ change [color v] effect by (25)
 
 --- task ---
 
-If you want both Eyeballs to have the same effect then you will need to copy your script to 'Eyeball 2'.
+If you want both eyeballs to have the same effect, then you will need to copy your script to the **Eyeball 2** sprite.
 
 [[[scratch3-copy-code]]]
 
@@ -42,25 +42,25 @@ If you want both Eyeballs to have the same effect then you will need to copy you
 
 ### Character effects
 
-If you want to, you can also make your **Character** sprite change colour and other graphic effects when you click on it. 
+If you want to, you can also make your **character** sprite change colour and other graphic effects when you click on it. 
 
 --- task ---
 
-Click on your character sprite and then the **Code** tab.
+Click on your **character** sprite, and then on the **Code** tab.
 
-Add the same script you used to change the eye colour. Which graphic effects do you want to do to change on your character?
+Add the same script as you used to change the eye colour. Which graphic effects do you want to do to change on your character?
 
-**Choose** an effect by selecting it from the drop-down box in the `change color effect`{:class="block3looks"} block. Experiment with the numbers until you have the change you like.   
+**Choose** an effect by selecting it from the drop-down menu in the `change color effect`{:class="block3looks"} block. Experiment with the numbers until you have the change that you like.   
 
 [[[scratch3-graphic-effects]]]
 
 --- /task ---
 
-Now add an accessory sprite that changes when you click on it using the `next costume`{:class="block3looks"} block. This is how we got Gobo's hat to change.
+Now, add an **accessory** sprite that changes when you click on it using the `next costume`{:class="block3looks"} block. This is how we got Gobo's hat to change.
 
 --- task ---
 
-Add an accessory or costume change of your choicee.
+Add an accessory or costume change of your choice.
 
 --- collapse ---
 
@@ -84,7 +84,7 @@ next costume
 
 --- /collapse ---
 
-If your sprite doesn't have a choice of costumes, or you want to add more, you can add any costume to a sprite.
+If your sprite does not have a choice of costumes, or you want to add more, you can add any costume to a sprite.
 
 [[[scratch3-add-costumes-to-a-sprite]]]
 
@@ -92,7 +92,7 @@ If your sprite doesn't have a choice of costumes, or you want to add more, you c
 
 --- task ---
 
-**Test:** Work on your sprites until they interact in the way that you want. Try one change at a time and test what it does so you can easily spot the change and undo anything you do not like.  
+**Test:** Work on your sprites until they interact in the way that you want. Try one change at a time and test what it does so that you can easily spot the change and undo anything that you do not like.  
 
 --- /task ---
 
@@ -100,7 +100,7 @@ If your sprite doesn't have a choice of costumes, or you want to add more, you c
 
 **Debug:**
 
-If you add code to the wrong sprite you can fix that:
+If you add code to the wrong sprite, you can fix that:
 
 [[[scratch3-copy-code]]]
 
@@ -110,7 +110,7 @@ If you add code to the wrong sprite you can fix that:
 title: I don't want these graphic effects  
 ---
 
-To reset your graphics effects at any point, click on the clear graphic effects block in the `Looks`{:class="block3looks"} Blocks menu. Clicking the green flag also clears graphic effects.
+To reset your graphics effects at any point, click on the `clear graphic effects`{:class="block3looks"} block in the `Looks`{:class="block3looks"} blocks menu. Clicking on the green flag also clears graphic effects.
 
 ```blocks3
 clear graphic effects

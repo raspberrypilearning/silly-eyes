@@ -2,10 +2,10 @@
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-Have you got an idea about your own character? Now you can make it!
+Have you got an idea about your own character? Now, you can make it!
 </div>
 <div>
-![Large character ready for googly eyes. Which character will you choose?](images/character.png){:width="300px"}    
+![A large character, ready for googly eyes. Which character will you choose?](images/character.png){:width="300px"}    
 </div>
 </div>
 
@@ -21,13 +21,13 @@ Open a [new Scratch project](http://rpf.io/scratch-new){:target="_blank"}. Scrat
 
 Choose a sprite **or** create your own simple sprite in the Paint editor.
 
-You don't have to choose a person or animal, you could choose an object like the donut.
+You don't have to choose a person or animal. You could choose an object, like the donut.
 
 [[[generic-scratch3-sprite-from-library]]]
 
-If you paint your own sprite **don't add eyes yet because they need to be separate sprites.**
+If you paint your own sprite, **don't add eyes yet, because they need to be separate sprites.**
 
-![Pig costume created using the paint editor](images/pig-costume.png)
+![Pig costume created using the Paint editor.](images/pig-costume.png)
 
 [[[scratch3-backdrops-and-sprites-using-shapes]]]
 
@@ -37,24 +37,24 @@ If you paint your own sprite **don't add eyes yet because they need to be separa
 title: Get a surprise sprite
 ---
 
-Not sure which sprite to choose? Click on 'Choose a sprite' and then choose the 'Surprise' option. 
+Not sure which sprite to choose? Click on **Choose a Sprite**, and then choose the **Surprise** option.
 
 This will add a surprise sprite to your project.
 
-![Surprise sprite option highlighted](images/surprise-sprite.png)
+![Surprise sprite option highlighted.](images/surprise-sprite.png)
 
 
 --- /collapse ---
 
 --- /task ---
 
-At the moment your character will be much smaller than the characters in our example projects. You can make your character bigger so that they fill more of the screen.
+At the moment, your character will be much smaller than the characters in our example projects. You can make your character bigger so that it fills more of the screen.
 
 --- task ---
 
-From the Sprite pane change the number in the **Size** property to a number of your choice. 
+In the Sprite pane, change the number in the **Size** property to a number of your choice. 
 
-![The size property in the Sprite pane](images/size-property.png){:width="500px"}
+![The Size property in the Sprite pane.](images/size-property.png){:width="500px"}
 
 --- /task ---
 
