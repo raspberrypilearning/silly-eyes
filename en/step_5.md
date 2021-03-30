@@ -2,7 +2,7 @@
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-You can also make the project do something when you click on the Stage.
+You can also make the project do something when you click on the **Stage**.
 </div>
 <div>
 ![Stage with graphic effects. Brrr, It's cold! Take me to a warmer backdrop](images/stage-effects.png){:width="300px"} 
@@ -12,14 +12,14 @@ You can also make the project do something when you click on the Stage.
 
 --- task ---
 
-Click on the Stage pane and then the Code tab to add code to the Stage.
+Click on the Stage pane and then the **Code** tab to add code to the **Stage**.
 
-**Choose:** what you want to change when the Stage is clicked.
+**Choose:** Choose what you want to change when the **Stage** is clicked.
 
 --- collapse ---
 
 ---
-title: Change graphic effects when Stage clicked
+title: Change graphic effects when the Stage is clicked
 ---
 
 ```blocks3
@@ -32,7 +32,7 @@ change [color v] effect by [25]
 --- collapse ---
 
 ---
-title: Switch backdrop when Stage clicked
+title: Switch backdrop when the Stage is clicked
 ---
 
 ```blocks3
@@ -45,19 +45,19 @@ next backdrop
 --- /task ---
 
 --- task ---
-**Test:** Click on the Stage to see the backdrop switch or change graphic effects. 
+**Test:** Click on the **Stage** to see the backdrop switch or change graphic effects. 
 
 --- /task ---
 
 --- task ---
-**Test** your project again, this time making it fullscreen so you can see how it will appear to someone looking at it.
+**Test** your project again, but this time, make it full-screen so that you can see how it will appear to someone looking at it.
 
 [[[scratch3-full-screen]]]
 
 --- /task ---
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-By making your project full screen, you are seeing what you have made from the perspective of a user who is playing with your project. **User interaction** is important in digital making. 
+By making your project full-screen, you are seeing what you have made from the perspective of a user who is playing with your project. **User interaction** is important in digital making. 
 </p>
 
 --- save ---
