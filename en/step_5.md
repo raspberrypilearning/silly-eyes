@@ -5,14 +5,14 @@
 You can also make the project do something when you click on the **Stage**.
 </div>
 <div>
-![Stage with graphic effects. Brrr, It's cold! Take me to a warmer backdrop](images/stage-effects.png){:width="300px"} 
+![The Stage with graphic effects.](images/stage-effects.png){:width="300px"} 
 {:width="300px"}  
 </div>
 </div>
 
 --- task ---
 
-Click on the Stage pane and then the **Code** tab to add code to the **Stage**.
+Click on the Stage pane and then on the **Code** tab to add code to the **Stage**.
 
 **Choose:** Choose what you want to change when the **Stage** is clicked.
 
@@ -50,7 +50,7 @@ next backdrop
 --- /task ---
 
 --- task ---
-**Test** your project again, but this time, make it full-screen so that you can see how it will appear to someone looking at it.
+**Test:** Test your project again, but this time, make it full-screen so that you can see how it will appear to someone looking at it.
 
 [[[scratch3-full-screen]]]
 
