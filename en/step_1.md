@@ -1,6 +1,6 @@
 ## Introduction
 
-In this project, you will design and create a googly-eyed character. Googly eyes are silly large eyes, and the character's eyes will follow the mouse pointer to bring your character to life.
+In this project, you will design and create a googly eye character. Googly eyes are silly large eyes, and the character's eyes will follow the mouse pointer to bring your character to life.
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
 <span style="color: #0faeb0">**Design**</span> means deciding on the way that a project looks and making decisions about what it does. 
@@ -26,7 +26,7 @@ You will:
 
 ### Try it 
 
-Move the mouse (or your finger, on a tablet) around the screen and watch what happens to Gobo's eyes.
+Move the mouse (or if you are using a tablet, move your finger) around the screen and watch what happens to Gobo's eyes.
 
 What happens when you move between Gobo's eyes? Try clicking on different parts to customise the scene.
 
@@ -43,7 +43,7 @@ What happens when you move between Gobo's eyes? Try clicking on different parts 
 
 ### Get inspiration 
 
-You are going to make some design decisions to create your character. Think about what kind of googly-eyed character you want to make.
+You are going to make some design decisions to create your character. Think about what kind of googly eye character you want to make.
 
 --- task ---
 
@@ -70,12 +70,12 @@ Explore these example projects to get more ideas:
 
 ### Get inspiration 
 
-You are going to make some design decisions to create your character. See inside example projects in the [Scratch 1: Googly-eyed character — Examples](https://scratch.mit.edu/studios/29029028/){:target="_blank"} Scratch studio.
+You are going to make some design decisions to create your character. **See inside** example projects in the 'Googly eye character — Examples' Scratch studio: https://scratch.mit.edu/studios/29029028 
 
-![Gobo watching project for inspiration.](images/gobo-watching.png)
-![Don't eat donut project for inspiration.](images/dont-eat-donut.png)
-![Under the sea project for inspiration.](images/under-the-sea.png)
-![Sporg project for inspiration.](images/sporg.png)
+![The 'Gobo watching' project.](images/gobo-watching.png)
+![The 'Don't eat donut' project.](images/dont-eat-donut.png)
+![The 'Under the sea' project.](images/under-the-sea.png)
+![The 'Sporg' project.](images/sporg.png)
 
 --- /print-only ---
 

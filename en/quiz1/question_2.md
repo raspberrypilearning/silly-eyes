@@ -14,29 +14,29 @@ point towards (mouse-pointer v)
 end
 ```
 
-Which rocket costume should we use so that the nose of the rocket will point towards the mouse pointer?
+Which **rocket** costume should we use so that the nose of the rocket will point towards the mouse pointer?
 
 --- choices ---
 
-- ( ) ![Rocket pointing to the left-hand side.](images/rocket_left.png)
+- ( ) ![A rocket pointing to the left-hand side.](images/rocket_left.png)
 
   --- feedback ---
 If the rocket is pointing to the left-hand side, the rocket will be facing the opposite direction to (away from) the mouse pointer when it rotates.
   --- /feedback ---
 
-- ( ) ![Rocket facing down.](images/rocket_down.png)
+- ( ) ![A rocket facing down.](images/rocket_down.png)
 
   --- feedback ---
 If the rocket is facing down, it will be facing a different direction to the mouse pointer when it rotates.
   --- /feedback ---
 
-- (x) ![Rocket pointing to the right-hand side.](images/rocket_right.png)
+- (x) ![A rocket pointing to the right-hand side.](images/rocket_right.png)
 
   --- feedback ---
-Right is the default position for correctly pointing towards your mouse pointer if your rotation style is set to all around.
+Pointing to the right-hand side is the default position for correctly pointing towards your mouse pointer if your rotation style is set to `all around`{:class="block3motion"}.
   --- /feedback ---
 
-- ( ) ![Rocket facing up.](images/rocket_up.png)
+- ( ) ![A rocket facing up.](images/rocket_up.png)
 
   --- feedback ---
 If the rocket is facing up, it will be facing a different direction to the mouse pointer when it rotates.

@@ -4,9 +4,9 @@
 legend: Question 3 of 3
 ---
 
-<span style="color: #0faeb0">**User interaction**</span> is how the project reacts to the user. The 'Googly-eyed character' project that you have made probably has lots of <span style="color: #0faeb0">**user interaction**</span>!
+<span style="color: #0faeb0">**User interaction**</span> is how the project reacts to the user. The 'Googly eye character' project that you have made probably has lots of <span style="color: #0faeb0">**user interaction**</span>!
 
-Which of these scripts allows user interaction after the program has started? 
+Which of these scripts allows user interaction after the program has started?
 
 --- choices ---
 

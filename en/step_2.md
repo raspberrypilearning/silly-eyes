@@ -5,13 +5,13 @@
 Have you got an idea about your own character? Now, you can get it ready for googly eyes!
 </div>
 <div>
-![A large character, ready for googly eyes. Which character will you choose?](images/character.png){:width="300px"}    
+![A large character.](images/character.png){:width="300px"}    
 </div>
 </div>
 
 --- task ---
 
-Open a [new Scratch project](http://rpf.io/scratch-new){:target="_blank"}. Scratch will open in another browser tab.
+Open a [new Scratch project](https://rpf.io/scratch-new){:target="_blank"}. Scratch will open in another browser tab.
 
 [[[working-offline]]]
 
@@ -19,15 +19,15 @@ Open a [new Scratch project](http://rpf.io/scratch-new){:target="_blank"}. Scrat
 
 --- task ---
 
-Choose a sprite **or** create your own simple sprite in the Paint editor.
+**Choose:** Choose a sprite **or** create your own simple sprite in the Paint editor.
 
 You don't have to choose a person or animal. You could choose an object, like the donut.
 
 [[[generic-scratch3-sprite-from-library]]]
 
-If you paint your own sprite, **don't add eyes yet, because they need to be separate sprites.**
+If you create your own sprite in the Paint editor, **don't add eyes yet, because they need to be separate sprites.**
 
-![Pig costume created using the Paint editor.](images/pig-costume.png)
+![A pig costume created in the Paint editor.](images/pig-costume.png)
 
 [[[scratch3-backdrops-and-sprites-using-shapes]]]
 
@@ -37,11 +37,11 @@ If you paint your own sprite, **don't add eyes yet, because they need to be sepa
 title: Get a surprise sprite
 ---
 
-Not sure which sprite to choose? Click on **Choose a Sprite**, and then choose the **Surprise** option.
+Not sure which sprite to choose? Go to the **Choose a Sprite** menu, and then choose the **Surprise** option.
 
 This will add a surprise sprite to your project.
 
-![Surprise sprite option highlighted.](images/surprise-sprite.png)
+![The 'Surprise' option in the 'Choose a Sprite' menu.](images/surprise-sprite.png)
 
 
 --- /collapse ---
@@ -62,7 +62,7 @@ Where do you want your character to live?
 
 --- task ---
 
-**Choose** a backdrop that is sensible or silly. 
+**Choose:** Choose a backdrop that is sensible or silly.
 
 [[[generic-scratch3-backdrop-from-library]]]
 

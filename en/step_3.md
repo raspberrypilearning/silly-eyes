@@ -4,31 +4,31 @@
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
 In this step, you will make the googly eyes! Each eye needs to be a separate sprite so that it can move separately.
 
-If you get stuck, you can look at the 'Debug' tips at the bottom.
+If you need help, look at the tips in the **Debug** task at the bottom of this step.
 </div>
 <div>
-![Character with googly eyes. Look at my lovely googly eye sprites.](images/character-with-eyes.png)
+![A character with googly eye sprites.](images/character-with-eyes.png)
 {:width="300px"}  
 </div>
 </div>
 
 --- task ---
 
-Add a new **sprite** using the **Paint** option. 
+Use the **Paint** option to create a new **sprite**. 
 
-![Paint a sprite button.](images/paint-a-sprite.png)
+![The 'Paint' option in the 'Choose a Sprite' menu.](images/paint-a-sprite.png)
 
-The Paint editor will open, for you to paint your **Eyeball** sprite's costume.
+The Paint editor will open, for you to create your **Eyeball** sprite's costume.
 
 --- /task ---
 
 It is really important that:
-- The costume has the black pupil and coloured iris facing to the right
-- The **eyeball** costume is centred
+- The black pupil and coloured iris face to the right-hand side of the **Eyeball** costume
+- The **Eyeball** costume is centred
 
 --- task ---
 
-**Choose:** Draw your eyeball **or** start from a round sprite.
+**Choose:** Draw an eyeball **or** start from a round sprite.
 
 --- collapse ---
 
@@ -38,24 +38,24 @@ title: Draw an eyeball in the Paint editor
 
 Select the **Circle** tool.
 
-To draw a perfect circle, press and hold the <kbd>Shift</kbd> key on the keyboard while you draw with the oval. If you are using a tablet, try to get as close to a perfect circle as possible.
+To draw a perfect circle, press and hold the <kbd>Shift</kbd> key on the keyboard while you draw with the **Circle** tool. If you are using a tablet, try to get as close to a perfect circle as you can.
 
-We set the outline to black and the eyeball to white:
+We set the **Outline** to black and the **Fill** colour of the eyeball to white:
 
-![White eyeball with a black outline.](images/eyeball-outline.png)
+![A white eyeball with a black outline.](images/eyeball-outline.png)
 
 Use the **Fill** colour chooser to choose your colours. To make black, slide both the **Saturation** and **Brightness** to `0`. To make white, slide the **Saturation** to `0` and the **Brightness** to `100`.
 
 ![](images/black-colour.png)
 ![](images/white-colour.png)
 
-Make sure that the eyeball is centred so the blue cross is inside the grey circle.
+Make sure that the eyeball is centred — move it so that the blue cross in the costume lines up with the grey crosshair in the Paint editor.
 
 Draw a smaller perfect circle and position it on the right-hand side of the eyeball:
 
-![Eyeball with a red iris and black pupil.](images/eyeball-with-iris.png)
+![An eyeball with a red iris and black pupil.](images/eyeball-with-iris.png)
 
-You could also draw circles inside circles, or make the eyeball coloured to get different effects.
+You could also draw circles inside circles, or make the eyeball coloured, to get different effects.
 
 --- /collapse ---
 
@@ -66,15 +66,15 @@ You could also draw circles inside circles, or make the eyeball coloured to get 
 title: Turn a round costume into an eyeball
 ---
 
-There are costumes in Scratch that can be edited to make googly eyes for your character. 
+There are costumes in Scratch that you can edit to make googly eyes for your character. 
 
 Use the Paint editor to change the costumes to add circles, and choose a different **Fill** colour or remove parts of the costume to turn it into a googly eye. 
 
-**Tip:** The costume will need to be centred in the Paint editor using the crosshair so that it rotates smoothly as it turns. The black pupil and coloured iris need to be positioned to the right-hand side of the costume so that it follows the mouse pointer.
+**Tip:** You will need to centre the **Eyeball** costume in the Paint editor so that it rotates smoothly as it turns. Use the crosshair to centre the costume. The black pupil and coloured iris need to be positioned to the right-hand side of the costume so that the **Eyeball** follows the mouse pointer.
 
-![Existing Scratch costumes as eyes.](images/costume-eyes.gif)
+![Existing Scratch costumes as eyeballs.](images/costume-eyes.gif)
 
-![Paint editor with edited button1 sprite.](images/button-eye.png)
+![The Paint editor showing an edited button1 costume.](images/button-eye.png)
 
 --- /collapse ---
 
@@ -84,7 +84,7 @@ Use the Paint editor to change the costumes to add circles, and choose a differe
 
 Name your sprite `Eyeball` in the Sprite pane.
 
-![Sprite pane properties.](images/eyeball-name.png)
+![The sprite's name set to 'Eyeball' in the Sprite pane.](images/eyeball-name.png)
 
 --- /task ---
 
@@ -119,11 +119,11 @@ end
 --- /task ---
 
 
-If your character is a cyclops, then you are done. 
+If your character only has one eye, then you have finished. 
 
 --- task ---
 
-Otherwise, right-click (or on a tablet, tap and hold) on the **Eyeball** sprite in the Sprite list and choose **duplicate** to create more eyes.
+Otherwise, right-click (or on a tablet, tap and hold) on the **Eyeball** sprite in the Sprite list and choose **duplicate** to create more googly eyes.
 
 [[[scratch3-duplicate-sprite]]]
 
@@ -131,9 +131,9 @@ Otherwise, right-click (or on a tablet, tap and hold) on the **Eyeball** sprite 
 
 --- task ---
 
-**Test:** Click on the green flag and try your project out. Do the googly eyes follow you as you move the mouse around?
+**Test:** Click on the green flag and try your project. Do the googly eyes follow your mouse pointer as you move the mouse around?
 
-**Tip:** You don't have to keep the mouse pointer on the Stage. The eyes will follow you as you carry on coding in Scratch.
+**Tip:** You don't have to keep the mouse pointer on the Stage. The eyes will follow your mouse pointer as you carry on coding in Scratch.
 
 --- /task ---
 
@@ -145,7 +145,7 @@ Otherwise, right-click (or on a tablet, tap and hold) on the **Eyeball** sprite 
 title: The eyes do not move
 ---
 
-Make sure that you have added the code to the **eye** sprite(s) and **clicked on the green flag**. Your code will not run until you click on the green flag.
+Make sure that you have added the code to the **Eyeball** sprite(s) and **clicked on the green flag**. Your code will not run until you click on the green flag.
 
 --- /collapse ---
 
@@ -154,15 +154,15 @@ Make sure that you have added the code to the **eye** sprite(s) and **clicked on
 title: The eyes point away from the mouse
 ---
 
-Check that the pupil is on the right-hand side (past the blue cross in the middle) in the **eye** costume(s). 
+In the **Eyeball** costume(s), check that the pupil is on the right-hand side (past the blue cross in the middle of the costume). 
 
-The eyeball has the `all around`{:class="block3motion"} `rotation style`{:class="block3motion"} so it can rotate in any direction. 
+The **Eyeball** has the `all around`{:class="block3motion"} `rotation style`{:class="block3motion"}, so it can rotate in any direction. 
 
-When the eyeball rotates to `point towards`{:class="block3motion"} the `mouse pointer`{:class="block3motion"}, the pupil will be closest to the mouse pointer. 
+When the **Eyeball** rotates to `point towards`{:class="block3motion"} the `mouse-pointer`{:class="block3motion"}, the pupil will be closest to the mouse pointer. 
 
-![An eye costume with the pupil on the right-hand side.](images/eye-right.gif)
+![Placing the pupil on the right-hand side of an eyeball costume.](images/eye-right.gif)
 
-![An eye costume with the pupil on the right-hand side.](images/eye-costume.png)
+![An eyeball costume with the pupil on the right-hand side.](images/eye-costume.png)
 
 --- /collapse ---
 
@@ -171,11 +171,11 @@ When the eyeball rotates to `point towards`{:class="block3motion"} the `mouse po
 title: The eyes jump around the Stage
 ---
 
-Check that the costume is centred. Drag the costume so that the blue cross lines up with the grey cross in the Paint editor.
+Check that the costume is centred. Drag the costume so that the blue cross in the costume lines up with the grey crosshair in the Paint editor.
 
-![An eye costume centred in the Paint editor.](images/eye-centered.gif)
+![Centring an eyeball costume in the Paint editor.](images/eye-centered.gif)
 
-![An eye costume centred in the Paint editor.](images/eye-costume.png)
+![An eyeball costume centred in the Paint editor.](images/eye-costume.png)
 
 --- /collapse ---
 
@@ -187,7 +187,7 @@ title: The character is in front of the eyes
 
 When you drag a sprite to position it on the Stage, it moves in front of the other sprites. 
 
-To get your character sprite to stay at the back, use:
+To get your **character** sprite to stay at the `back`{:class="block3looks"}, use:
 
 ```blocks3
 when green flag clicked
@@ -203,9 +203,9 @@ go to [back v] layer // behind all other sprites
 title: The character and the eyes follow the mouse pointer
 ---
 
-Did you add the eyes as costumes to your character instead of as costumes on separate sprites? You can fix that. 
+Did you add the eyes as costumes for your **character** instead of as costumes for separate sprites? You can fix that. 
 
-One way to fix it is to duplicate the **character** sprite and then rename the copy as `Eyeball`. Then, delete the **eye** costumes from the **character**, and the **character** costumes from the **eye**. Then, you can duplicate the **Eyeball** sprite and name it `Eyeball 2`.
+One way to fix it is to duplicate the **character** sprite and then rename the copy as `Eyeball`. Then, delete the **Eyeball** costumes from the **character** sprite, and delete the **character** costumes from the **Eyeball** sprite. Then, you can duplicate the **Eyeball** sprite and name it `Eyeball 2`.
 
 The code to `point towards`{:class="block3motion"} the `mouse-pointer`{:class="block3motion"} should be on the **Eyeball** sprites and not the **character** sprite.
 
@@ -219,15 +219,15 @@ title: The character follows the mouse pointer (and the eyes do not)
 
 You need to add the `point towards`{:class="block3motion"} code to the individual **Eyeball** sprites, not your **character** sprite!
 
-You can drag the code from the Code area of your **character** to the **Eyeball** sprite(s) in the Sprite list to copy it. 
+To copy the code, you can drag the code from the Code area for your **character** to the **Eyeball** sprite(s) in the Sprite list. 
 
-You will also need to delete the script from the **character** sprite by dragging it to the Blocks menu.
+You will also need to delete the script from the **character** sprite. To do this, drag the script to the Blocks menu.
 
 --- /collapse ---
 
-You might find a bug that is not listed here. Can you figure out how to fix it? 
+You might find a bug that is not listed here. Can you work out how to fix it? 
 
-We love hearing about your bugs and how you fixed them. Use the feedback button at the bottom of this page if you found a different bug in your project. 
+We love hearing about your bugs and how you fixed them. Use the **Send feedback** button at the bottom of this page and tell us if you found a different bug in your project. 
 
 
 --- /task ---
