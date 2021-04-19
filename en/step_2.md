@@ -19,7 +19,7 @@ Open a [new Scratch project](https://rpf.io/scratch-new){:target="_blank"}. Scra
 
 --- task ---
 
-Choose a sprite **or** create your own simple sprite in the Paint editor.
+**Choose:** Choose a sprite **or** create your own simple sprite in the Paint editor.
 
 You don't have to choose a person or animal. You could choose an object, like the donut.
 
