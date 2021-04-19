@@ -18,6 +18,6 @@ If you have a Scratch account, and have shared your 'Googly eye character' proje
 
 Inspire the Raspberry Pi Foundation community with your project!
 
-To submit your project to our 'Googly eye character' Scratch studio, please complete [this form](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}.
+To submit your project to our ['Googly eye character - Community'](https://scratch.mit.edu/studios/29120534){:target="_blank"} Scratch studio, please complete [this form](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}.
 
 --- /task ---
