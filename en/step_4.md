@@ -56,7 +56,7 @@ Add the same script as you used to change the eye colour. Which graphic effects 
 
 --- /task ---
 
-Now, add an **accessory** sprite, such as a hat, that changes when you click on it — use the `next costume`{:class="block3looks"} block. 
+Now, add an **accessory**, such as a hat, that changes when you click on it — use the `next costume`{:class="block3looks"} block. 
 
 --- task ---
 
