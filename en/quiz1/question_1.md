@@ -16,7 +16,7 @@ legend: Question 1 of 3
 
 We added this code to an **Eyeball** sprite, but the eyeball is not rotating when the mouse pointer moves. 
 
-![Screenshot showing the script and the Stage. The script is not glowing yellow. The blocks in the script are: when flag clicked, set rotation style all around, forever, point toward mouse pointer.](images/code-not-running.png)
+![Screenshot showing the script and the Stage. The script is not glowing with a yellow outline. The blocks in the script are: 'when green flag clicked', 'set rotation style all around', 'forever', 'point towards mouse-pointer'.](images/code-not-running.png)
 
 How could you fix the problem with just one action?
 
