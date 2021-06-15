@@ -2,14 +2,14 @@
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-You can make your **character** sprite and **googly eye** sprites change their `Looks`{:class="block3looks"} when you click on them.
+You can make your **character** sprite and **silly eye** sprites change their `Looks`{:class="block3looks"} when you click on them.
 </div>
 <div>
 ![A character and eyes with graphic effects.](images/character-graphic-effects.png){:width="300px"}    
 </div>
 </div>
 
-### Googly eye effects
+### Silly eye effects
 
 --- task ---
 
