@@ -10,7 +10,7 @@ If you have a Scratch account, you can share your project through Scratch. You c
 
 Why not invite your friends to create a project? Let them know how you had fun.
 
-If you have a Scratch account, and have shared your 'Googly eye character' project, keep an eye out for comments that others may make about your creation. Feedback is a great way to reflect on your work. Ignore any comments that are unhelpful or irrelevant.
+If you have a Scratch account, and have shared your 'Silly eye character' project, keep an eye out for comments that others may make about your creation. Feedback is a great way to reflect on your work. Ignore any comments that are unhelpful or irrelevant.
 
 [[[comments-feedback-scratch]]]
 
@@ -18,6 +18,6 @@ If you have a Scratch account, and have shared your 'Googly eye character' proje
 
 Inspire the Raspberry Pi Foundation community with your project!
 
-To submit your project to our ['Googly eye character — Community' Scratch studio](https://scratch.mit.edu/studios/29120534){:target="_blank"}, please complete [this form](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}.
+To submit your project to our ['Silly eye character — Community' Scratch studio](https://scratch.mit.edu/studios/29120534){:target="_blank"}, please complete [this form](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}.
 
 --- /task ---
