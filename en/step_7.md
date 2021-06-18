@@ -4,7 +4,7 @@ If you have time, you can upgrade your project.
 
 Here are some ideas that you could try:
 - Add more body parts
-- Add more sprites with googly eyes
+- Add more sprites with silly eyes
 - Add more backdrops
 - Add more accessories, or add more costumes to your accessories
 - Try different graphic effects
@@ -22,6 +22,6 @@ If you add other body parts, you will need to centre them at the point that you 
 
 [[[scratch-crosshair]]]
 
-Take a look at our ['Googly eye character — Community' Scratch studio](https://scratch.mit.edu/studios/29120534){:target="_blank"} to see projects created by community members.
+Take a look at our ['Silly eyes — Community' Scratch studio](https://scratch.mit.edu/studios/29120534){:target="_blank"} to see projects created by community members.
 
 --- save ---
