@@ -34,7 +34,7 @@ change [color v] effect by (25)
 
 --- task ---
 
-If you want both eyeballs to have the same effect, then you will need to copy your script to the **Eyeball 2** sprite.
+If you want both eyeballs to have the same effect, you will need to copy your script to the **Eyeball 2** sprite.
 
 [[[scratch3-copy-code]]]
 
@@ -48,7 +48,7 @@ If you want to, you can also make your **character** sprite change colour and ot
 
 Click on your **character** sprite, and then on the **Code** tab.
 
-Add the same script as you used to change the eye colour. Which graphic effects do you want to change on your **character**?
+Add the same script as you used to change the eye colour. Which graphic effects do you want to change for your **character**?
 
 **Choose:** Choose an effect by selecting an effect in the drop-down menu in the `change color effect by`{:class="block3looks"} block. Experiment with the numbers until you have a change that you like.
 
@@ -113,7 +113,7 @@ If you add code to the wrong sprite, you can fix that:
 title: I don't want these graphic effects  
 ---
 
-To reset your graphics effects at any time, click on the `clear graphic effects`{:class="block3looks"} block in the `Looks`{:class="block3looks"} blocks menu. Clicking on the green flag also clears graphic effects.
+To reset the graphics effects at any time, click on the `clear graphic effects`{:class="block3looks"} block in the `Looks`{:class="block3looks"} blocks menu. Clicking on the green flag also clears graphic effects.
 
 ```blocks3
 clear graphic effects
