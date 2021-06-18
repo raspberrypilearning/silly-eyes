@@ -7,7 +7,7 @@ In this step, you will make the silly eyes! Each eye needs to be a separate spri
 If you need help, look at the tips in the **Debug** task at the bottom of this step.
 </div>
 <div>
-![A character with googly eye sprites.](images/character-with-eyes.png)
+![A character with silly eye sprites.](images/character-with-eyes.png)
 {:width="300px"}  
 </div>
 </div>
@@ -68,7 +68,7 @@ title: Turn a round costume into an eyeball
 
 There are costumes in Scratch that you can edit to make silly eyes for your character. 
 
-Use the Paint editor to change the costumes to add circles, and choose a different **Fill** colour or remove parts of the costume to turn it into a googly eye. 
+Use the Paint editor to change the costumes to add circles, and choose a different **Fill** colour or remove parts of the costume to turn it into a silly eye. 
 
 **Tip:** You will need to centre the **Eyeball** costume in the Paint editor so that it rotates smoothly as it turns. Use the crosshair to centre the costume. The black pupil and coloured iris need to be positioned to the right-hand side of the costume so that the **Eyeball** follows the mouse pointer.
 
