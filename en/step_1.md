@@ -28,7 +28,7 @@ You will:
 
 Move the mouse (or if you are using a tablet, move your finger) around the screen and watch what happens to Gobo's eyes.
 
-What happens when you move between Gobo's eyes? Try clicking on different parts to customise the scene.
+What happens when you move between Gobo's eyes? Try clicking on different parts of the project to customise the project.
 
 </div>
 <div>
