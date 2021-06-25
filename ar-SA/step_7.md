@@ -22,6 +22,6 @@ If you add other body parts, you will need to centre them at the point that you 
 
 [[[scratch-crosshair]]]
 
-Take a look at our ['Googly eye character' Scratch studio](https://scratch.mit.edu/studios/29120534){:target="_blank"} to see projects created by community members.
+Take a look at our ['Googly eye character — Community' Scratch studio](https://scratch.mit.edu/studios/29120534){:target="_blank"} to see projects created by community members.
 
 --- save ---
