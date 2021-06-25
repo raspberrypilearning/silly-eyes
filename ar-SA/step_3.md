@@ -1,8 +1,8 @@
-## Make googly eyes
+## Make silly eyes
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-In this step, you will make the googly eyes! Each eye needs to be a separate sprite so that it can move separately.
+In this step, you will make the silly eyes! Each eye needs to be a separate sprite so that it can move separately.
 
 If you need help, look at the tips in the **Debug** task at the bottom of this step.
 </div>
@@ -65,7 +65,7 @@ You could also draw circles inside circles, or make the eyeball coloured, to get
 title: Turn a round costume into an eyeball
 ---
 
-There are costumes in Scratch that you can edit to make googly eyes for your character.
+There are costumes in Scratch that you can edit to make silly eyes for your character.
 
 Use the Paint editor to change the costumes to add circles, and choose a different **Fill** colour or remove parts of the costume to turn it into a googly eye.
 
@@ -122,7 +122,7 @@ If your character only has one eye, then you have finished.
 
 --- task ---
 
-Otherwise, right-click (or on a tablet, tap and hold) on the **Eyeball** sprite in the Sprite list and choose **duplicate** to create more googly eyes.
+Otherwise, right-click (or on a tablet, tap and hold) on the **Eyeball** sprite in the Sprite list and choose **duplicate** to create more silly eyes.
 
 [[[scratch3-duplicate-sprite]]]
 
@@ -130,7 +130,7 @@ Otherwise, right-click (or on a tablet, tap and hold) on the **Eyeball** sprite 
 
 --- task ---
 
-**Test:** Click on the green flag and try your project. Do the googly eyes follow your mouse pointer as you move the mouse around?
+**Test:** Click on the green flag and try your project. Do the silly eyes follow your mouse pointer as you move the mouse around?
 
 **Tip:** You don't have to keep the mouse pointer on the Stage. The eyes will follow your mouse pointer as you carry on coding in Scratch.
 
