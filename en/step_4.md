@@ -46,7 +46,7 @@ If you want to, you can also make your **character** sprite change colour and ot
 
 --- task ---
 
-Click on your **character** sprite, and then on the **Code** tab.
+Click on your **character** sprite in the Sprite list, then click on the **Code** tab.
 
 Add the same script as you used to change the eye colour. Which graphic effects do you want to change for your **character**?
 
