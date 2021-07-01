@@ -50,7 +50,7 @@ Click on your **character** sprite, and then on the **Code** tab.
 
 Add the same script as you used to change the eye colour. Which graphic effects do you want to change for your **character**?
 
-**Choose:** Choose an effect by selecting an effect in the drop-down menu in the `change color effect by`{:class="block3looks"} block. Experiment with the numbers until you have a change that you like.
+**Choose:** Choose an effect in the drop-down menu within the `change color effect by`{:class="block3looks"} block. Experiment with the numbers until you have a change that you like.
 
 [[[scratch3-graphic-effects]]]
 
@@ -60,7 +60,7 @@ Now, add an **accessory**, such as a hat, that changes when you click on it — 
 
 --- task ---
 
-Add an accessory or costume change of your choice.
+**Choose:** Add an accessory change or costume change of your choice.
 
 
 ![Sprites with accessories.](images/accessory-sprite.png)
@@ -78,7 +78,7 @@ title: Make a sprite change costume when clicked
 
 Some sprites already have a choice of costumes.
 
-To change costumes, add code to change to the `next costume`{:class="block3looks"} when the user clicks on a sprite:
+You can add code to make a sprite's costume change to the `next costume`{:class="block3looks"} when you click on the sprite:
 
 ```blocks3
 when this sprite clicked
@@ -95,7 +95,7 @@ If your sprite does not have a choice of costumes, or you want to add more, you 
 
 --- task ---
 
-**Test:** Work on your sprites until they interact in the way that you want. Try one change at a time and test what it does so that you can easily spot the change and undo anything that you do not like.  
+**Test:** Work on your sprites until they interact in the way that you want. Try one change at a time and test what it does so that you can easily spot each change and undo anything that you do not like.  
 
 --- /task ---
 
@@ -107,13 +107,15 @@ If you add code to the wrong sprite, you can fix that:
 
 [[[scratch3-copy-code]]]
 
+If you need to, you can reset the graphic effects:
+
 --- collapse ---
 
 ---
 title: I don't want these graphic effects  
 ---
 
-To reset the graphics effects at any time, click on the `clear graphic effects`{:class="block3looks"} block in the `Looks`{:class="block3looks"} blocks menu. Clicking on the green flag also clears graphic effects.
+To reset the graphic effects at any time, click on the `clear graphic effects`{:class="block3looks"} block in the `Looks`{:class="block3looks"} blocks menu. Clicking on the green flag also clears graphic effects.
 
 ```blocks3
 clear graphic effects
