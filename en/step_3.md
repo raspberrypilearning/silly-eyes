@@ -156,9 +156,9 @@ title: The eyes point away from the mouse
 
 In the **Eyeball** costumes, check that the pupil is on the right-hand side (past the blue cross in the middle of the costume). 
 
-The **Eyeball** has the `all around`{:class="block3motion"} `rotation style`{:class="block3motion"}, so it can rotate in any direction. 
+The **Eyeball** sprites have the `all around`{:class="block3motion"} `rotation style`{:class="block3motion"}, so they can rotate in any direction. 
 
-When the **Eyeball** rotates to `point towards`{:class="block3motion"} the `mouse-pointer`{:class="block3motion"}, the pupil will be closest to the mouse pointer. 
+When the **Eyeballs** rotate to `point towards`{:class="block3motion"} the `mouse-pointer`{:class="block3motion"}, the pupils will be closest to the mouse pointer. 
 
 ![Placing the pupil on the right-hand side of an eyeball costume.](images/eye-right.gif)
 
