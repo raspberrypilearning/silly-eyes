@@ -37,7 +37,7 @@ If you create your own sprite in the Paint editor, **don't add eyes yet, because
 title: Get a surprise sprite
 ---
 
-Not sure which sprite to choose? Go to the **Choose a Sprite** menu, and then choose the **Surprise** option to add a surprise sprite to your project.
+Not sure which sprite to choose? Go to the **Choose a Sprite** menu and choose the **Surprise** option to add a surprise sprite to your project.
 
 ![The 'Surprise' option in the 'Choose a Sprite' menu.](images/surprise-sprite.png)
 
