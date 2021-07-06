@@ -4,7 +4,7 @@ Well done, you have learned a lot! Now, it's time to reflect — reflecting is a
 
 Answer the three questions below to reflect on what you have learned.
 
-After each question, press **Submit**. You will be guided towards the correct answer. You can do this activity as many times as you want to.
+When you have answered each question, click on **Submit**. You will be guided towards the correct answer. You can do this activity as many times as you want to.
 
 Have fun!
 
@@ -16,7 +16,7 @@ legend: Question 1 of 3
 
 We added this code to an **Eyeball** sprite, but the eyeball is not rotating when the mouse pointer moves. 
 
-![Screenshot showing the script and the Stage. The script is not glowing with a yellow outline. The blocks in the script are: 'when green flag clicked', 'set rotation style all around', 'forever', 'point towards mouse-pointer'.](images/code-not-running.png)
+![Screenshot showing the script and the Stage. The script is not glowing with a yellow outline. The blocks in the script are 'when green flag clicked', 'set rotation style all around', 'forever', 'point towards mouse-pointer'.](images/code-not-running.png)
 
 How could you fix the problem with just one action?
 
@@ -31,7 +31,7 @@ Your code will have a yellow outline around it when it is running.
 
 Forgetting to click on the green flag is a really common mistake — we all do it!
 
-**Tip:** If you change code in a loop while it is running, Scratch will run the new code the next time that the loop runs! You don't need to click on the green flag again. This is really useful when you are trying out ideas. 
+**Tip:** If you change code in a loop while the script is running, Scratch will run the new code the next time that the loop runs! You don't need to click on the green flag again. This is really useful when you are trying out ideas. 
 
   --- /feedback ---
 
@@ -50,7 +50,7 @@ You do not need to run the `set rotation style`{:class="block3looks"} block lots
 - ( ) Click on the Stage
 
   --- feedback ---
-You do not need to click on the Stage to get the eyeball to rotate. When the code is running, it will just follow the mouse pointer (or your finger, if you are using a tablet). 
+You do not need to click on the Stage to get the eyeball to rotate. When the code is running, the eyeball will just follow the mouse pointer (or your finger, if you are using a tablet). 
   --- /feedback ---
 
 --- /choices ---

@@ -15,7 +15,7 @@ You will:
 <span style="color: #0faeb0">**User**</span> means the person using the project (not just making it), and <span style="color: #0faeb0">**user interaction**</span> is how the project reacts to the user doing things such as moving the mouse and clicking on the screen. 
 </p>
 
-![Examples of many projects that you can create.](images/showcase-line.png)
+![Examples of projects.](images/showcase-line.png)
 
 --- no-print ---
 
@@ -26,9 +26,9 @@ You will:
 
 ### Try it 
 
-Move the mouse (or if you are using a tablet, move your finger) around the screen and watch what happens to Gobo's eyes.
-
-What happens when you move between Gobo's eyes? Try clicking on different parts to customise the scene.
+Move the mouse (or if you are using a tablet, move your finger) around the screen and watch what happens to Gobo's eyes. What happens when you move between Gobo's eyes? 
+  
+Try clicking on different parts of the project to customise the project.
 
 </div>
 <div>
@@ -70,7 +70,7 @@ Explore these example projects to get more ideas:
 
 ### Get inspiration 
 
-You are going to make some design decisions to create your character. **See inside** example projects in the 'Silly eyes — Examples' Scratch studio: https://scratch.mit.edu/studios/29029028 
+You are going to make some design decisions to create your character. Think about what kind of silly eye character you want to make. **See inside** example projects in the 'Silly eyes — Examples' Scratch studio to get more ideas: https://scratch.mit.edu/studios/29029028 
 
 ![The 'Gobo watching' project.](images/gobo-watching.png)
 ![The 'Don't eat donut' project.](images/dont-eat-donut.png)
