@@ -31,7 +31,7 @@ Your code will have a yellow outline around it when it is running.
 
 Forgetting to click on the green flag is a really common mistake — we all do it!
 
-**Tip:** If you change code in a loop while it is running, Scratch will run the new code the next time that the loop runs! You don't need to click on the green flag again. This is really useful when you are trying out ideas. 
+**Tip:** If you change code in a loop while the script is running, Scratch will run the new code the next time that the loop runs! You don't need to click on the green flag again. This is really useful when you are trying out ideas. 
 
   --- /feedback ---
 

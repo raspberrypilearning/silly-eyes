@@ -25,10 +25,6 @@ You don't have to choose a person or animal. You could choose an object, like th
 
 [[[generic-scratch3-sprite-from-library]]]
 
-If you create your own sprite in the Paint editor, **don't add eyes yet, because they need to be separate sprites.**
-
-![A pig costume created in the Paint editor, with no eyes.](images/pig-costume.png)
-
 [[[scratch3-backdrops-and-sprites-using-shapes]]]
 
 --- collapse ---
@@ -41,8 +37,9 @@ Not sure which sprite to choose? Go to the **Choose a Sprite** menu and choose t
 
 ![The 'Surprise' option in the 'Choose a Sprite' menu.](images/surprise-sprite.png)
 
-
 --- /collapse ---
+
+**Tip:** If you create your own sprite in the Paint editor, **don't add eyes yet, because they need to be separate sprites.**
 
 --- /task ---
 
