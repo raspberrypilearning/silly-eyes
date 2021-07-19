@@ -70,7 +70,7 @@ Explore these example projects to get more ideas:
 
 ### Get inspiration 
 
-You are going to make some design decisions to create your character. Think about what kind of silly eye character you want to make. **See inside** example projects in the 'Silly eyes — Examples' Scratch studio to get more ideas: https://scratch.mit.edu/studios/29029028 
+You are going to make some design decisions to create your character. Think about what kind of silly eye character you want to make. To get more ideas, **See inside** example projects in the 'Silly eyes — Examples' Scratch studio: https://scratch.mit.edu/studios/29029028 
 
 ![The 'Gobo watching' project.](images/gobo-watching.png)
 ![The 'Don't eat donut' project.](images/dont-eat-donut.png)
