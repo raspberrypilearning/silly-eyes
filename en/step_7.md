@@ -2,14 +2,14 @@
 
 If you have time, you can upgrade your project. 
 
-Here are some ideas that you could try:
+You could:
 - Add more body parts
 - Add more sprites with silly eyes
 - Add more backdrops
 - Add more accessories, or add more costumes to your accessories
 - Try different graphic effects
 
-Each project in the [Examples studio](https://scratch.mit.edu/studios/29029028){:target="_blank"} has a **See inside** link, which you can use to open the project in the Scratch editor and look at the code to get ideas and see how the project works.
+Each project in the ['Silly eyes — Examples' Scratch studio](https://scratch.mit.edu/studios/29029028){:target="_blank"} has a **See inside** link, which you can use to open the project in the Scratch editor and look at the code to get ideas and see how the project works.
 
 The **Sporg** character also has arms that `point towards the mouse pointer`{:class="block3motion"}.
 
