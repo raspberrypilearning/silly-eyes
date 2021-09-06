@@ -2,16 +2,16 @@
 
 If you have time, you can upgrade your project.
 
-Here are some ideas that you could try:
+You could:
 - Add more body parts
-- Add more sprites with googly eyes
+- Add more sprites with silly eyes
 - Add more backdrops
 - Add more accessories, or add more costumes to your accessories
 - Try different graphic effects
 
-Each example project in the [Introduction](.) has a **See inside** link for you to open the project in Scratch and look at the code to get ideas and see how the project works.
+Each project in the ['Silly eyes — Examples' Scratch studio](https://scratch.mit.edu/studios/29029028){:target="_blank"} has a **See inside** link, which you can use to open the project in the Scratch editor and look at the code to get ideas and see how the project works.
 
-The **Sporg** character also has arms that `point towards`{:class="block3motion"} the mouse pointer.
+The **Sporg** character also has arms that `point towards the mouse pointer`{:class="block3motion"}.
 
 **Sporg**: [See inside](https://scratch.mit.edu/projects/495865892/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
@@ -22,6 +22,6 @@ If you add other body parts, you will need to centre them at the point that you 
 
 [[[scratch-crosshair]]]
 
-Take a look at our ['Googly eye character — Community' Scratch studio](https://scratch.mit.edu/studios/29120534){:target="_blank"} to see projects created by community members.
+Take a look at our ['Silly eyes — Community' Scratch studio](https://scratch.mit.edu/studios/29120534){:target="_blank"} to see projects created by community members.
 
 --- save ---
