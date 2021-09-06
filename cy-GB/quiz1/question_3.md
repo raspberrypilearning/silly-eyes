@@ -1,5 +1,4 @@
 --- question ---
-
 ---
 legend: Question 3 of 3
 ---
@@ -16,21 +15,33 @@ when [timer v] > (10)
 clear graphic effects
 ```
 
-  --- feedback --- The graphic effects are cleared after the timer reaches 10. The user does not have to do anything, so there is no user interaction. --- /feedback ---
+  --- feedback ---
+
+The graphic effects are cleared after the timer reaches 10. The user does not have to do anything, so there is no user interaction.
+
+  --- /feedback ---
 - ( )
 ```blocks3
 when backdrop switches to [forest v]
 say [hello] for (2) seconds
 ```
 
-  --- feedback --- The sprite says "hello" after the backdrop switches. The user does not have to do anything, so there is no user interaction. --- /feedback ---
+  --- feedback ---
+
+The sprite says "hello" after the backdrop switches. The user does not have to do anything, so there is no user interaction.
+
+  --- /feedback ---
 - (x)
 ```blocks3
 when this sprite clicked
 change [color v] effect by (25)
 ```
 
-  --- feedback --- The user has to click on the sprite to change the colour. This is user interaction. --- /feedback ---
+  --- feedback ---
+
+The user has to click on the sprite to change the colour. This is user interaction.
+
+  --- /feedback ---
 
 
 - ( ) Give me a clue.
