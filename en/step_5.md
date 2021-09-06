@@ -45,6 +45,7 @@ next backdrop
 --- /task ---
 
 --- task ---
+
 **Test:** Click on the **Stage**, and check that the backdrop switches or the graphic effects change. 
 
 --- /task ---
