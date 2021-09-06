@@ -5,7 +5,9 @@
 You can make your **character** sprite and **silly eye** sprites change their `Looks`{:class="block3looks"} when you click on them.
 </div>
 <div>
+
 ![A character and eyes with graphic effects.](images/character-graphic-effects.png){:width="300px"}    
+
 </div>
 </div>
 
@@ -18,7 +20,6 @@ Add a `when this sprite clicked`{:class="block3events"} block to your **Eyeball*
 Can you work out what code block you would put underneath to change your sprite's eye colour when you click on the **Eyeball** sprite?
 
 --- collapse ---
-
 ---
 title: Change graphic effects when the sprite is clicked
 ---
@@ -66,7 +67,6 @@ Now, add an **accessory**, such as a hat, that changes when you click on it — 
 ![Sprites with accessories.](images/accessory-sprite.png)
 
 --- collapse ---
-
 ---
 title: Make a sprite change costume when clicked
 ---
@@ -110,7 +110,6 @@ If you add code to the wrong sprite, you can fix that:
 If you need to, you can reset the graphic effects:
 
 --- collapse ---
-
 ---
 title: I don't want these graphic effects  
 ---
