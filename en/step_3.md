@@ -7,8 +7,10 @@ In this step, you will make the silly eyes! Each eye needs to be a separate spri
 If you need help, look at the tips in the **Debug** task at the bottom of this step.
 </div>
 <div>
+
 ![A character with silly eyes.](images/character-with-eyes.png)
 {:width="300px"}  
+
 </div>
 </div>
 
@@ -31,7 +33,6 @@ It is really important that:
 **Choose:** Draw an eyeball **or** start from a round sprite.
 
 --- collapse ---
-
 ---
 title: Draw an eyeball in the Paint editor
 ---
@@ -61,7 +62,6 @@ You could also draw circles inside circles, or use colour, to get different effe
 
 
 --- collapse ---
-
 ---
 title: Turn a round costume into an eyeball
 ---
@@ -101,7 +101,6 @@ Now, make the eyeball look at the `mouse-pointer`{:class="block3motion"}.
 Add a script to `set the rotation style`{:class="block3motion"} to `all around`{:class="block3motion"} to make the eyeball `point towards the mouse pointer`{:class="block3motion"} `forever`{:class="block3control"}. 
 
 --- collapse ---
-
 ---
 title: Make a sprite point towards the mouse pointer
 ---
@@ -138,6 +137,7 @@ Otherwise, right-click (or on a tablet, tap and hold) on the **Eyeball** sprite 
 --- /task ---
 
 --- task ---
+
 **Debug:** You might find some bugs in your project that you need to fix. Here are some common bugs:
 
 --- collapse ---
@@ -180,7 +180,6 @@ Check that the **Eyeball** costumes are centred. To centre a costume, drag the c
 --- /collapse ---
 
 --- collapse ---
-
 --- 
 title: The character is in front of the eyes
 ---
@@ -198,7 +197,6 @@ go to [back v] layer // behind all other sprites
 --- /collapse ---
 
 --- collapse ---
-
 ---
 title: The character and the eyes follow the mouse pointer
 ---
@@ -212,7 +210,6 @@ The code to `point towards`{:class="block3motion"} the `mouse-pointer`{:class="b
 --- /collapse ---
 
 --- collapse ---
-
 ---
 title: The character follows the mouse pointer (and the eyes do not)
 ---

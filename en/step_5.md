@@ -5,8 +5,10 @@
 You can also make the project do something when you click on the **Stage**.
 </div>
 <div>
+
 ![The Stage with graphic effects.](images/stage-effects.png){:width="300px"} 
 {:width="300px"}  
+
 </div>
 </div>
 
@@ -17,7 +19,6 @@ Click on the Stage pane and then on the **Code** tab to add code to the **Stage*
 **Choose:** Choose what you want to change when the **Stage** is clicked.
 
 --- collapse ---
-
 ---
 title: Change graphic effects when the Stage is clicked
 ---
@@ -30,7 +31,6 @@ change [color v] effect by [25]
 --- /collapse ---
 
 --- collapse ---
-
 ---
 title: Switch backdrop when the Stage is clicked
 ---
@@ -50,6 +50,7 @@ next backdrop
 --- /task ---
 
 --- task ---
+
 **Test:** Test your project again, but this time, make it full-screen so that you can see how it will appear to someone looking at it.
 
 [[[scratch3-full-screen]]]

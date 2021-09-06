@@ -5,7 +5,9 @@
 Have you got an idea about your own character? Now, you can get it ready for silly eyes!
 </div>
 <div>
+
 ![A large character.](images/character.png){:width="300px"}    
+
 </div>
 </div>
 
@@ -28,7 +30,6 @@ You don't have to choose a person or animal. You could choose an object, like th
 [[[scratch3-backdrops-and-sprites-using-shapes]]]
 
 --- collapse ---
-
 ---
 title: Get a surprise sprite
 ---
