@@ -1,11 +1,11 @@
 --- question ---
 ---
-legend: Question 3 of 3
+legend : Question 3 sur 3
 ---
 
-<span style="color: #0faeb0">**User interaction**</span> is how the project reacts to the user. The 'Silly eyes' project that you have made probably has lots of <span style="color: #0faeb0">**user interaction**</span>!
+<span style="color: #0faeb0">**Interaction avec l'utilisateur**</span> est la façon dont le projet réagit à l’utilisateur. Le projet « yeux stupides » que tu as réalisé a probablement beaucoup d'<span style="color: #0faeb0">**interaction utilisateur**</span> !
 
-Which of these scripts allows user interaction after the program has started?
+Lequel de ces scripts autorise l'interaction de l'utilisateur après le démarrage du programme ?
 
 --- choices ---
 
@@ -17,7 +17,7 @@ clear graphic effects
 
   --- feedback ---
 
-The graphic effects are cleared after the timer reaches 10. The user does not have to do anything, so there is no user interaction.
+Les effets graphiques sont effacés une fois que la minuterie atteint 10. L’utilisateur n'a rien à faire, il n'y a donc aucune interaction avec l’utilisateur.
 
   --- /feedback ---
 - ( )
@@ -28,7 +28,7 @@ say [hello] for (2) seconds
 
   --- feedback ---
 
-The sprite says "hello" after the backdrop switches. The user does not have to do anything, so there is no user interaction.
+Le sprite dit « bonjour » après le changement d'arrière plan. L’utilisateur n'a rien à faire, il n'y a donc aucune interaction avec l’utilisateur.
 
   --- /feedback ---
 - (x)
@@ -39,16 +39,16 @@ change [color v] effect by (25)
 
   --- feedback ---
 
-The user has to click on the sprite to change the colour. This is user interaction.
+L’utilisateur doit cliquer sur le sprite pour changer la couleur. C'est l'interaction de l’utilisateur.
 
   --- /feedback ---
 
 
-- ( ) Give me a clue.
+- ( ) Donne moi un indice.
 
   --- feedback ---
 
- User interaction is how the project reacts to the user doing things such as moving the mouse and clicking on the screen.
+ L'interaction avec l’utilisateur est la façon dont le projet réagit lorsque l’utilisateur fait des choses telles que déplacer la souris et cliquer sur l'écran.
 
   --- /feedback ---
 
