@@ -1,7 +1,7 @@
 ---
-title: Silly eyes
+title: Des yeux stupides
 hero_image: images/banner.png
-description: Create your own app with a character whose eyes follow the mouse pointer
+description: Créer ta propre application avec un personnage dont les yeux suivent le pointeur de la souris
 version: 4
 listed: true
 copyedit: false
@@ -10,23 +10,23 @@ steps:
   - 
     title: Introduction
   - 
-    title: Your character
+    title: Ton personnage
   - 
-    title: Make silly eyes
+    title: Créer des yeux stupides
   - 
-    title: Sprite effects
+    title: Effets de sprite
   - 
-    title: Stage effects
+    title: Effets de scène
   - 
-    title: Reflection
+    title: Réflexion
     knowledge_quiz:
       path: quiz1
       version: 1
       questions: 3
       passing_score: 3
   - 
-    title: Upgrade your project
+    title: Améliorer ton projet
   - 
-    title: Share
+    title: Partager
   - 
-    title: What next?
+    title: Et ensuite ?
