@@ -1,14 +1,14 @@
-## Make silly eyes
+## Faire des yeux idiots
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-In this step, you will make the silly eyes! Each eye needs to be a separate sprite so that it can move separately.
+Dans cette étape, tu feras les yeux idiots ! Chaque œil doit être un sprite séparé afin qu'il puisse se déplacer séparément.
 
-If you need help, look at the tips in the **Debug** task at the bottom of this step.
+Si tu as besoin d'aide, consulte les conseils de la tâche **Débogage** au bas de cette étape.
 </div>
 <div>
 
-![A character with silly eyes.](images/character-with-eyes.png)
+![Un personnage aux yeux idiots.](images/character-with-eyes.png)
 {:width="300px"}  
 
 </div>
@@ -16,64 +16,64 @@ If you need help, look at the tips in the **Debug** task at the bottom of this s
 
 --- task ---
 
-Use the **Paint** option to create a new **sprite**.
+Utilise le **Peindre** pour créer un nouveau **sprite**.
 
-![The 'Paint' option in the 'Choose a Sprite' menu.](images/paint-a-sprite.png)
+![L'option « Peindre » dans le menu « Choisir un sprite ».](images/paint-a-sprite.png)
 
-The Paint editor will open, which will allow you to create your **Eyeball** sprite's costume.
+L'éditeur de peinture s'ouvrira, ce qui te permettra de créer le costume de **globe oculaire**.
 
 --- /task ---
 
-It is really important that:
-- The black pupil and coloured iris face to the right-hand side of the **Eyeball** costume
-- The **Eyeball** costume is centred
+Il est vraiment important que :
+- La pupille noire et l'iris coloré fassent face à droite du costume **globe oculaire**
+- Le **globe oculaire** soit centré
 
 --- task ---
 
-**Choose:** Draw an eyeball **or** start from a round sprite.
+**Choisir :** Dessine un oeil **ou** commence à partir d'un sprite rond.
 
 --- collapse ---
 ---
-title: Draw an eyeball in the Paint editor
+title : Dessine un oeil dans l'éditeur de peinture
 ---
 
-Select the **Circle** tool.
+Sélectionne l'outil **Cercle**.
 
-To draw a perfect circle, press and hold the <kbd>Shift</kbd> key on the keyboard while you draw with the **Circle** tool. If you are using a tablet, try to get as close to a perfect circle as you can.
+Pour dessiner un cercle parfait, maintiens enfoncée la touche <kbd>majuscule</kbd> du clavier pendant que tu dessines avec l'outil **Cercle**. Si tu utilises une tablette, essaies de te rapprocher le plus possible d'un cercle parfait.
 
-In this example, we set the **Outline** to black and the **Fill** colour of the eyeball to white:
+Dans cet exemple, nous définissons le **contour** sur noir et le **remplissage** du globe oculaire sur blanc :
 
-![A white eyeball with a black outline.](images/eyeball-outline.png)
+![Un globe oculaire blanc avec un contour noir.](images/eyeball-outline.png)
 
-Use the **Fill** and **Outline** colour choosers to choose colours. To make black, slide both the **Saturation** and **Brightness** to `0`. To make white, slide the **Saturation** to `0` and the **Brightness** to `100`.
+Utilise les **remplissage** et **contour** pour choisir les couleurs. Pour faire du noir, faites glisser à la fois **Saturation** et **Luminosité** à `0`. Pour faire du blanc, fais glisser le **Saturation** à `0` et le **Luminosité** à `100`.
 
 ![](images/black-colour.png) ![](images/white-colour.png)
 
-Make sure that the eyeball is centred — move it so that the blue cross in the costume lines up with the grey crosshair in the Paint editor.
+Assure-toi que le globe oculaire est centré – déplace-le de sorte que la croix bleue du costume s'aligne avec le réticule gris dans l'éditeur de peinture.
 
-Draw a smaller perfect circle and position it on the right-hand side of the eyeball:
+Dessine un cercle parfait plus petit et place-le sur le côté droit du globe oculaire :
 
-![An eyeball with a red iris and black pupil on the right-hand side.](images/eyeball-with-iris.png)
+![Un globe oculaire avec un iris rouge et une pupille noire sur le côté droit.](images/eyeball-with-iris.png)
 
-You could also draw circles inside circles, or use colour, to get different effects.
+Tu peux également dessiner des cercles à l'intérieur des cercles ou utiliser de la couleur pour obtenir différents effets.
 
 --- /collapse ---
 
 
 --- collapse ---
 ---
-title: Turn a round costume into an eyeball
+title : Transforme un costume rond en globe oculaire
 ---
 
-There are costumes in Scratch that you can edit to make silly eyes for your character.
+Il existe des costumes dans Scratch que tu peux modifier pour faire des yeux idiots pour ton personnage.
 
-Use the Paint editor to change a costume. You could add circles, choose a different **Fill** colour, or remove parts of the costume to turn it into a silly eye.
+Utilise l'éditeur de peinture pour changer un costume. Tu peux ajouter des cercles, choisir un **remplissage** différent ou supprimer des parties du costume pour le transformer en un œil idiot.
 
-**Tip:** You will need to centre the **Eyeball** costume in the Paint editor so that it rotates smoothly as it turns. Use the crosshair to centre the costume. The black pupil and coloured iris need to be positioned on the right-hand side of the costume so that the **Eyeball** follows the mouse pointer.
+**Astuce :** Tu dois centrer le **globe oculaire** dans l'éditeur de peinture afin qu'il tourne en douceur lorsqu'il tourne. Utilise le réticule pour centrer le costume. La pupille noire et l'iris coloré doivent être positionnés sur le côté droit du costume afin que le **globe oculaire** suive le pointeur de la souris.
 
-![Existing Scratch costumes as eyeballs.](images/costume-eyes.gif)
+![Costumes Scratch existants comme globes oculaires.](images/costume-eyes.gif)
 
-![The Paint editor showing an edited button1 costume.](images/button-eye.png)
+![L'éditeur de peinture montrant un costume bouton1 modifié.](images/button-eye.png)
 
 --- /collapse ---
 
@@ -81,27 +81,27 @@ Use the Paint editor to change a costume. You could add circles, choose a differ
 
 --- task ---
 
-Name your sprite `Eyeball` in the Sprite pane.
+Nomme ton sprite `globe oculaire` dans le volet Sprite.
 
-![The sprite's name set to 'Eyeball' in the Sprite pane.](images/eyeball-name.png)
+![Le nom de l'image-objet est défini sur « globe oculaire » dans le volet Sprite.](images/eyeball-name.png)
 
 --- /task ---
 
 --- task ---
 
-Drag the **Eyeball** sprite to position it on the Stage, and change its size to fit your character.
+Fais glisser le **globe oculaire** pour le positionner sur la scène et modifie sa taille pour l'adapter à ton personnage.
 
 --- /task ---
 
-Now, make the eyeball look at the `mouse-pointer`{:class="block3motion"}.
+Maintenant, fais en sorte que le globe oculaire regarde le `pointeur de souris`{:class="block3motion"}.
 
 --- task ---
 
-Add a script to `set the rotation style`{:class="block3motion"} to `all around`{:class="block3motion"} to make the eyeball `point towards the mouse pointer`{:class="block3motion"} `forever`{:class="block3control"}.
+Ajoute un script à `fixer le sens de rotation`{:class="block3motion"} sur `gauche-droite`{:class="block3motion"} pour que le globe oculaire `s'orienter vers le pointeur de la souris`{:class="block3motion"} `répéter indéfiniment`{:class="block3control"}.
 
 --- collapse ---
 ---
-title: Make a sprite point towards the mouse pointer
+title: Faire un sprite pointé vers le pointeur de la souris
 ---
 
 ```blocks3
@@ -117,11 +117,11 @@ end
 --- /task ---
 
 
-If your character only has one eye, then you have finished.
+Si ton personnage n'a qu'un œil, alors tu as terminé.
 
 --- task ---
 
-Otherwise, right-click (or on a tablet, tap and hold) on the **Eyeball** sprite in the Sprite list and choose **duplicate** to create more silly eyes.
+Sinon, fais un clic droit (ou sur une tablette, appuie et maintiens) sur le **globe oculaire** dans la liste Sprite et choisis **dupliquer** pour créer des yeux plus idiots.
 
 [[[scratch3-duplicate-sprite]]]
 
@@ -129,63 +129,63 @@ Otherwise, right-click (or on a tablet, tap and hold) on the **Eyeball** sprite 
 
 --- task ---
 
-**Test:** Click on the green flag and test your project. Do the silly eyes follow your mouse pointer as you move the mouse around?
+**Test :** Clique sur le drapeau vert et teste ton projet. Les yeux idiots suivent-ils le pointeur de ta souris lorsque tu déplaces la souris ?
 
-**Tip:** You don't have to keep the mouse pointer on the Stage. The eyes will follow your mouse pointer as you carry on coding in Scratch.
+**Astuce :** Tu n'as pas besoin de laisser le pointeur de la souris sur la scène. Les yeux suivront le pointeur de ta souris pendant que tu continues à coder dans Scratch.
 
 --- /task ---
 
 --- task ---
 
-**Debug:** You might find some bugs in your project that you need to fix. Here are some common bugs:
+**Débogage :** Il est possible que tu trouves des bogues dans ton projet que tu dois corriger. Voici quelques bogues assez courants :
 
 --- collapse ---
 ---
-title: The eyes do not move
+title : Les yeux ne bougent pas
 ---
 
-Make sure that you have added the code to the **Eyeball** sprites and **clicked on the green flag**. Your code will not run until you click on the green flag.
+Assure-toi d'avoir ajouté le code aux sprites **globe oculaire** et **quand le drapeau vert est cliqué**. Ton code ne s'exécutera pas tant que tu n'auras pas cliqué sur le drapeau vert.
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: The eyes point away from the mouse
+title : Les yeux pointent loin de la souris
 ---
 
-In the **Eyeball** costumes, check that the pupil is on the right-hand side (past the blue cross in the middle of the costume).
+Dans les **globe oculaire** , vérifie que la pupille est du côté droit (au-delà de la croix bleue au milieu du costume).
 
-The **Eyeball** sprites have the `all around`{:class="block3motion"} `rotation style`{:class="block3motion"}, so they can rotate in any direction.
+Les **globe oculaire** ont le `gauche-droit`{:class="block3motion"} `fixer le sens de rotation`{:class="block3motion"}, ils peuvent donc pivoter dans n'importe quelle direction.
 
-When the **Eyeballs** rotate to `point towards`{:class="block3motion"} the `mouse-pointer`{:class="block3motion"}, the pupils will be closest to the mouse pointer.
+Lorsque les **globes oculaires** tournent à `s'orienter vers`{:class="block3motion"} le `pointeur de souris`{:class="block3motion"}, les pupilles seront les plus proches du pointeur de la souris.
 
-![Placing the pupil on the right-hand side of an eyeball costume.](images/eye-right.gif)
+![Placer la pupille sur le côté droit d'un costume de globe oculaire.](images/eye-right.gif)
 
-![An eyeball costume with the pupil on the right-hand side.](images/eye-costume.png)
+![Un costume de globe oculaire avec la pupille sur le côté droit.](images/eye-costume.png)
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: The eyes jump around the Stage
+title : Les yeux sautent sur la scène
 ---
 
-Check that the **Eyeball** costumes are centred. To centre a costume, drag the costume so that the blue cross in the costume lines up with the grey crosshair in the Paint editor.
+Vérifie que les **globe oculaire** sont centrés. Pour centrer un costume, fais glisser le costume de sorte que la croix bleue du costume s'aligne avec le réticule gris dans l'éditeur de peinture.
 
-![Centring an eyeball costume in the Paint editor.](images/eye-centered.gif)
+![Centrage d'un costume de globe oculaire dans l'éditeur de peinture.](images/eye-centered.gif)
 
-![An eyeball costume centred in the Paint editor.](images/eye-costume.png)
+![Un costume de globe oculaire centré dans l'éditeur de peinture.](images/eye-costume.png)
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: The character is in front of the eyes
+title : Le personnage est devant les yeux
 ---
 
-When you drag a sprite to position it on the Stage, it moves in front of the other sprites.
+Lorsque tu fais glisser une image-objet pour la positionner sur la scène, elle se déplace devant les autres images-objets.
 
-To get your **character** sprite to stay at the `back`{:class="block3looks"}, use:
+Pour que ton sprite de **personnage** reste `derrière`{:class="block3looks"}, utilise :
 
 ```blocks3
 when green flag clicked
@@ -197,33 +197,33 @@ go to [back v] layer // behind all other sprites
 
 --- collapse ---
 ---
-title: The character and the eyes follow the mouse pointer
+title : Le personnage et les yeux suivent le pointeur de la souris
 ---
 
-Did you add the eyes as costumes for your **character** instead of as costumes for separate sprites? You can fix that.
+As-tu ajouté les yeux comme costumes pour ton **personnage** au lieu de costumes pour des sprites séparés ? Tu peux corriger cela.
 
-One way to fix it is to duplicate the **character** sprite and then rename the copy `Eyeball`. Then, delete the **Eyeball** costumes from the **character** sprite, and delete the **character** costumes from the **Eyeball** sprite. Then, you can duplicate the **Eyeball** sprite and name the copy `Eyeball 2`.
+Une façon de résoudre ce problème est de dupliquer le **personnage** , puis de renommer la copie `globe oculaire`. Ensuite, supprime les costumes **globe oculaire** depuis les sprites **personnages** et supprime les costumes de **personnages** du sprite depuis le sprite **globe oculaire**. Ensuite, tu peux dupliquer le **globe oculaire** et nommer la copie `globe oculaire 2`.
 
-The code to `point towards`{:class="block3motion"} the `mouse-pointer`{:class="block3motion"} should be on the **Eyeball** sprites and not the **character** sprite.
+Le code à `s'orienter vers`{:class="block3motion"} le `pointeur de souris`{:class="block3motion"} doit être sur le sprite ** globe oculaire** et non sur le sprite **personnage**.
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: The character follows the mouse pointer (and the eyes do not)
+title : Le personnage suit le pointeur de la souris (et pas les yeux)
 ---
 
-You need to add the `point towards`{:class="block3motion"} code to the individual **Eyeball** sprites, not your **character** sprite!
+Tu dois ajouter le `s'orienter vers`{:class="block3motion"} aux sprites** globe oculaire** individuels, pas à ton sprite **personnage ** !
 
-To copy the code, you can drag the code from the Code area for your **character** to the **Eyeball** sprites in the Sprite list.
+Pour copier le code, tu peux faire glisser le code de la zone Code pour ton **personnage** vers les sprites** globe oculaire** dans la liste Sprite.
 
-You will also need to delete the script from the **character** sprite. To do this, drag the script to the Blocks menu.
+Tu dois également supprimer le script du sprite **personnage**. Pour ce faire, fais glisser le script vers le menu Blocs.
 
 --- /collapse ---
 
-You might find a bug that is not listed here. Can you work out how to fix it?
+Tu pourrais trouver un bogue qui n'est pas répertorié ici. Peux-tu trouver comment le réparer?
 
-We love hearing about your bugs and how you fixed them. Use the **Send feedback** button at the bottom of this page and tell us if you found a different bug in your project.
+Nous aimons avoir des nouvelles de tes bogues et de la façon dont tu les as corrigés. Utilise le bouton **Envoyer des commentaires** en bas de cette page et dis-nous si tu as trouvé un bogue différent dans ton projet.
 
 
 --- /task ---
