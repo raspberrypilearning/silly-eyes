@@ -1,61 +1,61 @@
-## Reflection
+## Reflexión
 
-Well done, you have learned a lot! Now, it's time to reflect — reflecting is an important part of learning, because it helps make new connections in your brain.
+¡Bien hecho, has aprendido mucho! Ahora es momento de reflexionar: reflexionar es una parte importante del aprendizaje, porque ayuda a establecer nuevas conexiones en tu cerebro.
 
-Answer the three questions below to reflect on what you have learned.
+Responde las tres preguntas siguientes para reflexionar sobre lo que has aprendido.
 
-When you have answered each question, click on **Submit**. You will be guided towards the correct answer. You can do this activity as many times as you want to.
+Cuando hayas respondido a cada pregunta, haz clic en **Enviar**. Vamos a guiarte hacia la respuesta correcta. Puedes realizar esta actividad tantas veces como quieras.
 
-Have fun!
+¡Qué te diviertas!
 
 --- question ---
 ---
-legend: Question 1 of 3
+legend: Pregunta 1 de 3
 ---
 
-We added this code to an **Eyeball** sprite, but the eyeball is not rotating when the mouse pointer moves.
+Agregamos este código a un objeto **Eyeball** (Globo ocular), pero el globo ocular no gira cuando se mueve el puntero del mouse.
 
-![Screenshot showing the script and the Stage. The script is not glowing with a yellow outline. The blocks in the script are 'when green flag clicked', 'set rotation style all around', 'forever', 'point towards mouse-pointer'.](images/code-not-running.png)
+![Captura de pantalla que muestra el código y el escenario. El sript no se ilumina con un contorno amarillo. Los bloques en el script son 'al presionar bandera verde', 'fijar estilo de rotación en todas las direcciones', 'por siempre', 'apuntar hacia puntero del ratón'.](images/code-not-running.png)
 
-How could you fix the problem with just one action?
+¿Cómo podrías solucionar este problema con una sola acción?
 
 --- choices ---
 
-- (x) Click on the green flag
+- (x) Haz clic en la bandera verde
 
   --- feedback ---
 
-Yes! Just adding the script does not make it run. You need to click on the green flag to make your code run.
+¡Sí! El simple hecho de agregar el código no hace que este se ejecute. Debes hacer clic en la bandera verde para que se ejecute.
 
-Your code will have a yellow outline around it when it is running.
+Tu código tendrá un contorno amarillo alrededor cuando se esté ejecutando.
 
-Forgetting to click on the green flag is a really common mistake — we all do it!
+Olvidar hacer clic en la bandera verde es un error muy común: ¡nos ha pasado a todos!
 
-**Tip:** If you change code in a loop while the script is running, Scratch will run the new code the next time that the loop runs! You don't need to click on the green flag again. This is really useful when you are trying out ideas.
+**sugerencia:** Si cambias el código en un bucle mientras se ejecutando ejecuta el código, ¡Scratch ejecutará el nuevo código la próxima vez que se ejecute el bucle! No es necesario que vuelvas a hacer clic en la bandera verde. Esto es realmente útil cuando estás probando ideas.
 
   --- /feedback ---
 
-- ( ) Click on the eyeball
+- ( ) Haz clic en el Globo ocular
 
   --- feedback ---
 
-The script does not start with a `when this sprite clicked`{:class="block3events"} block.
+El código no empieza con un bloque `al hacer clic en este objeto`{:class="block3events"}.
 
   --- /feedback ---
 
-- ( ) Move the `set rotation style`{:class="block3looks"} block inside the `forever`{:class="block3control"} loop
+- ( ) Mueve el bloque `fijar estilo de rotación`{:class="block3looks"} adentro del bucle `por siempre`{:class="block3control"}
 
   --- feedback ---
 
-You do not need to run the `set rotation style`{:class="block3looks"} block lots of times. If you set it once before the loop, it will not change until you set it to a different style. Moving the `set rotation style`{:class="block3looks"} block will not help with the problem in the question.
+No es necesario que ejecutes el bloque `fijar estilo de rotación`{:class="block3looks"} muchas veces. Si lo fijas una vez antes del bucle, no cambiará hasta que fijes un estilo diferente. Mover el bloque `fijar estilo de rotación`{:class="block3looks"} no te ayudará con el problema de la pregunta.
 
   --- /feedback ---
 
-- ( ) Click on the Stage
+- ( ) Haz clic en el Escenario
 
   --- feedback ---
 
-You do not need to click on the Stage to get the eyeball to rotate. When the code is running, the eyeball will just follow the mouse pointer (or your finger, if you are using a tablet).
+No es necesario que hagas clic en el escenario para que el globo ocular gire. Cuando el código se está ejecutando, el globo ocular simplemente sigue el puntero del ratón (o tu dedo, si estás usando una tableta).
 
   --- /feedback ---
 
