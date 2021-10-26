@@ -1,11 +1,11 @@
 --- question ---
 ---
-legend: Question 3 of 3
+leyenda: Pregunta 3 de 3
 ---
 
-<span style="color: #0faeb0">**User interaction**</span> is how the project reacts to the user. The 'Silly eyes' project that you have made probably has lots of <span style="color: #0faeb0">**user interaction**</span>!
+<span style="color: #0faeb0">** Interacción del usuario **</span> es la forma en que el proyecto reacciona ante el usuario. ¡El proyecto 'Ojos tontos' que has hecho probablemente tenga mucha <span style="color: #0faeb0">interacción de usuario</span>!
 
-Which of these scripts allows user interaction after the program has started?
+¿Cuál de estos scripts permite la interacción de usuario después de que se haya iniciado el programa?
 
 --- choices ---
 
@@ -17,7 +17,7 @@ clear graphic effects
 
   --- feedback ---
 
-The graphic effects are cleared after the timer reaches 10. The user does not have to do anything, so there is no user interaction.
+Los efectos gráficos se quitan cuando el cronómetro llega a 10. El usuario no tiene que hacer nada, por lo que no hay interacción del usuario.
 
   --- /feedback ---
 - ( )
@@ -28,7 +28,7 @@ say [hello] for (2) seconds
 
   --- feedback ---
 
-The sprite says "hello" after the backdrop switches. The user does not have to do anything, so there is no user interaction.
+El sprite dice "hola" después de que el fondo cambia. El usuario no tiene que hacer nada, por lo que no hay interacción del usuario.
 
   --- /feedback ---
 - (x)
@@ -39,16 +39,16 @@ change [color v] effect by (25)
 
   --- feedback ---
 
-The user has to click on the sprite to change the colour. This is user interaction.
+El usuario debe hacer clic en el objeto para que el color cambie. Esto es interacción del usuario.
 
   --- /feedback ---
 
 
-- ( ) Give me a clue.
+- ( ) Dame una pista.
 
   --- feedback ---
 
- User interaction is how the project reacts to the user doing things such as moving the mouse and clicking on the screen.
+ La interacción de usuario es la forma en que el proyecto reacciona cuando el usuario hace cosas como mover el ratón y hacer clic en la pantalla.
 
   --- /feedback ---
 
