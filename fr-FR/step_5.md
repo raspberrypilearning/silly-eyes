@@ -32,7 +32,7 @@ change [color v] effect by [25]
 
 --- collapse ---
 ---
-title: changer de fond lorsque l'on clique sur la scène
+title: Changer de fond lorsque l'on clique sur la scène
 ---
 
 ```blocks3

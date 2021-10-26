@@ -111,7 +111,7 @@ Si besoin, tu peux réinitialiser les effets graphiques :
 
 --- collapse ---
 ---
-title: je ne veux pas de ces effets graphiques
+title: Je ne veux pas de ces effets graphiques
 ---
 
 Pour réinitialiser les effets graphiques à tout moment, clique sur le `annuler les effets graphiques`{:class="block3looks"} dans les blocs `Apparences`{:class="block3looks"} . Cliquer sur le drapeau vert efface également les effets graphiques.
