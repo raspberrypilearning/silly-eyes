@@ -1,19 +1,19 @@
-## Your character
+## Ton personnage
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-Have you got an idea about your own character? Now, you can get it ready for silly eyes!
+As-tu une idée de ton propre personnage ? Maintenant, tu peux le préparer pour les yeux idiots !
 </div>
 <div>
 
-![A large character.](images/character.png){:width="300px"}    
+![Un grand personnage.](images/character.png){:width="300px"}    
 
 </div>
 </div>
 
 --- task ---
 
-Open a [new Scratch project](https://rpf.io/scratch-new){:target="_blank"}. Scratch will open in another browser tab.
+Open the [Silly eyes starter project](https://scratch.mit.edu/projects/582221984/editor){:target="_blank"}. Scratch s'ouvrira dans un autre onglet du navigateur.
 
 [[[working-offline]]]
 
@@ -21,9 +21,9 @@ Open a [new Scratch project](https://rpf.io/scratch-new){:target="_blank"}. Scra
 
 --- task ---
 
-**Choose:** Choose a sprite **or** create your own simple sprite in the Paint editor.
+**Choisis :** Choisis un sprite **ou** crée ton propre sprite simple dans l'éditeur de peinture.
 
-You don't have to choose a person or animal. You could choose an object, like the donut.
+Tu n'as pas à choisir une personne ou un animal. Tu peux choisir un objet, comme le donut.
 
 [[[generic-scratch3-sprite-from-library]]]
 
@@ -31,34 +31,34 @@ You don't have to choose a person or animal. You could choose an object, like th
 
 --- collapse ---
 ---
-title: Get a surprise sprite
+title : Obtenir un sprite surprise
 ---
 
-Not sure which sprite to choose? Go to the **Choose a Sprite** menu and choose the **Surprise** option to add a surprise sprite to your project.
+Tu ne sais pas quel sprite choisir ? Va dans le **Choisir un Sprite** et choisis l'option **Surprise** pour ajouter un sprite surprise dans ton projet.
 
-![The 'Surprise' option in the 'Choose a Sprite' menu.](images/surprise-sprite.png)
+![L'option « Surprise » dans le menu « Choisir un Sprite ».](images/surprise-sprite.png)
 
 --- /collapse ---
 
-**Tip:** If you create your own sprite in the Paint editor, **don't add eyes yet, because they need to be separate sprites.**
+**Astuce :** Si tu crée ton propre sprite dans l'éditeur Paint, **n'ajoute pas encore des yeux, car ils doivent être des sprites séparés.**
 
 --- /task ---
 
-At the moment, your character will be much smaller than the characters in our example projects. You can make your character bigger so that it fills more of the screen.
+Pour le moment, ton personnage sera beaucoup plus petit que les personnages de nos exemples de projets. Tu peux agrandir ton personnage pour qu'il remplisse plus l'écran.
 
 --- task ---
 
-In the Sprite pane, change the number in the **Size** property to a number of your choice.
+Dans le volet Sprite, remplace le nombre de la **Taille** par un nombre de ton choix.
 
 ![](images/size-property.png){:width="500px"}
 
 --- /task ---
 
-Where do you want your character to live?
+Où veux-tu que ton personnage vive ?
 
 --- task ---
 
-**Choose:** Choose a backdrop that is sensible or silly.
+**Choisir :** Choisis une toile de fond qui est raisonnable ou stupide.
 
 [[[generic-scratch3-backdrop-from-library]]]
 
