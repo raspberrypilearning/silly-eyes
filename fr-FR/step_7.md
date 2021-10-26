@@ -9,7 +9,7 @@ Tu pourrais :
 - Ajouter plus d'accessoires ou ajouter plus de costumes à tes accessoires
 - Essayer différents effets graphiques
 
-Chaque projet dans le ['Silly eyes — Exemples' Scratch studio](https://scratch.mit.edu/studios/29029028){:target="_blank"} a un **See inside** , que tu peux utiliser pour ouvrir le projet dans l'éditeur Scratch et regarder le code pour avoir des idées et voir comment le projet fonctionne.
+Chaque projet dans le ['Silly eyes — Exemples' Scratch studio](https://scratch.mit.edu/studios/29029028){:target="_blank"} a un **Voir à l'intérieur** , que tu peux utiliser pour ouvrir le projet dans l'éditeur Scratch et regarder le code pour avoir des idées et voir comment le projet fonctionne.
 
 Le personnage **Sporg** a également des bras qui `s'orientent vers le pointeur de la souris`{:class="block3motion"}.
 
