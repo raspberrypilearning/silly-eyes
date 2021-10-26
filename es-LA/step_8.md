@@ -1,23 +1,23 @@
-## Share
+## Comparte
 
-If you are in a club, why not share your project with friends and peers?
+Si estás en un club, ¿por qué no compartes tu proyecto con tus amigos y compañeros?
 
-You could also show your family how your project works.
+También podrías mostrarle a tu familia cómo funciona tu proyecto.
 
-If you have a Scratch account, you can share your project through Scratch. You can send a link to people you know, and the whole Scratch community will be able to find your project and try it out.
+Si tienes una cuenta de Scratch, puedes compartir tu proyecto a través de Scratch. Puedes enviar un enlace a las personas que conoces y toda la comunidad de Scratch podrá encontrar tu proyecto y probarlo.
 
 [[[share-scratch]]]
 
-Why not invite your friends to create a project? Let them know how you had fun.
+¿Por qué no invitas a tus amigos a crear un proyecto? Déjales saber cuánto te divertiste.
 
-If you have a Scratch account, and have shared your 'Silly eyes' project, keep an eye out for comments that others may make about your creation. Feedback is a great way to reflect on your work. Ignore any comments that are unhelpful or irrelevant.
+Si tienes una cuenta de Scratch y has compartido tu proyecto 'Ojos tontos', mantente atento a los comentarios que otros puedan hacer sobre tu creación. La retroalimentación es una excelente manera de reflexionar sobre tu trabajo. Ignora cualquier comentario que sea inútil o irrelevante.
 
 [[[comments-feedback-scratch]]]
 
 --- task ---
 
-Inspire the Raspberry Pi Foundation community with your project!
+¡Inspira a la comunidad de la Fundación Raspberry Pi con tu proyecto!
 
-To submit your project to our ['Silly eyes — Community' Scratch studio](https://scratch.mit.edu/studios/29120534){:target="_blank"}, please complete [this form](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}.
+Para enviar tu proyecto a ['Ojos tontos de la Comunidad' Scratch](https://scratch.mit.edu/studios/29120534){:target="_ blank"}, completa [este formulario](https://form.raspberrypi.org/f/community-project-submissions){:target="_ blank"}.
 
 --- /task ---
