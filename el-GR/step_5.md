@@ -1,26 +1,26 @@
-## Stage effects
+## Εφέ υπόβαθρου
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-You can also make the project do something when you click on the **Stage**.
+Μπορείς επίσης να κάνεις το έργο να κάνει κάτι όταν κάνετε κλικ στη ** Σκηνή **.
 </div>
 <div>
 
-![The Stage with graphic effects.](images/stage-effects.png){:width="300px"} 
-{:width="300px"}  
+! [Η Σκηνή με γραφικά εφέ.] (Images/stage-effects.png) {: width = "300px"} 
+{: width = "300px"}  
 
 </div>
 </div>
 
 --- task ---
 
-Click on the Stage pane and then on the **Code** tab to add code to the **Stage**.
+Κάνε κλικ στο παράθυρο Σκηνή και στη συνέχεια στην καρτέλα **Κώδικας** για να προσθέσεις κώδικα στη **Σκηνή**.
 
-**Choose:** Choose what you want to change when the **Stage** is clicked.
+**Επίλεξε:** Επίλεξε τι θέλεις να αλλάξεις όταν κάνεις κλικ στη**Σκηνή**.
 
 --- collapse ---
 ---
-title: Change graphic effects when the Stage is clicked
+title: Άλλαξε εφέ γραφικών όταν κάνεις κλικ στη Σκηνή
 ---
 
 ```blocks3
@@ -32,7 +32,7 @@ change [color v] effect by [25]
 
 --- collapse ---
 ---
-title: Switch backdrop when the Stage is clicked
+title: Εναλλαγή υπόβαθρου όταν κάνεις κλικ στη Σκηνή
 ---
 
 ```blocks3
@@ -46,20 +46,20 @@ next backdrop
 
 --- task ---
 
-**Test:** Click on the **Stage**, and check that the backdrop switches or the graphic effects change.
+**Δοκιμή:** Κάνε κλικ στη **Σκηνή**και έλεγξε ότι αλλάζει το υπόβαθρο ή ότι αλλάζουν τα εφέ γραφικών.
 
 --- /task ---
 
 --- task ---
 
-**Test:** Test your project again, but this time, make it full-screen so that you can see how it will appear to someone looking at it.
+**Δοκιμή:** Δοκίμασε ξανά το έργο σου, αλλά αυτή τη φορά, κάνε το σε πλήρη οθόνη, ώστε να μπορείς να δεις πώς θα φαίνεται σε κάποιον που το κοιτάζει.
 
 [[[scratch3-full-screen]]]
 
 --- /task ---
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-By making your project full-screen, you are seeing what you have made from the perspective of a user who is playing with your project. **User interaction** is important in digital making. 
+Κάνοντας το έργο σου σε πλήρη οθόνη, βλέπεις τι έχεις κάνει από την πλευρά ενός χρήστη που παίζει με το έργο σου. ** Η αλληλεπίδραση χρήστη ** είναι σημαντική στην ψηφιακή δημιουργία. 
 </p>
 
 --- save ---
