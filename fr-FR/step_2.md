@@ -13,7 +13,7 @@ As-tu une idée de ton propre personnage ? Maintenant, tu peux le préparer pour
 
 --- task ---
 
-Open the [Silly eyes starter project](https://scratch.mit.edu/projects/582221984/editor){:target="_blank"}. Scratch s'ouvrira dans un autre onglet du navigateur.
+Ouvre le [Des yeux stupides projet de démarrage](https://scratch.mit.edu/projects/582221984/editor){:target="_blank"}. Scratch s'ouvrira dans un autre onglet du navigateur.
 
 [[[working-offline]]]
 
