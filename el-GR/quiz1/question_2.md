@@ -1,51 +1,51 @@
 --- question ---
 ---
-legend: Question 2 of 3
+legend: Ερώτηση 2 από 3
 ---
 
-To make the rocket interactive, the **rocket** sprite has this script:
+Για να γίνει ο πύραυλος διαδραστικός, το αντικείμενο**rocket** έχει αυτό το σενάριο:
 
 ```blocks3
-when flag clicked
-set rotation style [all around v]
-forever
-point towards (mouse-pointer v)
-end
+όταν γίνει κλικ στη σημαία 
+όρισε τρόπο περιστροφής [τριγύρω v]
+για πάντα
+δείξε προς (δείκτη ποντικιού v)
+τέλος
 ```
 
-Which **rocket** costume should we use so that the top of the rocket will point towards the mouse pointer?
+Ποια ενδυμασία **rocket** πρέπει να χρησιμοποιήσουμε έτσι ώστε το πάνω μέρος του πυραύλου να δείχνει προς τον δείκτη του ποντικιού;
 
 --- choices ---
 
-- ( ) ![A rocket pointing to the left-hand side.](images/rocket_left.png)
+- ( ) ![Ο πύραυλος δείχνει προς την αριστερή πλευρά.](images/rocket_left.png)
 
   --- feedback ---
 
-If the rocket is pointing to the left-hand side, the rocket will be facing the opposite direction to (away from) the mouse pointer when it rotates.
+Εάν ο πύραυλος δείχνει προς την αριστερή πλευρά, ο πύραυλος θα είναι στραμμένος προς την αντίθετη κατεύθυνση (μακριά) από τον δείκτη του ποντικιού όταν περιστρέφεται.
 
   --- /feedback ---
 
-- ( ) ![A rocket facing down.](images/rocket_down.png)
+- ( ) ![Ο πύραυλος στραμμένος προς τα κάτω.](images/rocket_down.png)
 
   --- feedback ---
 
-If the rocket is facing down, it will be facing a different direction to the mouse pointer when it rotates.
+Εάν ο πύραυλος είναι στραμμένος προς τα κάτω, θα έχει διαφορετική κατεύθυνση από τον δείκτη του ποντικιού όταν περιστρέφεται.
 
   --- /feedback ---
 
-- (x) ![A rocket pointing to the right-hand side.](images/rocket_right.png)
+- (x) ![Ο πύραυλος δείχνει προς τη δεξιά πλευρά.](images/rocket_right.png)
 
   --- feedback ---
 
-If the rocket is pointing to the right-hand side, the rocket is in the default position for correctly pointing towards your mouse pointer if the rotation style is set to `all around`{:class="block3motion"}.
+Όταν ο πύραυλος δείχνει προς τη δεξιά πλευρά, ο πύραυλος βρίσκεται στην προεπιλεγμένη θέση για να δείχνει σωστά προς τον δείκτη του ποντικιού σου εάν ο τρόπος περιστροφής έχει οριστεί στο `τριγύρω`{: class = "block3motion"}.
 
   --- /feedback ---
 
-- ( ) ![A rocket facing up.](images/rocket_up.png)
+- ( ) ![Ο πύραυλος στραμμένος προς τα πάνω.](images/rocket_up.png)
 
   --- feedback ---
 
-If the rocket is facing up, it will be facing a different direction to the mouse pointer when it rotates.
+Εάν ο πύραυλος είναι στραμμένος προς τα πάνω, θα έχει διαφορετική κατεύθυνση από τον δείκτη του ποντικιού όταν περιστρέφεται.
 
   --- /feedback ---
 
