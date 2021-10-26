@@ -32,9 +32,9 @@ Essaye de cliquer sur différentes parties du projet pour personnaliser le proje
 
 </div>
 <div>
-**Regarder des gobos** : [Voir à l'intérieur](https://scratch.mit.edu/projects/49541114/editor){:target="_blank"}
+**Regarder des gobos** : [Voir à l'intérieur](https://scratch.mit.edu/projects/589904812/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/495141114/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/589904812/?autostart=false" frameborder="0"></iframe>
 </div>
 
 </div>
@@ -49,19 +49,19 @@ Tu vas prendre des décisions de conception pour créer ton personnage. Réfléc
 
 Explore ces exemples de projets pour obtenir plus d'idées :
 
-**Ne mange pas de donut** : [Voir à l'intérieur](https://scratch.mit.edu/projects/495865093/editor){:target="_blank"}
+**Ne mange pas de donut** : [Voir à l'intérieur](https://scratch.mit.edu/projects/589946184/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/495865093/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/589946184/?autostart=false" frameborder="0"></iframe>
 </div>
 
-**Sous la mer** : [Voir à l'intérieur](https://scratch.mit.edu/projects/495866460/editor){:target="_blank"}
+**Sous la mer** : [Voir à l'intérieur](https://scratch.mit.edu/projects/589947012/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/495866460/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/589947012/?autostart=false" frameborder="0"></iframe>
 </div>
 
-**Sporg** : [Voir à l'intérieur](https://scratch.mit.edu/projects/495865892/editor){:target="_blank"}
+**Sporg** : [Voir à l'intérieur](https://scratch.mit.edu/projects/589947715/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/495865892/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/589947715/?autostart=false" frameborder="0"></iframe>
 </div>
 --- /task --- --- /no-print ---
 
