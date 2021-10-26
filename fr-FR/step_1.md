@@ -1,21 +1,21 @@
 ## Introduction
 
-In this project, you will design and create a silly eye character. The character's large, silly eyes will follow the mouse pointer to bring your character to life.
+Dans ce projet, tu vas concevoir et créer un personnage aux yeux idiots. Les grands yeux idiots du personnage suivront le pointeur de la souris pour donner la vie à ton personnage.
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-<span style="color: #0faeb0">**Design**</span> means deciding on the way that a project looks and making decisions about what it does. 
+<span style="color: #0faeb0">**Conception**</span> signifie décider de l'apparence d'un projet et prendre des décisions sur ce qu'il fait. 
 </p>
 
-You will:
-+ Make a project with **user interaction**
-+ Personalise a project with colour and graphic effects
-+ Learn about design in digital making
+Tu vas devoir :
++ Faire un projet avec **interaction utilisateur**
++ Personnaliser un projet avec des effets de couleurs et graphiques
++ En savoir plus sur le design dans la fabrication numérique
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-<span style="color: #0faeb0">**User**</span> means the person using the project (not just making it), and <span style="color: #0faeb0">**user interaction**</span> is how the project reacts to the user doing things such as moving the mouse and clicking on the screen. 
+<span style="color: #0faeb0">**Utilisateur**</span> signifie la personne qui utilise le projet (pas seulement le faire), et <span style="color: #0faeb0">**Interaction de l'utilisateur**</span> est la façon dont le projet réagit lorsque l'utilisateur fait des choses telles que déplacer la souris et cliquer sur l'écran. 
 </p>
 
-![Examples of projects.](images/showcase-line.png)
+![Exemples de projets.](images/showcase-line.png)
 
 --- no-print ---
 
@@ -24,15 +24,15 @@ You will:
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 175px; flex-grow: 1">  
 
-### Try it 
+### Essaye-le 
 
-Move the mouse (or if you are using a tablet, move your finger) around the screen and watch what happens to Gobo's eyes. What happens when you move between Gobo's eyes? 
+Déplace la souris (ou si tu utilises une tablette, déplace ton doigt) sur l'écran et regarde ce qui arrive aux yeux de Gobo. Que se passe-t-il lorsque tu te déplaces entre les yeux de Gobo ? 
   
-Try clicking on different parts of the project to customise the project.
+Essaye de cliquer sur différentes parties du projet pour personnaliser le projet.
 
 </div>
 <div>
-**Gobo watching**: [See inside](https://scratch.mit.edu/projects/495141114/editor){:target="_blank"}
+**Regarder des gobos** : [Voir à l'intérieur](https://scratch.mit.edu/projects/49541114/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/495141114/?autostart=false" frameborder="0"></iframe>
 </div>
@@ -41,25 +41,25 @@ Try clicking on different parts of the project to customise the project.
 
 --- /task ---
 
-### Get inspiration
+### Trouve l'inspiration
 
-You are going to make some design decisions to create your character. Think about what kind of silly eye character you want to make.
+Tu vas prendre des décisions de conception pour créer ton personnage. Réfléchis au genre de personnage aux yeux idiots que tu veux créer.
 
 --- task ---
 
-Explore these example projects to get more ideas:
+Explore ces exemples de projets pour obtenir plus d'idées :
 
-**Don't eat donut**: [See inside](https://scratch.mit.edu/projects/495865093/editor){:target="_blank"}
+**Ne mange pas de donut** : [Voir à l'intérieur](https://scratch.mit.edu/projects/495865093/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/495865093/?autostart=false" frameborder="0"></iframe>
 </div>
 
-**Under the sea**: [See inside](https://scratch.mit.edu/projects/495866460/editor){:target="_blank"}
+**Sous la mer** : [Voir à l'intérieur](https://scratch.mit.edu/projects/495866460/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/495866460/?autostart=false" frameborder="0"></iframe>
 </div>
 
-**Sporg**: [See inside](https://scratch.mit.edu/projects/495865892/editor){:target="_blank"}
+**Sporg** : [Voir à l'intérieur](https://scratch.mit.edu/projects/495865892/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/495865892/?autostart=false" frameborder="0"></iframe>
 </div>
@@ -67,11 +67,11 @@ Explore these example projects to get more ideas:
 
 --- print-only ---
 
-### Get inspiration
+### Trouve l'inspiration
 
-You are going to make some design decisions to create your character. Think about what kind of silly eye character you want to make. To get more ideas, **See inside** example projects in the 'Silly eyes — Examples' Scratch studio: https://scratch.mit.edu/studios/29029028
+Tu vas prendre des décisions de conception pour créer ton personnage. Réfléchis au genre de personnage aux yeux idiots que tu veux créer. Pour obtenir plus d'idées, **Voir à l'intérieur** exemples de projets dans le studio Scratch « Silly Eyes — Exemples » : https://scratch.mit.edu/studios/29029028
 
-![The 'Gobo watching' project.](images/gobo-watching.png) ![The 'Don't eat donut' project.](images/dont-eat-donut.png) ![The 'Under the sea' project.](images/under-the-sea.png) ![The 'Sporg' project.](images/sporg.png)
+![Le projet « Gobo watching ».](images/gobo-watching.png) ![Le projet « Ne mangez pas de donut ».](images/dont-eat-donut.png) ![Le projet « Sous la mer ».](images/under-the-sea.png) ![Le projet « Sporg ».](images/sporg.png)
 
 --- /print-only ---
 
