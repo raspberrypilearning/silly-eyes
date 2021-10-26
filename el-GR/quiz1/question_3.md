@@ -1,11 +1,11 @@
 --- question ---
 ---
-legend: Question 3 of 3
+legend: Ερώτηση 3 από 3
 ---
 
-<span style="color: #0faeb0">**User interaction**</span> is how the project reacts to the user. The 'Silly eyes' project that you have made probably has lots of <span style="color: #0faeb0">**user interaction**</span>!
+<span style="color: #0faeb0">** Αλληλεπίδραση χρήστη **</span> είναι ο τρόπος με τον οποίο το έργο αντιδρά στον χρήστη. Το έργο "Αστεία μάτια" που έκανες έχει πιθανώς πολλές <span style="color: #0faeb0">** αλληλεπιδράσεις με τους χρήστες **</span>!
 
-Which of these scripts allows user interaction after the program has started?
+Ποιο από αυτά τα scripts επιτρέπει την αλληλεπίδραση με τον χρήστη μετά την έναρξη του προγράμματος;
 
 --- choices ---
 
@@ -17,7 +17,7 @@ clear graphic effects
 
   --- feedback ---
 
-The graphic effects are cleared after the timer reaches 10. The user does not have to do anything, so there is no user interaction.
+Τα εφέ γραφικών διαγράφονται αφού φτάσει το χρονόμετρο στο 10. Ο χρήστης δεν χρειάζεται να κάνει τίποτα, επομένως δεν υπάρχει αλληλεπίδραση με τον χρήστη.
 
   --- /feedback ---
 - ( )
@@ -28,7 +28,7 @@ say [hello] for (2) seconds
 
   --- feedback ---
 
-The sprite says "hello" after the backdrop switches. The user does not have to do anything, so there is no user interaction.
+Το αντικείμενο λέει "γεια" μετά την αλλαγή του υπόβαθρου. Ο χρήστης δεν χρειάζεται να κάνει τίποτα, επομένως δεν υπάρχει αλληλεπίδραση με τον χρήστη.
 
   --- /feedback ---
 - (x)
@@ -39,16 +39,16 @@ change [color v] effect by (25)
 
   --- feedback ---
 
-The user has to click on the sprite to change the colour. This is user interaction.
+Ο χρήστης πρέπει να κάνει κλικ στο αντικείμενο για να αλλάξει χρώμα. Αυτή είναι αλληλεπίδραση χρηστών.
 
   --- /feedback ---
 
 
-- ( ) Give me a clue.
+- ( ) Δώσε μου ένα στοιχείο.
 
   --- feedback ---
 
- User interaction is how the project reacts to the user doing things such as moving the mouse and clicking on the screen.
+ Η αλληλεπίδραση με τον χρήστη είναι ο τρόπος με τον οποίο το έργο αντιδρά στον χρήστη που κάνει διάφορες ενέργειες όπως μετακίνηση του ποντικιού και κλικ στην οθόνη.
 
   --- /feedback ---
 
