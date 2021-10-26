@@ -13,7 +13,7 @@ Have you got an idea about your own character? Now, you can get it ready for sil
 
 --- task ---
 
-Open a [new Scratch project](https://rpf.io/scratch-new){:target="_blank"}. Scratch will open in another browser tab.
+Open the [Silly eyes starter project](https://scratch.mit.edu/projects/582221984/editor){:target="_blank"}. Scratch will open in another browser tab.
 
 [[[working-offline]]]
 
