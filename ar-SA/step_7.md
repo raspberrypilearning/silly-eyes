@@ -1,27 +1,27 @@
-## Upgrade your project
+## قم بترقية او تطوير مشروعك
 
-If you have time, you can upgrade your project.
+إذا كان لديك الوقت ، يمكنك ترقية مشروعك.
 
-You could:
-- Add more body parts
-- Add more sprites with silly eyes
-- Add more backdrops
-- Add more accessories, or add more costumes to your accessories
-- Try different graphic effects
+يمكنك:
+- أضف المزيد من أجزاء الجسم
+- أضف المزيد من الشخصيات بعيون مضحكة
+- أضف المزيد من الخلفيات
+- أضف المزيد من الملحقات ، أو أضف المزيد من المظاهر إلى الملحقات الخاصة بك
+- جرب تأثيرات رسومية مختلفة
 
-Each project in the ['Silly eyes — Examples' Scratch studio](https://scratch.mit.edu/studios/29029028){:target="_blank"} has a **See inside** link, which you can use to open the project in the Scratch editor and look at the code to get ideas and see how the project works.
+يحتوي كل مشروع في ['استديو العيون المضحكة](https://scratch.mit.edu/studios/29029028){: target = "_ blank"} على **See inside**  رابط، والذي يمكنك استخدامه لفتح المشروع في محرر Scratch وإلقاء نظرة على التعليمات البرمجية للحصول على أفكار ونرى كيف يعمل المشروع.
 
-The **Sporg** character also has arms that `point towards the mouse pointer`{:class="block3motion"}.
+شخصية **سبورج** تحتوي على اذرع</code> باتجاه موشر الماوس{: فئة = "block3motion"}.
 
-**Sporg**: [See inside](https://scratch.mit.edu/projects/495865892/editor){:target="_blank"}
+**سبورج**: [انظر من الداخل](https://scratch.mit.edu/projects/495865892/editor){: target = "_ blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/495865892/?autostart=false" frameborder="0"></iframe>
 </div>
 
-If you add other body parts, you will need to centre them at the point that you want them to rotate from. For example, an arm would rotate from the shoulder.
+إذا قمت بإضافة أجزاء أخرى من الجسم ، فستحتاج إلى توسيطها عند النقطة التي تريد تدويرها منها. على سبيل المثال ، يدور الذراع من الكتف.
 
 [[[scratch-crosshair]]]
 
-Take a look at our ['Silly eyes — Community' Scratch studio](https://scratch.mit.edu/studios/29120534){:target="_blank"} to see projects created by community members.
+ألق نظرة على ['Silly eyes - Community' Scratch studio](https://scratch.mit.edu/studios/29120534){: target = "_ blank"} لمشاهدة المشروعات التي أنشأها أعضاء المجتمع.
 
 --- save ---
