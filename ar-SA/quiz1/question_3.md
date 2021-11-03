@@ -1,11 +1,11 @@
 --- question ---
 ---
-legend: Question 3 of 3
+القائمة: السؤال 3 من 3
 ---
 
-<span style="color: #0faeb0">**User interaction**</span> is how the project reacts to the user. The 'Silly eyes' project that you have made probably has lots of <span style="color: #0faeb0">**user interaction**</span>!
+<span style="color: #0faeb0">** تفاعل المستخدم **</span> هو كيف يتفاعل المشروع مع المستخدم. ربما يحتوي مشروع "العيون المضحكة" الذي قمت به على الكثير من <span style="color: #0faeb0">** تفاعل المستخدم **</span>!
 
-Which of these scripts allows user interaction after the program has started?
+أي من هذه النصوص يسمح بتفاعل المستخدم بعد بدء البرنامج؟
 
 --- choices ---
 
@@ -17,7 +17,7 @@ clear graphic effects
 
   --- feedback ---
 
-The graphic effects are cleared after the timer reaches 10. The user does not have to do anything, so there is no user interaction.
+يتم مسح التأثيرات الرسومية بعد أن يصل المؤقت إلى 10. لا يتعين على المستخدم فعل أي شيء ، لذلك لا يوجد تفاعل للمستخدم.
 
   --- /feedback ---
 - ( )
@@ -28,7 +28,7 @@ say [hello] for (2) seconds
 
   --- feedback ---
 
-The sprite says "hello" after the backdrop switches. The user does not have to do anything, so there is no user interaction.
+الكائن يقول "مرحبًا" بعد تبديل الخلفية. لا يتعين على المستخدم فعل أي شيء ، لذلك لا يوجد تفاعل للمستخدم.
 
   --- /feedback ---
 - (x)
@@ -39,16 +39,16 @@ change [color v] effect by (25)
 
   --- feedback ---
 
-The user has to click on the sprite to change the colour. This is user interaction.
+يتعين على المستخدم النقر فوق الكائن لتغيير اللون. هذا هو تفاعل المستخدم.
 
   --- /feedback ---
 
 
-- ( ) Give me a clue.
+- () أعطني فكرة.
 
   --- feedback ---
 
- User interaction is how the project reacts to the user doing things such as moving the mouse and clicking on the screen.
+ تفاعل المستخدم هو كيفية تفاعل المشروع مع قيام المستخدم بأشياء مثل تحريك الماوس والنقر على الشاشة.
 
   --- /feedback ---
 
