@@ -1,32 +1,32 @@
 ---
-title: Silly eyes
+title: عيون مضحكة
 hero_image: images/banner.png
-description: Create your own app with a character whose eyes follow the mouse pointer
+description: قم بإنشاء تطبيقك الخاص بشخصية عيونها تتبع مؤشر الماوس
 version: 4
 listed: true
 copyedit: false
 last_tested: "2021-02-25"
 steps:
   - 
-    title: Introduction
+    title: المقدمة
   - 
-    title: Your character
+    title: شخصيتك
   - 
-    title: Make silly eyes
+    title: جعل عيون مضحكة متحركة
   - 
-    title: Sprite effects
+    title: تأثيرات الشخصية
   - 
-    title: Stage effects
+    title: تأثيرات المسرح
   - 
-    title: Reflection
+    title: انعكاس
     knowledge_quiz:
       path: quiz1
       version: 1
       questions: 3
       passing_score: 3
   - 
-    title: Upgrade your project
+    title: قم بترقية او تطوير مشروعك
   - 
-    title: Share
+    title: مشاركة
   - 
-    title: What next?
+    title: ما التالي؟
