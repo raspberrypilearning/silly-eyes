@@ -1,19 +1,19 @@
-## Your character
+## شخصيتك
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-Have you got an idea about your own character? Now, you can get it ready for silly eyes!
+هل لديك فكرة عن شخصيتك؟ الآن ، يمكنك تجهيزه للعيون المضحكة!
 </div>
 <div>
 
-![A large character.](images/character.png){:width="300px"}    
+! [شخصية كبيرة.] (images / character.png) {: width = "300px"}    
 
 </div>
 </div>
 
 --- task ---
 
-Open the [Silly eyes starter project](https://scratch.mit.edu/projects/582221984/editor){:target="_blank"}. Scratch will open in another browser tab.
+افتح [المشروع الابتدائي للعيون المضحكة](https://scratch.mit.edu/projects/582221984/editor){:target="_blank"}. سيتم فتح Scratch في علامة تبويب متصفح أخرى.
 
 [[[working-offline]]]
 
@@ -21,9 +21,9 @@ Open the [Silly eyes starter project](https://scratch.mit.edu/projects/582221984
 
 --- task ---
 
-**Choose:** Choose a sprite **or** create your own simple sprite in the Paint editor.
+**اختر:** اختر كائنًا **أو** بإنشاء كائن بسيط خاص بك في محرر الرسام.
 
-You don't have to choose a person or animal. You could choose an object, like the donut.
+ليس عليك اختيار شخص أو حيوان. يمكنك اختيار شيء ، مثل الدونات.
 
 [[[generic-scratch3-sprite-from-library]]]
 
@@ -31,34 +31,34 @@ You don't have to choose a person or animal. You could choose an object, like th
 
 --- collapse ---
 ---
-title: Get a surprise sprite
+العنوان: احصل على كائن مفاجئ
 ---
 
-Not sure which sprite to choose? Go to the **Choose a Sprite** menu and choose the **Surprise** option to add a surprise sprite to your project.
+لست متأكدا أي كائن تختار؟ اذهب إلى قائمة **اختر عشوائي او مفاجى** واختر **عشوائي** لإضافة كائن عشوائي إلى مشروعك.
 
-![The 'Surprise' option in the 'Choose a Sprite' menu.](images/surprise-sprite.png)
+![خيار "مفاجأة" في قائمة "اختيار كائن".](images/surprise-sprite.png)
 
 --- /collapse ---
 
-**Tip:** If you create your own sprite in the Paint editor, **don't add eyes yet, because they need to be separate sprites.**
+**نصيحة:** إذا قمت بإنشاء كائن خاص بك في محرر الرسام ، **لا تضف العيون بعد ، لأنها تحتاج إلى أن تكون نقوشًا متحركة منفصلة.**
 
 --- /task ---
 
-At the moment, your character will be much smaller than the characters in our example projects. You can make your character bigger so that it fills more of the screen.
+في الوقت الحالي ، ستكون شخصيتك أصغر بكثير من الشخصيات في أمثلة مشاريعنا. يمكنك جعل شخصيتك أكبر بحيث تملأ المزيد من الشاشة.
 
 --- task ---
 
-In the Sprite pane, change the number in the **Size** property to a number of your choice.
+في جزء الكائن، قم بتغيير الرقم الموجود في **الحجم** إلى رقم من اختيارك.
 
 ![](images/size-property.png){:width="500px"}
 
 --- /task ---
 
-Where do you want your character to live?
+أين تريد أن تعيش شخصيتك؟
 
 --- task ---
 
-**Choose:** Choose a backdrop that is sensible or silly.
+**اختر:** اختر خلفية معقولة أو مضحكة.
 
 [[[generic-scratch3-backdrop-from-library]]]
 
