@@ -1,61 +1,61 @@
-## Reflection
+## انعكاس
 
-Well done, you have learned a lot! Now, it's time to reflect — reflecting is an important part of learning, because it helps make new connections in your brain.
+أحسنت ، لقد تعلمت الكثير! الآن ، حان وقت التفكير - التفكير جزء مهم من التعلم ، لأنه يساعد في إنشاء روابط جديدة في عقلك.
 
-Answer the three questions below to reflect on what you have learned.
+أجب عن الأسئلة الثلاثة أدناه لتفكر فيما تعلمته.
 
-When you have answered each question, click on **Submit**. You will be guided towards the correct answer. You can do this activity as many times as you want to.
+عندما تجيب على كل سؤال ، انقر فوق **إرسال**. سيتم توجيهك نحو الإجابة الصحيحة. يمكنك القيام بهذا النشاط عدة مرات كما تريد.
 
-Have fun!
+استمتع!
 
 --- question ---
 ---
 legend: Question 1 of 3
 ---
 
-We added this code to an **Eyeball** sprite, but the eyeball is not rotating when the mouse pointer moves.
+أضفنا هذه التعليمة البرمجية إلى كائن **مقلة العين** ، لكن مقلة العين لا تدور عندما يتحرك مؤشر الماوس.
 
-![Screenshot showing the script and the Stage. The script is not glowing with a yellow outline. The blocks in the script are 'when green flag clicked', 'set rotation style all around', 'forever', 'point towards mouse-pointer'.](images/code-not-running.png)
+![لقطة شاشة توضح التعليمة والمسرح او المنصة. التعليمة البرمجية لا تتوهج بمخطط او ظل أصفر. تكون التعليمة البرمجية (اللبنة) الموجودة في المقطع البرمجي "عند النقر فوق العلم الأخضر" ، "تعيين نمط التدوير في كل مكان" ، "كرر باستمرار" ، "أشر نحو مؤشر الماوس".](images/code-not-running.png)
 
-How could you fix the problem with just one action?
+كيف يمكنك حل المشكلة بخطوة واحدة فقط؟
 
 --- choices ---
 
-- (x) Click on the green flag
+- (x) اضغط على العلم الاخضر
 
   --- feedback ---
 
-Yes! Just adding the script does not make it run. You need to click on the green flag to make your code run.
+نعم! مجرد إضافة المفطع البرمجي لا يجعله يعمل. تحتاج إلى النقر فوق العلم الأخضر لتشغيل التعليمة البرمجية الخاص بك.
 
-Your code will have a yellow outline around it when it is running.
+سيحتوي التعليمة البرمجية الخاص بك على مخطط او ظل أصفر حوله عند تشغيله.
 
-Forgetting to click on the green flag is a really common mistake — we all do it!
+نسيان النقر فوق العلم الأخضر هو خطأ شائع حقًا - نحن جميعًا نفعل ذلك!
 
-**Tip:** If you change code in a loop while the script is running, Scratch will run the new code the next time that the loop runs! You don't need to click on the green flag again. This is really useful when you are trying out ideas.
+**نصيحة:** إذا قمت بتغيير التعليمات البرمجية في حلقة أثناء تشغيل التعليمة البرمحية ، فسيقوم Scratch بتشغيل التعليمة البرمحية الجديدة في المرة التالية التي يتم فيها تشغيل او تنفيذ تعليمة التكرار! لا تحتاج إلى النقر فوق العلم الأخضر مرة أخرى. هذا مفيد حقًا عندما تجرب الأفكار.
 
   --- /feedback ---
 
-- ( ) Click on the eyeball
+- () اضغط على مقلة العين
 
   --- feedback ---
 
-The script does not start with a `when this sprite clicked`{:class="block3events"} block.
+لا التعليمة البرمجية `عندما نقر هذا`{: class = "block3events"}.
 
   --- /feedback ---
 
-- ( ) Move the `set rotation style`{:class="block3looks"} block inside the `forever`{:class="block3control"} loop
+- () قم بتحريك مجموعة نمط التدوير ``{: class = "block3looks"} داخل تعليمة التكرار `باستمرار`{: class = "block3control"}
 
   --- feedback ---
 
-You do not need to run the `set rotation style`{:class="block3looks"} block lots of times. If you set it once before the loop, it will not change until you set it to a different style. Moving the `set rotation style`{:class="block3looks"} block will not help with the problem in the question.
+لا تحتاج إلى تشغيل تعليمة ` مجموعة نمط التدوير`{: class = "block3looks"} عدة مرات. إذا قمت بتعيينها مرة واحدة قبل حلقة التكرار، فلن تتغير حتى تقوم بتعيينها على نمط مختلف. لن يساعد نقل تعليمة `نمط الدوران`{: class = "block3looks"} في حل المشكلة في السؤال.
 
   --- /feedback ---
 
-- ( ) Click on the Stage
+- () اضغط على المنصة او المسرح
 
   --- feedback ---
 
-You do not need to click on the Stage to get the eyeball to rotate. When the code is running, the eyeball will just follow the mouse pointer (or your finger, if you are using a tablet).
+لا تحتاج إلى النقر فوق المنصة لجعل مقلة العين تدور. عند تشغيل او تنفيذ التعليم البرمجية، ستتبع مقلة العين مؤشر الماوس فقط (أو إصبعك ، إذا كنت تستخدم جهازًا لوحيًا).
 
   --- /feedback ---
 
