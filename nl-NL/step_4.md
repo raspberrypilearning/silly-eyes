@@ -1,27 +1,27 @@
-## Sprite effects
+## Sprite-effecten
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-You can make your **character** sprite and **silly eye** sprites change their `Looks`{:class="block3looks"} when you click on them.
+Je kunt je **personage** sprite en **maffe ogen** sprites hun `Uiterlijken`{:class="block3looks"} laten veranderen als je erop klikt.
 </div>
 <div>
 
-![A character and eyes with graphic effects.](images/character-graphic-effects.png){:width="300px"}    
+![Een personage en ogen met grafische effecten.](images/character-graphic-effects.png){:width="300px"}    
 
 </div>
 </div>
 
-### Silly eye effects
+### Maffe oogeffecten
 
 --- task ---
 
-Add a `when this sprite clicked`{:class="block3events"} block to your **Eyeball** sprite.
+Voeg een `wanneer op deze sprite wordt geklikt`{:class="block3events"} blok toe aan je **Oogbol** sprite.
 
-Can you work out what code block you would put underneath to change your sprite's eye colour when you click on the **Eyeball** sprite?
+Kun je uitzoeken welk codeblok je eronder zou plaatsen om de oogkleur van je sprite te veranderen als je op de **Oogbol** sprite klikt?
 
 --- collapse ---
 ---
-title: Change graphic effects when the sprite is clicked
+title: Grafische effecten wijzigen wanneer op de sprite wordt geklikt
 ---
 
 ```blocks3
@@ -35,50 +35,50 @@ change [color v] effect by (25)
 
 --- task ---
 
-If you want both eyeballs to have the same effect, you will need to copy your script to the **Eyeball 2** sprite.
+Als je wilt dat beide oogbollen hetzelfde effect hebben, moet je je script naar de sprite **Oogbol2** kopiëren.
 
 [[[scratch3-copy-code]]]
 
 --- /task ---
 
-### Character effects
+### Personage-effecten
 
-If you want to, you can also make your **character** sprite change colour and other graphic effects when you click on it.
+Als je wilt, kun je je **personage** van kleur laten veranderen en andere grafische effecten toepassen als je erop klikt.
 
 --- task ---
 
-Click on your **character** sprite in the Sprite list, then click on the **Code** tab.
+Klik op je **personage** sprite in de Sprite-lijst en klik vervolgens op het **Code** tabblad.
 
-Add the same script as you used to change the eye colour. Which graphic effects do you want to change for your **character**?
+Voeg hetzelfde script toe als waarmee je de oogkleur hebt gewijzigd. Welke grafische effecten wil je veranderen voor je **personage**?
 
-**Choose:** Choose an effect in the drop-down menu within the `change color effect by`{:class="block3looks"} block. Experiment with the numbers until you have a change that you like.
+**Kies:** Kies een effect in het vervolgkeuzemenu binnen het `verander kleur effect met`{:class="block3looks"} blok. Experimenteer met de getallen totdat je een verandering hebt die je leuk vindt.
 
 [[[scratch3-graphic-effects]]]
 
 --- /task ---
 
-Now, add an **accessory**, such as a hat, that changes when you click on it — use the `next costume`{:class="block3looks"} block.
+Voeg nu een **accessoire** toe, zoals een hoed, die verandert als je erop klikt — gebruik het `volgend uiterlijk`{:class="block3looks"} blok.
 
 --- task ---
 
-**Choose:** Add an accessory change or costume change of your choice.
+**Kies:** Voeg een accessoire-verandering of uiterlijkverandering naar keuze toe.
 
 
-![Sprites with accessories.](images/accessory-sprite.png)
+![Sprites met accessoires.](images/accessory-sprite.png)
 
 --- collapse ---
 ---
-title: Make a sprite change costume when clicked
+title: Verander een sprite-uiterlijk wanneer erop wordt geklikt
 ---
 
-**Gobo with costume accessories**: [See inside](https://scratch.mit.edu/projects/496334057/editor){:target="_blank"}
+**Gobo met accessoires voor het uiterlijk**: [Van binnen bekijken](https://scratch.mit.edu/projects/496334057/editor){:target="_blank"}
 <div class="scratch-preview">
 <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/496334057/?autostart=false" frameborder="0"></iframe>
 </div>
 
-Some sprites already have a choice of costumes.
+Sommige sprites hebben al een keuze uit uiterlijken.
 
-You can add code to make a sprite's costume change to the `next costume`{:class="block3looks"} when you click on the sprite:
+Je kunt code toevoegen om het uiterlijk van een sprite te veranderen in het `volgende uiterlijk`{:class="block3looks"} wanneer je op de sprite klikt:
 
 ```blocks3
 when this sprite clicked
@@ -87,7 +87,7 @@ next costume
 
 --- /collapse ---
 
-If your sprite does not have a choice of costumes, or you want to add more, you can add any costume to a sprite.
+Als je sprite geen keuze uit uiterlijken heeft, of als je er meer wilt toevoegen, kun je elk uiterlijk aan een sprite toevoegen.
 
 [[[scratch3-add-costumes-to-a-sprite]]]
 
@@ -95,26 +95,26 @@ If your sprite does not have a choice of costumes, or you want to add more, you 
 
 --- task ---
 
-**Test:** Work on your sprites until they interact in the way that you want. Try one change at a time and test what it does so that you can easily spot each change and undo anything that you do not like.
+**Test:** Werk aan je sprites totdat ze op de door jou gewenste manier met elkaar omgaan. Probeer één wijziging tegelijk uit en test wat het doet, zodat je elke wijziging gemakkelijk kunt herkennen en alles ongedaan kunt maken wat je niet bevalt.
 
 --- /task ---
 
 --- task ---
 
-**Debug:**
+**Fouten oplossen:**
 
-If you add code to the wrong sprite, you can fix that:
+Als je code aan de verkeerde sprite toevoegt, kun je dat oplossen:
 
 [[[scratch3-copy-code]]]
 
-If you need to, you can reset the graphic effects:
+Indien nodig kunt je de grafische effecten opnieuw instellen:
 
 --- collapse ---
 ---
-title: I don't want these graphic effects
+title: Ik wil deze grafische effecten niet
 ---
 
-To reset the graphic effects at any time, click on the `clear graphic effects`{:class="block3looks"} block in the `Looks`{:class="block3looks"} blocks menu. Clicking on the green flag also clears graphic effects.
+Om de grafische effecten op elk moment opnieuw in te stellen, klik je op het `zet alle effecten uit`{:class="block3looks"} in het `Uiterlijken`{:class="block3looks"} blokkenmenu. Door op de groene vlag te klikken, worden ook de grafische effecten gewist.
 
 ```blocks3
 clear graphic effects
