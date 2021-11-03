@@ -1,32 +1,32 @@
 ---
-title: Silly eyes
+title: Maffe ogen
 hero_image: images/banner.png
-description: Create your own app with a character whose eyes follow the mouse pointer
+description: Maak je eigen app met een personage wiens ogen de muisaanwijzer volgen
 version: 4
 listed: true
 copyedit: false
 last_tested: "2021-02-25"
 steps:
   - 
-    title: Introduction
+    title: Inleiding
   - 
-    title: Your character
+    title: Jouw personage
   - 
-    title: Make silly eyes
+    title: Maak maffe ogen
   - 
-    title: Sprite effects
+    title: Sprite-effecten
   - 
-    title: Stage effects
+    title: Speelveld-effecten
   - 
-    title: Reflection
+    title: Reflectie
     knowledge_quiz:
       path: quiz1
       version: 1
       questions: 3
       passing_score: 3
   - 
-    title: Upgrade your project
+    title: Verbeter je project
   - 
-    title: Share
+    title: Deel
   - 
-    title: What next?
+    title: Wat kun je verder nog doen?
