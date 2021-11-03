@@ -1,14 +1,14 @@
-## Make silly eyes
+## Maak maffe ogen
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-In this step, you will make the silly eyes! Each eye needs to be a separate sprite so that it can move separately.
+In deze stap maak je de maffe ogen! Elk oog moet een afzonderlijke sprite zijn, zodat het afzonderlijk kan bewegen.
 
-If you need help, look at the tips in the **Debug** task at the bottom of this step.
+Als je hulp nodig hebt, bekijk dan de tips in de taak **Fouten oplossen** onder aan deze stap.
 </div>
 <div>
 
-![A character with silly eyes.](images/character-with-eyes.png)
+![Een personage met maffe ogen.](images/character-with-eyes.png)
 {:width="300px"}  
 
 </div>
@@ -16,64 +16,64 @@ If you need help, look at the tips in the **Debug** task at the bottom of this s
 
 --- task ---
 
-Use the **Paint** option to create a new **sprite**.
+Gebruik de **Teken** optie om een nieuwe **sprite** te maken.
 
-![The 'Paint' option in the 'Choose a Sprite' menu.](images/paint-a-sprite.png)
+![De 'Teken' optie in het 'Kies een sprite' menu.](images/paint-a-sprite.png)
 
-The Paint editor will open, which will allow you to create your **Eyeball** sprite's costume.
+De Teken-editor wordt geopend, waarmee je jouw **Oogbol** sprite kunt maken.
 
 --- /task ---
 
-It is really important that:
-- The black pupil and coloured iris face to the right-hand side of the **Eyeball** costume
-- The **Eyeball** costume is centred
+Het is echt belangrijk dat:
+- De zwarte pupil en de gekleurde iris aan de rechterkant staan van het **Oogbol** uiterlijk
+- Het **Oogbol** uiterlijk is gecentreerd
 
 --- task ---
 
-**Choose:** Draw an eyeball **or** start from a round sprite.
+**Kies:** Teken een oogbol **of** start vanuit een ronde sprite.
 
 --- collapse ---
 ---
-title: Draw an eyeball in the Paint editor
+title: Teken een oogbol in de Teken-editor
 ---
 
-Select the **Circle** tool.
+Selecteer het **Cirkel**-gereedschap.
 
-To draw a perfect circle, press and hold the <kbd>Shift</kbd> key on the keyboard while you draw with the **Circle** tool. If you are using a tablet, try to get as close to a perfect circle as you can.
+Om een perfecte cirkel te tekenen, houd je de <kbd>Shift</kbd> op het toetsenbord ingedrukt terwijl je tekent met het **Cirkel**-gereedschap. Als je een tablet gebruikt, probeer dan zo dicht mogelijk bij een perfecte cirkel te komen.
 
-In this example, we set the **Outline** to black and the **Fill** colour of the eyeball to white:
+In dit voorbeeld stellen we de **Omtrek** op zwart en de **Vulling**-kleur van de oogbol op wit:
 
-![A white eyeball with a black outline.](images/eyeball-outline.png)
+![Een witte oogbol met een zwarte omtrek.](images/eyeball-outline.png)
 
-Use the **Fill** and **Outline** colour choosers to choose colours. To make black, slide both the **Saturation** and **Brightness** to `0`. To make white, slide the **Saturation** to `0` and the **Brightness** to `100`.
+Gebruik de **Vulling**- en **Omtrek** kleurkiezers om kleuren te kiezen. Om zwart te maken, schuif je zowel **Verzadiging** als **Helderheid** naar `0`. Om wit te maken, schuif je de **Verzadiging** naar `0` en de **Helderheid** naar `100`.
 
 ![](images/black-colour.png) ![](images/white-colour.png)
 
-Make sure that the eyeball is centred — move it so that the blue cross in the costume lines up with the grey crosshair in the Paint editor.
+Zorg ervoor dat de oogbol gecentreerd is - verplaats hem zodat het blauwe kruis in het uiterlijk uitgelijnd is met het grijze dradenkruis in de Teken-editor.
 
-Draw a smaller perfect circle and position it on the right-hand side of the eyeball:
+Teken een kleinere perfecte cirkel en plaats deze aan de rechterkant van de oogbol:
 
-![An eyeball with a red iris and black pupil on the right-hand side.](images/eyeball-with-iris.png)
+![Een oogbol met een rode iris en zwarte pupil aan de rechterkant.](images/eyeball-with-iris.png)
 
-You could also draw circles inside circles, or use colour, to get different effects.
+Je kunt ook cirkels binnen cirkels tekenen of kleur gebruiken om verschillende effecten te krijgen.
 
 --- /collapse ---
 
 
 --- collapse ---
 ---
-title: Turn a round costume into an eyeball
+title: Verander een rond uiterlijk in een oogbol
 ---
 
-There are costumes in Scratch that you can edit to make silly eyes for your character.
+Er zijn uiterlijken in Scratch die je kunt bewerken om maffe ogen voor je personage te maken.
 
-Use the Paint editor to change a costume. You could add circles, choose a different **Fill** colour, or remove parts of the costume to turn it into a silly eye.
+Gebruik de Teken-editor om een uiterlijk te wijzigen. Je kunt cirkels toevoegen, een andere **Vulling**-kleur kiezen of delen van het uiterlijk verwijderen om er een maf oog van te maken.
 
-**Tip:** You will need to centre the **Eyeball** costume in the Paint editor so that it rotates smoothly as it turns. Use the crosshair to centre the costume. The black pupil and coloured iris need to be positioned on the right-hand side of the costume so that the **Eyeball** follows the mouse pointer.
+**Tip:** Je moet het **Oogbol**-uiterlijk in de Teken-editor centreren zodat het soepel draait terwijl het ronddraait. Gebruik het dradenkruis om het uiterlijk te centreren. De zwarte pupil en gekleurde iris moeten aan de rechterkant van het uiterlijk worden geplaatst, zodat de **Oogbol** de muisaanwijzer volgt.
 
-![Existing Scratch costumes as eyeballs.](images/costume-eyes.gif)
+![Bestaande Scratch-uiterlijken als oogbollen.](images/costume-eyes.gif)
 
-![The Paint editor showing an edited button1 costume.](images/button-eye.png)
+![De Teken-editor die een bewerkt button1-uiterlijk toont.](images/button-eye.png)
 
 --- /collapse ---
 
@@ -81,27 +81,27 @@ Use the Paint editor to change a costume. You could add circles, choose a differ
 
 --- task ---
 
-Name your sprite `Eyeball` in the Sprite pane.
+Noem je sprite `Oogbol` in het Sprite-paneel.
 
-![The sprite's name set to 'Eyeball' in the Sprite pane.](images/eyeball-name.png)
+![De naam van de sprite is ingesteld op 'Oogbal' in het Sprite-paneel.](images/eyeball-name.png)
 
 --- /task ---
 
 --- task ---
 
-Drag the **Eyeball** sprite to position it on the Stage, and change its size to fit your character.
+Sleep de **Oogbol**-sprite om deze op het werkgebied te plaatsen en wijzig de grootte zodat deze bij jouw personage past.
 
 --- /task ---
 
-Now, make the eyeball look at the `mouse-pointer`{:class="block3motion"}.
+Laat de oogbol nu naar de `muisaanwijzer`{:class="block3motion"} kijken.
 
 --- task ---
 
-Add a script to `set the rotation style`{:class="block3motion"} to `all around`{:class="block3motion"} to make the eyeball `point towards the mouse pointer`{:class="block3motion"} `forever`{:class="block3control"}.
+Voeg een script toe om `maak de draaistijl`{:class="block3motion"} in te stellen op `helemaal rond`{:class="block3motion"} om de oogbol `naar de muisaanwijzer`{:class="block3motion"} te laten wijzen `voor altijd herhaald`{:class="block3control"}.
 
 --- collapse ---
 ---
-title: Make a sprite point towards the mouse pointer
+title: Laat een sprite naar de muisaanwijzer wijzen
 ---
 
 ```blocks3
@@ -117,11 +117,11 @@ end
 --- /task ---
 
 
-If your character only has one eye, then you have finished.
+Als je personage maar één oog heeft, ben je klaar.
 
 --- task ---
 
-Otherwise, right-click (or on a tablet, tap and hold) on the **Eyeball** sprite in the Sprite list and choose **duplicate** to create more silly eyes.
+Klik anders met de rechtermuisknop (of tik op een tablet en houd vast) op de **Oogbol**-sprite in de Sprite-lijst en kies **dupliceren** om meer maffe ogen te creëren.
 
 [[[scratch3-duplicate-sprite]]]
 
@@ -129,63 +129,63 @@ Otherwise, right-click (or on a tablet, tap and hold) on the **Eyeball** sprite 
 
 --- task ---
 
-**Test:** Click on the green flag and test your project. Do the silly eyes follow your mouse pointer as you move the mouse around?
+**Test:** Klik op de groene vlag en test jouw project. Volgen de maffe ogen je muisaanwijzer terwijl je de muis beweegt?
 
-**Tip:** You don't have to keep the mouse pointer on the Stage. The eyes will follow your mouse pointer as you carry on coding in Scratch.
+**Tip:** Je hoeft de muisaanwijzer niet op het speelveld te houden. De ogen zullen jouw muisaanwijzer volgen terwijl je doorgaat met coderen in Scratch.
 
 --- /task ---
 
 --- task ---
 
-**Debug:** You might find some bugs in your project that you need to fix. Here are some common bugs:
+**Fouten oplossen:** Mogelijk vind je enkele fouten in jouw project die je moet oplossen. Hier zijn enkele veelvoorkomende fouten:
 
 --- collapse ---
 ---
-title: The eyes do not move
+title: De ogen bewegen niet
 ---
 
-Make sure that you have added the code to the **Eyeball** sprites and **clicked on the green flag**. Your code will not run until you click on the green flag.
+Zorg ervoor dat je de code hebt toegevoegd aan de **Oogbol**-sprites en **geklikt op de groene vlag**. Je code wordt pas uitgevoerd als je op de groene vlag klikt.
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: The eyes point away from the mouse
+title: De ogen wijzen weg van de muis
 ---
 
-In the **Eyeball** costumes, check that the pupil is on the right-hand side (past the blue cross in the middle of the costume).
+Controleer in de **Oogbol** uiterlijken of de pupil zich aan de rechterkant bevindt (voorbij het blauwe kruis in het midden van het uiterlijk).
 
-The **Eyeball** sprites have the `all around`{:class="block3motion"} `rotation style`{:class="block3motion"}, so they can rotate in any direction.
+De **Oogbol** sprites hebben de `helemal rond`{:class="block3motion"} `draaistijl`{:class="block3motion"}, zodat ze in elke richting kunnen draaien.
 
-When the **Eyeballs** rotate to `point towards`{:class="block3motion"} the `mouse-pointer`{:class="block3motion"}, the pupils will be closest to the mouse pointer.
+Wanneer de **Oogbollen** roteren naar `wijzen in de richting van`{:class="block3motion"} de `muisaanwijzer`{:class="block3motion"}, dan zullen de pupillen zich het dichtst bij de muisaanwijzer bevinden.
 
-![Placing the pupil on the right-hand side of an eyeball costume.](images/eye-right.gif)
+![De pupil aan de rechterkant van een oogboluiterlijk plaatsen.](images/eye-right.gif)
 
-![An eyeball costume with the pupil on the right-hand side.](images/eye-costume.png)
+![Een oogboluiterlijk met de pupil aan de rechterkant.](images/eye-costume.png)
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: The eyes jump around the Stage
+title: De ogen springen over het speelveld
 ---
 
-Check that the **Eyeball** costumes are centred. To centre a costume, drag the costume so that the blue cross in the costume lines up with the grey crosshair in the Paint editor.
+Controleer of de **Oogbol** uiterlijken gecentreerd zijn. Om een uiterlijk te centreren, sleep je het uiterlijk zo dat het blauwe kruis in het uiterlijk op één lijn ligt met het grijze dradenkruis in de Teken-editor.
 
-![Centring an eyeball costume in the Paint editor.](images/eye-centered.gif)
+![Een oogboluiterlijk centreren in de Teken-editor.](images/eye-centered.gif)
 
-![An eyeball costume centred in the Paint editor.](images/eye-costume.png)
+![Een oogboluiterlijk gecentreerd in de Teken-editor.](images/eye-costume.png)
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: The character is in front of the eyes
+title: Het personage staat voor de ogen
 ---
 
-When you drag a sprite to position it on the Stage, it moves in front of the other sprites.
+Wanneer je een sprite sleept om deze in het speelveld te plaatsen, beweegt deze voor de andere sprites.
 
-To get your **character** sprite to stay at the `back`{:class="block3looks"}, use:
+Om ervoor te zorgen dat je sprite van je **personage** `achteraan`{:class="block3looks"} blijft, gebruik je:
 
 ```blocks3
 when green flag clicked
@@ -197,33 +197,33 @@ go to [back v] layer // behind all other sprites
 
 --- collapse ---
 ---
-title: The character and the eyes follow the mouse pointer
+title: Het personage en de ogen volgen de muisaanwijzer
 ---
 
-Did you add the eyes as costumes for your **character** instead of as costumes for separate sprites? You can fix that.
+Heb je de ogen toegevoegd als uiterlijken voor je **personage** in plaats van als uiterlijken voor afzonderlijke sprites? Je kunt dat oplossen.
 
-One way to fix it is to duplicate the **character** sprite and then rename the copy `Eyeball`. Then, delete the **Eyeball** costumes from the **character** sprite, and delete the **character** costumes from the **Eyeball** sprite. Then, you can duplicate the **Eyeball** sprite and name the copy `Eyeball 2`.
+Een manier om dit op te lossen is door het **personage** te dupliceren en vervolgens de kopie `Oogbol` te noemen. Verwijder vervolgens de **Oogbol**-uiterlijken van de **personage** sprite en verwijder de **personage** uiterlijken van de **Oogbol** sprite. Vervolgens kun je de **Oogbol** dupliceren en de kopie `Oogbol 2`noemen.
 
-The code to `point towards`{:class="block3motion"} the `mouse-pointer`{:class="block3motion"} should be on the **Eyeball** sprites and not the **character** sprite.
+De code voor `richt naar`{:class="block3motion"} de `muisaanwijzer`{:class="block3motion"} moet op de **Oogbol** sprites staan en niet de **personage** sprite.
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: The character follows the mouse pointer (and the eyes do not)
+title: Het personage volgt de muisaanwijzer (en de ogen niet)
 ---
 
-You need to add the `point towards`{:class="block3motion"} code to the individual **Eyeball** sprites, not your **character** sprite!
+Je moet het `richt naar`{:class="block3motion"} code toevoegen aan de individuele **Oogbol** sprites, niet je **personage** sprite!
 
-To copy the code, you can drag the code from the Code area for your **character** to the **Eyeball** sprites in the Sprite list.
+Om de code te kopiëren, kun je de code van het Code-gebied van je **personage** naar de **Oogbol** sprites in de Sprite-lijst slepen.
 
-You will also need to delete the script from the **character** sprite. To do this, drag the script to the Blocks menu.
+Je moet ook het script van de **personage** sprite verwijderen. Sleep hiervoor het script naar het Blokkenmenu.
 
 --- /collapse ---
 
-You might find a bug that is not listed here. Can you work out how to fix it?
+Mogelijk vind je een fout die hier niet wordt vermeld. Kun je achterhalen hoe deze te repareren is?
 
-We love hearing about your bugs and how you fixed them. Use the **Send feedback** button at the bottom of this page and tell us if you found a different bug in your project.
+We horen graag over je fouten en hoe je ze hebt opgelost. Gebruik de **Feedback verzenden** knop onderaan deze pagina en vertel ons of je een andere fout in je project hebt gevonden.
 
 
 --- /task ---
