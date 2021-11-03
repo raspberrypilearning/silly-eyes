@@ -1,27 +1,27 @@
-## Sprite effects
+## تأثيرات الشخصية
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-You can make your **character** sprite and **silly eye** sprites change their `Looks`{:class="block3looks"} when you click on them.
+يمكنك جعل ** الطابع الخاص بك ** شخصية و **عين مضحكة ** شخصيات يغيران مظهرهما {: class = "block3looks"} عند النقر فوقهما.
 </div>
 <div>
 
-![A character and eyes with graphic effects.](images/character-graphic-effects.png){:width="300px"}    
+! [شخصية وعينان بتأثيرات رسومية.] (images / character-Graphic-effects.png) {: width = "300px"}    
 
 </div>
 </div>
 
-### Silly eye effects
+### آثار العين المضحكة
 
 --- task ---
 
-Add a `when this sprite clicked`{:class="block3events"} block to your **Eyeball** sprite.
+أضف `عند نقرا هذا الكائن`{: class = "block3events"} إلى كائن **مقلة العين**
 
-Can you work out what code block you would put underneath to change your sprite's eye colour when you click on the **Eyeball** sprite?
+هل يمكنك تحديد التعليمات البرمجية التي ستضعها تحتها لتغيير لون عين الكائن عند النقر فوق كائن**مقلة العين**؟
 
 --- collapse ---
 ---
-title: Change graphic effects when the sprite is clicked
+العنوان: تغيير تأثيرات الرسوم عند النقر فوق الكائن
 ---
 
 ```blocks3
@@ -35,50 +35,50 @@ change [color v] effect by (25)
 
 --- task ---
 
-If you want both eyeballs to have the same effect, you will need to copy your script to the **Eyeball 2** sprite.
+إذا كنت تريد أن يكون لكل من مقل العيون نفس التأثير ، فستحتاج إلى نسخ التعليمة البرمجية الخاص بك إلى كائن **مقلة العين2**
 
 [[[scratch3-copy-code]]]
 
 --- /task ---
 
-### Character effects
+### تأثيرات الشخصية
 
-If you want to, you can also make your **character** sprite change colour and other graphic effects when you click on it.
+إذا كنت ترغب في ذلك ، يمكنك أيضًا جعل**الشخصية الخاصة بك** تغير الون و التاثيرات الرسومية الأخرى عند النقر فوقه.
 
 --- task ---
 
-Click on your **character** sprite in the Sprite list, then click on the **Code** tab.
+انقر على **شخصية** كائن في قائمة كائن، ثم انقر فوق علامة التبويب **المقاطع البرمجية**
 
-Add the same script as you used to change the eye colour. Which graphic effects do you want to change for your **character**?
+أضف نفس المقطع البرمجي الذي استخدمته لتغيير لون العين. ما التأثيرات الرسومية التي تريد تغييرها **للشخصية**؟
 
-**Choose:** Choose an effect in the drop-down menu within the `change color effect by`{:class="block3looks"} block. Experiment with the numbers until you have a change that you like.
+**اختر:** اختر تأثيرًا في القائمة المنسدلة ضمن `تغيير تأثير اللون بمقدار`التعليمة البرمجية{: class = "block3looks"}. جرب الأرقام حتى تحصل على التغيير الذي تريده.
 
 [[[scratch3-graphic-effects]]]
 
 --- /task ---
 
-Now, add an **accessory**, such as a hat, that changes when you click on it — use the `next costume`{:class="block3looks"} block.
+الآن ، أضف **ملحق**، مثل قبعة ، يتغير عند النقر فوقه - استخدم `المظهر التالي`{: class = "block3looks"}.
 
 --- task ---
 
-**Choose:** Add an accessory change or costume change of your choice.
+**اختر:** بإضافة تغيير ملحق أو تغيير مظهر من اختيارك.
 
 
-![Sprites with accessories.](images/accessory-sprite.png)
+![الشخصيات مع الملحقات.](images/accessory-sprite.png)
 
 --- collapse ---
 ---
-title: Make a sprite change costume when clicked
+العنوان: اصنع مظهر تغيير كائن عند النقر عليه
 ---
 
-**Gobo with costume accessories**: [See inside](https://scratch.mit.edu/projects/496334057/editor){:target="_blank"}
+**جوبو مع إكسسوارات المظاهر**: [اطلع على البرنامج](https://scratch.mit.edu/projects/496334057/editor){: target = "_ blank"}
 <div class="scratch-preview">
 <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/496334057/?autostart=false" frameborder="0"></iframe>
 </div>
 
-Some sprites already have a choice of costumes.
+بعض الكائنات لديها بالفعل اختيار المظاهر.
 
-You can add code to make a sprite's costume change to the `next costume`{:class="block3looks"} when you click on the sprite:
+يمكنك إضافة التعليمة البرمجية لتغيير `المظهر`التالي {: class = "block3looks"} عند النقر فوق الكائن:
 
 ```blocks3
 when this sprite clicked
@@ -87,7 +87,7 @@ next costume
 
 --- /collapse ---
 
-If your sprite does not have a choice of costumes, or you want to add more, you can add any costume to a sprite.
+إذا لم يكن لدى الكائن الخاص بك خيار المظاهر، أو إذا كنت تريد إضافة المزيد ، فيمكنك إضافة أي مظهر إلى كائن ما.
 
 [[[scratch3-add-costumes-to-a-sprite]]]
 
@@ -95,26 +95,26 @@ If your sprite does not have a choice of costumes, or you want to add more, you 
 
 --- task ---
 
-**Test:** Work on your sprites until they interact in the way that you want. Try one change at a time and test what it does so that you can easily spot each change and undo anything that you do not like.
+**اختبار:** اعمل على الشخصيات المتحركة الخاصة بك حتى تتفاعل بالطريقة التي تريدها. جرب تغييرًا واحدًا في كل مرة واختبر ما يفعله بحيث يمكنك بسهولة اكتشاف كل تغيير والتراجع عن أي شيء لا ترغبه.
 
 --- /task ---
 
 --- task ---
 
-**Debug:**
+**تصحيح:**
 
-If you add code to the wrong sprite, you can fix that:
+إذا أضفت تعليمة برمجية إلى الكائن الخطأ ، فيمكنك إصلاح ذلك:
 
 [[[scratch3-copy-code]]]
 
-If you need to, you can reset the graphic effects:
+إذا كنت بحاجة إلى ذلك ، يمكنك إعادة تعيين تأثيرات الرسوم:
 
 --- collapse ---
 ---
-title: I don't want these graphic effects
+العنوان: لا أريد هذه التأثيرات الرسومية
 ---
 
-To reset the graphic effects at any time, click on the `clear graphic effects`{:class="block3looks"} block in the `Looks`{:class="block3looks"} blocks menu. Clicking on the green flag also clears graphic effects.
+لإعادة تعيين التأثيرات الرسومية في أي وقت ، انقر فوق `تأثيرات الرسوم الواضحة`{: class = "block3looks"} في قائمة المقاطع البرمجية`الهيئة`{: class = "block3looks"}. يؤدي النقر فوق العلم الأخضر أيضًا إلى مسح تأثيرات الرسوم.
 
 ```blocks3
 clear graphic effects
