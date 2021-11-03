@@ -1,26 +1,26 @@
-## Stage effects
+## آثار المسرح
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-You can also make the project do something when you click on the **Stage**.
+يمكنك أيضًا جعل المشروع يفعل شيئًا ما عند النقر فوق ** المرحلة **.
 </div>
 <div>
 
-![The Stage with graphic effects.](images/stage-effects.png){:width="300px"} 
-{:width="300px"}  
+! [المسرح بتأثيرات رسومية.] (images / stage-effects.png) {: width = "300px"} 
+{: width = "300px"}  
 
 </div>
 </div>
 
 --- task ---
 
-Click on the Stage pane and then on the **Code** tab to add code to the **Stage**.
+انقر فوق جزء المرحلة ثم على **التعليمة البرمجية** لإضافة تعليمة إلى **المسرح**.
 
-**Choose:** Choose what you want to change when the **Stage** is clicked.
+**اختر:** اختر ما تريد تغييره عند النقر **المسرح**
 
 --- collapse ---
 ---
-title: Change graphic effects when the Stage is clicked
+العنوان: تغيير تأثيرات الرسوم عند النقر فوق الجزء الرئيسي
 ---
 
 ```blocks3
@@ -32,7 +32,7 @@ change [color v] effect by [25]
 
 --- collapse ---
 ---
-title: Switch backdrop when the Stage is clicked
+العنوان: تبديل الخلفية عند النقر فوق المنصة
 ---
 
 ```blocks3
@@ -46,20 +46,20 @@ next backdrop
 
 --- task ---
 
-**Test:** Click on the **Stage**, and check that the backdrop switches or the graphic effects change.
+**اختبار:** انقر فوق **المسرح**، وتحقق من تبديل الخلفية أو تغيير تأثيرات الرسوم.
 
 --- /task ---
 
 --- task ---
 
-**Test:** Test your project again, but this time, make it full-screen so that you can see how it will appear to someone looking at it.
+**اختبار:** اختبر مشروعك مرة أخرى ، ولكن هذه المرة ، اجعله في وضع ملء الشاشة حتى تتمكن من رؤية كيف سيظهر لشخص ينظر إليه.
 
 [[[scratch3-full-screen]]]
 
 --- /task ---
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-By making your project full-screen, you are seeing what you have made from the perspective of a user who is playing with your project. **User interaction** is important in digital making. 
+من خلال جعل مشروعك في وضع ملء الشاشة ، فإنك ترى ما قمت بإنشائه من منظور المستخدم الذي يلعب بمشروعك. ** تفاعل المستخدم ** مهم في الصناعة الرقمية. 
 </p>
 
 --- save ---
