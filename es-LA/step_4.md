@@ -15,9 +15,9 @@ Puedes hacer que tu objeto **personaje** y tus objetos **ojo tonto** cambien su 
 
 --- task ---
 
-Agrega un bloque `al hacer clic en este objeto`{:class="block3events"} a tu objeto **Eyeball**.
+Agrega un bloque `al hacer clic en este objeto`{:class="block3events"} a tu objeto **Globo ocular**.
 
-¿Puedes averiguar qué bloque de código pondrías debajo para cambiar el color de ojos de tu objeto cuando haces clic en el objeto **Eyeball**?
+¿Puedes averiguar qué bloque de código pondrías debajo para cambiar el color de ojos de tu objeto cuando haces clic en el objeto **Globo ocular**?
 
 --- collapse ---
 ---
@@ -35,7 +35,7 @@ change [color v] effect by (25)
 
 --- task ---
 
-Si quieres que ambos ojos tengan el mismo efecto, tienes que copiar tu script al objeto **Eyeball 2**.
+Si quieres que ambos ojos tengan el mismo efecto, tienes que copiar tu script al objeto **Globo ocular 2**.
 
 [[[scratch3-copy-code]]]
 

@@ -13,7 +13,7 @@ Cuando hayas respondido a cada pregunta, haz clic en **Enviar**. Vamos a guiarte
 legend: Pregunta 1 de 3
 ---
 
-Agregamos este código a un objeto **Eyeball** (Globo ocular), pero el globo ocular no gira cuando se mueve el puntero del mouse.
+Agregamos este código a un objeto **Globo ocular**, pero el globo ocular no gira cuando se mueve el puntero del mouse.
 
 ![Captura de pantalla que muestra el código y el escenario. El sript no se ilumina con un contorno amarillo. Los bloques en el script son 'al presionar bandera verde', 'fijar estilo de rotación en todas las direcciones', 'por siempre', 'apuntar hacia puntero del ratón'.](images/code-not-running.png)
 

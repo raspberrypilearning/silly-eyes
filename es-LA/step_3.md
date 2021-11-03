@@ -15,17 +15,17 @@ Si necesitas ayuda, consulta las sugerencias de la tarea **Depurar** al final de
 
 --- task ---
 
-Utiliza la opción **Pintar** para crear un nuevo objeto ****.
+Utiliza la opción **Pintar** para crear un nuevo **objeto**.
 
 ![La opción 'Pintar' en el menú 'Elegir un objeto'.](images/paint-a-sprite.png)
 
-Se abrirá el Editor de dibujo, lo que te permitirá crear el disfraz de **Eyeball** (Globo ocular).
+Se abrirá el Editor de dibujo, lo que te permitirá crear el disfraz de **Globo ocular**.
 
 --- /task ---
 
 Es súper importante que:
-- La pupila negra y el iris de color miren hacia el lado derecho del disfraz **Eyeball** (Globo ocular)
-- El **Eyeball** (Globo ocular) esté centrado
+- La pupila negra y el iris de color miren hacia el lado derecho del disfraz **Globo ocular**
+- El **Globo ocular** esté centrado
 
 --- task ---
 
@@ -68,7 +68,7 @@ Hay disfraces en Scratch que puedes editar para crear ojos tontos para tu person
 
 Usa el Editor de dibujo para cambiar un disfraz. Puedes agregar círculos, elegir un color de **Relleno** diferente o quitar partes del disfraz para convertirlo en un ojo tonto.
 
-**Sugerencia:** Tienes que centrar el disfraz **Eyeball** (Globo ocular) en el Editor de dibujo para que gire suavemente a medida que gira. Usa la mira para centrar el disfraz. La pupila negra y el iris de color deben colocarse en el lado derecho del disfraz para que el **Eyeball** (Globo ocular) siga el puntero del ratón.
+**Sugerencia:** Tienes que centrar el disfraz **Globo ocular** en el Editor de dibujo para que gire suavemente a medida que gira. Usa la mira para centrar el disfraz. La pupila negra y el iris de color deben colocarse en el lado derecho del disfraz para que el **Globo ocular** siga el puntero del ratón.
 
 ![Disfraces de Scratch existentes como globos oculares.](images/costume-eyes.gif)
 
@@ -80,15 +80,15 @@ Usa el Editor de dibujo para cambiar un disfraz. Puedes agregar círculos, elegi
 
 --- task ---
 
-Nombra tu objeto `Eyeball` (Globo ocular) en el Panel de objetos.
+Nombra tu objeto `Globo ocular` en el Panel de objetos.
 
-![El nombre del objeto establecido como 'Eyeball' en el Panel de objetos.](images/eyeball-name.png)
+![El nombre del objeto establecido como 'Globo ocular' en el Panel de objetos.](images/eyeball-name.png)
 
 --- /task ---
 
 --- task ---
 
-Arrastra el objeto **Eyeball** para colocarlo en el escenario y cambia su tamaño para que se ajuste a tu personaje.
+Arrastra el objeto **Globo ocular** para colocarlo en el escenario y cambia su tamaño para que se ajuste a tu personaje.
 
 --- /task ---
 
@@ -120,7 +120,7 @@ Si tu personaje tiene un solo ojo, entonces has terminado.
 
 --- task ---
 
-De lo contrario, haz clic con el botón derecho (o en una tableta, mantén presionado) en el objeto **Eyeball** (Globo ocular) en la Lista de objetos y elige **duplicar** para crear más ojos tontos.
+De lo contrario, haz clic con el botón derecho (o en una tableta, mantén presionado) en el objeto **Globo ocular** en la Lista de objetos y elige **duplicar** para crear más ojos tontos.
 
 [[[scratch3-duplicate-sprite]]]
 
@@ -143,7 +143,7 @@ De lo contrario, haz clic con el botón derecho (o en una tableta, mantén presi
 title: Los ojos no se mueven
 ---
 
-Asegúrate de haber agregado el código a los objetos **Eyeball** (Globo ocular) y hayas **presionado la bandera verde**. Tu código no se ejecutará hasta que hagas clic en la bandera verde.
+Asegúrate de haber agregado el código a los objetos **Globo ocular** y hayas **presionado la bandera verde**. Tu código no se ejecutará hasta que hagas clic en la bandera verde.
 
 --- /collapse ---
 
@@ -152,11 +152,11 @@ Asegúrate de haber agregado el código a los objetos **Eyeball** (Globo ocular)
 title: Los ojos apuntan lejos del mouse
 ---
 
-Para cada disfraz **Eyeball**, comprueba que la pupila esté al lado derecho (más allá de la cruz azul en el medio del disfraz).
+Para cada disfraz **Globo ocular**, comprueba que la pupila esté al lado derecho (más allá de la cruz azul en el medio del disfraz).
 
-Los objetos **Eyeball** tienen `en todas las direcciones`{:class="block3motion"} como `estilo de rotación`{:class="block3motion"}, por lo que pueden rotar en cualquier dirección.
+Los objetos **Globo ocular** tienen `en todas las direcciones`{:class="block3motion"} como `estilo de rotación`{:class="block3motion"}, por lo que pueden rotar en cualquier dirección.
 
-Cuando los **Eyeballs** giran para`apuntar hacia`{:class="block3motion"} el `puntero del ratón`{:class="block3motion"}, las pupilas estarán más cerca del puntero del ratón.
+Cuando los **Globos oculares** giran para `apuntar hacia`{:class="block3motion"} el `puntero del ratón`{:class="block3motion"}, las pupilas estarán más cerca del puntero del ratón.
 
 ![Colocando la pupila en el lado derecho de un disfraz de globo ocular.](images/eye-right.gif)
 
@@ -169,7 +169,7 @@ Cuando los **Eyeballs** giran para`apuntar hacia`{:class="block3motion"} el `pun
 title: Los ojos saltan por el escenario
 ---
 
-Comprueba que los disfraces **Eyeball** estén centrados. Para centrar un disfraz, arrastra el disfraz de modo que la cruz azul en el disfraz se alinee con la cruz gris en el Editor de dibujo.
+Comprueba que los disfraces de **Globo ocular** estén centrados. Para centrar un disfraz, arrastra el disfraz de modo que la cruz azul en el disfraz se alinee con la cruz gris en el Editor de dibujo.
 
 ![Centrando un disfraz de globo ocular en el Editor de dibujo.](images/eye-centered.gif)
 
@@ -201,9 +201,9 @@ title: El personaje y los ojos siguen el puntero del ratón
 
 ¿Agregaste ambos ojos como disfraces para tu **personaje** en lugar de como disfraces para objetos separados? Puedes solucionarlo.
 
-Una forma de solucionarlo es duplicar tu objeto **personaje** y luego cambiar el nombre de la copia a `Eyeball` (Globo ocular). Luego, elimina los disfraces **Eyeball** del objeto **personaje**, y elimina los disfraces **personaje** del objeto **Eyeball**. Luego, puedes duplicar el objeto **Eyeball** y nombrar la copia `Eyeball 2`.
+Una forma de solucionarlo es duplicar tu objeto **personaje** y luego cambiar el nombre de la copia a `Globo ocular`. Luego, elimina los disfraces **Globo ocular** del objeto **personaje**, y elimina los disfraces **personaje** del objeto **Globo ocular**. Luego, puedes duplicar el objeto **Globo ocular** y nombrar la copia `Globo ocular 2`.
 
-El código para `apuntar hacia`{:class="block3motion"} el `puntero del ratón`{:class="block3motion"} debe estar en los objetos para **Eyeball** (Globo ocular) y no en el objeto **personaje**.
+El código para `apuntar hacia`{:class="block3motion"} el `puntero del ratón`{:class="block3motion"} debe estar en los objetos para **Globo ocular** y no en el objeto **personaje**.
 
 --- /collapse ---
 
@@ -212,9 +212,9 @@ El código para `apuntar hacia`{:class="block3motion"} el `puntero del ratón`{:
 title: El personaje sigue el puntero del ratón (pero los ojos no)
 ---
 
-Debes agregar el código `apuntar hacia`{:class="block3motion"} a los objetos **Eyeball**, ¡no a tu objeto de **personaje**!
+Debes agregar el código `apuntar hacia`{:class="block3motion"} a los objetos **Globo ocular**, ¡no a tu objeto de **personaje**!
 
-Para copiar el código, puedes arrastrar el código desde el Área de código para tu **personaje** a los objetos **Eyeball** en la Lista de objetos.
+Para copiar el código, puedes arrastrar el código desde el Área de código para tu **personaje** a los objetos **Globo ocular** en la Lista de objetos.
 
 También deberás eliminar el script del objeto **personaje**. Para hacer esto, arrastra el script al Menú de bloques.
 
