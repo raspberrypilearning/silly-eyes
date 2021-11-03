@@ -1,12 +1,12 @@
-## Stage effects
+## Speelveld-effecten
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-You can also make the project do something when you click on the **Stage**.
+Je kunt het project ook iets laten doen door op het **Speelveld** te klikken.
 </div>
 <div>
 
-![The Stage with graphic effects.](images/stage-effects.png){:width="300px"} 
+![Het speelveld met grafische effecten.](images/stage-effects.png){:width="300px"} 
 {:width="300px"}  
 
 </div>
@@ -14,13 +14,13 @@ You can also make the project do something when you click on the **Stage**.
 
 --- task ---
 
-Click on the Stage pane and then on the **Code** tab to add code to the **Stage**.
+Klik op het speelveld-paneel en vervolgens op de **Code** tab om code toe te voegen aan het **speelveld**.
 
-**Choose:** Choose what you want to change when the **Stage** is clicked.
+**Kies:** Kies wat je wilt wijzigen wanneer op het **speelveld** wordt geklikt.
 
 --- collapse ---
 ---
-title: Change graphic effects when the Stage is clicked
+title: Grafische effecten wijzigen wanneer op het speelveld wordt geklikt
 ---
 
 ```blocks3
@@ -32,7 +32,7 @@ change [color v] effect by [25]
 
 --- collapse ---
 ---
-title: Switch backdrop when the Stage is clicked
+title: Van achtergrond wisselen wanneer op het speelveld wordt geklikt
 ---
 
 ```blocks3
@@ -46,20 +46,20 @@ next backdrop
 
 --- task ---
 
-**Test:** Click on the **Stage**, and check that the backdrop switches or the graphic effects change.
+**Test:** Klik op het **Speelveld** en controleer of de achtergrondwisselingen of de grafische effecten veranderen.
 
 --- /task ---
 
 --- task ---
 
-**Test:** Test your project again, but this time, make it full-screen so that you can see how it will appear to someone looking at it.
+**Test:** Test je project opnieuw, maar zet het deze keer op volledig scherm, zodat je kunt zien hoe het eruit zal zien voor iemand die ernaar kijkt.
 
 [[[scratch3-full-screen]]]
 
 --- /task ---
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-By making your project full-screen, you are seeing what you have made from the perspective of a user who is playing with your project. **User interaction** is important in digital making. 
+Door je project schermvullend te maken, zie je wat je hebt gemaakt vanuit het perspectief van een gebruiker die met jouw project speelt. **Gebruikersinteractie** is belangrijk bij digitaal maken. 
 </p>
 
 --- save ---
