@@ -13,7 +13,7 @@
 
 --- task ---
 
-Open the [Silly eyes starter project](https://scratch.mit.edu/projects/582221984/editor){:target="_blank"}. Scratch se abrirá en otra pestaña del navegador.
+Abre el proyecto de inicio de [Ojos tontos](https://scratch.mit.edu/projects/582221984/editor){:target="_blank"}. Scratch se abrirá en otra pestaña del navegador.
 
 [[[working-offline]]]
 
