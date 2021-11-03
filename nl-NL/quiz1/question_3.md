@@ -1,11 +1,11 @@
 --- question ---
 ---
-legend: Question 3 of 3
+legend: Vraag 3 van 3
 ---
 
-<span style="color: #0faeb0">**User interaction**</span> is how the project reacts to the user. The 'Silly eyes' project that you have made probably has lots of <span style="color: #0faeb0">**user interaction**</span>!
+<span style="color: #0faeb0">**Gebruikersinteractie**</span> is hoe het project op de gebruiker reageert. Het 'Maffe ogen'-project dat je hebt gemaakt, heeft waarschijnlijk veel <span style="color: #0faeb0">**gebruikersinteractie**</span>!
 
-Which of these scripts allows user interaction after the program has started?
+Welke van deze scripts staat gebruikersinteractie toe nadat het programma is gestart?
 
 --- choices ---
 
@@ -17,7 +17,7 @@ clear graphic effects
 
   --- feedback ---
 
-The graphic effects are cleared after the timer reaches 10. The user does not have to do anything, so there is no user interaction.
+De grafische effecten worden gewist nadat de klok 10 heeft bereikt. De gebruiker hoeft niets te doen, dus er is geen gebruikersinteractie.
 
   --- /feedback ---
 - ( )
@@ -28,7 +28,7 @@ say [hello] for (2) seconds
 
   --- feedback ---
 
-The sprite says "hello" after the backdrop switches. The user does not have to do anything, so there is no user interaction.
+De sprite zegt "hallo" nadat de achtergrond verandert. De gebruiker hoeft niets te doen, dus er is geen gebruikersinteractie.
 
   --- /feedback ---
 - (x)
@@ -39,16 +39,16 @@ change [color v] effect by (25)
 
   --- feedback ---
 
-The user has to click on the sprite to change the colour. This is user interaction.
+De gebruiker moet op de sprite klikken om de kleur te wijzigen. Dit is gebruikersinteractie.
 
   --- /feedback ---
 
 
-- ( ) Give me a clue.
+- ( ) Geef mij een hint.
 
   --- feedback ---
 
- User interaction is how the project reacts to the user doing things such as moving the mouse and clicking on the screen.
+ Gebruikersinteractie is hoe het project reageert wanneer de gebruiker dingen doet zoals het bewegen van de muis en klikken op het scherm.
 
   --- /feedback ---
 
