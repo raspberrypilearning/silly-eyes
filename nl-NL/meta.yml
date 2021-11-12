@@ -1,0 +1,23 @@
+---
+title: Maffe ogen
+hero_image: images/banner.png
+description: Maak je eigen app met een personage wiens ogen de muisaanwijzer volgen
+version: 4
+listed: true
+copyedit: false
+last_tested: "2021-02-25"
+steps:
+  - title: Inleiding
+  - title: Jouw personage
+  - title: Maak maffe ogen
+  - title: Sprite-effecten
+  - title: Speelveld-effecten
+  - title: Reflectie
+    knowledge_quiz:
+      path: quiz1
+      version: 1
+      questions: 3
+      passing_score: 3
+  - title: Verbeter je project
+  - title: Deel
+  - title: Wat kun je verder nog doen?
