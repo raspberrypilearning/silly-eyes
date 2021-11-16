@@ -10,14 +10,17 @@ steps:
   - title: Introducción
   - title: Tu personaje
   - title: Crea ojos tontos
+    completion: engaged
   - title: Efectos para un objeto
   - title: Efectos para escenario
+    completion: internal
   - title: Reflexión
     knowledge_quiz:
       path: quiz1
       version: 1
       questions: 3
       passing_score: 3
+    completion: external
   - title: Mejora tu proyecto
   - title: Comparte
   - title: '¿Qué sigue?'
