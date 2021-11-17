@@ -10,14 +10,17 @@ steps:
   - title: Inleiding
   - title: Jouw personage
   - title: Maak maffe ogen
+    completion: engaged
   - title: Sprite-effecten
   - title: Speelveld-effecten
+    completion: internal
   - title: Reflectie
     knowledge_quiz:
       path: quiz1
       version: 1
       questions: 3
       passing_score: 3
+    completion: external
   - title: Verbeter je project
   - title: Deel
   - title: Wat kun je verder nog doen?
