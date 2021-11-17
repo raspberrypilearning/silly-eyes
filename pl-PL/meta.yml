@@ -13,10 +13,12 @@ steps:
     title: Your character
   - 
     title: Make silly eyes
+    completion: engaged
   - 
     title: Sprite effects
   - 
     title: Stage effects
+    completion: internal
   - 
     title: Reflection
     knowledge_quiz:
@@ -24,6 +26,7 @@ steps:
       version: 1
       questions: 3
       passing_score: 3
+    completion: external
   - 
     title: Upgrade your project
   - 
