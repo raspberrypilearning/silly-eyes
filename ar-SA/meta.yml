@@ -13,10 +13,12 @@ steps:
     title: شخصيتك
   - 
     title: جعل عيون مضحكة متحركة
+    completion: engaged
   - 
     title: تأثيرات الشخصية
   - 
     title: تأثيرات المسرح
+    completion: internal
   - 
     title: انعكاس
     knowledge_quiz:
@@ -24,6 +26,7 @@ steps:
       version: 1
       questions: 3
       passing_score: 3
+    completion: external
   - 
     title: قم بترقية او تطوير مشروعك
   - 
