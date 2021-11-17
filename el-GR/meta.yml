@@ -13,10 +13,12 @@ steps:
     title: Ο χαρακτήρας σου
   - 
     title: Κάνε αστεία μάτια
+    completion: engaged
   - 
     title: Εφέ αντικειμένου
   - 
     title: Εφέ υπόβαθρου
+    completion: internal
   - 
     title: Αναστοχασμός
     knowledge_quiz:
@@ -24,6 +26,7 @@ steps:
       version: 1
       questions: 3
       passing_score: 3
+    completion: external
   - 
     title: Αναβάθμισε το έργο σου
   - 
