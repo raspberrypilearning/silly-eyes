@@ -2,7 +2,7 @@
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-يمكنك جعل **الطابع الخاص بك** شخصية و **عين مضحكة** شخصيات يغيران {:class="block3looks"}`مظهر` هما عند النقر فوقهما.
+يمكنك جعل **الطابع الخاص بك** شخصية و **عين مضحكة** شخصيات يغيران `مظهر`{:class="block3looks"} هما عند النقر فوقهما.
 </div>
 <div>
 
