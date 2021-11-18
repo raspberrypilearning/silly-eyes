@@ -1,0 +1,26 @@
+---
+title: عيون مضحكة
+hero_image: images/banner.png
+description: قم بإنشاء تطبيقك الخاص بشخصية عيونها تتبع مؤشر الماوس
+version: 4
+listed: true
+copyedit: false
+last_tested: "2021-02-25"
+steps:
+  - title: المقدمة
+  - title: شخصيتك
+  - title: جعل عيون مضحكة متحركة
+    completion: engaged
+  - title: تأثيرات الشخصية
+  - title: تأثيرات المسرح
+    completion: internal
+  - title: انعكاس
+    knowledge_quiz:
+      path: quiz1
+      version: 1
+      questions: 3
+      passing_score: 3
+    completion: external
+  - title: قم بترقية او تطوير مشروعك
+  - title: مشاركة
+  - title: ما التالي؟
