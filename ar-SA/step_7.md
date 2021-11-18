@@ -11,7 +11,7 @@
 
 يحتوي كل مشروع في ['استديو العيون المضحكة](https://scratch.mit.edu/studios/29029028){:target="_blank"} على **See inside**  رابط، والذي يمكنك استخدامه لفتح المشروع في محرر Scratch وإلقاء نظرة على التعليمات البرمجية للحصول على أفكار ونرى كيف يعمل المشروع.
 
-شخصية **سبورج** تحتوي على اذرع</code> باتجاه موشر الماوس{:فئة="block3motion"}.
+شخصية **سبورج** تحتوي على اذرع `باتجاه موشر الماوس`{:class="block3motion"}.
 
 **سبورج**: [انظر من الداخل](https://scratch.mit.edu/projects/603397563/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
