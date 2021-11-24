@@ -2,7 +2,7 @@
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-Je kunt je **personage** sprite en **maffe ogen** sprites hun `Uiterlijken`{:class="block3looks"} laten veranderen als je erop klikt.
+Je kunt de `Uiterlijken`{:class="block3looks"} van je **personage** sprite en **maffe ogen** sprites laten veranderen als je erop klikt.
 </div>
 <div>
 
