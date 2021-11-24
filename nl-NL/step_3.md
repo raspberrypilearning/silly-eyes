@@ -213,7 +213,7 @@ De code voor `richt naar`{:class="block3motion"} de `muisaanwijzer`{:class="bloc
 title: Het personage volgt de muisaanwijzer (en de ogen niet)
 ---
 
-Je moet het `richt naar`{:class="block3motion"} code toevoegen aan de individuele **Oogbol** sprites, niet je **personage** sprite!
+Je moet de `richt naar`{:class="block3motion"} code toevoegen aan de individuele **Oogbol** sprites, niet je **personage** sprite!
 
 Om de code te kopiëren, kun je de code van het Code-gebied van je **personage** naar de **Oogbol** sprites in de Sprite-lijst slepen.
 
