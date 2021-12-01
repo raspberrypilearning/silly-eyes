@@ -1,19 +1,19 @@
-## Your character
+## Seu personagem
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-Have you got an idea about your own character? Now, you can get it ready for silly eyes!
+Você tem uma ideia sobre seu próprio personagem? Agora, você pode prepará-lo para olhos bobos!
 </div>
 <div>
 
-![A large character.](images/character.png){:width="300px"}    
+! [Um personagem grande.](Images/character.png){:width="300px"}    
 
 </div>
 </div>
 
 --- task ---
 
-Open the [Silly eyes starter project](https://scratch.mit.edu/projects/582221984/editor){:target="_blank"}. Scratch will open in another browser tab.
+Abra o [projeto inicial Olhos bobos](https://scratch.mit.edu/projects/582221984/editor){:target="_ blank"}. O Scratch será aberto em outra aba do navegador.
 
 [[[working-offline]]]
 
@@ -21,9 +21,9 @@ Open the [Silly eyes starter project](https://scratch.mit.edu/projects/582221984
 
 --- task ---
 
-**Choose:** Choose a sprite **or** create your own simple sprite in the Paint editor.
+**Escolha:** Escolha um ator **ou** crie simplesmente o seu próprio ator no editor de pintura.
 
-You don't have to choose a person or animal. You could choose an object, like the donut.
+Você não precisa escolher uma pessoa ou animal. Você pode escolher um objeto, como a rosquinha.
 
 [[[generic-scratch3-sprite-from-library]]]
 
@@ -31,34 +31,34 @@ You don't have to choose a person or animal. You could choose an object, like th
 
 --- collapse ---
 ---
-title: Get a surprise sprite
+title: Obtenha um ator surpresa
 ---
 
-Not sure which sprite to choose? Go to the **Choose a Sprite** menu and choose the **Surprise** option to add a surprise sprite to your project.
+Não tem certeza de qual ator escolher? Vá para o **Escolher um ator** e escolha a opção **Surpresa** para adicionar um ator surpresa ao seu projeto.
 
-![The 'Surprise' option in the 'Choose a Sprite' menu.](images/surprise-sprite.png)
+![A opção 'Surpresa' no menu 'Escolha um ator'.](images/surprise-sprite.png)
 
 --- /collapse ---
 
-**Tip:** If you create your own sprite in the Paint editor, **don't add eyes yet, because they need to be separate sprites.**
+**Dica:** Se você criar seu próprio ator no editor de pintura, **não adicione olhos ainda, porque eles precisam ser atores separados.**
 
 --- /task ---
 
-At the moment, your character will be much smaller than the characters in our example projects. You can make your character bigger so that it fills more of the screen.
+No momento, seu personagem será muito menor do que os personagens de nossos projetos de exemplo. Você pode tornar seu personagem maior para que preencha mais a tela.
 
 --- task ---
 
-In the Sprite pane, change the number in the **Size** property to a number of your choice.
+No painel do ator, altere o número em **Tamanho** para um número de sua escolha.
 
 ![](images/size-property.png){:width="500px"}
 
 --- /task ---
 
-Where do you want your character to live?
+Onde você quer que seu personagem viva?
 
 --- task ---
 
-**Choose:** Choose a backdrop that is sensible or silly.
+**Escolha:** Escolha um cenário que seja sensato ou bobo.
 
 [[[generic-scratch3-backdrop-from-library]]]
 
