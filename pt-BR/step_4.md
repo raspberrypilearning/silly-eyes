@@ -1,27 +1,27 @@
-## Sprite effects
+## Efeitos do ator
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-You can make your **character** sprite and **silly eye** sprites change their `Looks`{:class="block3looks"} when you click on them.
+Você pode fazer seus atores de **personagem ** e ** olho bobo ** mudarem seus `Looks` {:class=" block3looks "} quando você clica neles.
 </div>
 <div>
 
-![A character and eyes with graphic effects.](images/character-graphic-effects.png){:width="300px"}    
+! [Um personagem e olhos com efeitos gráficos.] (Images / character-graphic-effects.png) {: width = "300px"}    
 
 </div>
 </div>
 
-### Silly eye effects
+### Efeitos tolos nos olhos
 
 --- task ---
 
-Add a `when this sprite clicked`{:class="block3events"} block to your **Eyeball** sprite.
+Adicione um bloco `quando este ator clicou em` {:class="block3events"} ao seu ator **Bola do olho**.
 
-Can you work out what code block you would put underneath to change your sprite's eye colour when you click on the **Eyeball** sprite?
+Você pode descobrir qual bloco de código você colocaria embaixo para mudar a cor dos olhos do seu ator ao clicar no ator **Bola do olho**?
 
 --- collapse ---
 ---
-title: Change graphic effects when the sprite is clicked
+title: Alterar os efeitos gráficos quando o ator é clicado
 ---
 
 ```blocks3
@@ -35,50 +35,50 @@ change [color v] effect by (25)
 
 --- task ---
 
-If you want both eyeballs to have the same effect, you will need to copy your script to the **Eyeball 2** sprite.
+Se você quiser que ambos os globos oculares tenham o mesmo efeito, você precisará copiar seu script para o ator **Bola do olho 2**.
 
 [[[scratch3-copy-code]]]
 
 --- /task ---
 
-### Character effects
+### Efeitos de personagem
 
-If you want to, you can also make your **character** sprite change colour and other graphic effects when you click on it.
+Se quiser, você também pode fazer seu **caractere** mudar de cor e outros efeitos gráficos quando você clicar nele.
 
 --- task ---
 
-Click on your **character** sprite in the Sprite list, then click on the **Code** tab.
+Clique em seu **caractere** na lista de Atores e, em seguida, clique na guia **Código**.
 
-Add the same script as you used to change the eye colour. Which graphic effects do you want to change for your **character**?
+Adicione o mesmo script que você usou para alterar a cor dos olhos. Quais efeitos gráficos você deseja alterar para o seu **caractere**?
 
-**Choose:** Choose an effect in the drop-down menu within the `change color effect by`{:class="block3looks"} block. Experiment with the numbers until you have a change that you like.
+**Escolha:** Escolha um efeito no menu suspenso dentro de `altere o efeito de cor por`{:class="block3looks"}. Experimente com os números até que você tenha uma mudança que você goste.
 
 [[[scratch3-graphic-effects]]]
 
 --- /task ---
 
-Now, add an **accessory**, such as a hat, that changes when you click on it — use the `next costume`{:class="block3looks"} block.
+Agora, adicione um **acessório**, como um chapéu, que muda quando você clica nele - use os `próximos blocos de trajes`{:class="block3looks"}.
 
 --- task ---
 
-**Choose:** Add an accessory change or costume change of your choice.
+**Escolha:** Adicione uma mudança de acessório ou roupa de sua escolha.
 
 
-![Sprites with accessories.](images/accessory-sprite.png)
+![Atores com acessórios.](images/accessory-sprite.png)
 
 --- collapse ---
 ---
-title: Make a sprite change costume when clicked
+title: Faça um ator mudar de roupa quando clicado
 ---
 
-**Gobo with costume accessories**: [See inside](https://scratch.mit.edu/projects/496334057/editor){:target="_blank"}
+**Gobo com acessórios de traje**: [Veja interior](https://scratch.mit.edu/projects/496334057/editor){:target="_ blank"}
 <div class="scratch-preview">
 <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/496334057/?autostart=false" frameborder="0"></iframe>
 </div>
 
-Some sprites already have a choice of costumes.
+Alguns atores já têm uma escolha de fantasias.
 
-You can add code to make a sprite's costume change to the `next costume`{:class="block3looks"} when you click on the sprite:
+Você pode adicionar um código para fazer a mudança da fantasia de um ator para a `próxima fantasia`{:class="block3looks"} ao clicar no ator:
 
 ```blocks3
 when this sprite clicked
@@ -87,7 +87,7 @@ next costume
 
 --- /collapse ---
 
-If your sprite does not have a choice of costumes, or you want to add more, you can add any costume to a sprite.
+Se o seu ator não tiver uma fantasia escolhida, ou se você quiser adicionar mais, você pode adicionar qualquer fantasia a um ator.
 
 [[[scratch3-add-costumes-to-a-sprite]]]
 
@@ -95,26 +95,26 @@ If your sprite does not have a choice of costumes, or you want to add more, you 
 
 --- task ---
 
-**Test:** Work on your sprites until they interact in the way that you want. Try one change at a time and test what it does so that you can easily spot each change and undo anything that you do not like.
+**Teste:** Trabalhe em seus atores até que eles interajam da maneira que você deseja. Experimente uma mudança de cada vez e teste o que ela faz para que você possa identificar facilmente cada mudança e desfazer qualquer coisa que não goste.
 
 --- /task ---
 
 --- task ---
 
-**Debug:**
+**Depurar:**
 
-If you add code to the wrong sprite, you can fix that:
+Se você adicionar o código ao ator errado, você pode consertar isso:
 
 [[[scratch3-copy-code]]]
 
-If you need to, you can reset the graphic effects:
+Se necessário, você pode redefinir os efeitos gráficos:
 
 --- collapse ---
 ---
-title: I don't want these graphic effects
+title: Não quero esses efeitos gráficos
 ---
 
-To reset the graphic effects at any time, click on the `clear graphic effects`{:class="block3looks"} block in the `Looks`{:class="block3looks"} blocks menu. Clicking on the green flag also clears graphic effects.
+Para redefinir os efeitos gráficos a qualquer momento, clique em `limpar efeitos gráficos`{:class="block3looks"} no `Looks`{:class="block3looks"}. Clicar na bandeira verde também limpa todos os efeitos gráficos.
 
 ```blocks3
 clear graphic effects
