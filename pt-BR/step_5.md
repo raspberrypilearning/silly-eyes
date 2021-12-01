@@ -1,12 +1,12 @@
-## Stage effects
+## Efeitos do palco
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-You can also make the project do something when you click on the **Stage**.
+Você também pode fazer com que o projeto faça algo clicando no ** Palco**.
 </div>
 <div>
 
-![The Stage with graphic effects.](images/stage-effects.png){:width="300px"} 
+! [O Palco com efeitos gráficos.](Images/stage-effects.png) {:width="300px"} 
 {:width="300px"}  
 
 </div>
@@ -14,13 +14,13 @@ You can also make the project do something when you click on the **Stage**.
 
 --- task ---
 
-Click on the Stage pane and then on the **Code** tab to add code to the **Stage**.
+Clique no painel Palco e, em seguida, na guia **Código** para adicionar o código ao **Palco**.
 
-**Choose:** Choose what you want to change when the **Stage** is clicked.
+**Escolha:** Escolha o que deseja alterar quando o **Palco** for clicado.
 
 --- collapse ---
 ---
-title: Change graphic effects when the Stage is clicked
+title: Alterar os efeitos gráficos quando o ator é clicado
 ---
 
 ```blocks3
@@ -32,7 +32,7 @@ change [color v] effect by [25]
 
 --- collapse ---
 ---
-title: Switch backdrop when the Stage is clicked
+title: Alternar pano de fundo quando o Palco for clicado
 ---
 
 ```blocks3
@@ -46,20 +46,20 @@ next backdrop
 
 --- task ---
 
-**Test:** Click on the **Stage**, and check that the backdrop switches or the graphic effects change.
+**Teste:** Clique no **Palco**e verifique se o pano de fundo muda ou se os efeitos gráficos mudam.
 
 --- /task ---
 
 --- task ---
 
-**Test:** Test your project again, but this time, make it full-screen so that you can see how it will appear to someone looking at it.
+**Teste:** Teste seu projeto novamente, mas desta vez, torne-o em tela inteira para que você possa ver como ele aparecerá para alguém olhando para ele.
 
 [[[scratch3-full-screen]]]
 
 --- /task ---
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-By making your project full-screen, you are seeing what you have made from the perspective of a user who is playing with your project. **User interaction** is important in digital making. 
+Ao tornar seu projeto em tela inteira, você ver o que fez da perspectiva de um usuário que está brincando com seu projeto. **A interação do usuário** é importante na criação digital. 
 </p>
 
 --- save ---
