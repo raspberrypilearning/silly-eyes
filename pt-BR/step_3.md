@@ -1,14 +1,14 @@
-## Make silly eyes
+## Faça olhos bobos
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-In this step, you will make the silly eyes! Each eye needs to be a separate sprite so that it can move separately.
+Nesta etapa, você vai fazer os olhos bobos! Cada olho precisa ser um ator separado para que possa se mover separadamente.
 
-If you need help, look at the tips in the **Debug** task at the bottom of this step.
+Se precisar de ajuda, veja as dicas na tarefa ** Depurar ** na parte inferior desta etapa.
 </div>
 <div>
 
-![A character with silly eyes.](images/character-with-eyes.png)
+! [Um personagem com olhos engraçados.](Images/character-with-eyes.png)
 {:width="300px"}  
 
 </div>
@@ -16,64 +16,64 @@ If you need help, look at the tips in the **Debug** task at the bottom of this s
 
 --- task ---
 
-Use the **Paint** option to create a new **sprite**.
+Use a **Pintura** para criar um novo **ator**.
 
-![The 'Paint' option in the 'Choose a Sprite' menu.](images/paint-a-sprite.png)
+![A opção 'Pintura' no menu 'Escolha um Ator'.](images/paint-a-sprite.png)
 
-The Paint editor will open, which will allow you to create your **Eyeball** sprite's costume.
+O editor de pintura será aberto, o que permitirá que você crie a fantasia do ator **Bola do olho**.
 
 --- /task ---
 
-It is really important that:
-- The black pupil and coloured iris face to the right-hand side of the **Eyeball** costume
-- The **Eyeball** costume is centred
+É muito importante que:
+- A pupila preta e a íris colorida estão voltadas para o lado direito da fantasia **Bola do olho**
+- A **Bola do olho** está centralizado
 
 --- task ---
 
-**Choose:** Draw an eyeball **or** start from a round sprite.
+**Escolha:** Desenhe um globo ocular **ou** começando de um ator redondo.
 
 --- collapse ---
 ---
-title: Draw an eyeball in the Paint editor
+title: Desenhe um globo ocular no editor de pintura
 ---
 
-Select the **Circle** tool.
+Selecione a ferramenta **Círculo**.
 
-To draw a perfect circle, press and hold the <kbd>Shift</kbd> key on the keyboard while you draw with the **Circle** tool. If you are using a tablet, try to get as close to a perfect circle as you can.
+Para desenhar um círculo perfeito, pressione e segure a tecla <kbd>Shift</kbd> no teclado enquanto desenha com a ferramenta **Círculo**. Se você estiver usando um tablet, tente chegar o mais perto possível de um círculo perfeito.
 
-In this example, we set the **Outline** to black and the **Fill** colour of the eyeball to white:
+Neste exemplo, definimos **Linha externa** para preto e o **Preenchimento** do globo ocular para branco:
 
-![A white eyeball with a black outline.](images/eyeball-outline.png)
+![Um globo ocular branco com contorno preto.](images/eyeball-outline.png)
 
-Use the **Fill** and **Outline** colour choosers to choose colours. To make black, slide both the **Saturation** and **Brightness** to `0`. To make white, slide the **Saturation** to `0` and the **Brightness** to `100`.
+Use o **Preenchimento** e **Linha externa** para escolher as cores. Para tornar preto, deslize **Saturação** e **Brilho** a `0`. Para tornar preto, deslize **Saturação** para`0` e o **Brilho** para `100`.
 
 ![](images/black-colour.png) ![](images/white-colour.png)
 
-Make sure that the eyeball is centred — move it so that the blue cross in the costume lines up with the grey crosshair in the Paint editor.
+Certifique-se de que o globo ocular esteja centralizado - mova-o de forma que a cruz azul na fantasia se alinhe com a cruz cinza no editor de pintura.
 
-Draw a smaller perfect circle and position it on the right-hand side of the eyeball:
+Desenhe um círculo perfeito menor e posicione-o no lado direito do globo ocular:
 
-![An eyeball with a red iris and black pupil on the right-hand side.](images/eyeball-with-iris.png)
+![Globo ocular com íris vermelha e pupila preta no lado direito.](images/eyeball-with-iris.png)
 
-You could also draw circles inside circles, or use colour, to get different effects.
+Você também pode desenhar círculos dentro de círculos ou usar cores para obter efeitos diferentes.
 
 --- /collapse ---
 
 
 --- collapse ---
 ---
-title: Turn a round costume into an eyeball
+title: Transforme uma fantasia redonda em um globo ocular
 ---
 
-There are costumes in Scratch that you can edit to make silly eyes for your character.
+Existem fantasias no Scratch que você pode editar para fazer olhos bobos para o seu personagem.
 
-Use the Paint editor to change a costume. You could add circles, choose a different **Fill** colour, or remove parts of the costume to turn it into a silly eye.
+Use o editor de pintura para mudar uma roupa. Você pode adicionar círculos, escolher um **Preenchimento** diferente ou remover partes do traje para transformá-lo em um olho bobo.
 
-**Tip:** You will need to centre the **Eyeball** costume in the Paint editor so that it rotates smoothly as it turns. Use the crosshair to centre the costume. The black pupil and coloured iris need to be positioned on the right-hand side of the costume so that the **Eyeball** follows the mouse pointer.
+**Dica:** Você precisará centralizar a **Bola do olho** no editor de pintura para que ele gire suavemente ao girar. Use a cruz para centralizar a fantasia. A pupila preta e a íris colorida precisam ser posicionadas do lado direito da roupa para que a **Bola do olho** siga o ponteiro do mouse.
 
-![Existing Scratch costumes as eyeballs.](images/costume-eyes.gif)
+![Trajes do Scratch existentes como olhos.](images/costume-eyes.gif)
 
-![The Paint editor showing an edited button1 costume.](images/button-eye.png)
+![O editor de pintura mostrando um traje de button1 editado.](images/button-eye.png)
 
 --- /collapse ---
 
@@ -81,27 +81,27 @@ Use the Paint editor to change a costume. You could add circles, choose a differ
 
 --- task ---
 
-Name your sprite `Eyeball` in the Sprite pane.
+Nomeie seu ator como `Bola do olho` no painel Ator.
 
-![The sprite's name set to 'Eyeball' in the Sprite pane.](images/eyeball-name.png)
+![O nome do ator definido como 'Bola do olho' no painel Ator.](images/eyeball-name.png)
 
 --- /task ---
 
 --- task ---
 
-Drag the **Eyeball** sprite to position it on the Stage, and change its size to fit your character.
+Arraste a **Bola do olho** para posicioná-la no Palco e altere seu tamanho para se ajustar ao seu personagem.
 
 --- /task ---
 
-Now, make the eyeball look at the `mouse-pointer`{:class="block3motion"}.
+Agora, faça o globo ocular olhar para o ponteiro do mouse ``{:class="block3motion"}.
 
 --- task ---
 
-Add a script to `set the rotation style`{:class="block3motion"} to `all around`{:class="block3motion"} to make the eyeball `point towards the mouse pointer`{:class="block3motion"} `forever`{:class="block3control"}.
+Adicione um script para `definir o estilo de rotação`{:class="block3motion"} para `ao redor de`{:class="block3motion"} para fazer o globo ocular `apontar para o ponteiro do mouse`{:class="block3motion"} `para sempre`{:class="block3control"}.
 
 --- collapse ---
 ---
-title: Make a sprite point towards the mouse pointer
+title: Faça um ator apontar para o ponteiro do mouse
 ---
 
 ```blocks3
@@ -117,11 +117,11 @@ end
 --- /task ---
 
 
-If your character only has one eye, then you have finished.
+Se seu personagem tiver apenas um olho, você terminou.
 
 --- task ---
 
-Otherwise, right-click (or on a tablet, tap and hold) on the **Eyeball** sprite in the Sprite list and choose **duplicate** to create more silly eyes.
+Caso contrário, clique com o botão direito (se estiver usando um tablet, toque e segure) na **Bola do olho** na lista de Atores e escolha **duplicatas** para criar mais olhos engraçados.
 
 [[[scratch3-duplicate-sprite]]]
 
@@ -129,22 +129,22 @@ Otherwise, right-click (or on a tablet, tap and hold) on the **Eyeball** sprite 
 
 --- task ---
 
-**Test:** Click on the green flag and test your project. Do the silly eyes follow your mouse pointer as you move the mouse around?
+**Teste:** Clique na bandeira verde e assista à animação. Os olhos bobos seguem o ponteiro do mouse enquanto você move o mouse?
 
-**Tip:** You don't have to keep the mouse pointer on the Stage. The eyes will follow your mouse pointer as you carry on coding in Scratch.
+**Dica:** Você não precisa manter o ponteiro do mouse no Palco. Os olhos seguirão o ponteiro do mouse enquanto você codifica no Scratch.
 
 --- /task ---
 
 --- task ---
 
-**Debug:** You might find some bugs in your project that you need to fix. Here are some common bugs:
+**Depurar:** Você pode encontrar alguns bugs em seu projeto que precisam ser corrigidos. Aqui estão alguns bugs comuns:
 
 --- collapse ---
 ---
-title: The eyes do not move
+title: Os olhos não se movem
 ---
 
-Make sure that you have added the code to the **Eyeball** sprites and **clicked on the green flag**. Your code will not run until you click on the green flag.
+Certifique-se de ter adicionado o código aos atores **Bola do olho** **clicar na bandeira verde**. Your code will not run until you click on the green flag.
 
 --- /collapse ---
 
