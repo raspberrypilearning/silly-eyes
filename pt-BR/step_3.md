@@ -144,48 +144,48 @@ Caso contrário, clique com o botão direito (se estiver usando um tablet, toque
 title: Os olhos não se movem
 ---
 
-Certifique-se de ter adicionado o código aos atores **Bola do olho** **clicar na bandeira verde**. Your code will not run until you click on the green flag.
+Certifique-se de ter adicionado o código aos atores **Bola do olho** **clicar na bandeira verde**. Seu código não será executado até que você clique na bandeira verde.
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: The eyes point away from the mouse
+title: Os olhos apontam para longe do mouse
 ---
 
-In the **Eyeball** costumes, check that the pupil is on the right-hand side (past the blue cross in the middle of the costume).
+Em **Bola do olho**, verifique se a pupila está do lado direito (além da cruz azul no meio da fantasia).
 
-The **Eyeball** sprites have the `all around`{:class="block3motion"} `rotation style`{:class="block3motion"}, so they can rotate in any direction.
+As **Bolas do olho** têm os `ao redor de`{:class="block3motion"} `estilo de rotação`{:class="block3motion"}, então eles podem girar em qualquer direção.
 
-When the **Eyeballs** rotate to `point towards`{:class="block3motion"} the `mouse-pointer`{:class="block3motion"}, the pupils will be closest to the mouse pointer.
+Quando as **Bolas do olho** gira para `pontos em direção a`{:class="block3motion"} o `ponteiro do mouse`{:class="block3motion"}, as pupilas estarão mais próximas do ponteiro do mouse.
 
-![Placing the pupil on the right-hand side of an eyeball costume.](images/eye-right.gif)
+![Colocar a pupila no lado direito de uma fantasia de globo ocular.](images/eye-right.gif)
 
-![An eyeball costume with the pupil on the right-hand side.](images/eye-costume.png)
+![Uma fantasia de globo ocular com a pupila do lado direito.](images/eye-costume.png)
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: The eyes jump around the Stage
+title: Os olhos saltam pelo palco
 ---
 
-Check that the **Eyeball** costumes are centred. To centre a costume, drag the costume so that the blue cross in the costume lines up with the grey crosshair in the Paint editor.
+A **Bola do olho** está centralizado. Certifique-se de que o globo ocular esteja centralizado - mova-o de forma que a cruz azul na fantasia se alinhe com a cruz cinza no editor de pintura.
 
-![Centring an eyeball costume in the Paint editor.](images/eye-centered.gif)
+![Criar uma nova fantasia no editor Pintura.](images/eye-centered.gif)
 
-![An eyeball costume centred in the Paint editor.](images/eye-costume.png)
+![Uma fantasia de globo ocular centrada no editor de pintura.](images/eye-costume.png)
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: The character is in front of the eyes
+title: O personagem está na frente dos olhos
 ---
 
-When you drag a sprite to position it on the Stage, it moves in front of the other sprites.
+Quando você arrasta um ator para posicioná-lo no Palco, ele se move na frente dos outros atores.
 
-To get your **character** sprite to stay at the `back`{:class="block3looks"}, use:
+Para fazer com que seu ator **caractere**`vá para trás`{:class="block3looks"}, use:
 
 ```blocks3
 when green flag clicked
@@ -197,33 +197,33 @@ go to [back v] layer // behind all other sprites
 
 --- collapse ---
 ---
-title: The character and the eyes follow the mouse pointer
+title: O personagem e os olhos seguem o ponteiro do mouse
 ---
 
-Did you add the eyes as costumes for your **character** instead of as costumes for separate sprites? You can fix that.
+Você adicionou os olhos como fantasias para seu **personagem ** em vez de como fantasias para atores separados? Você pode fazer isso.
 
-One way to fix it is to duplicate the **character** sprite and then rename the copy `Eyeball`. Then, delete the **Eyeball** costumes from the **character** sprite, and delete the **character** costumes from the **Eyeball** sprite. Then, you can duplicate the **Eyeball** sprite and name the copy `Eyeball 2`.
+Uma maneira de consertar isso é duplicar o **caractere** e renomear a cópia `Bola do olho`. Em seguida, exclua as roupas **Bola do olho** dos **personagens** e exclua as roupas de **personagens** do ator **Bola do olho**. Uma maneira de consertar isso é duplicar o **caractere** e renomear a cópia `Bola do olho`.
 
-The code to `point towards`{:class="block3motion"} the `mouse-pointer`{:class="block3motion"} should be on the **Eyeball** sprites and not the **character** sprite.
+O código para `aponta para`{:class="block3motion"} os `ponteiros do mouse`{: class="block3motion"} deve estar nos **Bola do olho dos atores** e não no ator de **caracteres**.
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: The character follows the mouse pointer (and the eyes do not)
+title: O personagem segue o ponteiro do mouse (e os olhos não)
 ---
 
-You need to add the `point towards`{:class="block3motion"} code to the individual **Eyeball** sprites, not your **character** sprite!
+Você precisa adicionar a `direção a`código {:class="block3motion"} para os **atores do globo ocular** individuais, não seu ator de **caracteres**!
 
-To copy the code, you can drag the code from the Code area for your **character** to the **Eyeball** sprites in the Sprite list.
+Para copiar o código, você pode arrastar o código da área de código do seu personagem **** para os **atores do globo ocular** na lista de Atores.
 
-You will also need to delete the script from the **character** sprite. To do this, drag the script to the Blocks menu.
+Você também precisará deletar o script do ator **caractere**. Para fazer isso, arraste o script para o menu Blocos.
 
 --- /collapse ---
 
-You might find a bug that is not listed here. Can you work out how to fix it?
+Você pode encontrar um bug que não está listado aqui. Você consegue descobrir como consertá-lo?
 
-We love hearing about your bugs and how you fixed them. Use the **Send feedback** button at the bottom of this page and tell us if you found a different bug in your project.
+Adoraríamos saber sobre seus bugs e como você os corrigiu. Use o botão **Enviar comentários** na parte inferior desta página e nos diga se você encontrou um bug diferente em seu projeto.
 
 
 --- /task ---
