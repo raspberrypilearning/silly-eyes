@@ -1,11 +1,11 @@
 --- question ---
 ---
-legend: Question 3 of 3
+legend: Pergunta 3 de 3
 ---
 
-<span style="color: #0faeb0">**User interaction**</span> is how the project reacts to the user. The 'Silly eyes' project that you have made probably has lots of <span style="color: #0faeb0">**user interaction**</span>!
+<span style="color: #0faeb0">** Interação do usuário **</span> é como o projeto reage ao usuário. O projeto 'Olhos bobos' que você fez provavelmente tem muita <span style="color: #0faeb0">** interação do usuário **</span>!
 
-Which of these scripts allows user interaction after the program has started?
+Qual desses scripts permite a interação do usuário após o início do programa?
 
 --- choices ---
 
@@ -17,7 +17,7 @@ clear graphic effects
 
   --- feedback ---
 
-The graphic effects are cleared after the timer reaches 10. The user does not have to do anything, so there is no user interaction.
+Os efeitos gráficos são apagados depois que o cronômetro chega a 10. O usuário não precisa fazer nada, portanto, não há interação com o usuário.
 
   --- /feedback ---
 - ( )
@@ -28,7 +28,7 @@ say [hello] for (2) seconds
 
   --- feedback ---
 
-The sprite says "hello" after the backdrop switches. The user does not have to do anything, so there is no user interaction.
+O ator diz "olá" depois que o cenário muda. O usuário não precisa fazer nada, portanto, não há interação com o usuário.
 
   --- /feedback ---
 - (x)
@@ -39,16 +39,16 @@ change [color v] effect by (25)
 
   --- feedback ---
 
-The user has to click on the sprite to change the colour. This is user interaction.
+O usuário deve clicar no ator para alterar a cor. Esta é a interação do usuário.
 
   --- /feedback ---
 
 
-- ( ) Give me a clue.
+- ( ) Me dê uma pista.
 
   --- feedback ---
 
- User interaction is how the project reacts to the user doing things such as moving the mouse and clicking on the screen.
+ A interação do usuário é como o projeto reage às ações do usuário, como mover o mouse e clicar na tela.
 
   --- /feedback ---
 
