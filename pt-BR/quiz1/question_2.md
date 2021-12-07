@@ -1,51 +1,51 @@
 --- question ---
 ---
-legend: Question 2 of 3
+legend: Pergunta 2 de 3
 ---
 
-To make the rocket interactive, the **rocket** sprite has this script:
+Para fazer o foguete interativo, o ator **foguete** tem este script:
 
 ```blocks3
-when flag clicked
-set rotation style [all around v]
-forever
-point towards (mouse-pointer v)
-end
+quando a bandeira é clicada
+define o estilo de rotação [tudo ao redor v]
+para sempre
+aponta para (ponteiro do mouse v)
+fim
 ```
 
-Which **rocket** costume should we use so that the top of the rocket will point towards the mouse pointer?
+Qual o traje do **foguete** devemos usar para que o topo do foguete aponte para o ponteiro do mouse?
 
 --- choices ---
 
-- ( ) ![A rocket pointing to the left-hand side.](images/rocket_left.png)
+- ( ) ![Um foguete apontando para o lado esquerdo.](images/rocket_left.png)
 
   --- feedback ---
 
-If the rocket is pointing to the left-hand side, the rocket will be facing the opposite direction to (away from) the mouse pointer when it rotates.
+Se o foguete estiver apontando para o lado esquerdo, o foguete estará voltado para a direção oposta (para longe) do ponteiro do mouse quando ele girar.
 
   --- /feedback ---
 
-- ( ) ![A rocket facing down.](images/rocket_down.png)
+- ( ) ![Um foguete voltado para baixo.](images/rocket_down.png)
 
   --- feedback ---
 
-If the rocket is facing down, it will be facing a different direction to the mouse pointer when it rotates.
+Se o foguete estiver voltado para baixo, ele estará voltado para uma direção diferente do ponteiro do mouse quando girar.
 
   --- /feedback ---
 
-- (x) ![A rocket pointing to the right-hand side.](images/rocket_right.png)
+- (x) ![Um foguete apontando para o lado direito.](images/rocket_right.png)
 
   --- feedback ---
 
-If the rocket is pointing to the right-hand side, the rocket is in the default position for correctly pointing towards your mouse pointer if the rotation style is set to `all around`{:class="block3motion"}.
+Se o foguete estiver apontando para o lado direito, o foguete estará na posição padrão para apontar corretamente para o ponteiro do mouse, se o estilo de rotação estiver definido como ` em torno de`{:class="block3motion"}.
 
   --- /feedback ---
 
-- ( ) ![A rocket facing up.](images/rocket_up.png)
+- ( ) ![Um foguete voltado para cima.](images/rocket_up.png)
 
   --- feedback ---
 
-If the rocket is facing up, it will be facing a different direction to the mouse pointer when it rotates.
+Se o foguete estiver voltado para cima, ele estará voltado para uma direção diferente do ponteiro do mouse quando girar.
 
   --- /feedback ---
 
