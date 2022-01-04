@@ -1,0 +1,26 @@
+---
+title: Olhos bobos
+hero_image: images/banner.png
+description: Crie seu próprio aplicativo com um personagem cujos olhos seguem o ponteiro do mouse
+version: 4
+listed: true
+copyedit: false
+last_tested: "2021-02-25"
+steps:
+  - title: Introdução
+  - title: Seu personagem
+  - title: Faça olhos bobos
+    completion: engaged
+  - title: Efeitos do ator
+  - title: Efeitos do palco
+    completion: internal
+  - title: Reflexão
+    knowledge_quiz:
+      path: quiz1
+      version: 1
+      questions: 3
+      passing_score: 3
+    completion: external
+  - title: Melhore o seu projeto
+  - title: Compartilhar
+  - title: E agora?
