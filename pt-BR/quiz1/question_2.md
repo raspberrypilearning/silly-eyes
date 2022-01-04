@@ -6,11 +6,11 @@ legend: Pergunta 2 de 3
 Para fazer o foguete interativo, o ator **foguete** tem este script:
 
 ```blocks3
-quando a bandeira é clicada
-define o estilo de rotação [tudo ao redor v]
-para sempre
-aponta para (ponteiro do mouse v)
-fim
+when flag clicked
+set rotation style [all around v]
+forever
+point towards (mouse-pointer v)
+end
 ```
 
 Qual o traje do **foguete** devemos usar para que o topo do foguete aponte para o ponteiro do mouse?
