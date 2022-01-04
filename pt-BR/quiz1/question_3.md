@@ -23,7 +23,7 @@ Os efeitos gráficos são apagados depois que o cronômetro chega a 10. O usuár
 - ( )
 ```blocks3
 when backdrop switches to [forest v]
-say [hello] for (2) seconds
+say [olá] for (2) seconds
 ```
 
   --- feedback ---
