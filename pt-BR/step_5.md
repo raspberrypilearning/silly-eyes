@@ -46,7 +46,7 @@ next backdrop
 
 --- task ---
 
-**Teste:** Clique no **Palco**e verifique se o pano de fundo muda ou se os efeitos gráficos mudam.
+**Teste:** Clique no **Palco** e verifique se o pano de fundo muda ou se os efeitos gráficos mudam.
 
 --- /task ---
 

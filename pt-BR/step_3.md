@@ -44,7 +44,7 @@ Neste exemplo, definimos **Linha externa** para preto e o **Preenchimento** do g
 
 ![Um globo ocular branco com contorno preto.](images/eyeball-outline.png)
 
-Use o **Preenchimento** e **Linha externa** para escolher as cores. Para tornar preto, deslize **Saturação** e **Brilho** a `0`. Para tornar preto, deslize **Saturação** para`0` e o **Brilho** para `100`.
+Use o **Preenchimento** e **Linha externa** para escolher as cores. Para tornar preto, deslize **Saturação** e **Brilho** a `0`. Para tornar preto, deslize **Saturação** para `0` e o **Brilho** para `100`.
 
 ![](images/black-colour.png) ![](images/white-colour.png)
 
@@ -92,7 +92,7 @@ Arraste a **Bola do olho** para posicioná-la no Palco e altere seu tamanho para
 
 --- /task ---
 
-Agora, faça o globo ocular olhar para o ponteiro do mouse ``{:class="block3motion"}.
+Agora, faça o globo ocular olhar para o `ponteiro do mouse`{:class="block3motion"}.
 
 --- task ---
 
@@ -184,7 +184,7 @@ title: O personagem está na frente dos olhos
 
 Quando você arrasta um ator para posicioná-lo no Palco, ele se move na frente dos outros atores.
 
-Para fazer com que seu ator **caractere**`vá para trás`{:class="block3looks"}, use:
+Para fazer com que seu ator **caractere** `vá para trás`{:class="block3looks"}, use:
 
 ```blocks3
 when green flag clicked
@@ -212,9 +212,9 @@ O código para `aponta para`{:class="block3motion"} os `ponteiros do mouse`{:cla
 title: O personagem segue o ponteiro do mouse (e os olhos não)
 ---
 
-Você precisa adicionar a `direção a`código{:class="block3motion"} para os **atores do globo ocular** individuais, não seu ator de **caracteres**!
+Você precisa adicionar a `direção a`{:class="block3motion"} código para os **atores do globo ocular** individuais, não seu ator de **caracteres**!
 
-Para copiar o código, você pode arrastar o código da área de código do seu personagem **** para os**atores do globo ocular** na lista de Atores.
+Para copiar o código, você pode arrastar o código da área de código do seu **personagem** para os atores do **globo ocular** na lista de Atores.
 
 Você também precisará deletar o script do ator **caractere**. Para fazer isso, arraste o script para o menu Blocos.
 

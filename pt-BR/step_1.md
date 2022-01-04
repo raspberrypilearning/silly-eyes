@@ -32,7 +32,7 @@ Experimente clicar em diferentes partes do projeto para personalizá-lo.
 
 </div>
 <div>
-**Gobo assistindo**: [Veja dentro] (https://scratch.mit.edu/projects/623758120/editor){:target="_blank"}
+**Gobo assistindo**: [Veja dentro](https://scratch.mit.edu/projects/623758120/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/623758120/?autostart=false" frameborder="0"></iframe>
 </div>
@@ -49,21 +49,21 @@ Você vai tomar algumas decisões de design para criar seu personagem. Pense no 
 
 Explore estes projetos de exemplo para obter ideia para o seu livro:
 
-**Não coma rosquinha**: [Veja dentro de](https://scratch.mit.edu/projects/623757873/editor){:target="_blank"}
+**Não coma rosquinha**: [Veja dentro](https://scratch.mit.edu/projects/623757873/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/623757873/?autostart=false" frameborder="0"></iframe>
 </div>
 
-**Sob o mar**: [Veja interior](https://scratch.mit.edu/projects/623758740/editor){:target="_blank"}
+**Sob o mar**: [Veja dentro](https://scratch.mit.edu/projects/623758740/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/623758740/?autostart=false" frameborder="0"></iframe>
 </div>
 
-**Sporg**: [See inside](https://scratch.mit.edu/projects/623758437/editor){:target="_blank"}
+**Sporg**: [Veja dentro](https://scratch.mit.edu/projects/623758437/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/623758437/?autostart=false" frameborder="0"></iframe>
 </div>
---- /task--- --- /no-print ---
+--- /task --- --- /no-print ---
 
 --- print-only ---
 
