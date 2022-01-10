@@ -1,23 +1,23 @@
-## Share
+## Rhannu
 
-If you are in a club, why not share your project with friends and peers?
+Os wyt ti mewn clwb, beth am rannu dy brosiect â ffrindiau a chyfoedion?
 
-You could also show your family how your project works.
+Gallet ti hefyd ddangos i dy deulu sut mae dy brosiect yn gweithio.
 
-If you have a Scratch account, you can share your project through Scratch. You can send a link to people you know, and the whole Scratch community will be able to find your project and try it out.
+Os oes gen ti gyfrif Scratch, galli di rannu dy brosiect drwy Scratch. Galli di anfon dolen at bobl rwyt ti'n eu hadnabod, a bydd y gymuned Scratch gyfan yn gallu dod o hyd i dy brosiect a rhoi cynnig arno.
 
 [[[share-scratch]]]
 
-Why not invite your friends to create a project? Let them know how you had fun.
+Beth am wahodd dy ffrindiau i greu prosiect? Gad iddyn nhw wybod dy fod wedi cael hwyl.
 
-If you have a Scratch account, and have shared your 'Silly eyes' project, keep an eye out for comments that others may make about your creation. Feedback is a great way to reflect on your work. Ignore any comments that are unhelpful or irrelevant.
+Os oes gen ti gyfrif Scratch, ac rwyt ti wedi rhannu dy brosiect 'Silly eyes', cadwa lygad allan am sylwadau y gallai eraill eu gwneud am dy greadigaeth. Mae adborth yn ffordd wych o fyfyrio ar dy waith. Anwybydda unrhyw sylwadau sy'n ddi-fudd neu'n amherthnasol.
 
 [[[comments-feedback-scratch]]]
 
 --- task ---
 
-Inspire the Raspberry Pi Foundation community with your project!
+Dyro ysbrydoliaeth i gymuned y Raspberry Pi Foundation gyda dy brosiect!
 
-To submit your project to our ['Silly eyes — Community' Scratch studio](https://scratch.mit.edu/studios/29120534){:target="_blank"}, please complete [this form](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}.
+I gyflwyno dy brosiect i'n stiwdio [Scratch 'Llygaid gwirion'](https://scratch.mit.edu/studios/29120534){:target="_blank"}, cwblha'r [ffurflen hon](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}.
 
 --- /task ---
