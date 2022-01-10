@@ -31,7 +31,7 @@ Does dim rhaid i ti ddewis person neu anifail. Fe allet ti ddewis gwrthrych, fel
 
 --- collapse ---
 ---
-teitl: Cael corlun annisgwyl
+title: Cael corlun annisgwyl
 ---
 
 Ddim yn siŵr pa gorlun i'w ddewis? Cer i'r ddewislen **Dewiswch Gorlun** a dewis **Annisgwyl** i ychwanegu corlun annisgwyl i dy brosiect.

@@ -2,7 +2,7 @@
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-Galli di hefyd wneud i'r prosiect wneud rhywbeth pan wyt ti'n clicio ar y**Llwyfan**.
+Galli di hefyd wneud i'r prosiect wneud rhywbeth pan wyt ti'n clicio ar y **Llwyfan**.
 </div>
 <div>
 

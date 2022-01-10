@@ -15,7 +15,7 @@ Os oes angen help arnat ti, edrycha ar yr awgrymiadau yn y dasg **Difa chwilod**
 
 --- task ---
 
-Defnyddia'r dewis **Paent** i greu **corlun** newydd.
+Defnyddia'r dewis **Paentio** i greu **corlun** newydd.
 
 ![Y dewis 'Paent' yn y ddewislen 'Dewiswch gorlun'.](images/paint-a-sprite.png)
 
