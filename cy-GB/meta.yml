@@ -1,0 +1,26 @@
+---
+title: Llygaid gwirion
+hero_image: images/banner.png
+description: Creu dy ap dy hun gyda chymeriad y mae ei lygaid yn dilyn pwyntydd y llygoden
+version: 4
+listed: true
+copyedit: false
+last_tested: "2021-02-25"
+steps:
+  - title: Cyflwyniad
+  - title: Dy gymeriad
+  - title: Gwneud llygaid gwirion
+    completion: engaged
+  - title: Effeithiau corlun
+  - title: Effeithiau llwyfan
+    completion: internal
+  - title: Myfyrio
+    knowledge_quiz:
+      path: quiz1
+      version: 1
+      questions: 3
+      passing_score: 3
+    completion: external
+  - title: Uwchraddio dy brosiect
+  - title: Rhannu
+  - title: Beth nesaf?
