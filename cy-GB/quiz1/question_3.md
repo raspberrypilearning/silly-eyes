@@ -1,11 +1,11 @@
 --- question ---
 ---
-legend: Question 3 of 3
+legend: Cwestiwn 3 o 3
 ---
 
-<span style="color: #0faeb0">**User interaction**</span> is how the project reacts to the user. The 'Silly eyes' project that you have made probably has lots of <span style="color: #0faeb0">**user interaction**</span>!
+<span style="color: #0faeb0">**Rhyngweithio â defnyddwyr**</span> yw sut mae'r prosiect yn ymateb i'r defnyddiwr. Mae'n debyg bod gan y prosiect 'Llygaid gwirion' wnes di ei wneud lawer o <span style="color: #0faeb0">**ryngweithio defnyddiwr**</span>!
 
-Which of these scripts allows user interaction after the program has started?
+Pa un o'r sgriptiau hyn sy'n caniatáu rhyngweithio â defnyddwyr ar ôl i'r rhaglen gychwyn?
 
 --- choices ---
 
@@ -17,7 +17,7 @@ clear graphic effects
 
   --- feedback ---
 
-The graphic effects are cleared after the timer reaches 10. The user does not have to do anything, so there is no user interaction.
+Mae'r effeithiau graffeg yn cael eu clirio ar ôl i'r amserydd gyrraedd 10. Does dim rhaid i'r defnyddiwr wneud unrhyw beth, felly does dim rhyngweithio â'r defnyddiwr.
 
   --- /feedback ---
 - ( )
@@ -28,7 +28,7 @@ say [hello] for (2) seconds
 
   --- feedback ---
 
-The sprite says "hello" after the backdrop switches. The user does not have to do anything, so there is no user interaction.
+Mae'r corlun yn dweud "helo" ar ôl i'r gefnlen newid. Does dim rhaid i'r defnyddiwr wneud unrhyw beth, felly does dim rhyngweithio â'r defnyddiwr.
 
   --- /feedback ---
 - (x)
@@ -39,16 +39,16 @@ change [color v] effect by (25)
 
   --- feedback ---
 
-The user has to click on the sprite to change the colour. This is user interaction.
+Rhaid i'r defnyddiwr glicio ar y corlun i newid y lliw. Rhyngweithio â'r defnyddiwr yw hwn.
 
   --- /feedback ---
 
 
-- ( ) Give me a clue.
+- () Rhowch gliw i mi.
 
   --- feedback ---
 
- User interaction is how the project reacts to the user doing things such as moving the mouse and clicking on the screen.
+ Rhyngweithio â defnyddiwr yw sut mae'r prosiect yn ymateb i'r defnyddiwr wrth iddo wneud pethau fel symud y llygoden a chlicio ar y sgrin.
 
   --- /feedback ---
 
