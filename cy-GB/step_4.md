@@ -1,27 +1,27 @@
-## Sprite effects
+## Effeithiau corlun
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-You can make your **character** sprite and **silly eye** sprites change their `Looks`{:class="block3looks"} when you click on them.
+Galli di wneud i dy gorluniau **cymeriad** a **llygad gwirion** newid eu `Edrychiad`{:class="block3looks"} wrth i ti glicio arnyn nhw.
 </div>
 <div>
 
-![A character and eyes with graphic effects.](images/character-graphic-effects.png){:width="300px"}    
+![Cymeriad a llygaid ag effeithiau graffigol.](images/character-graphic-effects.png){:width="300px"}    
 
 </div>
 </div>
 
-### Silly eye effects
+### Effeithiau llygad gwirion
 
 --- task ---
 
-Add a `when this sprite clicked`{:class="block3events"} block to your **Eyeball** sprite.
+Ychwanega floc `pan gaiff y corlun hwn ei glicio`{:class="block3events"} at dy gorlun **Eyeball**.
 
-Can you work out what code block you would put underneath to change your sprite's eye colour when you click on the **Eyeball** sprite?
+Wyt ti'n gallu gweithio allan pa floc cod byddet ti'n ei roi oddi tano i newid lliw llygad dy gorlun pan fyddi di'n clicio ar y corlun **Eyeball**?
 
 --- collapse ---
 ---
-title: Change graphic effects when the sprite is clicked
+title: Newid effeithiau graffeg pan gaiff y corlun ei glicio
 ---
 
 ```blocks3
@@ -35,50 +35,50 @@ change [color v] effect by (25)
 
 --- task ---
 
-If you want both eyeballs to have the same effect, you will need to copy your script to the **Eyeball 2** sprite.
+Os wyt ti am i'r ddwy belen llygad gael yr un effaith, bydd angen i ti gopïo dy sgript i'r gorlun **Eyeball 2**.
 
 [[[scratch3-copy-code]]]
 
 --- /task ---
 
-### Character effects
+### Effeithiau cymeriad
 
-If you want to, you can also make your **character** sprite change colour and other graphic effects when you click on it.
+Os wyt ti eisiau, galli di hefyd wneud i dy **gymeriad** newid lliw a defnyddio effeithiau graffeg eraill pan fyddi di'n clicio arno.
 
 --- task ---
 
-Click on your **character** sprite in the Sprite list, then click on the **Code** tab.
+Clicia ar dy **gymeriad** yn y rhestr Corluniau, yna clicia ar y tab **Cod**.
 
-Add the same script as you used to change the eye colour. Which graphic effects do you want to change for your **character**?
+Ychwanega yr un sgript wnes di ei defnyddio i newid lliw'r llygad. Pa effeithiau graffeg wyt ti am eu newid ar gyfer dy **gymeriad**?
 
-**Choose:** Choose an effect in the drop-down menu within the `change color effect by`{:class="block3looks"} block. Experiment with the numbers until you have a change that you like.
+**Dewis:** Dewisa effaith yn y gwymplen yn y bloc `newid effaith lliw gan`{:class="block3looks"}. Arbrofa gyda'r rhifau nes bod gen ti newid rwyt ti'n ei hoffi.
 
 [[[scratch3-graphic-effects]]]
 
 --- /task ---
 
-Now, add an **accessory**, such as a hat, that changes when you click on it — use the `next costume`{:class="block3looks"} block.
+Nawr, ychwanega **ategolyn**, fel het, sy'n newid pan fyddi di'n clicio arno - defnyddia'r bloc `gwisg nesaf`{:class="block3looks"}.
 
 --- task ---
 
-**Choose:** Add an accessory change or costume change of your choice.
+**Dewis:** Ychwanega newid ategolyn neu newid gwisg o dy ddewis.
 
 
-![Sprites with accessories.](images/accessory-sprite.png)
+![Corluniau gydag ategolion.](images/accessory-sprite.png)
 
 --- collapse ---
 ---
-title: Make a sprite change costume when clicked
+title: Gwneud i gorlun newid ei wisg pan gaiff ei glicio
 ---
 
-**Gobo with costume accessories**: [See inside](https://scratch.mit.edu/projects/496334057/editor){:target="_blank"}
+**Gobo gyda ategolion gwisg**: [Gweld tu mewn](https://scratch.mit.edu/projects/496334057/editor){:target="_blank"}
 <div class="scratch-preview">
 <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/496334057/?autostart=false" frameborder="0"></iframe>
 </div>
 
-Some sprites already have a choice of costumes.
+Mae gan rai corluniau ddewis o wisgoedd eisoes.
 
-You can add code to make a sprite's costume change to the `next costume`{:class="block3looks"} when you click on the sprite:
+Galli di ychwanegu cod i wneud i wisg corlun newid i'r `wisg nesaf`{:class="block3looks"} pan wyt ti'n clicio ar y corlun:
 
 ```blocks3
 when this sprite clicked
@@ -87,7 +87,7 @@ next costume
 
 --- /collapse ---
 
-If your sprite does not have a choice of costumes, or you want to add more, you can add any costume to a sprite.
+Os nad oes gan dy gorlun ddewis o wisgoedd, neu os wyt ti am ychwanegu mwy, galli di ychwanegu unrhyw wisg at gorlun.
 
 [[[scratch3-add-costumes-to-a-sprite]]]
 
@@ -95,26 +95,26 @@ If your sprite does not have a choice of costumes, or you want to add more, you 
 
 --- task ---
 
-**Test:** Work on your sprites until they interact in the way that you want. Try one change at a time and test what it does so that you can easily spot each change and undo anything that you do not like.
+**Prawf:** Gweithia ar dy gorluniau nes eu bod yn rhyngweithio yn y ffordd rwyt ti eisiau. Ceisia wneud un newid ar y tro a phrofi yr hyn y mae'n ei wneud fel y galli di adnabod pob newid yn hawdd a dad-wneud unrhyw beth dwyt ti ddim yn ei hoffi.
 
 --- /task ---
 
 --- task ---
 
-**Debug:**
+**Difa chwilod:**
 
-If you add code to the wrong sprite, you can fix that:
+Os wyt ti'n ychwanegu cod at y corlun anghywir, galli di drwsio hynny:
 
 [[[scratch3-copy-code]]]
 
-If you need to, you can reset the graphic effects:
+Os oes angen, galli di ailosod yr effeithiau graffeg:
 
 --- collapse ---
 ---
-title: I don't want these graphic effects
+title: Dydw i ddim eisiau yr effeithiau graffig yma
 ---
 
-To reset the graphic effects at any time, click on the `clear graphic effects`{:class="block3looks"} block in the `Looks`{:class="block3looks"} blocks menu. Clicking on the green flag also clears graphic effects.
+I ailosod yr effeithiau graffig ar unrhyw adeg, clicia ar y bloc `clirio effeithiau graffeg`{:class="block3looks"} yn y ddewislen blociau `Edrychiad`{:class="block3looks"}. Mae clicio ar y faner werdd hefyd yn clirio effeithiau graffeg.
 
 ```blocks3
 clear graphic effects
