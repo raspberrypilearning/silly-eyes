@@ -1,21 +1,21 @@
-## Introduction
+## Cyflwyniad
 
-In this project, you will design and create a silly eye character. The character's large, silly eyes will follow the mouse pointer to bring your character to life.
-
-<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-<span style="color: #0faeb0">**Design**</span> means deciding on the way that a project looks and making decisions about what it does. 
-</p>
-
-You will:
-+ Make a project with **user interaction**
-+ Personalise a project with colour and graphic effects
-+ Learn about design in digital making
+Yn y prosiect hwn, byddi di'n dylunio ac yn creu cymeriad llygad gwirion. Bydd llygaid mawr, gwirion y cymeriad yn dilyn pwyntydd y llygoden i ddod â dy gymeriad yn fyw.
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-<span style="color: #0faeb0">**User**</span> means the person using the project (not just making it), and <span style="color: #0faeb0">**user interaction**</span> is how the project reacts to the user doing things such as moving the mouse and clicking on the screen. 
+Mae <span style="color: #0faeb0">**Dylunio**</span> yn golygu penderfynu ar y ffordd mae prosiect yn edrych a gwneud penderfyniadau am yr hyn mae'n ei wneud. 
 </p>
 
-![Examples of projects.](images/showcase-line.png)
+Byddi di'n:
++ Creu prosiect gyda **rhyngweithio gan y defnyddiwr**
++ Personoli prosiect gydag effeithiau lliw a graffeg
++ Dysgu am ddylunio mewn gwneud digidol
+
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
+Y <span style="color: #0faeb0">**Defnyddiwr**</span> yw'r person sy'n defnyddio'r prosiect (ddim y person sy'n ei greu), a <span style="color: #0faeb0">**rhyngweithio gan y defnyddiwr**</span> yw'r ffordd mae'r prosiect yn ymateb i'r defnyddiwr wrth iddo wneud pethau fel symud y llygoden a chlicio ar y sgrin. 
+</p>
+
+![Enghreifftiau o brosiectau.](images/showcase-line.png)
 
 --- no-print ---
 
@@ -24,15 +24,15 @@ You will:
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 175px; flex-grow: 1">  
 
-### Try it 
+### Rho gynnig arni 
 
-Move the mouse (or if you are using a tablet, move your finger) around the screen and watch what happens to Gobo's eyes. What happens when you move between Gobo's eyes? 
+Symuda'r llygoden (neu os wyt ti'n defnyddio tabled, symuda dy fys) o amgylch y sgrin a gwylia beth sy'n digwydd i lygaid Gobo. Beth sy'n digwydd pan wyt ti'n symud rhwng llygaid Gobo? 
   
-Try clicking on different parts of the project to customise the project.
+Ceisia glicio ar wahanol rannau o'r prosiect i addasu'r prosiect.
 
 </div>
 <div>
-**Gobo watching**: [See inside](https://scratch.mit.edu/projects/495141114/editor){:target="_blank"}
+**Gobo yn gwylio**: [Gweld tu mewn](https://scratch.mit.edu/projects/495141114/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/495141114/?autostart=false" frameborder="0"></iframe>
 </div>
@@ -41,25 +41,25 @@ Try clicking on different parts of the project to customise the project.
 
 --- /task ---
 
-### Get inspiration
+### Cael ysbrydoliaeth
 
-You are going to make some design decisions to create your character. Think about what kind of silly eye character you want to make.
+Rwyt ti'n mynd i wneud rhai penderfyniadau dylunio i greu dy gymeriad. Meddylia pa fath o gymeriad llygad gwirion rwyt ti am ei greu.
 
 --- task ---
 
-Explore these example projects to get more ideas:
+Cymer olwg ar y prosiectau enghreifftiol hyn i gael mwy o syniadau:
 
-**Don't eat donut**: [See inside](https://scratch.mit.edu/projects/495865093/editor){:target="_blank"}
+**Paid bwyta'r doesen**: [Gweld tu mewn](https://scratch.mit.edu/projects/495865093/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/495865093/?autostart=false" frameborder="0"></iframe>
 </div>
 
-**Under the sea**: [See inside](https://scratch.mit.edu/projects/495866460/editor){:target="_blank"}
+**Dan y môr**: [Gweld tu mewn](https://scratch.mit.edu/projects/495866460/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/495866460/?autostart=false" frameborder="0"></iframe>
 </div>
 
-**Sporg**: [See inside](https://scratch.mit.edu/projects/495865892/editor){:target="_blank"}
+**Sporg**: [Gweld tu mewn](https://scratch.mit.edu/projects/495865892/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/495865892/?autostart=false" frameborder="0"></iframe>
 </div>
@@ -67,11 +67,11 @@ Explore these example projects to get more ideas:
 
 --- print-only ---
 
-### Get inspiration
+### Cael ysbrydoliaeth
 
-You are going to make some design decisions to create your character. Think about what kind of silly eye character you want to make. To get more ideas, **See inside** example projects in the 'Silly eyes — Examples' Scratch studio: https://scratch.mit.edu/studios/29029028
+Rwyt ti'n mynd i wneud rhai penderfyniadau dylunio i greu dy gymeriad. Meddylia pa fath o gymeriad llygad gwirion rwyt ti am ei greu. I gael mwy o syniadau, **Cymer olwg y tu mewn i** brosiectau enghreifftiol yn stiwdio Scratch 'Silly eyes - Examples': https://scratch.mit.edu/studios/29029028
 
-![The 'Gobo watching' project.](images/gobo-watching.png) ![The 'Don't eat donut' project.](images/dont-eat-donut.png) ![The 'Under the sea' project.](images/under-the-sea.png) ![The 'Sporg' project.](images/sporg.png)
+![Y prosiect 'Gobo yn gwylio'.](images/gobo-watching.png) ![Y prosiect 'Paid bwyta'r doesen'.](images/dont-eat-donut.png) ![Y prosiect 'Dan y môr'.](images/under-the-sea.png) ![Y prosiect 'Sporg'.](images/sporg.png)
 
 --- /print-only ---
 
