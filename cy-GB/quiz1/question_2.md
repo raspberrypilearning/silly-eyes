@@ -1,51 +1,51 @@
 --- question ---
 ---
-legend: Question 2 of 3
+legend: Cwestiwn 2 o 3
 ---
 
-To make the rocket interactive, the **rocket** sprite has this script:
+I wneud y roced yn rhyngweithiol, mae gan y corlun **rocket** y sgript hon:
 
 ```blocks3
-when flag clicked
-set rotation style [all around v]
-forever
-point towards (mouse-pointer v)
-end
+pan fydd y faner wedi'i chlicio
+gosod y steil cylchdroi [o amgylch v]
+am byth
+pwyntio at (pwyntydd llygoden v)
+diwedd
 ```
 
-Which **rocket** costume should we use so that the top of the rocket will point towards the mouse pointer?
+Pa wisg **rocket** dylen ni ei defnyddio fel y bydd diwedd y roced yn pwyntio tuag at bwyntydd y llygoden?
 
 --- choices ---
 
-- ( ) ![A rocket pointing to the left-hand side.](images/rocket_left.png)
+- ( ) ![Roced yn pwyntio i'r ochr chwith.](images/rocket_left.png)
 
   --- feedback ---
 
-If the rocket is pointing to the left-hand side, the rocket will be facing the opposite direction to (away from) the mouse pointer when it rotates.
+Os ydy'r roced yn pwyntio i'r ochr chwith, bydd y roced yn wynebu'r cyfeiriad arall i (i ffwrdd o) bwyntydd y llygoden wrth gylchdroi.
 
   --- /feedback ---
 
-- ( ) ![A rocket facing down.](images/rocket_down.png)
+- ( ) ![Roced yn wynebu i lawr.](images/rocket_down.png)
 
   --- feedback ---
 
-If the rocket is facing down, it will be facing a different direction to the mouse pointer when it rotates.
+Os yw'r roced yn wynebu i lawr, bydd yn wynebu cyfeiriad gwahanol i bwyntydd y llygoden wrth gylchdroi.
 
   --- /feedback ---
 
-- (x) ![A rocket pointing to the right-hand side.](images/rocket_right.png)
+- (x) ![Roced yn pwyntio i'r ochr dde.](images/rocket_right.png)
 
   --- feedback ---
 
-If the rocket is pointing to the right-hand side, the rocket is in the default position for correctly pointing towards your mouse pointer if the rotation style is set to `all around`{:class="block3motion"}.
+Os ydy'r roced yn pwyntio i'r ochr dde, mae'r roced yn y safle diofyn ar gyfer pwyntio'n gywir tuag at bwyntydd eich llygoden os ydy'r steil cylchdroi wedi'i gosod i `o amgylch`{:class="block3motion"}.
 
   --- /feedback ---
 
-- ( ) ![A rocket facing up.](images/rocket_up.png)
+- ( ) ![Roced yn wynebu i fyny.](images/rocket_up.png)
 
   --- feedback ---
 
-If the rocket is facing up, it will be facing a different direction to the mouse pointer when it rotates.
+Os ydy'r roced yn wynebu i fyny, bydd yn wynebu cyfeiriad gwahanol i bwyntydd y llygoden wrth gylchdroi.
 
   --- /feedback ---
 
