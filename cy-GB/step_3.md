@@ -1,14 +1,14 @@
-## Make silly eyes
+## Creu llygaid gwirion
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-In this step, you will make the silly eyes! Each eye needs to be a separate sprite so that it can move separately.
+Yn y cam hwn, byddi di'n creu'r llygaid gwirion! Mae angen i bob llygad fod yn gorlun ar wahân fel ei fod yn gallu symud ar wahân.
 
-If you need help, look at the tips in the **Debug** task at the bottom of this step.
+Os oes angen help arnat ti, edrycha ar yr awgrymiadau yn y dasg **Difa chwilod** ar waelod y cam hwn.
 </div>
 <div>
 
-![A character with silly eyes.](images/character-with-eyes.png)
+![Cymeriad â llygaid gwirion.](images/character-with-eyes.png)
 {:width="300px"}  
 
 </div>
@@ -16,64 +16,64 @@ If you need help, look at the tips in the **Debug** task at the bottom of this s
 
 --- task ---
 
-Use the **Paint** option to create a new **sprite**.
+Defnyddia'r dewis **Paent** i greu **corlun** newydd.
 
-![The 'Paint' option in the 'Choose a Sprite' menu.](images/paint-a-sprite.png)
+![Y dewis 'Paent' yn y ddewislen 'Dewiswch gorlun'.](images/paint-a-sprite.png)
 
-The Paint editor will open, which will allow you to create your **Eyeball** sprite's costume.
+Bydd y Golygydd paent yn agor, fydd yn caniatáu i ti greu gwisg i dy gorlun **Eyeball**.
 
 --- /task ---
 
-It is really important that:
-- The black pupil and coloured iris face to the right-hand side of the **Eyeball** costume
-- The **Eyeball** costume is centred
+Mae'n bwysig iawn:
+- Bod canwyll du y llygaid a'r iris lliw yn wynebu ochr dde y wisg **Eyeball**
+- Bod y wisg **Eyeball** wedi'i chanoli
 
 --- task ---
 
-**Choose:** Draw an eyeball **or** start from a round sprite.
+**Dewis:** Tynna lun pelen llygad **neu** ddechrau o gorlun crwn.
 
 --- collapse ---
 ---
-title: Draw an eyeball in the Paint editor
+teitl: Tynnu llun pelen llygad yn y golygydd Paent
 ---
 
-Select the **Circle** tool.
+Dewisa'r offeryn **Cylch**.
 
-To draw a perfect circle, press and hold the <kbd>Shift</kbd> key on the keyboard while you draw with the **Circle** tool. If you are using a tablet, try to get as close to a perfect circle as you can.
+I dynnu llun cylch perffaith, pwysa a dal y fysell <kbd>Shift</kbd> ar y fysellwrdd wrth i ti dynnu llun gyda'r offeryn **Cylch**. Os wyt ti'n defnyddio tabled, ceisia fynd mor agos at gylch perffaith ag wyt ti'n gallu.
 
-In this example, we set the **Outline** to black and the **Fill** colour of the eyeball to white:
+Yn yr enghraifft hon, rydyn ni'n gosod yr **Amlinell** i ddu a lliw **Llenwi** y belen llygad i wyn:
 
-![A white eyeball with a black outline.](images/eyeball-outline.png)
+![Pelen llygad wen gydag amlinell ddu.](images/eyeball-outline.png)
 
-Use the **Fill** and **Outline** colour choosers to choose colours. To make black, slide both the **Saturation** and **Brightness** to `0`. To make white, slide the **Saturation** to `0` and the **Brightness** to `100`.
+Defnyddia'r dewiswyr lliw **Llenwi** ac **Amlinell** i ddewis lliwiau. I wneud lliw du, llithra'r dewisiadau **Dirlawnder** a **Disgleirdeb** i `0`. I wneud lliw gwyn, llithra'r dewisiadau **Dirlawnder** i `0` a **Disgleirdeb** i `100`.
 
 ![](images/black-colour.png) ![](images/white-colour.png)
 
-Make sure that the eyeball is centred — move it so that the blue cross in the costume lines up with the grey crosshair in the Paint editor.
+Gwna'n siŵr bod y belen llygad wedi'i chanoli - symuda hi fel bod y groes las yn y wisg yn cyd-fynd â'r groeslin lwyd yn y Golygydd paent.
 
-Draw a smaller perfect circle and position it on the right-hand side of the eyeball:
+Llunia gylch perffaith llai a'i osod ar ochr dde pelen y llygad:
 
-![An eyeball with a red iris and black pupil on the right-hand side.](images/eyeball-with-iris.png)
+![Pelen llygad gydag iris goch a chanwyll llygad du ar yr ochr dde.](images/eyeball-with-iris.png)
 
-You could also draw circles inside circles, or use colour, to get different effects.
+Galli di hefyd dynnu cylchoedd y tu mewn i gylchoedd, neu ddefnyddio lliw, i gael effeithiau gwahanol.
 
 --- /collapse ---
 
 
 --- collapse ---
 ---
-title: Turn a round costume into an eyeball
+teitl: Troi gwisg gron yn belen llygad
 ---
 
-There are costumes in Scratch that you can edit to make silly eyes for your character.
+Mae gwisgoedd yn Scratch y galli di eu golygu i greu llygaid gwirion i dy gymeriad.
 
-Use the Paint editor to change a costume. You could add circles, choose a different **Fill** colour, or remove parts of the costume to turn it into a silly eye.
+Defnyddia'r Golygydd paent i newid gwisg. Fe allet ti ychwanegu cylchoedd, dewis lliw **Llenwi** gwahanol, neu dynnu rhannau o'r wisg i'w throi'n llygad gwirion.
 
-**Tip:** You will need to centre the **Eyeball** costume in the Paint editor so that it rotates smoothly as it turns. Use the crosshair to centre the costume. The black pupil and coloured iris need to be positioned on the right-hand side of the costume so that the **Eyeball** follows the mouse pointer.
+**Awgrym:** Bydd angen i ti ganoli'r wisg **Eyeball** yn y Golygydd paent fel ei bod yn cylchdroi yn llyfn wrth iddi droi. Defnyddia'r groeslin i ganoli'r wisg. Mae angen gosod y canwyll llygad du a'r iris lliw ar ochr dde'r wisg fel bod yr **Eyeball** yn dilyn pwyntydd y llygoden.
 
-![Existing Scratch costumes as eyeballs.](images/costume-eyes.gif)
+![Gwisgoedd Scratch sy'n bodoli fel peli llygad.](images/costume-eyes.gif)
 
-![The Paint editor showing an edited button1 costume.](images/button-eye.png)
+![Y golygydd Paent yn dangos gwisg botwm1 wedi'i golygu.](images/button-eye.png)
 
 --- /collapse ---
 
@@ -81,27 +81,27 @@ Use the Paint editor to change a costume. You could add circles, choose a differ
 
 --- task ---
 
-Name your sprite `Eyeball` in the Sprite pane.
+Rhowch yr enw `Eyeball` i'ch corlun yn y cwarel Corlun.
 
-![The sprite's name set to 'Eyeball' in the Sprite pane.](images/eyeball-name.png)
+![Enw'r corlun wedi'i osod i 'Eyeball' yn y cwarel Corlun.](images/eyeball-name.png)
 
 --- /task ---
 
 --- task ---
 
-Drag the **Eyeball** sprite to position it on the Stage, and change its size to fit your character.
+Llusga'r corlun **Eyeball** i'w osod ar y Llwyfan, a newid ei faint i gyd-fynd â dy gymeriad.
 
 --- /task ---
 
-Now, make the eyeball look at the `mouse-pointer`{:class="block3motion"}.
+Nawr, mae angen gwneud i'r belen llygad edrych at `bwyntydd y llygoden`{:class="block3motion"}.
 
 --- task ---
 
-Add a script to `set the rotation style`{:class="block3motion"} to `all around`{:class="block3motion"} to make the eyeball `point towards the mouse pointer`{:class="block3motion"} `forever`{:class="block3control"}.
+Ychwanega sgript i `osod y steil cylchdroi`{:class="block3motion"} i `o amgylch`{:class="block3motion"} i wneud i'r belen llygad `bwyntio tuag at bwyntydd y llygoden`{:class="block3motion"} `am byth`{:class="block3control"}.
 
 --- collapse ---
 ---
-title: Make a sprite point towards the mouse pointer
+teitl: Gwneud i gorlun bwyntio tuag at bwyntydd y llygoden
 ---
 
 ```blocks3
@@ -117,11 +117,11 @@ end
 --- /task ---
 
 
-If your character only has one eye, then you have finished.
+Os mai dim ond un llygad sydd gan dy gymeriad, yna rwyt ti wedi gorffen.
 
 --- task ---
 
-Otherwise, right-click (or on a tablet, tap and hold) on the **Eyeball** sprite in the Sprite list and choose **duplicate** to create more silly eyes.
+Fel arall, de-glicia (neu ar dabled, taro a dal) ar y corlun **Eyeball** yn y rhestr Corluniau a dewis **dyblygu** i greu mwy o lygaid gwirion.
 
 [[[scratch3-duplicate-sprite]]]
 
@@ -129,63 +129,63 @@ Otherwise, right-click (or on a tablet, tap and hold) on the **Eyeball** sprite 
 
 --- task ---
 
-**Test:** Click on the green flag and test your project. Do the silly eyes follow your mouse pointer as you move the mouse around?
+**Prawf:** Clicia ar y faner werdd a phrofi dy brosiect. Ydy'r llygaid gwirion yn dilyn pwyntydd dy lygoden wrth i ti symud y llygoden o gwmpas?
 
-**Tip:** You don't have to keep the mouse pointer on the Stage. The eyes will follow your mouse pointer as you carry on coding in Scratch.
+**Awgrym:** Does dim rhaid i ti gadw pwyntydd y llygoden ar y Llwyfan. Bydd y llygaid yn dilyn pwyntydd dy lygoden wrth i ti barhau i godio yn Scratch.
 
 --- /task ---
 
 --- task ---
 
-**Debug:** You might find some bugs in your project that you need to fix. Here are some common bugs:
+**Difa chwilod:** Efallai bydd angen i ti drwsio chwilod yn dy brosiect. Dyma rai chwilod cyffredin:
 
 --- collapse ---
 ---
-title: The eyes do not move
+title: Dydy'r llygaid ddim yn symud
 ---
 
-Make sure that you have added the code to the **Eyeball** sprites and **clicked on the green flag**. Your code will not run until you click on the green flag.
+Gwna'n siŵr dy fod wedi ychwanegu'r cod at y corluniau **Eyeball** ac wedi **clicio ar y faner werdd**. Fydd dy god ddim yn rhedeg nes i ti glicio ar y faner werdd.
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: The eyes point away from the mouse
+teitl: Mae'r llygaid yn pwyntio i ffwrdd o'r llygoden
 ---
 
-In the **Eyeball** costumes, check that the pupil is on the right-hand side (past the blue cross in the middle of the costume).
+Yn y gwisgoedd **Eyeball**, gwna'n siŵr bod canwyll y llygad ar yr ochr dde (heibio'r groes las yng nghanol y wisg).
 
-The **Eyeball** sprites have the `all around`{:class="block3motion"} `rotation style`{:class="block3motion"}, so they can rotate in any direction.
+Mae gan y corluniau **Eyeball** y `steil cylchdroi`{: class = "block3motion"} `o amgylch`{: class = "block3motion"}, fel bod modd iddyn nhw gylchdroi i unrhyw gyfeiriad.
 
-When the **Eyeballs** rotate to `point towards`{:class="block3motion"} the `mouse-pointer`{:class="block3motion"}, the pupils will be closest to the mouse pointer.
+Pan fydd **Peli'r llygad** yn cylchdroi i `bwyntio at`{:class="block3motion"} `bwyntydd y llygoden`{:class="block3motion"}, canhwyllau'r llygaid fydd agosaf at bwyntydd y llygoden.
 
-![Placing the pupil on the right-hand side of an eyeball costume.](images/eye-right.gif)
+![Gosod y cannwyll llygad ar ochr dde y wisg pelen llygad.](images/eye-right.gif)
 
-![An eyeball costume with the pupil on the right-hand side.](images/eye-costume.png)
+![Gwisg pelen llygad gyda'r cannwyll llygad ar yr ochr dde.](images/eye-costume.png)
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: The eyes jump around the Stage
+title: Mae'r llygaid yn neidio o amgylch y Llwyfan
 ---
 
-Check that the **Eyeball** costumes are centred. To centre a costume, drag the costume so that the blue cross in the costume lines up with the grey crosshair in the Paint editor.
+Gwna'n siŵr bod y gwisgoedd **Eyeball** wedi'u canoli. I ganoli gwisg, llusga'r wisg fel bod y groes las yn y wisg yn cyd-fynd â'r groeslin lwyd yn y Golygydd paent.
 
-![Centring an eyeball costume in the Paint editor.](images/eye-centered.gif)
+![Canoli gwisg pelen llygad yn y golygydd Paent.](images/eye-centered.gif)
 
-![An eyeball costume centred in the Paint editor.](images/eye-costume.png)
+![Gwisg pelen llygad wedi'i chanoli yn y golygydd Paent.](images/eye-costume.png)
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: The character is in front of the eyes
+title: Mae'r cymeriad o flaen y llygaid
 ---
 
-When you drag a sprite to position it on the Stage, it moves in front of the other sprites.
+Pan wyt ti'n llusgo corlun i'w osod ar y Llwyfan, mae'n symud o flaen y corluniau eraill.
 
-To get your **character** sprite to stay at the `back`{:class="block3looks"}, use:
+I gael dy **gymeriad** i aros yn y `cefn`{: class = "block3looks"}, defnyddia:
 
 ```blocks3
 when green flag clicked
@@ -197,33 +197,33 @@ go to [back v] layer // behind all other sprites
 
 --- collapse ---
 ---
-title: The character and the eyes follow the mouse pointer
+title: Mae'r cymeriad a'r llygaid yn dilyn pwyntydd y llygoden
 ---
 
-Did you add the eyes as costumes for your **character** instead of as costumes for separate sprites? You can fix that.
+Wnes di ychwanegu'r llygaid fel gwisgoedd ar gyfer dy **gymeriad** yn lle fel gwisgoedd ar gyfer corluniau gwahanol? Galli di drwsio hynny.
 
-One way to fix it is to duplicate the **character** sprite and then rename the copy `Eyeball`. Then, delete the **Eyeball** costumes from the **character** sprite, and delete the **character** costumes from the **Eyeball** sprite. Then, you can duplicate the **Eyeball** sprite and name the copy `Eyeball 2`.
+Un ffordd o drwsio hyn yw dyblygu'r corlun **cymeriad** ac yna ailenwi'r copi yn `Eyeball`. Wedyn, dilea gwisgoedd **Eyeball** o'r corlun **cymeriad**, a dilea'r gwisgoedd **cymeriad** o'r corlun **Eyeball**. Yna, galli di ddyblygu'r corlun **Eyeball** a galw'r copi yn `Eyeball 2`.
 
-The code to `point towards`{:class="block3motion"} the `mouse-pointer`{:class="block3motion"} should be on the **Eyeball** sprites and not the **character** sprite.
+Dylai'r cod i `bwyntio at`{:class="block3motion"} `bwyntydd y llygoden`{:class="block3motion"} fod ar y corluniau **Eyeball** ac nid ar y corlun **cymeriad**.
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: The character follows the mouse pointer (and the eyes do not)
+title: Mae'r cymeriad yn dilyn pwyntydd y llygoden (ac dydy'r llygaid ddim yn gwneud hynny)
 ---
 
-You need to add the `point towards`{:class="block3motion"} code to the individual **Eyeball** sprites, not your **character** sprite!
+Mae angen i ti ychwangu'r cod `pwyntio at`{:class="block3motion"} i'r corluniau **Eyeball** unigol, nid i dy gorlun **cymeriad**!
 
-To copy the code, you can drag the code from the Code area for your **character** to the **Eyeball** sprites in the Sprite list.
+I gopïo'r cod, galli di lusgo'r cod o ardal y Cod ar gyfer dy **gymeriad** i'r corluniau **Eyeball** yn rhestr y Corluniau.
 
-You will also need to delete the script from the **character** sprite. To do this, drag the script to the Blocks menu.
+Bydd angen i ti hefyd ddileu'r sgript o'r corlun **cymeriad**. I wneud hyn, llusga'r sgript i'r ddewislen Blociau.
 
 --- /collapse ---
 
-You might find a bug that is not listed here. Can you work out how to fix it?
+Efallai byddi di'n dod o hyd i chwilen sydd ddim wedi'i rhestru yma. Alli di weithio allan sut i'w drwsio?
 
-We love hearing about your bugs and how you fixed them. Use the **Send feedback** button at the bottom of this page and tell us if you found a different bug in your project.
+Rydyn ni wrth ein bodd yn clywed am eich chwilod chi a sut gwnaethoch chi eu trwsio. Defnyddia'r botwm **Anfon adborth** ar waelod y dudalen hon a dyweda wrthym os wnes di ddod ar draws chwilen wahanol yn dy brosiect.
 
 
 --- /task ---
