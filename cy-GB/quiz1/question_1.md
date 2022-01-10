@@ -1,61 +1,61 @@
-## Reflection
+## Myfyrio
 
-Well done, you have learned a lot! Now, it's time to reflect — reflecting is an important part of learning, because it helps make new connections in your brain.
+Da iawn, rwyt ti wedi dysgu cryn dipyn! Nawr, mae'n bryd myfyrio ar y dysgu - mae hyn yn elfen bwysig o ddysgu, oherwydd mae'n helpu i wneud cysylltiadau newydd yn dy ymennydd.
 
-Answer the three questions below to reflect on what you have learned.
+Ateba'r tri chwestiwn isod i fyfyrio ar yr hyn rwyt ti wedi'i ddysgu.
 
-When you have answered each question, click on **Submit**. You will be guided towards the correct answer. You can do this activity as many times as you want to.
+Ar ôl ateb pob cwestiwn, clicia ar **Cyflwyno**. Byddi di'n cael dy dywys i'r ateb cywir. Galli di wneud hyn gymaint ag y mynni.
 
-Have fun!
+Mwynha!
 
 --- question ---
 ---
-legend: Question 1 of 3
+legend: Cwestiwn 1 o 3
 ---
 
-We added this code to an **Eyeball** sprite, but the eyeball is not rotating when the mouse pointer moves.
+Fe wnaethon ni ychwanegu'r cod hwn at gorlun **Eyeball**, ond dydy'r belen llygad ddim yn cylchdroi pan fydd pwyntydd y llygoden yn symud.
 
-![Screenshot showing the script and the Stage. The script is not glowing with a yellow outline. The blocks in the script are 'when green flag clicked', 'set rotation style all around', 'forever', 'point towards mouse-pointer'.](images/code-not-running.png)
+![Sgrinlun yn dangos y sgript a'r Llwyfan. Dydy'r sgript ddim yn disgleirio gydag amlinelliad melyn. Y blociau yn y sgript yw 'pan gaiff y fflag werdd ei chlicio', 'gosod steil cylchdroi o gwmpas', 'am byth', 'pwyntio at bwyntydd llygoden'.](images/code-not-running.png)
 
-How could you fix the problem with just one action?
+Sut alli di ddatrys y broblem gydag un weithred yn unig?
 
 --- choices ---
 
-- (x) Click on the green flag
+- (x) Clicia ar y faner werdd
 
   --- feedback ---
 
-Yes! Just adding the script does not make it run. You need to click on the green flag to make your code run.
+Iawn! Dydy dim ond ychwanegu'r sgript ddim yn gwneud iddo redeg. Mae angen i ti glicio ar y faner werdd i wneud i dy god redeg.
 
-Your code will have a yellow outline around it when it is running.
+Bydd gan dy god amlinelliad melyn o'i gwmpas pan fydd yn rhedeg.
 
-Forgetting to click on the green flag is a really common mistake — we all do it!
+Mae anghofio clicio ar y faner werdd yn gamgymeriad cyffredin iawn - rydyn ni i gyd yn ei wneud!
 
-**Tip:** If you change code in a loop while the script is running, Scratch will run the new code the next time that the loop runs! You don't need to click on the green flag again. This is really useful when you are trying out ideas.
+**Awgrym:** Os byddi di'n newid cod mewn dolen tra bod y sgript yn rhedeg, bydd Scratch yn rhedeg y cod newydd y tro nesaf y bydd y ddolen yn rhedeg! Does dim angen i ti glicio ar y faner werdd eto. Mae hyn yn ddefnyddiol iawn pan rwyt ti'n rhoi cynnig ar syniadau.
 
   --- /feedback ---
 
-- ( ) Click on the eyeball
+- () Clicia ar y belen llygad
 
   --- feedback ---
 
-The script does not start with a `when this sprite clicked`{:class="block3events"} block.
+Dydy'r sgript ddim yn dechrau gyda bloc `pan gaiff y corlun hwn ei glicio`{:class="block3events"}.
 
   --- /feedback ---
 
-- ( ) Move the `set rotation style`{:class="block3looks"} block inside the `forever`{:class="block3control"} loop
+- ( ) Symuda'r bloc `gosod steil cylchdroi`{:class="block3looks"} i mewn i'r ddolen `am byth`{:class="block3control"}
 
   --- feedback ---
 
-You do not need to run the `set rotation style`{:class="block3looks"} block lots of times. If you set it once before the loop, it will not change until you set it to a different style. Moving the `set rotation style`{:class="block3looks"} block will not help with the problem in the question.
+Does dim angen i ti redeg y bloc `gosod steil cylchdroi`{:class="block3looks"} lawer o weithiau. Os wyt ti'n ei osod unwaith cyn y ddolen, ni fydd yn newid nes i ti ei osod i steil gwahanol. Fydd symud y bloc `gosod steil cylchdroi`{:class="block3looks"} ddim yn helpu gyda'r broblem yn y cwestiwn.
 
   --- /feedback ---
 
-- ( ) Click on the Stage
+- ( ) Clicia ar y Llwyfan
 
   --- feedback ---
 
-You do not need to click on the Stage to get the eyeball to rotate. When the code is running, the eyeball will just follow the mouse pointer (or your finger, if you are using a tablet).
+Does dim angen i ti glicio ar y Llwyfan i gael y belen llygad i gylchdroi. Pan fydd y cod yn rhedeg, bydd y belen llygad yn dilyn pwyntydd y llygoden (neu dy fys, os wyt ti'n defnyddio tabled).
 
   --- /feedback ---
 
