@@ -1,27 +1,27 @@
-## Upgrade your project
+## Uwchraddio dy brosiect
 
-If you have time, you can upgrade your project.
+Os oes gen ti amser, galli di uwchraddio dy brosiect.
 
-You could:
-- Add more body parts
-- Add more sprites with silly eyes
-- Add more backdrops
-- Add more accessories, or add more costumes to your accessories
-- Try different graphic effects
+Gallet ti:
+- Ychwanegu mwy o rannau'r corff
+- Ychwanegu mwy o gorluniau gyda llygaid gwirion
+- Ychwanegu mwy o gorluniau
+- Ychwanegu mwy o ategolion, neu ychwanegu mwy o wisgoedd i dy ategolion
+- Rhoi cynnig ar wahanol effeithiau graffeg
 
-Each project in the ['Silly eyes — Examples' Scratch studio](https://scratch.mit.edu/studios/29029028){:target="_blank"} has a **See inside** link, which you can use to open the project in the Scratch editor and look at the code to get ideas and see how the project works.
+Mae gan bob prosiect yn [stiwdio scratch 'Silly eyes — Examples'](https://scratch.mit.edu/studios/29029028){:target="_blank"} ddolen **Gweld tu mewn**, y galli di ei defnyddio i agor y prosiect yn y golygydd Scratch a tharo golwg ar y cod i gael syniadau a gweld sut mae'r prosiect yn gweithio.
 
-The **Sporg** character also has arms that `point towards the mouse pointer`{:class="block3motion"}.
+Mae gan y cymeriad **Sporg** hefyd freichiau sy'n `pwyntio at bwyntydd y llygoden`{:class="block3motion"}.
 
-**Sporg**: [See inside](https://scratch.mit.edu/projects/495865892/editor){:target="_blank"}
+**Sporg**: [Gweld tu mewn](https://scratch.mit.edu/projects/495865892/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/495865892/?autostart=false" frameborder="0"></iframe>
 </div>
 
-If you add other body parts, you will need to centre them at the point that you want them to rotate from. For example, an arm would rotate from the shoulder.
+Os wyt ti'n ychwanegu rhannau eraill o'r corff, bydd angen i ti eu canoli ar y pwynt rwyt ti am iddyn nhw gylchdroi o'i gwmpas. Er enghraifft, byddai braich yn cylchdroi o'r ysgwydd.
 
 [[[scratch-crosshair]]]
 
-Take a look at our ['Silly eyes — Community' Scratch studio](https://scratch.mit.edu/studios/29120534){:target="_blank"} to see projects created by community members.
+Cymer olwg ar ein ['stiwdio Scratch 'Silly eyes — Community'](https://scratch.mit.edu/studios/29120534){:target="_blank"} i weld prosiectau mae aelodau'r gymuned wedi'u creu.
 
 --- save ---
