@@ -19,13 +19,13 @@ Defnyddia'r dewis **Paentio** i greu **corlun** newydd.
 
 ![Y dewis 'Paent' yn y ddewislen 'Dewiswch gorlun'.](images/paint-a-sprite.png)
 
-Bydd y Golygydd paent yn agor, fydd yn caniatáu i ti greu gwisg i dy gorlun **Eyeball**.
+Bydd y Golygydd paent yn agor, fydd yn caniatáu i ti greu gwisg i dy gorlun **Pelen y llygad**.
 
 --- /task ---
 
 Mae'n bwysig iawn:
-- Bod canwyll du y llygaid a'r iris lliw yn wynebu ochr dde y wisg **Eyeball**
-- Bod y wisg **Eyeball** wedi'i chanoli
+- Bod canwyll du y llygaid a'r iris lliw yn wynebu ochr dde y wisg **Pelen y llygad**
+- Bod y wisg **Pelen y llygad** wedi'i chanoli
 
 --- task ---
 
@@ -68,7 +68,7 @@ Mae gwisgoedd yn Scratch y galli di eu golygu i greu llygaid gwirion i dy gymeri
 
 Defnyddia'r Golygydd paent i newid gwisg. Fe allet ti ychwanegu cylchoedd, dewis lliw **Llenwi** gwahanol, neu dynnu rhannau o'r wisg i'w throi'n llygad gwirion.
 
-**Awgrym:** Bydd angen i ti ganoli'r wisg **Eyeball** yn y Golygydd paent fel ei bod yn cylchdroi yn llyfn wrth iddi droi. Defnyddia'r groeslin i ganoli'r wisg. Mae angen gosod y canwyll llygad du a'r iris lliw ar ochr dde'r wisg fel bod yr **Eyeball** yn dilyn pwyntydd y llygoden.
+**Awgrym:** Bydd angen i ti ganoli'r wisg **Pelen y llygad** yn y Golygydd paent fel ei bod yn cylchdroi yn llyfn wrth iddi droi. Defnyddia'r groeslin i ganoli'r wisg. Mae angen gosod y canwyll llygad du a'r iris lliw ar ochr dde'r wisg fel bod yr **Pelen y llygad** yn dilyn pwyntydd y llygoden.
 
 ![Gwisgoedd Scratch sy'n bodoli fel peli llygad.](images/costume-eyes.gif)
 
@@ -80,15 +80,15 @@ Defnyddia'r Golygydd paent i newid gwisg. Fe allet ti ychwanegu cylchoedd, dewis
 
 --- task ---
 
-Rhowch yr enw `Eyeball` i'ch corlun yn y cwarel Corlun.
+Rhowch yr enw `Pelen y llygad` i'ch corlun yn y cwarel Corlun.
 
-![Enw'r corlun wedi'i osod i 'Eyeball' yn y cwarel Corlun.](images/eyeball-name.png)
+![Enw'r corlun wedi'i osod i 'Pelen y llygad' yn y cwarel Corlun.](images/eyeball-name.png)
 
 --- /task ---
 
 --- task ---
 
-Llusga'r corlun **Eyeball** i'w osod ar y Llwyfan, a newid ei faint i gyd-fynd â dy gymeriad.
+Llusga'r corlun **Pelen y llygad** i'w osod ar y Llwyfan, a newid ei faint i gyd-fynd â dy gymeriad.
 
 --- /task ---
 
@@ -120,7 +120,7 @@ Os mai dim ond un llygad sydd gan dy gymeriad, yna rwyt ti wedi gorffen.
 
 --- task ---
 
-Fel arall, de-glicia (neu ar dabled, taro a dal) ar y corlun **Eyeball** yn y rhestr Corluniau a dewis **dyblygu** i greu mwy o lygaid gwirion.
+Fel arall, de-glicia (neu ar dabled, taro a dal) ar y corlun **Pelen y llygad** yn y rhestr Corluniau a dewis **dyblygu** i greu mwy o lygaid gwirion.
 
 [[[scratch3-duplicate-sprite]]]
 
@@ -143,7 +143,7 @@ Fel arall, de-glicia (neu ar dabled, taro a dal) ar y corlun **Eyeball** yn y rh
 title: Dydy'r llygaid ddim yn symud
 ---
 
-Gwna'n siŵr dy fod wedi ychwanegu'r cod at y corluniau **Eyeball** ac wedi **clicio ar y faner werdd**. Fydd dy god ddim yn rhedeg nes i ti glicio ar y faner werdd.
+Gwna'n siŵr dy fod wedi ychwanegu'r cod at y corluniau **Pelen y llygad** ac wedi **clicio ar y faner werdd**. Fydd dy god ddim yn rhedeg nes i ti glicio ar y faner werdd.
 
 --- /collapse ---
 
@@ -152,9 +152,9 @@ Gwna'n siŵr dy fod wedi ychwanegu'r cod at y corluniau **Eyeball** ac wedi **cl
 title: Mae'r llygaid yn pwyntio i ffwrdd o'r llygoden
 ---
 
-Yn y gwisgoedd **Eyeball**, gwna'n siŵr bod canwyll y llygad ar yr ochr dde (heibio'r groes las yng nghanol y wisg).
+Yn y gwisgoedd **Pelen y llygad**, gwna'n siŵr bod canwyll y llygad ar yr ochr dde (heibio'r groes las yng nghanol y wisg).
 
-Mae gan y corluniau **Eyeball** y `steil cylchdroi`{:class="block3motion"} `o amgylch`{:class="block3motion"}, fel bod modd iddyn nhw gylchdroi i unrhyw gyfeiriad.
+Mae gan y corluniau **Pelen y llygad** y `steil cylchdroi`{:class="block3motion"} `o amgylch`{:class="block3motion"}, fel bod modd iddyn nhw gylchdroi i unrhyw gyfeiriad.
 
 Pan fydd **Peli'r llygad** yn cylchdroi i `bwyntio at`{:class="block3motion"} `bwyntydd y llygoden`{:class="block3motion"}, canhwyllau'r llygaid fydd agosaf at bwyntydd y llygoden.
 
@@ -169,7 +169,7 @@ Pan fydd **Peli'r llygad** yn cylchdroi i `bwyntio at`{:class="block3motion"} `b
 title: Mae'r llygaid yn neidio o amgylch y Llwyfan
 ---
 
-Gwna'n siŵr bod y gwisgoedd **Eyeball** wedi'u canoli. I ganoli gwisg, llusga'r wisg fel bod y groes las yn y wisg yn cyd-fynd â'r groeslin lwyd yn y Golygydd paent.
+Gwna'n siŵr bod y gwisgoedd **Pelen y llygad** wedi'u canoli. I ganoli gwisg, llusga'r wisg fel bod y groes las yn y wisg yn cyd-fynd â'r groeslin lwyd yn y Golygydd paent.
 
 ![Canoli gwisg pelen llygad yn y golygydd Paent.](images/eye-centered.gif)
 
@@ -201,9 +201,9 @@ title: Mae'r cymeriad a'r llygaid yn dilyn pwyntydd y llygoden
 
 Wnes di ychwanegu'r llygaid fel gwisgoedd ar gyfer dy **gymeriad** yn lle fel gwisgoedd ar gyfer corluniau gwahanol? Galli di drwsio hynny.
 
-Un ffordd o drwsio hyn yw dyblygu'r corlun **cymeriad** ac yna ailenwi'r copi yn `Eyeball`. Wedyn, dilea gwisgoedd **Eyeball** o'r corlun **cymeriad**, a dilea'r gwisgoedd **cymeriad** o'r corlun **Eyeball**. Yna, galli di ddyblygu'r corlun **Eyeball** a galw'r copi yn `Eyeball 2`.
+Un ffordd o drwsio hyn yw dyblygu'r corlun **cymeriad** ac yna ailenwi'r copi yn `Pelen y llygad`. Wedyn, dilea gwisgoedd **Pelen y llygad** o'r corlun **cymeriad**, a dilea'r gwisgoedd **cymeriad** o'r corlun **Pelen y llygad**. Yna, galli di ddyblygu'r corlun **Pelen y llygad** a galw'r copi yn `Pelen y llygad 2`.
 
-Dylai'r cod i `bwyntio at`{:class="block3motion"} `bwyntydd y llygoden`{:class="block3motion"} fod ar y corluniau **Eyeball** ac nid ar y corlun **cymeriad**.
+Dylai'r cod i `bwyntio at`{:class="block3motion"} `bwyntydd y llygoden`{:class="block3motion"} fod ar y corluniau **Pelen y llygad** ac nid ar y corlun **cymeriad**.
 
 --- /collapse ---
 
@@ -212,9 +212,9 @@ Dylai'r cod i `bwyntio at`{:class="block3motion"} `bwyntydd y llygoden`{:class="
 title: Mae'r cymeriad yn dilyn pwyntydd y llygoden (ac dydy'r llygaid ddim yn gwneud hynny)
 ---
 
-Mae angen i ti ychwangu'r cod `pwyntio at`{:class="block3motion"} i'r corluniau **Eyeball** unigol, nid i dy gorlun **cymeriad**!
+Mae angen i ti ychwangu'r cod `pwyntio at`{:class="block3motion"} i'r corluniau **Pelen y llygad** unigol, nid i dy gorlun **cymeriad**!
 
-I gopïo'r cod, galli di lusgo'r cod o ardal y Cod ar gyfer dy **gymeriad** i'r corluniau **Eyeball** yn rhestr y Corluniau.
+I gopïo'r cod, galli di lusgo'r cod o ardal y Cod ar gyfer dy **gymeriad** i'r corluniau **Pelen y llygad** yn rhestr y Corluniau.
 
 Bydd angen i ti hefyd ddileu'r sgript o'r corlun **cymeriad**. I wneud hyn, llusga'r sgript i'r ddewislen Blociau.
 
