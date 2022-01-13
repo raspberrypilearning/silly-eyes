@@ -15,9 +15,9 @@ Galli di wneud i dy gorluniau **cymeriad** a **llygad gwirion** newid eu `Edrych
 
 --- task ---
 
-Ychwanega floc `pan gaiff y corlun hwn ei glicio`{:class="block3events"} at dy gorlun **Eyeball**.
+Ychwanega floc `pan gaiff y corlun hwn ei glicio`{:class="block3events"} at dy gorlun **Pelen y llygad**.
 
-Wyt ti'n gallu gweithio allan pa floc cod byddet ti'n ei roi oddi tano i newid lliw llygad dy gorlun pan fyddi di'n clicio ar y corlun **Eyeball**?
+Wyt ti'n gallu gweithio allan pa floc cod byddet ti'n ei roi oddi tano i newid lliw llygad dy gorlun pan fyddi di'n clicio ar y corlun **Pelen y llygad**?
 
 --- collapse ---
 ---
@@ -35,7 +35,7 @@ change [color v] effect by (25)
 
 --- task ---
 
-Os wyt ti am i'r ddwy belen llygad gael yr un effaith, bydd angen i ti gopïo dy sgript i'r gorlun **Eyeball 2**.
+Os wyt ti am i'r ddwy belen llygad gael yr un effaith, bydd angen i ti gopïo dy sgript i'r gorlun **Pelen y llygad 2**.
 
 [[[scratch3-copy-code]]]
 

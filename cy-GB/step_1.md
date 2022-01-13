@@ -32,9 +32,9 @@ Ceisia glicio ar wahanol rannau o'r prosiect i addasu'r prosiect.
 
 </div>
 <div>
-**Gobo yn gwylio**: [Gweld tu mewn](https://scratch.mit.edu/projects/495141114/editor){:target="_blank"}
+**Gobo yn gwylio**: [Gweld tu mewn](https://scratch.mit.edu/projects/627967816/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/495141114/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/627967816/?autostart=false" frameborder="0"></iframe>
 </div>
 
 </div>
@@ -49,19 +49,19 @@ Rwyt ti'n mynd i wneud rhai penderfyniadau dylunio i greu dy gymeriad. Meddylia 
 
 Cymer olwg ar y prosiectau enghreifftiol hyn i gael mwy o syniadau:
 
-**Paid bwyta'r doesen**: [Gweld tu mewn](https://scratch.mit.edu/projects/495865093/editor){:target="_blank"}
+**Paid bwyta'r doesen**: [Gweld tu mewn](https://scratch.mit.edu/projects/627968392/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/495865093/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/627968392/?autostart=false" frameborder="0"></iframe>
 </div>
 
-**Dan y môr**: [Gweld tu mewn](https://scratch.mit.edu/projects/495866460/editor){:target="_blank"}
+**Dan y môr**: [Gweld tu mewn](https://scratch.mit.edu/projects/627965282/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/495866460/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/627965282/?autostart=false" frameborder="0"></iframe>
 </div>
 
-**Sporg**: [Gweld tu mewn](https://scratch.mit.edu/projects/495865892/editor){:target="_blank"}
+**Sporg**: [Gweld tu mewn](https://scratch.mit.edu/projects/627966567/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/495865892/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/627966567/?autostart=false" frameborder="0"></iframe>
 </div>
 --- /task --- --- /no-print ---
 
