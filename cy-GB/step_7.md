@@ -13,9 +13,9 @@ Mae gan bob prosiect yn [stiwdio scratch 'Silly eyes — Examples'](https://scra
 
 Mae gan y cymeriad **Sporg** hefyd freichiau sy'n `pwyntio at bwyntydd y llygoden`{:class="block3motion"}.
 
-**Sporg**: [Gweld tu mewn](https://scratch.mit.edu/projects/495865892/editor){:target="_blank"}
+**Sporg**: [Gweld tu mewn](https://scratch.mit.edu/projects/627966567/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/495865892/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/627966567/?autostart=false" frameborder="0"></iframe>
 </div>
 
 Os wyt ti'n ychwanegu rhannau eraill o'r corff, bydd angen i ti eu canoli ar y pwynt rwyt ti am iddyn nhw gylchdroi o'i gwmpas. Er enghraifft, byddai braich yn cylchdroi o'r ysgwydd.
