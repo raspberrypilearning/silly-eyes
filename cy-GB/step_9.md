@@ -13,7 +13,7 @@ Os wyt ti'n dilyn y llwybr [Cyflwyniad i Scratch](https://projects.raspberrypi.o
 Clicia'r faner werdd i wylio'r animeiddiad:
 
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/495932563/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/628367388/?autostart=false" frameborder="0"></iframe>
 </div>
 
 --- /no-print ---
