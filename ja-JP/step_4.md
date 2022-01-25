@@ -1,27 +1,27 @@
-## Sprite effects
+## スプライト効果
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-You can make your **character** sprite and **silly eye** sprites change their `Looks`{:class="block3looks"} when you click on them.
+**キャラクター**スプライトと**おかしな目**スプライトをクリックすると、それらの `見た目` {:class=" block3looks "}を変更できます。
 </div>
 <div>
 
-![A character and eyes with graphic effects.](images/character-graphic-effects.png){:width="300px"}    
+![グラフィック効果のあるキャラクターと目](images/character-graphic-effects.png){:width="300px"}    
 
 </div>
 </div>
 
-### Silly eye effects
+### おかしな目の効果
 
 --- task ---
 
-Add a `when this sprite clicked`{:class="block3events"} block to your **Eyeball** sprite.
+追加 `このスプライトがクリックされたとき`{:class="block3events"}ブロックを **目玉** スプライトに追加します。
 
-Can you work out what code block you would put underneath to change your sprite's eye colour when you click on the **Eyeball** sprite?
+**目玉** スプライトをクリックしたときに、スプライトの目の色を変更するために下に配置するコードブロックを理解できますか？
 
 --- collapse ---
 ---
-title: Change graphic effects when the sprite is clicked
+title: スプライトがクリックされたらグラフィック効果を変更する
 ---
 
 ```blocks3
@@ -35,50 +35,50 @@ change [color v] effect by (25)
 
 --- task ---
 
-If you want both eyeballs to have the same effect, you will need to copy your script to the **Eyeball 2** sprite.
+両方の目玉に同じ効果を持たせたい場合は、スクリプトを **目玉2** スプライトにコピーする必要があります。
 
 [[[scratch3-copy-code]]]
 
 --- /task ---
 
-### Character effects
+### キャラクター効果
 
-If you want to, you can also make your **character** sprite change colour and other graphic effects when you click on it.
+必要に応じて、 **キャラクター** スプライトをクリックすると、色やその他のグラフィック効果を変更することもできます。
 
 --- task ---
 
-Click on your **character** sprite in the Sprite list, then click on the **Code** tab.
+スプライトリストで**キャラクター** スプライトをクリックしてから、[ **コード**] タブをクリックします。
 
-Add the same script as you used to change the eye colour. Which graphic effects do you want to change for your **character**?
+目の色を変更するために使用したのと同じスクリプトを追加します。 **キャラクター**に対してどのグラフィック効果を変更しますか？
 
-**Choose:** Choose an effect in the drop-down menu within the `change color effect by`{:class="block3looks"} block. Experiment with the numbers until you have a change that you like.
+**選択：** `[色v]の効果を(0)にする`{:class="block3looks"}ブロック内のドロップダウンメニューで効果を選択します。 好きな変更ができるまで、数字を試してみてください。
 
 [[[scratch3-graphic-effects]]]
 
 --- /task ---
 
-Now, add an **accessory**, such as a hat, that changes when you click on it — use the `next costume`{:class="block3looks"} block.
+次に、帽子など、クリックすると変化する **アクセサリ**を追加します。ー `次のコスチュームにする`{:class="block3looks"}ブロックを使用します。
 
 --- task ---
 
-**Choose:** Add an accessory change or costume change of your choice.
+**選択：** 好みのアクセサリーの変化またはコスチュームの変化を追加します。
 
 
-![Sprites with accessories.](images/accessory-sprite.png)
+![アクセサリー付きのスプライト。](images/accessory-sprite.png)
 
 --- collapse ---
 ---
-title: Make a sprite change costume when clicked
+title: クリックしたときにスプライトのコスチュームを変える
 ---
 
-**Gobo with costume accessories**: [See inside](https://scratch.mit.edu/projects/496334057/editor){:target="_blank"}
+**コスチュームアクセサリー付きGobo**: [内部を見る](https://scratch.mit.edu/projects/496334057/editor){:target="_ blank"}
 <div class="scratch-preview">
 <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/496334057/?autostart=false" frameborder="0"></iframe>
 </div>
 
-Some sprites already have a choice of costumes.
+一部のスプライトにはすでにコスチュームの選択肢があります。
 
-You can add code to make a sprite's costume change to the `next costume`{:class="block3looks"} when you click on the sprite:
+スプライトをクリックすると、スプライトのコスチュームを `次のコスチューム`{:class="block3looks"}に変更するコードを追加できます。
 
 ```blocks3
 when this sprite clicked
@@ -87,7 +87,7 @@ next costume
 
 --- /collapse ---
 
-If your sprite does not have a choice of costumes, or you want to add more, you can add any costume to a sprite.
+スプライトにコスチュームの選択肢がない場合、またはさらに追加したい場合は、スプライトに任意のコスチュームを追加できます。
 
 [[[scratch3-add-costumes-to-a-sprite]]]
 
@@ -95,26 +95,26 @@ If your sprite does not have a choice of costumes, or you want to add more, you 
 
 --- task ---
 
-**Test:** Work on your sprites until they interact in the way that you want. Try one change at a time and test what it does so that you can easily spot each change and undo anything that you do not like.
+**テスト：** スプライトが希望どおりに相互作用するまで、スプライトで作業します。 一度に1つの変更を試し、それがどうなるかをテストします。変更したところを簡単に見つけて、気に入らない場合に元に戻すことができるようにするためです。
 
 --- /task ---
 
 --- task ---
 
-**Debug:**
+**デバッグ：**
 
-If you add code to the wrong sprite, you can fix that:
+間違ったスプライトにコードを追加した場合、以下のように問題を修正できます。
 
 [[[scratch3-copy-code]]]
 
-If you need to, you can reset the graphic effects:
+必要に応じて、グラフィック効果をリセットできます。
 
 --- collapse ---
 ---
-title: I don't want these graphic effects
+title: これらのグラフィック効果は必要ありません
 ---
 
-To reset the graphic effects at any time, click on the `clear graphic effects`{:class="block3looks"} block in the `Looks`{:class="block3looks"} blocks menu. Clicking on the green flag also clears graphic effects.
+グラフィック効果をリセットするには、いつでも、 `見た目`{:class="block3looks"}ブロックメニューの `画像効果をなくす`{:class="block3looks"}ブロックをクリックします。 緑の旗をクリックしても、グラフィック効果をクリアできます。
 
 ```blocks3
 clear graphic effects
