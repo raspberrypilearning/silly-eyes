@@ -1,14 +1,14 @@
-## Make silly eyes
+## おかしな目をつくる
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-In this step, you will make the silly eyes! Each eye needs to be a separate sprite so that it can move separately.
+このステップでは、あなたはおかしな目を作ります！ 別々に動くことができるように、各目は別々のスプライトである必要があります。
 
-If you need help, look at the tips in the **Debug** task at the bottom of this step.
+ヘルプが必要な場合は、このステップの下部にある**デバッグ**タスクのヒントを参照してください。
 </div>
 <div>
 
-![A character with silly eyes.](images/character-with-eyes.png)
+![おかしな目を持つキャラクター](images/character-with-eyes.png)
 {:width="300px"}  
 
 </div>
@@ -16,64 +16,64 @@ If you need help, look at the tips in the **Debug** task at the bottom of this s
 
 --- task ---
 
-Use the **Paint** option to create a new **sprite**.
+**描く** オプションを使用して、新しい **スプライト**を作成します。
 
-![The 'Paint' option in the 'Choose a Sprite' menu.](images/paint-a-sprite.png)
+![「スプライトを選ぶ」メニューの「描く」オプション](images/paint-a-sprite.png)
 
-The Paint editor will open, which will allow you to create your **Eyeball** sprite's costume.
+ペイントエディタが開くと、 **目玉** スプライトのコスチュームを作成できるようになります。
 
 --- /task ---
 
-It is really important that:
-- The black pupil and coloured iris face to the right-hand side of the **Eyeball** costume
-- The **Eyeball** costume is centred
+以下のことはとても重要です：
+- 黒い瞳孔と色付きの虹彩が**目玉** コスチュームの右側に面していること
+- **目玉** コスチュームが中央に配置されていること
 
 --- task ---
 
-**Choose:** Draw an eyeball **or** start from a round sprite.
+**選択：** 目玉を描くか **または** 丸いスプライトから始めます。
 
 --- collapse ---
 ---
-title: Draw an eyeball in the Paint editor
+title: ペイントエディタで目玉を描く
 ---
 
-Select the **Circle** tool.
+**円** ツールを選択します。
 
-To draw a perfect circle, press and hold the <kbd>Shift</kbd> key on the keyboard while you draw with the **Circle** tool. If you are using a tablet, try to get as close to a perfect circle as you can.
+真円を描くためには、キーボードの <kbd>シフト</kbd>キーを、**円** ツールで描いている間ずっと押したままにします 。 タブレットを使用している場合は、できるだけ完全な円に近づけるようにしてください。
 
-In this example, we set the **Outline** to black and the **Fill** colour of the eyeball to white:
+この例では、**枠線** を黒に設定し、 **塗りつぶし** 色を白に設定します。
 
-![A white eyeball with a black outline.](images/eyeball-outline.png)
+![輪郭が黒い白い目玉。](images/eyeball-outline.png)
 
-Use the **Fill** and **Outline** colour choosers to choose colours. To make black, slide both the **Saturation** and **Brightness** to `0`. To make white, slide the **Saturation** to `0` and the **Brightness** to `100`.
+色を選択するには、 **塗りつぶし** および **枠線**の カラー選択を使用します。 黒色にするには、**鮮やかさ** と **明るさ**のスライドを `0`にします。 白色にするには、 **鮮やかさ**のスライドを `0`に、 **明るさ**のスライドを `100`にします。
 
 ![](images/black-colour.png) ![](images/white-colour.png)
 
-Make sure that the eyeball is centred — move it so that the blue cross in the costume lines up with the grey crosshair in the Paint editor.
+目玉が中央にあることを確認します—コスチュームの青い十字がペイントエディタの灰色の十字線と揃うように目玉を動かします。
 
-Draw a smaller perfect circle and position it on the right-hand side of the eyeball:
+小さい真円を描き、それを目玉の右側に配置します。
 
-![An eyeball with a red iris and black pupil on the right-hand side.](images/eyeball-with-iris.png)
+![右側に赤い虹彩と黒い瞳孔がある目玉。](images/eyeball-with-iris.png)
 
-You could also draw circles inside circles, or use colour, to get different effects.
+また、円の内側に円を描いたり、色を使用してさまざまな効果を得ることができます。
 
 --- /collapse ---
 
 
 --- collapse ---
 ---
-title: Turn a round costume into an eyeball
+title: 丸いコスチュームを目玉に変える
 ---
 
-There are costumes in Scratch that you can edit to make silly eyes for your character.
+Scratchには、キャラクターのおかしな目を作るために編集できるコスチュームがあります。
 
-Use the Paint editor to change a costume. You could add circles, choose a different **Fill** colour, or remove parts of the costume to turn it into a silly eye.
+ペイントエディタを使用してコスチュームを変更します。 円を追加したり、別の **塗りつぶし** 色を選択したり、コスチュームの一部を削除しておかしな目にしたりすることができます。
 
-**Tip:** You will need to centre the **Eyeball** costume in the Paint editor so that it rotates smoothly as it turns. Use the crosshair to centre the costume. The black pupil and coloured iris need to be positioned on the right-hand side of the costume so that the **Eyeball** follows the mouse pointer.
+**ヒント：** **目玉** コスチュームを中央に配置して、回転するときにスムーズに回転するようにする必要があります。 十字線を使用してコスチュームを中央に配置します。 **目玉** がマウスポインタに追従するように、黒い瞳孔と色付きの虹彩をコスチュームの右側に配置する必要があります。
 
-![Existing Scratch costumes as eyeballs.](images/costume-eyes.gif)
+![目玉としての既存のスクラッチコスチューム。](images/costume-eyes.gif)
 
-![The Paint editor showing an edited button1 costume.](images/button-eye.png)
+![編集されたbutton1コスチュームを表示するペイントエディタ。](images/button-eye.png)
 
 --- /collapse ---
 
@@ -81,27 +81,27 @@ Use the Paint editor to change a costume. You could add circles, choose a differ
 
 --- task ---
 
-Name your sprite `Eyeball` in the Sprite pane.
+スプライトペインで 名前を`Eyeball` にします。
 
-![The sprite's name set to 'Eyeball' in the Sprite pane.](images/eyeball-name.png)
+![スプライトペインでスプライトの名前が「Eyeball」に設定されています。](images/eyeball-name.png)
 
 --- /task ---
 
 --- task ---
 
-Drag the **Eyeball** sprite to position it on the Stage, and change its size to fit your character.
+**目玉** スプライトをドラッグしてステージに配置し、キャラクターに合わせてサイズを変更します。
 
 --- /task ---
 
-Now, make the eyeball look at the `mouse-pointer`{:class="block3motion"}.
+では、目玉が`マウスポインタ`{:class="block3motion"}を見るようにしてみましょう。
 
 --- task ---
 
-Add a script to `set the rotation style`{:class="block3motion"} to `all around`{:class="block3motion"} to make the eyeball `point towards the mouse pointer`{:class="block3motion"} `forever`{:class="block3control"}.
+目玉を`ずっと`{:class="block3control"} `マウスポインターへ向ける`{:class="block3motion"}ように、 `回転方向を[・・・v]にする`{:class="block3motion"} を `自由に回転`{:class="block3motion"} にするスクリプトを追加します。
 
 --- collapse ---
 ---
-title: Make a sprite point towards the mouse pointer
+title: スプライトがマウスポインターを追うようにする
 ---
 
 ```blocks3
@@ -117,11 +117,11 @@ end
 --- /task ---
 
 
-If your character only has one eye, then you have finished.
+キャラクターの目が片方しかない場合は、終了です。
 
 --- task ---
 
-Otherwise, right-click (or on a tablet, tap and hold) on the **Eyeball** sprite in the Sprite list and choose **duplicate** to create more silly eyes.
+それ以外の場合は、スプライトリストの **目玉** スプライトを右クリック（またはタブレットではタップアンドホールド）し、 **複製** を選択して、別のおかしな目を作成します。
 
 [[[scratch3-duplicate-sprite]]]
 
@@ -129,63 +129,63 @@ Otherwise, right-click (or on a tablet, tap and hold) on the **Eyeball** sprite 
 
 --- task ---
 
-**Test:** Click on the green flag and test your project. Do the silly eyes follow your mouse pointer as you move the mouse around?
+**テスト：** 緑色の旗をクリックして、プロジェクトをテストします。 あなたがマウスを動かしているとき、おかしな目はあなたのマウスポインタを追いますか？
 
-**Tip:** You don't have to keep the mouse pointer on the Stage. The eyes will follow your mouse pointer as you carry on coding in Scratch.
+**ヒント：** マウスポインターをステージ上だけで動かす必要はありません。 Scratchのコードエリアに移動しても、目玉はマウスポインタを追いかけます。
 
 --- /task ---
 
 --- task ---
 
-**Debug:** You might find some bugs in your project that you need to fix. Here are some common bugs:
+**デバッグ：** プロジェクトに修正が必要なバグが見つかる場合があります。 一般的なバグは次のとおりです。
 
 --- collapse ---
 ---
-title: The eyes do not move
+タイトル：目玉が動かない
 ---
 
-Make sure that you have added the code to the **Eyeball** sprites and **clicked on the green flag**. Your code will not run until you click on the green flag.
+**目玉** スプライトにコードを追加し、 **緑色のフラグをクリックした**ことを確認します。 緑の旗をクリックするまで、コードは実行されません。
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: The eyes point away from the mouse
+タイトル：目玉がマウスから離れた方向を向いています
 ---
 
-In the **Eyeball** costumes, check that the pupil is on the right-hand side (past the blue cross in the middle of the costume).
+**目玉** コスチュームで、瞳孔が右側にあることを確認します（コスチュームの真ん中にある青い十字を過ぎてください）。
 
-The **Eyeball** sprites have the `all around`{:class="block3motion"} `rotation style`{:class="block3motion"}, so they can rotate in any direction.
+**目玉** スプライトは、 `回転方法`{:class="block3motion"}を `自由に回転`{：class = "block3motion"}するようにしているので、任意の方向に回転できます。
 
-When the **Eyeballs** rotate to `point towards`{:class="block3motion"} the `mouse-pointer`{:class="block3motion"}, the pupils will be closest to the mouse pointer.
+**目玉**が`マウスのポインター`{:class="block3motion"}`に向ける`{:class="block3motion"}回転をすると、瞳孔はマウスポインターに最も近くなります。
 
-![Placing the pupil on the right-hand side of an eyeball costume.](images/eye-right.gif)
+![瞳孔を目玉コスチュームの右側に配置します。](images/eye-right.gif)
 
-![An eyeball costume with the pupil on the right-hand side.](images/eye-costume.png)
+![瞳孔が右側にある目玉コスチューム。](images/eye-costume.png)
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: The eyes jump around the Stage
+title: 目がステージを飛び回る
 ---
 
-Check that the **Eyeball** costumes are centred. To centre a costume, drag the costume so that the blue cross in the costume lines up with the grey crosshair in the Paint editor.
+**目玉**コスチュームが中心にあることを確認してください。 コスチュームを中央に配置するには、コスチュームをドラッグして、コスチュームの青い十字がペイントエディタの灰色の十字線と揃うようにします。
 
-![Centring an eyeball costume in the Paint editor.](images/eye-centered.gif)
+![ペイントエディタで目玉のコスチュームを中央に配置します。](images/eye-centered.gif)
 
-![An eyeball costume centred in the Paint editor.](images/eye-costume.png)
+![ペイントエディタを中心とした目玉コスチューム。](images/eye-costume.png)
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: The character is in front of the eyes
+title: キャラクターが目より前面にある
 ---
 
-When you drag a sprite to position it on the Stage, it moves in front of the other sprites.
+スプライトをドラッグしてステージに配置すると、他のスプライトの前面に来ます。
 
-To get your **character** sprite to stay at the `back`{:class="block3looks"}, use:
+**キャラクター** のスプライトを `最背面`{:class="block3looks"}にとどめるには、次を使用します。
 
 ```blocks3
 when green flag clicked
@@ -197,33 +197,33 @@ go to [back v] layer // behind all other sprites
 
 --- collapse ---
 ---
-title: The character and the eyes follow the mouse pointer
+title: キャラクターと目玉が一緒にマウスポインターを追う
 ---
 
-Did you add the eyes as costumes for your **character** instead of as costumes for separate sprites? You can fix that.
+個別のスプライトのコスチュームとしてではなく **キャラクター** コスチュームとして目を追加しましたか？ あなたはそれを修正することができます。
 
-One way to fix it is to duplicate the **character** sprite and then rename the copy `Eyeball`. Then, delete the **Eyeball** costumes from the **character** sprite, and delete the **character** costumes from the **Eyeball** sprite. Then, you can duplicate the **Eyeball** sprite and name the copy `Eyeball 2`.
+それを修正する一つの方法として、 **キャラクター** スプライトをコピーしてから コピーしたスプライトの名前を`目玉`に変えます。 次に、 **キャラクター** スプライトから **<目玉** コスチュームを削除し、 **目玉**スプライトから **キャラクター** コスチュームを削除します。 それから、 **目玉** スプライトをコピーして、名前を `目玉2`にします。
 
-The code to `point towards`{:class="block3motion"} the `mouse-pointer`{:class="block3motion"} should be on the **Eyeball** sprites and not the **character** sprite.
+`マウスのポインター`{:class="block3motion"}`へ向ける`{:class="block3motion"}コードは **目玉** スプライトに書かれ、 **キャラクター** スプライトには書かないようにします。
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: The character follows the mouse pointer (and the eyes do not)
+title: キャラクターはマウスポインタを追いかけます（目玉は追いかけません）
 ---
 
-You need to add the `point towards`{:class="block3motion"} code to the individual **Eyeball** sprites, not your **character** sprite!
+マウスポインター`へ向ける`{:class="block3motion"}コードはそれぞれの **目玉** スプライトにだけ追加します。 **キャラクター** スプライトには追加してはいけません!
 
-To copy the code, you can drag the code from the Code area for your **character** to the **Eyeball** sprites in the Sprite list.
+コードをコピーするには、 **キャラクター** コード領域からスプライトリストにある **目玉**スプライトにコードをドラッグします。
 
-You will also need to delete the script from the **character** sprite. To do this, drag the script to the Blocks menu.
+**キャラクター** のスプライトからスクリプトを削除する必要があります。 これを行うには、スクリプトを[ブロック] メニューにドラッグします。
 
 --- /collapse ---
 
-You might find a bug that is not listed here. Can you work out how to fix it?
+ここに記載されていないバグが見つかる可能性があります。 あなたはそれを修正する方法を理解できますか？
 
-We love hearing about your bugs and how you fixed them. Use the **Send feedback** button at the bottom of this page and tell us if you found a different bug in your project.
+私たちは、あなたのバグと、それらをどのように修正したかについて聞くのが大好きです。 プロジェクトで別のバグを見つけた場合、このページの一番下にある**フィードバックを送信** ボタンを使ってお知らせください。
 
 
 --- /task ---
