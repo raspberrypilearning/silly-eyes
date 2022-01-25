@@ -1,16 +1,18 @@
-## What next?
+## 次は何をしますか？
 
-If you are following the [Introduction to Scratch](https://projects.raspberrypi.org/en/pathways/scratch-intro) pathway, you can move on to the [Surprise! animation](https://projects.raspberrypi.org/en/projects/surprise-animation) project. In this project, you will make an animation of a story with a surprise.
+[スクラッチ入門](https://projects.raspberrypi.org/en/pathways/scratch-intro) 経路をたどっている場合は
+
+サプライズ! アニメーション</1> プロジェクトに進むことができます。 このプロジェクトでは、驚きのストーリーのアニメーションを作成します。</p> 
 
 --- print-only ---
 
-![A 'Surprise! animation' project.](images/surprise-story.png)
+![サプライズ！ アニメーションのプロジェクト。](images/surprise-story.png)
 
 --- /print-only ---
 
 --- no-print ---
 
-Click on the green flag to watch the animation:
+アニメーションを見るには、緑色の旗をクリックしてください。
 
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/495932563/?autostart=false" frameborder="0"></iframe>
@@ -18,5 +20,5 @@ Click on the green flag to watch the animation:
 
 --- /no-print ---
 
-If you want to have more fun exploring Scratch, then you could try out any of [these projects](https://projects.raspberrypi.org/en/projects?software%5B%5D=scratch&curriculum%5B%5D=%201).
+スクラッチをより探索してみたい場合は、 [これらのプロジェクト](https://projects.raspberrypi.org/en/projects?software%5B%5D=scratch&curriculum%5B%5D=%201)のいずれか試してみることができます。
 
