@@ -1,61 +1,61 @@
-## Reflection
+## ふりかえり
 
-Well done, you have learned a lot! Now, it's time to reflect — reflecting is an important part of learning, because it helps make new connections in your brain.
+お疲れさまでした。たくさんのことを学びましたね！ 次はふりかえりの時間です。ふりかえりを行うことで、脳に新しいつながりを作ることができます。このため、ふりかえりは学習の大事な部分です。
 
-Answer the three questions below to reflect on what you have learned.
+以下の3つの質問に答えて、学んだことをふりかえってみましょう。
 
-When you have answered each question, click on **Submit**. You will be guided towards the correct answer. You can do this activity as many times as you want to.
+それぞれの質問に回答したら、[**送信**] をクリックします。 正しい答えが表示されます。 このアクティビティは何度でも実行できます。
 
-Have fun!
+お楽しみください!
 
 --- question ---
 ---
-legend: Question 1 of 3
+legend: 質問1/3
 ---
 
-We added this code to an **Eyeball** sprite, but the eyeball is not rotating when the mouse pointer moves.
+**Eyeball** スプライトにこのコードを追加したとき、マウスポインタを動かしても目玉が回転しない時があります。
 
-![Screenshot showing the script and the Stage. The script is not glowing with a yellow outline. The blocks in the script are 'when green flag clicked', 'set rotation style all around', 'forever', 'point towards mouse-pointer'.](images/code-not-running.png)
+![スクリプトとステージを示すスクリーンショット。 スクリプトは黄色の輪郭で光っていません。 スクリプト内のブロックは、「緑の旗が押されたとき」、「回転方法を自由に回転にする」、「ずっと」、「マウスのポインタへ向ける」です。](images/code-not-running.png)
 
-How could you fix the problem with just one action?
+たった1つのアクションで問題をどのように修正できますか？
 
 --- choices ---
 
-- (x) Click on the green flag
+- （x）緑色の旗をクリックします
 
   --- feedback ---
 
-Yes! Just adding the script does not make it run. You need to click on the green flag to make your code run.
+はい！ スクリプトを追加するだけでは実行されません。 コードを実行するには、緑色のフラグをクリックする必要があります。
 
-Your code will have a yellow outline around it when it is running.
+コードの実行中は、コードの周囲に黄色のアウトラインが表示されます。
 
-Forgetting to click on the green flag is a really common mistake — we all do it!
+緑の旗をクリックするのを忘れることは本当によくある間違いです—私たち皆やってしまいます！
 
-**Tip:** If you change code in a loop while the script is running, Scratch will run the new code the next time that the loop runs! You don't need to click on the green flag again. This is really useful when you are trying out ideas.
+**ヒント：** スクリプトの実行中にループ内のコードを変更すると、次にループが実行されたときにScratchが新しいコードを実行します。 緑の旗をもう一度クリックする必要はありません。 これは、アイデアを試すときに非常に役立ちます。
 
   --- /feedback ---
 
-- ( ) Click on the eyeball
+- ( ) 目玉をクリックします
 
   --- feedback ---
 
-The script does not start with a `when this sprite clicked`{:class="block3events"} block.
+`このスプライトが押されたとき{:class="block3events"}`でスクリプトは動きません。
 
   --- /feedback ---
 
-- ( ) Move the `set rotation style`{:class="block3looks"} block inside the `forever`{:class="block3control"} loop
+- ( ) `回転方法を[自由に回転]にする`:{class="block3looks"}ブロックを`ずっと`{:class="block3control"}ループの中に移動します。
 
   --- feedback ---
 
-You do not need to run the `set rotation style`{:class="block3looks"} block lots of times. If you set it once before the loop, it will not change until you set it to a different style. Moving the `set rotation style`{:class="block3looks"} block will not help with the problem in the question.
+`回転方法を[自由に回転]にする`{:class="block3looks"}ブロックを何度も実行する必要はありません。 ループの前に一度設定すると、別のスタイルに設定するまで変更されません。 `回転方法を[自由に回転]にする`{:class="block3looks"}ブロックを移動しても、この質問の問題は解決しません。
 
   --- /feedback ---
 
-- ( ) Click on the Stage
+- ( ) ステージをクリックします
 
   --- feedback ---
 
-You do not need to click on the Stage to get the eyeball to rotate. When the code is running, the eyeball will just follow the mouse pointer (or your finger, if you are using a tablet).
+目玉を回転させるためにステージをクリックする必要はありません。 コードの実行中、目玉はマウスポインター（またはタブレットを使用している場合は指）をたどります。
 
   --- /feedback ---
 
