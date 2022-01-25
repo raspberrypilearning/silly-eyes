@@ -1,19 +1,19 @@
-## Your character
+## あなたのキャラクター
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-Have you got an idea about your own character? Now, you can get it ready for silly eyes!
+あなたは、あなたのキャラクターについてのアイディアを持っていますか？ 今、あなたはおかしな目の準備ができます！
 </div>
 <div>
 
-![A large character.](images/character.png){:width="300px"}    
+![大きなキャラクター](images/character.png){:width="300px"}    
 
 </div>
 </div>
 
 --- task ---
 
-Open the [Silly eyes starter project](https://scratch.mit.edu/projects/582221984/editor){:target="_blank"}. Scratch will open in another browser tab.
+[おかしな目のスタータープロジェクト](https://scratch.mit.edu/projects/582221984/editor){:target="_blank"}を開きます。 Scratchはブラウザの別のタブで開きます。
 
 [[[working-offline]]]
 
@@ -21,9 +21,9 @@ Open the [Silly eyes starter project](https://scratch.mit.edu/projects/582221984
 
 --- task ---
 
-**Choose:** Choose a sprite **or** create your own simple sprite in the Paint editor.
+**選択：** スプライトを選択 **または** ペイントエディタで簡単なスプライトを作成します。
 
-You don't have to choose a person or animal. You could choose an object, like the donut.
+人や動物を選ぶ必要はありません。 例えばドーナツのようなオブジェクトを選択できます。
 
 [[[generic-scratch3-sprite-from-library]]]
 
@@ -31,34 +31,34 @@ You don't have to choose a person or animal. You could choose an object, like th
 
 --- collapse ---
 ---
-title: Get a surprise sprite
+title: サプライズスプライトを入手
 ---
 
-Not sure which sprite to choose? Go to the **Choose a Sprite** menu and choose the **Surprise** option to add a surprise sprite to your project.
+どのスプライトを選択すればよいかわからない場合は？ **スプライトを選ぶ** メニューに移動し、 **サプライズ** オプションを選択して、プロジェクトにサプライズスプライトを追加します。
 
-![The 'Surprise' option in the 'Choose a Sprite' menu.](images/surprise-sprite.png)
+![「スプライトの選択」メニューの「サプライズ」オプション。](images/surprise-sprite.png)
 
 --- /collapse ---
 
-**Tip:** If you create your own sprite in the Paint editor, **don't add eyes yet, because they need to be separate sprites.**
+**ヒント：** ペイントエディタでスプライトを作成する場合、 **個別のスプライトである必要があるため、まだ目を追加しないでください。**
 
 --- /task ---
 
-At the moment, your character will be much smaller than the characters in our example projects. You can make your character bigger so that it fills more of the screen.
+現時点では、キャラクターはサンプルプロジェクトのキャラクターよりもはるかに小さくなります。 キャラクターを大きくして、画面全体に表示することができます。
 
 --- task ---
 
-In the Sprite pane, change the number in the **Size** property to a number of your choice.
+[スプライト] ペインで、[ **サイズ** プロパティの数値を任意の数値に変更します。
 
 ![](images/size-property.png){:width="500px"}
 
 --- /task ---
 
-Where do you want your character to live?
+キャラクターをどこに住まわせたいですか？
 
 --- task ---
 
-**Choose:** Choose a backdrop that is sensible or silly.
+**選択：** 賢明またはおかしな背景を選択します。
 
 [[[generic-scratch3-backdrop-from-library]]]
 
