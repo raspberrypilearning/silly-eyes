@@ -1,21 +1,21 @@
-## Introduction
+## はじめに
 
-In this project, you will design and create a silly eye character. The character's large, silly eyes will follow the mouse pointer to bring your character to life.
-
-<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-<span style="color: #0faeb0">**Design**</span> means deciding on the way that a project looks and making decisions about what it does. 
-</p>
-
-You will:
-+ Make a project with **user interaction**
-+ Personalise a project with colour and graphic effects
-+ Learn about design in digital making
+このプロジェクトでは、おかしなな目のキャラクターをデザインして作成します。 キャラクターの大きくておかしな目は、マウスポインターをたどって、キャラクターに命を吹き込みます。
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-<span style="color: #0faeb0">**User**</span> means the person using the project (not just making it), and <span style="color: #0faeb0">**user interaction**</span> is how the project reacts to the user doing things such as moving the mouse and clicking on the screen. 
+<span style="color: #0faeb0">**デザイン**</span> は、プロジェクトの外観を決定し、プロジェクトの内容を決定することを意味します。 
 </p>
 
-![Examples of projects.](images/showcase-line.png)
+あなたは次のことを行います。
++ プロジェクトを**ユーザーインタラクション **でつくります
++ 色とグラフィック効果でプロジェクトをパーソナライズします
++ デジタルメイキングのデザインについて学びます
+
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
+<span style="color: #0faeb0">**ユーザー**</span> は（プロジェクトを作成するだけでなく）プロジェクトを使用する人を意味し、 <span style="color: #0faeb0">**ユーザーインタラクション**</span> は、マウスを動かしたり画面をクリックしたりするユーザーにプロジェクトがどのように反応するかを意味します。 
+</p>
+
+![プロジェクトの例。](images/showcase-line.png)
 
 --- no-print ---
 
@@ -24,15 +24,15 @@ You will:
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 175px; flex-grow: 1">  
 
-### Try it 
+###試してみる 
 
-Move the mouse (or if you are using a tablet, move your finger) around the screen and watch what happens to Gobo's eyes. What happens when you move between Gobo's eyes? 
+マウスを画面上で動かして（またはタブレットを使用している場合は指を動かして）、Goboの目に何が起こるかを観察します。 Goboの目の間を移動するとどうなりますか？ 
   
-Try clicking on different parts of the project to customise the project.
+プロジェクトのさまざまな部分をクリックして、プロジェクトをカスタマイズしてみてください。
 
 </div>
 <div>
-**Gobo watching**: [See inside](https://scratch.mit.edu/projects/495141114/editor){:target="_blank"}
+**Gobo watching**：[内部を見る](https://scratch.mit.edu/projects/495141114/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/495141114/?autostart=false" frameborder="0"></iframe>
 </div>
@@ -41,37 +41,37 @@ Try clicking on different parts of the project to customise the project.
 
 --- /task ---
 
-### Get inspiration
+### インスピレーションを得る
 
-You are going to make some design decisions to create your character. Think about what kind of silly eye character you want to make.
+あなたは、あなたのキャラクターを作成するためにいくつかのデザイン上の決定をします。 どんなおかしな目のキャラクターを作りたいかを考えてみてください。
 
 --- task ---
 
-Explore these example projects to get more ideas:
+これらのサンプルプロジェクトを調べて、より多くのアイデアを入手してください。
 
-**Don't eat donut**: [See inside](https://scratch.mit.edu/projects/495865093/editor){:target="_blank"}
+**Don't eat donut**： [内部を見る](https://scratch.mit.edu/projects/495865093/editor){:target="_ blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/495865093/?autostart=false" frameborder="0"></iframe>
 </div>
 
-**Under the sea**: [See inside](https://scratch.mit.edu/projects/495866460/editor){:target="_blank"}
+**Under the sea**： [内部を見る](https://scratch.mit.edu/projects/495866460/editor){:target="_ blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/495866460/?autostart=false" frameborder="0"></iframe>
 </div>
 
-**Sporg**: [See inside](https://scratch.mit.edu/projects/495865892/editor){:target="_blank"}
+**Sporg**： [内部を見る](https://scratch.mit.edu/projects/495865892/editor){:target="_ blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/495865892/?autostart=false" frameborder="0"></iframe>
 </div>
---- /task --- --- /no-print ---
+--- / task --- --- / no-print ---
 
 --- print-only ---
 
-### Get inspiration
+### インスピレーションを得る
 
-You are going to make some design decisions to create your character. Think about what kind of silly eye character you want to make. To get more ideas, **See inside** example projects in the 'Silly eyes — Examples' Scratch studio: https://scratch.mit.edu/studios/29029028
+あなたはあなたのキャラクターを作成するために、いくつかのデザイン上の決定をします。 どんなおかしな目のキャラクターを作りたいかを考えてみてください。 より多くのアイデアを得るには、 「おかしな目」 サンプルプロジェクトの**内部を参照**してください。サンプルのスクラッチスタジオはこちら：https：//scratch.mit.edu/studios/29029028
 
-![The 'Gobo watching' project.](images/gobo-watching.png) ![The 'Don't eat donut' project.](images/dont-eat-donut.png) ![The 'Under the sea' project.](images/under-the-sea.png) ![The 'Sporg' project.](images/sporg.png)
+![「Gobo watching」プロジェクト。](images/gobo-watching.png) ![「Don't eat donut」プロジェクト。](images/dont-eat-donut.png) ![「Under the sea」プロジェクト。](images/under-the-sea.png) ![「Sporg」プロジェクト。](images/sporg.png)
 
 --- /print-only ---
 
