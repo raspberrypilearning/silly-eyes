@@ -1,51 +1,51 @@
 --- question ---
 ---
-legend: Question 2 of 3
+legend: 質問2/3
 ---
 
-To make the rocket interactive, the **rocket** sprite has this script:
+ロケットをインタラクティブにするために、 **ロケット** スプライトには次のスクリプトがあります。
 
 ```blocks3
-when flag clicked
-set rotation style [all around v]
-forever
-point towards (mouse-pointer v)
-end
+フラグが押されたとき
+回転方法を[自由に回転v]にする
+ずっと
+(マウスのポインターv)へ向ける
+終了
 ```
 
-Which **rocket** costume should we use so that the top of the rocket will point towards the mouse pointer?
+ロケットの上部がマウスポインタの方を向くように、どの **ロケット**を使うべきでしょうか？
 
 --- choices ---
 
-- ( ) ![A rocket pointing to the left-hand side.](images/rocket_left.png)
+- ( ) ![左側を指すロケット。](images/rocket_left.png)
 
   --- feedback ---
 
-If the rocket is pointing to the left-hand side, the rocket will be facing the opposite direction to (away from) the mouse pointer when it rotates.
+ロケットが左側を向いている場合、ロケットは回転したときにマウスポインタとは反対の方向を向いています（離れています）。
 
   --- /feedback ---
 
-- ( ) ![A rocket facing down.](images/rocket_down.png)
+- ( ) ![下向きのロケット。](images/rocket_down.png)
 
   --- feedback ---
 
-If the rocket is facing down, it will be facing a different direction to the mouse pointer when it rotates.
+ロケットが下を向いている場合、ロケットが回転すると、マウスポインタとは異なる方向を向きます。
 
   --- /feedback ---
 
-- (x) ![A rocket pointing to the right-hand side.](images/rocket_right.png)
+- (x) ![右側を指すロケット。](images/rocket_right.png)
 
   --- feedback ---
 
-If the rocket is pointing to the right-hand side, the rocket is in the default position for correctly pointing towards your mouse pointer if the rotation style is set to `all around`{:class="block3motion"}.
+ロケットが右側を向いている場合、回転方法が`自由に回転`{:class="block3motion"}に設定されていれば、ロケットはマウスポインタを正しく指すためのデフォルトの位置にあります。
 
   --- /feedback ---
 
-- ( ) ![A rocket facing up.](images/rocket_up.png)
+- ( ) ![上向きのロケット。](images/rocket_up.png)
 
   --- feedback ---
 
-If the rocket is facing up, it will be facing a different direction to the mouse pointer when it rotates.
+ロケットが上を向いている場合、ロケットが回転すると、マウスポインタとは異なる方向を向きます。
 
   --- /feedback ---
 
