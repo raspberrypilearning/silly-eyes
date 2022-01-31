@@ -1,27 +1,27 @@
-## Upgrade your project
+## プロジェクトをアップグレードする
 
-If you have time, you can upgrade your project.
+時間がある場合は、プロジェクトをアップグレードできます。
 
-You could:
-- Add more body parts
-- Add more sprites with silly eyes
-- Add more backdrops
-- Add more accessories, or add more costumes to your accessories
-- Try different graphic effects
+以下のことができます：
+- ボディパーツを追加する
+- おかしな目のスプライトを追加する
+- 背景を追加する
+- アクセサリーを追加するか、アクセサリーにコスチュームを追加します
+- さまざまなグラフィック効果を試す
 
-Each project in the ['Silly eyes — Examples' Scratch studio](https://scratch.mit.edu/studios/29029028){:target="_blank"} has a **See inside** link, which you can use to open the project in the Scratch editor and look at the code to get ideas and see how the project works.
+['Silly eyes — Examples’ Scratch studio](https://scratch.mit.edu/studios/29029028){:target="_ blank"}の各プロジェクトには **内部を参照** リンクがあり、これを使用してScratchエディターでプロジェクトを開き、コードを見てアイデアを得たり、プロジェクトがどのように機能するかを確認することができます。
 
-The **Sporg** character also has arms that `point towards the mouse pointer`{:class="block3motion"}.
+**Sporg** キャラクターにも、 `マウスのポインターへ向ける`{:class="block3motion"}腕があります。
 
-**Sporg**: [See inside](https://scratch.mit.edu/projects/495865892/editor){:target="_blank"}
+**Sporg**： [内部を参照](https://scratch.mit.edu/projects/495865892/editor){:target="_ blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/495865892/?autostart=false" frameborder="0"></iframe>
 </div>
 
-If you add other body parts, you will need to centre them at the point that you want them to rotate from. For example, an arm would rotate from the shoulder.
+他のボディパーツを追加する場合は、それらを回転させたいポイントを中央に配置する必要があります。 たとえば、腕は肩から回転します。
 
 [[[scratch-crosshair]]]
 
-Take a look at our ['Silly eyes — Community' Scratch studio](https://scratch.mit.edu/studios/29120534){:target="_blank"} to see projects created by community members.
+['Silly eyes － Community’ Sctratch studio](https://scratch.mit.edu/studios/29120534){:target="_ blank"}を見て、コミュニティメンバーによって作成されたプロジェクトを確認してください。
 
 --- save ---
