@@ -1,23 +1,23 @@
-## Share
+## 共有
 
-If you are in a club, why not share your project with friends and peers?
+クラブにいる場合は、プロジェクトを友人や仲間と共有してみませんか？
 
-You could also show your family how your project works.
+プロジェクトがどのように機能するかを家族に示すこともできます。
 
-If you have a Scratch account, you can share your project through Scratch. You can send a link to people you know, and the whole Scratch community will be able to find your project and try it out.
+Scratchアカウントをお持ちの場合は、Scratchを介してプロジェクトを共有できます。 あなたはあなたが知っている人々にリンクを送ることができ、そしてスクラッチコミュニティ全体があなたのプロジェクトを見つけてそれを試すことができるでしょう。
 
 [[[share-scratch]]]
 
-Why not invite your friends to create a project? Let them know how you had fun.
+友達を招待してプロジェクトを作ってみませんか？ あなたがどのように楽しんだかを彼らに知らせてください。
 
-If you have a Scratch account, and have shared your 'Silly eyes' project, keep an eye out for comments that others may make about your creation. Feedback is a great way to reflect on your work. Ignore any comments that are unhelpful or irrelevant.
+Scratchアカウントを持っていて、「おかしな目」プロジェクトを共有している場合は、他の人が行うあなたの創作物へのコメントに注意してください。 フィードバックは、あなたの仕事を振り返るのに最適な方法です。 役に立たない、または無関係なコメントは無視してください。
 
 [[[comments-feedback-scratch]]]
 
 --- task ---
 
-Inspire the Raspberry Pi Foundation community with your project!
+あなたのプロジェクトでRaspberry Pi財団コミュニティを刺激してください！
 
-To submit your project to our ['Silly eyes — Community' Scratch studio](https://scratch.mit.edu/studios/29120534){:target="_blank"}, please complete [this form](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}.
+あなたのプロジェクトを ['Silly eyes — Community' Scratch studio](https://scratch.mit.edu/studios/29120534){:target="_blank"}に送るには、[このフォーム](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}を使ってください。
 
 --- /task ---
