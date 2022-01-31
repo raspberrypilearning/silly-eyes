@@ -1,12 +1,12 @@
-## Stage effects
+## ステージ効果
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-You can also make the project do something when you click on the **Stage**.
+**ステージ**をクリックすると、プロジェクトに何かを実行させることもできます。
 </div>
 <div>
 
-![The Stage with graphic effects.](images/stage-effects.png){:width="300px"} 
+![グラフィック効果のあるステージ]( images/stage-effects.png){:width="300px"} 
 {:width="300px"}  
 
 </div>
@@ -14,13 +14,13 @@ You can also make the project do something when you click on the **Stage**.
 
 --- task ---
 
-Click on the Stage pane and then on the **Code** tab to add code to the **Stage**.
+ステージペインをクリックしてから、 **コード**タブで **ステージ**のコードを追加します。
 
-**Choose:** Choose what you want to change when the **Stage** is clicked.
+**選択：** **ステージ**をクリックしたとき、 あなたは変更したいものを選択してください。
 
 --- collapse ---
 ---
-title: Change graphic effects when the Stage is clicked
+title: ステージがクリックされたときのグラフィック効果を変更する
 ---
 
 ```blocks3
@@ -32,7 +32,7 @@ change [color v] effect by [25]
 
 --- collapse ---
 ---
-title: Switch backdrop when the Stage is clicked
+title: ステージがクリックされたときに背景を切り替える
 ---
 
 ```blocks3
@@ -46,20 +46,20 @@ next backdrop
 
 --- task ---
 
-**Test:** Click on the **Stage**, and check that the backdrop switches or the graphic effects change.
+**テスト：** **ステージ**をクリックし、背景が切り替わるか、グラフィック効果が変化することを確認します。
 
 --- /task ---
 
 --- task ---
 
-**Test:** Test your project again, but this time, make it full-screen so that you can see how it will appear to someone looking at it.
+**テスト：** プロジェクトをもう一度テストしますが、今回は全画面表示にして、プロジェクトを見ている人にどのように表示されるかを確認します。
 
 [[[scratch3-full-screen]]]
 
 --- /task ---
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-By making your project full-screen, you are seeing what you have made from the perspective of a user who is playing with your project. **User interaction** is important in digital making. 
+プロジェクトを全画面表示にすることで、プロジェクトで遊んでいるユーザーの視点から作成したものを確認できます。 **ユーザーインタラクション**はデジタル制作において重要です。 
 </p>
 
 --- save ---
