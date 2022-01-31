@@ -32,7 +32,7 @@
 
 </div>
 <div>
-**Ο Gobo κοιτάει**: [Δες μέσα] (https://scratch.mit.edu/projects/633598549/editor){:target="_blank"}
+**Ο Gobo κοιτάει**: [Δες μέσα](https://scratch.mit.edu/projects/633598549/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/633598549/?autostart=false" frameborder="0"></iframe>
 </div>

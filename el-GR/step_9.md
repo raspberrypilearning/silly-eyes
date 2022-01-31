@@ -1,4 +1,4 @@
-## Τι υπάρχει στη συνέχεια;
+## Και μετά;
 
 Εάν ακολουθείς το μονοπάτι[Εισαγωγή στο Scratch](https://projects.raspberrypi.org/el-GR/pathways/scratch-intro), μπορείς να προχωρήσεις στο έργο [Έκπληξη! έργο](https://projects.raspberrypi.org/el-GR/projects/surprise-animation)κινούμενων σχεδίων. Σε αυτό το έργο, θα κάνεις μια κινούμενη εικόνα μιας ιστορίας με μια έκπληξη.
 
