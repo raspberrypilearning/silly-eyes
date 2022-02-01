@@ -18,6 +18,6 @@
 
 Δώσε έμπνευση στην κοινότητα του Raspberry Pi Foundation με το έργο σου!
 
-Για να υποβάλεις το έργο σου στην δικιά μας ['Αστεία μάτια - Κοινότητα' Scratch studio](https://scratch.mit.edu/studios/29120534){: target = "_ blank"}, συμπλήρωσε [αυτήν τη φόρμα](https://form.raspberrypi.org/f/community-project-submissions){: target = "_ blank"}.
+Για να υποβάλεις το έργο σου στην δικιά μας ['Αστεία μάτια - Κοινότητα' Scratch studio](https://scratch.mit.edu/studios/29120534){:target="_blank"}, συμπλήρωσε [αυτήν τη φόρμα](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}.
 
 --- /task ---
