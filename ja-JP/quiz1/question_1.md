@@ -39,7 +39,7 @@ legend: 質問1/3
 
   --- feedback ---
 
-`このスプライトが押されたとき{:class="block3events"}`でスクリプトは動きません。
+`このスプライトが押されたとき`{:class="block3events"}でスクリプトは動きません。
 
   --- /feedback ---
 
