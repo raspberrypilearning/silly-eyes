@@ -17,10 +17,10 @@ steps:
   - 
     title: تأثيرات الشخصية
   - 
-    title: تأثيرات المسرح
+    title: تأثيرات المنصة
     completion: internal
   - 
-    title: انعكاس
+    title: تفكير
     knowledge_quiz:
       path: quiz1
       version: 1
