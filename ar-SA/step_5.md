@@ -1,4 +1,4 @@
-## آثار المسرح
+## تأثيرات المنصة
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
@@ -20,7 +20,7 @@
 
 --- collapse ---
 ---
-العنوان: تغيير تأثيرات الرسوم عند النقر فوق الجزء الرئيسي
+title: تغيير تأثيرات الرسوم عند النقر فوق الجزء الرئيسي
 ---
 
 ```blocks3
@@ -32,7 +32,7 @@ change [color v] effect by [25]
 
 --- collapse ---
 ---
-العنوان: تبديل الخلفية عند النقر فوق المنصة
+title: تبديل الخلفية عند النقر فوق المنصة
 ---
 
 ```blocks3
