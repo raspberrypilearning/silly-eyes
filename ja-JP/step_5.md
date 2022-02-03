@@ -6,7 +6,7 @@
 </div>
 <div>
 
-![グラフィック効果のあるステージ]( images/stage-effects.png){:width="300px"} 
+![グラフィック効果のあるステージ](images/stage-effects.png){:width="300px"} 
 {:width="300px"}  
 
 </div>
