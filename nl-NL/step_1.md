@@ -63,7 +63,8 @@ Bekijk deze voorbeeldprojecten om meer ideeën op te doen:
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/600239440/?autostart=false" frameborder="0"></iframe>
 </div>
---- /task --- --- /no-print ---
+--- /task ---
+--- /no-print ---
 
 --- print-only ---
 
