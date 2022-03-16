@@ -40,7 +40,7 @@ Weet je niet zeker welke sprite je moet kiezen? Ga naar het **Kies een sprite** 
 
 --- /collapse ---
 
-**Tip:** Als je je eigen sprite maakt in de Paint-editor, **voeg dan nog geen ogen toe, omdat het aparte sprites moeten zijn.**
+**Tip:** Als je je eigen sprite maakt in de Teken-editor, **voeg dan nog geen ogen toe, omdat het aparte sprites moeten zijn.**
 
 --- /task ---
 
