@@ -15,12 +15,12 @@ steps:
   - title: Effets de scène
     completion: internal
   - title: Réflexion
+    completion: external
     knowledge_quiz:
       path: quiz1
       version: 1
       questions: 3
       passing_score: 3
-    completion: external
   - title: Améliorer ton projet
   - title: Partager
   - title: Et ensuite ?

@@ -15,12 +15,12 @@ steps:
   - title: ステージ効果
     completion: internal
   - title: ふりかえり
+    completion: external
     knowledge_quiz:
       path: quiz1
       version: 1
       questions: 3
       passing_score: 3
-    completion: external
   - title: プロジェクトをアップグレードする
   - title: 共有
   - title: 次は何をしますか？
