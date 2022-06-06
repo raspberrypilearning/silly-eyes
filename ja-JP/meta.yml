@@ -5,22 +5,25 @@ description: 目がマウスポインタをたどるキャラクターで独自�
 version: 4
 listed: true
 copyedit: false
-last_tested: "2021-02-25"
+last_tested: '2021-02-25'
 steps:
-  - title: はじめに
-  - title: あなたのキャラクター
-  - title: おかしな目をつくる
-    completion: engaged
-  - title: スプライト効果
-  - title: ステージ効果
-    completion: internal
-  - title: ふりかえり
-    completion: external
-    knowledge_quiz:
-      path: quiz1
-      version: 1
-      questions: 3
-      passing_score: 3
-  - title: プロジェクトをアップグレードする
-  - title: 共有
-  - title: 次は何をしますか？
+- title: はじめに
+- title: あなたのキャラクター
+- title: おかしな目をつくる
+  completion:
+  - engaged
+- title: スプライト効果
+- title: ステージ効果
+  completion:
+  - internal
+- title: ふりかえり
+  knowledge_quiz:
+    path: quiz1
+    version: 1
+    questions: 3
+    passing_score: 3
+  completion:
+  - external
+- title: プロジェクトをアップグレードする
+- title: 共有
+- title: 次は何をしますか？
