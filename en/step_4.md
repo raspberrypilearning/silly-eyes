@@ -123,5 +123,17 @@ clear graphic effects
 
 --- /task ---
 
+--- task ---
+
+**Test:** Test your project again, but this time, make it full-screen so that you can see how it will appear to someone looking at it.
+
+[[[scratch3-full-screen]]]
+
+--- /task ---
+
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
+By making your project full-screen, you are seeing what you have made from the perspective of a user who is playing with your project. **User interaction** is important in digital making. 
+</p>
+
 --- save ---
 
