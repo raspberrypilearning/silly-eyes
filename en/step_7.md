@@ -21,3 +21,25 @@ Inspire the Raspberry Pi Foundation community with your project!
 To submit your project to our ['Silly eyes — Community' Scratch studio](https://scratch.mit.edu/studios/29120534){:target="_blank"}, please complete [this form](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}.
 
 --- /task ---
+
+### Community submissions 
+
+--- task ---
+
+Take a look at these fabulous community projects from our ['Surprise! animation — Community' Scratch studio](https://scratch.mit.edu/studios/29079784){:target="_blank"} Click on the backdrops, eyeballs and accessories to interact with them:
+
+**Ladybug scare**: [See inside](https://scratch.mit.edu/projects/517735755/editor){:target="_blank"}
+<div class="scratch-preview" style="margin-left: 15px;">
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/517735755/?autostart=false" frameborder="0"></iframe>
+</div>
+
+**Butterfly and bear**: [See inside](https://scratch.mit.edu/projects/569624392/editor){:target="_blank"}
+<div class="scratch-preview" style="margin-left: 15px;">
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/569624392/?autostart=false" frameborder="0"></iframe>
+</div>
+
+**Purple monster**: [See inside](https://scratch.mit.edu/projects/523223028/editor){:target="_blank"}
+<div class="scratch-preview" style="margin-left: 15px;">
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/523223028/?autostart=false" frameborder="0"></iframe>
+</div>
+--- /task ---
