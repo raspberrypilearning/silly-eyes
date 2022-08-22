@@ -56,7 +56,7 @@ Explore these example projects to get more ideas:
 
 **Cow with shoes**: [See inside](https://scratch.mit.edu/projects/723797674/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/723797674/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/723797674/?autostart=false" frameborder="0"></iframe>
 </div>
 
 **Sporg**: [See inside](https://scratch.mit.edu/projects/495865892/editor){:target="_blank"}
