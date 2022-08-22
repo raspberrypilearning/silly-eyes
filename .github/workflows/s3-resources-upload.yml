@@ -12,7 +12,7 @@ on:
       - draft
 concurrency: 
   group: ${{ github.workflow }}-${{ github.ref }}
-  cancel-in-progress: true
+  # cancel-in-progress: true
 jobs:
   s3-resources-upload:
     runs-on: ubuntu-latest
@@ -25,7 +25,7 @@ jobs:
           if [[ "master,main" == *"$BRANCH"* ]]; then
             echo "::set-output name=ENV::PRODUCTION"
           elif [ "$BRANCH" = "draft" ]; then
-            echo "::set-output name=ENV::STAGING"
+            echo "::set-output name=ENV::PRODUCTION"
           else
              echo "::set-output name=ENV::FEATURE"
           fi
@@ -44,8 +44,8 @@ jobs:
       - name: Deploy static assets to S3 bucket
         if: steps.env_lookup.outputs.ENV == 'PRODUCTION' || steps.env_lookup.outputs.ENV == 'STAGING'
         run: |
-          if [[ "${{ steps.env_lookup.outputs.ENV }}" == "PRODUCTION" ]]; then
+          # if [[ "${{ steps.env_lookup.outputs.ENV }}" == "PRODUCTION" ]]; then
             aws s3 sync . s3://learning-resources-production/projects/${{ github.event.repository.name }}/${{ github.sha }}/ --exclude "*" --include "*/images/*" --include "*/resources/*" --include "*/solutions/*" --delete --size-only --no-follow-symlinks
-          elif [[ "${{ steps.env_lookup.outputs.ENV }}" == "STAGING" ]]; then
+          # elif [[ "${{ steps.env_lookup.outputs.ENV }}" == "STAGING" ]]; then
             aws s3 sync . s3://learning-resources-dev-staging/projects/${{ github.event.repository.name }}/${{ github.sha }}/ --exclude "*" --include "*/images/*" --include "*/resources/*" --include "*/solutions/*" --delete --size-only --no-follow-symlinks
-          fi
+          # fi
