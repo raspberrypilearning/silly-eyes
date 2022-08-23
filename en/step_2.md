@@ -25,6 +25,8 @@ Open the [Silly eyes starter project](https://scratch.mit.edu/projects/582221984
 
 You don't have to choose a person or animal. You could choose an object, like the donut.
 
+![The add sprite icon.](images/add-sprite.png)
+
 [[[generic-scratch3-sprite-from-library]]]
 
 [[[scratch3-backdrops-and-sprites-using-shapes]]]
@@ -59,6 +61,8 @@ Where do you want your character to live?
 --- task ---
 
 **Choose:** Choose a backdrop that is sensible or silly.
+
+![The add backdrop icon.](images/add-backdrop.png)
 
 [[[generic-scratch3-backdrop-from-library]]]
 
