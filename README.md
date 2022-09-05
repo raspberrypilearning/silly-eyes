@@ -1,11 +1,11 @@
-# googly-eye-character
+# silly-eyes
 
 ![googly-eye-character](banner.png)
 
-Find the project online at [projects.raspberrypi.org/en/projects/googly-eye-character](https://projects.raspberrypi.org/en/projects/googly-eye-character)
+Find the project online at [projects.raspberrypi.org/en/projects/silly-eyes](https://projects.raspberrypi.org/en/projects/silly-eyes)
 
 ## Resources
-For project materials and solutions, see [en/resources](https://github.com/raspberrypilearning/googly-eye-character/tree/master/en/resources) and [en/solutions](https://github.com/raspberrypilearning/googly-eye-character/tree/master/en/solutions).
+For project materials and solutions, see [en/resources](https://github.com/raspberrypilearning/silly-eyes/tree/master/en/resources) and [en/solutions](https://github.com/raspberrypilearning/silly-eyes/tree/master/en/solutions).
 
 ## Contributing
 See [CONTRIBUTING.md](CONTRIBUTING.md)
