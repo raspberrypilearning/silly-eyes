@@ -92,11 +92,15 @@ Explore these example projects to get more ideas:
 <span class="c-project-panel__swiper-bullet" tabindex="0" role="button" aria-label="Go to slide 3"></span>
 </div>
 
+<!--
+
 <div class="c-project-panel__swiper-button c-project-panel__swiper-button--next" aria-disabled="false" tabindex="0" role="button" aria-label="Next slide">
 </div>
 
 <div class="c-project-panel__swiper-button c-project-panel__swiper-button--prev c-project-panel__swiper-button--disabled" aria-disabled="true" tabindex="0" role="button" aria-label="Previous slide">
 </div>
+
+-->
 
 <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span>
 
