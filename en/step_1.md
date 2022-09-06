@@ -13,13 +13,14 @@ In this project, you will design and create a silly eye character. The character
 
 ### Play ▶ &#9654;
 
+**Gobo watching**: [See inside](https://scratch.mit.edu/projects/495141114/editor){:target="_blank"}
+
 Move the mouse (or if you are using a tablet, move your finger) around the screen and watch what happens to Gobo's eyes. What happens when you move between Gobo's eyes? 
   
 Try clicking on different parts of the project to customise the project.
-
 </div>
 <div>
-**Gobo watching**: [See inside](https://scratch.mit.edu/projects/495141114/editor){:target="_blank"}
+
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/495141114/?autostart=false" frameborder="0"></iframe>
 </div>
