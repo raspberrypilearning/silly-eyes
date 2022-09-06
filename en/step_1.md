@@ -11,7 +11,7 @@ In this project, you will design and create a silly eye character. The character
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 175px; flex-grow: 1">  
 
-### Play ▶ 
+### Play ▶ &#9654;
 
 Move the mouse (or if you are using a tablet, move your finger) around the screen and watch what happens to Gobo's eyes. What happens when you move between Gobo's eyes? 
   
