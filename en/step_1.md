@@ -64,6 +64,19 @@ Explore these example projects to get more ideas:
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/495865892/?autostart=false" frameborder="0"></iframe>
 </div>
 --- /task ---
+
+--- task ---
+
+Featured community project:
+
+**Purple monster**
+
+Click on the purple monster and the eyeballs:
+
+<div class="scratch-preview" style="margin-left: 15px;">
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/523223028/?autostart=false" frameborder="0"></iframe>
+</div>
+--- /task ---
 --- /no-print ---
 
 --- print-only ---

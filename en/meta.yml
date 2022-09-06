@@ -15,7 +15,7 @@ steps:
 - title: Add sprite effects
   completion:
   - internal
-- title: Reflection
+- title: Quick quiz
   knowledge_quiz:
     path: quiz1
     version: 1
