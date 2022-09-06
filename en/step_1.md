@@ -39,8 +39,8 @@ What happens when you click on different parts of the project?
 
 You will:
 + Make a silly eyes project with **user interaction**
-+ Design your project to make it yours!
-+ Personalise your silly eyes project with code, costumes and backdrops
++ **Design** your project to make it yours!
++ Personalise your silly eyes project with **sprites, scripts and loops**
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
 <span style="color: #0faeb0">**User**</span> means the person using the project (not just making it), and <span style="color: #0faeb0">**user interaction**</span> is how the project reacts to the user doing things such as moving the mouse and clicking on the screen. 
@@ -54,20 +54,37 @@ Think about what kind of silly eye character you want to make.
 
 Explore these example projects to get more ideas:
 
+--- hints ---
+
+--- hint ---
+
 **Don't eat donut**: [See inside](https://scratch.mit.edu/projects/495865093/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/495865093/?autostart=false" frameborder="0"></iframe>
 </div>
+
+--- /hint ---
+
+--- hint ---
 
 **Cow with shoes**: [See inside](https://scratch.mit.edu/projects/723797674/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/723797674/?autostart=false" frameborder="0"></iframe>
 </div>
 
+--- /hint ---
+
+--- hint ---
+
 **Sporg**: [See inside](https://scratch.mit.edu/projects/495865892/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/495865892/?autostart=false" frameborder="0"></iframe>
 </div>
+
+--- /hint ---
+
+--- /hints ---
+
 --- /task ---
 
 ### Featured community project
