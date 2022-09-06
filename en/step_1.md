@@ -1,19 +1,6 @@
-## Introduction
+## You will make
 
 In this project, you will design and create a silly eye character. The character's large, silly eyes will follow the mouse pointer to bring your character to life.
-
-<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-<span style="color: #0faeb0">**Design**</span> means deciding on the way that a project looks and making decisions about what it does. 
-</p>
-
-You will:
-+ Make a project with **user interaction**
-+ Personalise a project with colour and graphic effects
-+ Learn about design in digital making 
-
-<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-<span style="color: #0faeb0">**User**</span> means the person using the project (not just making it), and <span style="color: #0faeb0">**user interaction**</span> is how the project reacts to the user doing things such as moving the mouse and clicking on the screen. 
-</p>
 
 ![Examples of projects.](images/showcase-line.png)
 
@@ -24,7 +11,7 @@ You will:
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 175px; flex-grow: 1">  
 
-### Try it 
+### Play ▶ 
 
 Move the mouse (or if you are using a tablet, move your finger) around the screen and watch what happens to Gobo's eyes. What happens when you move between Gobo's eyes? 
   
@@ -40,6 +27,19 @@ Try clicking on different parts of the project to customise the project.
 </div>
 
 --- /task ---
+
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
+<span style="color: #0faeb0">**Design**</span> means deciding on the way that a project looks and making decisions about what it does. 
+</p>
+
+You will:
++ Make a project with **user interaction**
++ Personalise a project with colour and graphic effects
++ Learn about design in digital making 
+
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
+<span style="color: #0faeb0">**User**</span> means the person using the project (not just making it), and <span style="color: #0faeb0">**user interaction**</span> is how the project reacts to the user doing things such as moving the mouse and clicking on the screen. 
+</p>
 
 ### Get inspiration 
 
@@ -65,9 +65,11 @@ Explore these example projects to get more ideas:
 </div>
 --- /task ---
 
---- task ---
+### Featured community project
 
-Featured community project:
+We love seeing the projects you create like the example below. At the end of this project you will be able to share your Silly eyes project for a chance of it being featured here.
+
+--- task ---
 
 **Purple monster**
 
