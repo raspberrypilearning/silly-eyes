@@ -59,11 +59,11 @@ Explore these example projects to get more ideas:
     
   </h3>
 
-  <div class="c-project-panel__content js-project-panel--swiper-initialised">
-    <div class="c-project-panel__swiper c-project-panel__swiper--horizontal">
-      <div class="c-project-panel__swiper-wrapper" style="width: 1659px;">
-        <div class="c-project-panel__swiper-slide swiper-slide-active" style="width: 553px;">
-  <p><strong>Don’t eat donut</strong>: <a href="https://scratch.mit.edu/projects/495865093/editor" target="_blank">See inside</a></p>
+<div class="c-project-panel__content js-project-panel--swiper-initialised">
+<div class="c-project-panel__swiper c-project-panel__swiper--horizontal">
+<div class="c-project-panel__swiper-wrapper" style="width: 1659px;">
+<div class="c-project-panel__swiper-slide swiper-slide-active" style="width: 553px;">
+<p><strong>Don’t eat donut</strong>: <a href="https://scratch.mit.edu/projects/495865093/editor" target="_blank">See inside</a></p>
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/495865093/?autostart=false" frameborder="0"></iframe>
 </div>
@@ -85,14 +85,14 @@ Explore these example projects to get more ideas:
 </div>
 
 </div>
-      </div>
+</div>
 
-  <div class="c-project-panel__swiper-pagination swiper-pagination-clickable swiper-pagination-bullets"><span class="c-project-panel__swiper-bullet c-project-panel__swiper-bullet--active" tabindex="0" role="button" aria-label="Go to slide 1"></span><span class="c-project-panel__swiper-bullet" tabindex="0" role="button" aria-label="Go to slide 2"></span><span class="c-project-panel__swiper-bullet" tabindex="0" role="button" aria-label="Go to slide 3"></span></div>
+<div class="c-project-panel__swiper-pagination swiper-pagination-clickable swiper-pagination-bullets"><span class="c-project-panel__swiper-bullet c-project-panel__swiper-bullet--active" tabindex="0" role="button" aria-label="Go to slide 1"></span><span class="c-project-panel__swiper-bullet" tabindex="0" role="button" aria-label="Go to slide 2"></span><span class="c-project-panel__swiper-bullet" tabindex="0" role="button" aria-label="Go to slide 3"></span></div>
 
-  <div class="c-project-panel__swiper-button c-project-panel__swiper-button--next" aria-disabled="false" tabindex="0" role="button" aria-label="Next slide"></div>
-      <div class="c-project-panel__swiper-button c-project-panel__swiper-button--prev c-project-panel__swiper-button--disabled" aria-disabled="true" tabindex="0" role="button" aria-label="Previous slide"></div>
-    <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
-  </div>
+<div class="c-project-panel__swiper-button c-project-panel__swiper-button--next" aria-disabled="false" tabindex="0" role="button" aria-label="Next slide"></div>
+<div class="c-project-panel__swiper-button c-project-panel__swiper-button--prev c-project-panel__swiper-button--disabled" aria-disabled="true" tabindex="0" role="button" aria-label="Previous slide"></div>
+<span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
+</div>
 </div>
 
 
