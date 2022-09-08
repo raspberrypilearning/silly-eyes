@@ -25,7 +25,7 @@ Open the [Silly eyes starter project](https://scratch.mit.edu/projects/582221984
 
 --- task ---
 
-**Choose:** Choose a **sprite** and a **backdrop** for your silly eyes project. 
+**Choose:** Add a **sprite** and a **backdrop** for your silly eyes project. 
 
 + What does your character look like? A person 🧜🏽‍♀️, animal 🐶 or object 🧸.
 + Where do you want your character to live? Somewhere sensible 🏠 or silly 🎪.

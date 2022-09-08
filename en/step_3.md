@@ -4,7 +4,6 @@
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
 Make the silly eyes! Each eye needs to be a separate sprite so that it can move separately.
 
-If you need help, look at the tips in the **Debug** task at the bottom of this step.
 </div>
 <div>
 
@@ -51,6 +50,8 @@ Use the **Fill** and **Outline** colour choosers to choose colours. To make blac
 ![Saturation and brightness sliders set to 100.](images/white-colour.png)
 
 Make sure that the eyeball is centred — move it so that the blue cross in the costume lines up with the grey crosshair in the Paint editor.
+
+![An animated image of a circle costume being dragged from the top left to fit with the circles centre over the crosshair icon.](images/eye-centre.gif)
 
 Draw a smaller perfect circle and position it on the right-hand side of the eyeball:
 
@@ -235,7 +236,6 @@ You will also need to delete the script from the **character** sprite. To do thi
 You might find a bug that is not listed here. Can you work out how to fix it? 
 
 We love hearing about your bugs and how you fixed them. Use the **Send feedback** button at the bottom of this page and tell us if you found a different bug in your project. 
-
 
 --- /task ---
 
