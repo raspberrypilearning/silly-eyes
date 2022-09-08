@@ -60,10 +60,24 @@ If you add other body parts, you will need to centre them at the point that you 
 
 [[[scratch-crosshair]]]
 
-### Get inspiration
+### Get ideas
+
+--- task ---
 
 Each project in the ['Silly eyes — Examples' Scratch studio](https://scratch.mit.edu/studios/29029028){:target="_blank"} has a **See inside** link, which you can use to open the project in the Scratch editor and look at the code to get ideas and see how the project works.
 
+--- /task ---
+
+--- task ---
+
 Take a look at our ['Silly eyes — Community' Scratch studio](https://scratch.mit.edu/studios/29120534){:target="_blank"} to see projects created by community members.
+
+--- /task ---
+
+--- task ---
+
+You can also look at the remixes for the [Silly eyes starter project](https://scratch.mit.edu/projects/582221984/remixes){:target="_blank"} to see what other creators have made.
+
+--- /task ---
 
 --- save ---

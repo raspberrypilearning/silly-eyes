@@ -24,14 +24,6 @@ The Paint editor will open, which will allow you to create your **Eyeball** spri
 
 --- /task ---
 
---- task ---
-
-Name your sprite `Eyeball` in the Sprite pane.
-
-![The sprite's name set to 'Eyeball' in the Sprite pane.](images/eyeball-name.png)
-
---- /task ---
-
 It is really important that:
 - The black pupil and coloured iris face to the right-hand side of the **Eyeball** costume
 - The **Eyeball** costume is centred
@@ -99,6 +91,14 @@ Make sure that the eyeball is centred — move it so that the blue cross in the 
 
 --- task ---
 
+Name your sprite `Eyeball` in the Sprite pane.
+
+![The sprite's name set to 'Eyeball' in the Sprite pane.](images/eyeball-name.png)
+
+--- /task ---
+
+--- task ---
+
 Drag the **Eyeball** sprite to position it on the Stage, and change its size to fit your character.
 
 --- /task ---
@@ -130,12 +130,9 @@ end
 
 --- /task ---
 
-
-If your character only has one eye, then you have finished. 
-
 --- task ---
 
-Otherwise, right-click (or on a tablet, tap and hold) on the **Eyeball** sprite in the Sprite list and choose **duplicate** to create more silly eyes.
+To add another eye, right-click (or on a tablet, tap and hold) on the **Eyeball** sprite in the Sprite list and choose **duplicate**.
 
 [[[scratch3-duplicate-sprite]]]
 
