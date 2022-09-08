@@ -61,4 +61,12 @@ In the Sprite pane, change the number in the **Size** property to a number that 
 
 --- /task ---
 
+--- task ---
+
+Look at the Stage. You will see your large character and chosen backdrop. 
+
+![](images/large-sprite-stage.png){:width="500px"}
+
+--- /task ---
+
 --- save ---
