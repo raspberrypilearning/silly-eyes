@@ -43,26 +43,25 @@ If you want both eyeballs to have the same effect, you will need to copy your sc
 
 ### Character effects
 
-If you want to, you can also make your **character** sprite change colour and other graphic effects when you click on it. 
-
 --- task ---
 
 Click on your **character** sprite in the Sprite list, then click on the **Code** tab.
 
 Add the same script as you used to change the eye colour. Which graphic effects do you want to change for your **character**?
 
-**Choose:** Choose an effect in the drop-down menu within the `change color effect by`{:class="block3looks"} block. Experiment with the numbers until you have a change that you like.
+**Choose:** Choose an effect in the drop-down menu within the `change color effect by`{:class="block3looks"} block. Experiment with the numbers and effects until you have a change that you like.
 
 [[[scratch3-graphic-effects]]]
 
 --- /task ---
+
+### An accessory
 
 Now, add an **accessory**, such as a hat, that changes when you click on it — use the `next costume`{:class="block3looks"} block. 
 
 --- task ---
 
 **Choose:** Add an accessory change or costume change of your choice.
-
 
 ![Sprites with accessories.](images/accessory-sprite.png)
 
@@ -95,7 +94,9 @@ If your sprite does not have a choice of costumes, or you want to add more, you 
 
 --- task ---
 
-**Test:** Work on your sprites until they interact in the way that you want. Try one change at a time and test what it does so that you can easily spot each change and undo anything that you do not like.  
+**Test:** Work on your sprites until they interact in the way that you want. 
+
+**Tip:** Try one change at a time and test what it does so that you can easily spot each change and undo anything that you do not like.  
 
 --- /task ---
 

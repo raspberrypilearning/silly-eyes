@@ -67,6 +67,8 @@ title: Turn a round costume into an eyeball
 
 There are costumes in Scratch that you can edit to make silly eyes for your character. 
 
+![Existing Scratch costumes as eyeballs.](images/costume-eyes.gif)
+
 Click on the **Choose a Costume** icon to see the library Scratch costumes. 
 
 ![The Choose a Costume icon.](images/choose-a-costume.png)
@@ -80,8 +82,6 @@ Make sure that the eyeball is centred — move it so that the blue cross in the 
 ![An animated image of a ball costume being dragged from the top left to fit with the balls centre over the crosshair icon.](images/crosshair-centre.gif)
 
 **Tip:** The black pupil and coloured iris need to be positioned on the right-hand side of the costume so that the **Eyeball** follows the mouse pointer.
-
-![Existing Scratch costumes as eyeballs.](images/costume-eyes.gif)
 
 ![The Paint editor showing an edited button1 costume.](images/button-eye.png)
 
