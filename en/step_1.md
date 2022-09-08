@@ -1,12 +1,18 @@
 ## You will make
 
-In this project, you will design and create a silly eye character. The character's large, silly eyes will follow the mouse pointer to bring your character to life.
+Design and create a silly eye character. The character's large, silly eyes will follow the mouse pointer to bring your character to life.
+
+### You will
+
++ Make a project that is fun to play with
++ Create your own character
++ Code your project using **sprites, scripts and loops**
 
 ![Examples of projects.](images/showcase-line.png)
 
 --- no-print ---
 
-### Play &#9654;
+### Play 😎
 
 --- task ---
 
@@ -31,21 +37,6 @@ What happens when you click on different parts of the project?
 
 --- /task ---
 
-### Make it your own
-
-<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-<span style="color: #0faeb0">**Design**</span> means deciding on the way that a project looks and making decisions about what it does. 
-</p>
-
-You will:
-+ Make a silly eyes project with **user interaction**
-+ **Design** your project to make it yours!
-+ Personalise your silly eyes project with **sprites, scripts and loops**
-
-<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-<span style="color: #0faeb0">**User**</span> means the person using the project (not just making it), and <span style="color: #0faeb0">**user interaction**</span> is how the project reacts to the user doing things such as moving the mouse and clicking on the screen. 
-</p>
-
 ### Get inspiration 
 
 Think about what kind of silly eye character you want to make.
@@ -54,55 +45,28 @@ Think about what kind of silly eye character you want to make.
 
 Explore these example projects to get more ideas:
 
---- hints ---
-
---- hint ---
+**Tip:** At the end of this project you will be able to share your Silly eyes project for a chance of it being featured here.
 
 **Don't eat donut**: [See inside](https://scratch.mit.edu/projects/495865093/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/495865093/?autostart=false" frameborder="0"></iframe>
 </div>
 
---- /hint ---
-
---- hint ---
-
-**Cow with shoes**: [See inside](https://scratch.mit.edu/projects/723797674/editor){:target="_blank"}
-<div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/723797674/?autostart=false" frameborder="0"></iframe>
-</div>
-
---- /hint ---
-
---- hint ---
-
 **Sporg**: [See inside](https://scratch.mit.edu/projects/495865892/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/495865892/?autostart=false" frameborder="0"></iframe>
 </div>
 
---- /hint ---
-
---- /hints ---
-
---- /task ---
-
-### Featured community project
-
-We love seeing the projects you create like the example below. 
-
-At the end of this project you will be able to share your Silly eyes project for a chance of it being featured here.
-
---- task ---
-
-**Purple monster**
+**Purple monster** (featured community project &#10026;)
 
 Click on the purple monster and the eyeballs:
 
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/523223028/?autostart=false" frameborder="0"></iframe>
 </div>
+
 --- /task ---
+
 --- /no-print ---
 
 --- print-only ---

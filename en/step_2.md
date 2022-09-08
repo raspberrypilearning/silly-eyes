@@ -11,6 +11,10 @@ Have you got an idea about your own character? Now, you can get it ready for sil
 </div>
 </div>
 
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
+<span style="color: #0faeb0">**Design**</span> means deciding on the way that a project looks and making decisions about what it does. 
+</p>
+
 --- task ---
 
 Open the [Silly eyes starter project](https://scratch.mit.edu/projects/582221984/editor){:target="_blank"}. Scratch will open in another browser tab.

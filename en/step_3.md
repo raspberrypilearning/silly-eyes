@@ -94,7 +94,11 @@ Drag the **Eyeball** sprite to position it on the Stage, and change its size to 
 
 --- /task ---
 
-Now, make the eyeball look at the `mouse-pointer`{:class="block3motion"}.
+Now, make the eyeball look at the `mouse-pointer`{:class="block3motion"} so that the user can interact with your project.
+
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
+<span style="color: #0faeb0">**User**</span> means the person using the project (not just making it), and <span style="color: #0faeb0">**user interaction**</span> is how the project reacts to the user doing things such as moving the mouse and clicking on the screen. 
+</p>
 
 --- task ---
 
