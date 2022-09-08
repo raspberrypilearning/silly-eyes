@@ -1,10 +1,10 @@
 ## You will make
 
-Design and create a silly eye character. The character's large, silly eyes will follow the mouse pointer to bring your character to life.
+Design and create a silly eyes character 👀. The character's large, silly eyes will follow the mouse pointer to bring your character to life.
 
 ![Examples of projects.](images/showcase-line.png)
 
-### You will
+You will:
 
 + Make a project that is fun to play with
 + Create your own character
@@ -12,7 +12,7 @@ Design and create a silly eye character. The character's large, silly eyes will 
 
 --- no-print ---
 
-### Play 😎
+### Play ▶️ 
 
 --- task ---
 
@@ -37,15 +37,13 @@ What happens when you click on different parts of the project?
 
 --- /task ---
 
-### Get inspiration 
-
-Think about what kind of silly eye character you want to make.
+### Get ideas 💭
 
 --- task ---
 
-Explore these example projects to get more ideas:
+Play with these example projects to get ideas:
 
-**&#10026;** Share your finished Silly eyes project for a chance of it being featured here.
+⭐ Share your finished Silly eyes project for a chance of it being featured here.
 
 **Don't eat donut**: [See inside](https://scratch.mit.edu/projects/495865093/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
@@ -57,7 +55,7 @@ Explore these example projects to get more ideas:
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/495865892/?autostart=false" frameborder="0"></iframe>
 </div>
 
-**&#10026; Purple monster** (featured community project)
+**⭐ Purple monster** (featured community project)
 
 Click on the purple monster and the eyeballs:
 
@@ -71,13 +69,12 @@ Click on the purple monster and the eyeballs:
 
 --- print-only ---
 
-### Get inspiration 
+### Get ideas 💭
 
-You are going to make some design decisions to create your character. Think about what kind of silly eye character you want to make. To get more ideas, **See inside** example projects in the 'Silly eyes — Examples' Scratch studio: https://scratch.mit.edu/studios/29029028 
+Design and create a silly eye character 👀. The character's large, silly eyes will follow the mouse pointer to bring your character to life. To get more ideas, **See inside** example projects in the 'Silly eyes — Examples' Scratch studio: https://scratch.mit.edu/studios/29029028 
 
 ![The 'Gobo watching' project.](images/gobo-watching.png)
 ![The 'Don't eat donut' project.](images/dont-eat-donut.png)
-![The 'Cow with shoes' project.](images/cow-shoes.png)
 ![The 'Sporg' project.](images/sporg.png)
 
 --- /print-only ---
