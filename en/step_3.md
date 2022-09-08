@@ -24,6 +24,14 @@ The Paint editor will open, which will allow you to create your **Eyeball** spri
 
 --- /task ---
 
+--- task ---
+
+Name your sprite `Eyeball` in the Sprite pane.
+
+![The sprite's name set to 'Eyeball' in the Sprite pane.](images/eyeball-name.png)
+
+--- /task ---
+
 It is really important that:
 - The black pupil and coloured iris face to the right-hand side of the **Eyeball** costume
 - The **Eyeball** costume is centred
@@ -60,7 +68,6 @@ You could also draw circles inside circles, or use colour, to get different effe
 
 --- /collapse ---
 
-
 --- collapse ---
 ---
 title: Turn a round costume into an eyeball
@@ -74,9 +81,11 @@ Click on the **Choose a Costume** icon to see the library Scratch costumes.
 
 Click on the costume you want to add to your sprite. 
 
-Use the Paint editor to change a costume. You could add circles, choose a different **Fill** colour, or remove parts of the costume to turn it into a silly eye. 
+Use the Paint editor to change the costume. You could add circles, choose a different **Fill** colour, or remove parts of the costume to turn it into a silly eye. 
 
 Make sure that the eyeball is centred — move it so that the blue cross in the costume lines up with the grey crosshair in the Paint editor.
+
+![An animated image of a ball costume being dragged from the top left to fit with the balls centre over the crosshair icon.](images/crosshair-centre.gif)
 
 **Tip:** The black pupil and coloured iris need to be positioned on the right-hand side of the costume so that the **Eyeball** follows the mouse pointer.
 
@@ -94,19 +103,11 @@ title: Reuse an eyeball costume from 🧩
 
 The 🧩 sprite contains eyeballs that you can **reuse**.
 
-Select the 🧩 sprite and click on Costumes then drag an eyeball costume to your Eyeball sprite in the Sprite pane. 
+Select the 🧩 sprite and click on the **Costumes** tab then drag an eyeball costume to your **Eyeball** sprite in the Sprite pane. 
 
 ![An animation of dragging an eyeball costume from the Paint editor to another sprite.](images/costume-eyes.gif)
 
 --- /collapse ---
-
---- /task ---
-
---- task ---
-
-Name your sprite `Eyeball` in the Sprite pane.
-
-![The sprite's name set to 'Eyeball' in the Sprite pane.](images/eyeball-name.png)
 
 --- /task ---
 

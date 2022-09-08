@@ -39,6 +39,34 @@ Open the [Silly eyes starter project](https://scratch.mit.edu/projects/582221984
 [[[scratch3-backdrops-and-sprites-using-shapes]]]
 
 --- collapse ---
+
+---
+title: Reuse a character costume from 🧩
+---
+
+### Setup your blank character sprite
+
+Use the **Paint** option to create a new **sprite**. 
+
+![The 'Paint' option in the 'Choose a Sprite' menu.](images/paint-a-sprite.png)
+
+Name your sprite `Character` in the Sprite pane.
+
+<mark>TO DO</mark>
+![The sprite's name set to 'Character' in the Sprite pane.](images/character-name.png)
+
+### Use a costume from the 🧩 sprite
+
+The 🧩 sprite contains characters that you can **reuse**.
+
+Select the 🧩 sprite and click on Costumes then drag a character costume to your **Character** sprite in the Sprite pane. 
+
+<mark>TO DO</mark>
+![An animation of dragging a character costume from the puzzle piece sprite to another sprite.](images/costume-eyes.gif)
+
+--- /collapse ---
+
+--- collapse ---
 ---
 title: Get a surprise sprite
 ---
