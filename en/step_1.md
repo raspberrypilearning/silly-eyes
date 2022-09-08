@@ -2,13 +2,13 @@
 
 Design and create a silly eye character. The character's large, silly eyes will follow the mouse pointer to bring your character to life.
 
+![Examples of projects.](images/showcase-line.png)
+
 ### You will
 
 + Make a project that is fun to play with
 + Create your own character
 + Code your project using **sprites, scripts and loops**
-
-![Examples of projects.](images/showcase-line.png)
 
 --- no-print ---
 
@@ -21,7 +21,7 @@ Design and create a silly eye character. The character's large, silly eyes will 
 
 **Gobo watching**: [See inside](https://scratch.mit.edu/projects/495141114/editor){:target="_blank"}
 
-Move the mouse (or if you are using a tablet, move your finger) around the screen and watch what happens to Gobo's eyes. 
+Move the mouse (or if you are using a tablet, move your finger) around the Stage. 
 
 What happens when you move between Gobo's eyes? 
   
@@ -45,7 +45,7 @@ Think about what kind of silly eye character you want to make.
 
 Explore these example projects to get more ideas:
 
-**Tip:** At the end of this project you will be able to share your Silly eyes project for a chance of it being featured here.
+**&#10026;** Share your finished Silly eyes project for a chance of it being featured here.
 
 **Don't eat donut**: [See inside](https://scratch.mit.edu/projects/495865093/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
@@ -57,7 +57,7 @@ Explore these example projects to get more ideas:
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/495865892/?autostart=false" frameborder="0"></iframe>
 </div>
 
-**Purple monster** (featured community project &#10026;)
+**&#10026; Purple monster** (featured community project)
 
 Click on the purple monster and the eyeballs:
 
