@@ -55,8 +55,8 @@ In this example, we set the **Outline** to black and the **Fill** colour of the 
 
 Use the **Fill** and **Outline** colour choosers to choose colours. To make black, slide both the **Saturation** and **Brightness** to `0`. To make white, slide the **Saturation** to `0` and the **Brightness** to `100`.
 
-![](images/black-colour.png)
-![](images/white-colour.png)
+![Saturation and brightness sliders set to 0.](images/black-colour.png)
+![Saturation and brightness sliders set to 100.](images/white-colour.png)
 
 Make sure that the eyeball is centred — move it so that the blue cross in the costume lines up with the grey crosshair in the Paint editor.
 
@@ -92,20 +92,6 @@ Make sure that the eyeball is centred — move it so that the blue cross in the 
 ![Existing Scratch costumes as eyeballs.](images/costume-eyes.gif)
 
 ![The Paint editor showing an edited button1 costume.](images/button-eye.png)
-
---- /collapse ---
-
---- collapse ---
-
----
-title: Reuse an eyeball costume from 🧩
----
-
-The 🧩 sprite contains eyeballs that you can **reuse**.
-
-Select the 🧩 sprite and click on the **Costumes** tab then drag an eyeball costume to your **Eyeball** sprite in the Sprite pane. 
-
-![An animation of dragging an eyeball costume from the Paint editor to another sprite.](images/costume-eyes.gif)
 
 --- /collapse ---
 
