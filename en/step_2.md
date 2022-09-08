@@ -25,7 +25,7 @@ Open the [Silly eyes starter project](https://scratch.mit.edu/projects/582221984
 
 --- task ---
 
-**Choose:** Choose a **sprite** and a **backdrop** from the library **or** create your own in the Paint editor.
+**Choose:** Choose a **sprite** and a **backdrop** for your silly eyes project. 
 
 + What does your character look like? A person 🧜🏽‍♀️, animal 🐶 or object 🧸.
 + Where do you want your character to live? Somewhere sensible 🏠 or silly 🎪.
@@ -40,7 +40,7 @@ Open the [Silly eyes starter project](https://scratch.mit.edu/projects/582221984
 
 --- collapse ---
 ---
-title: Get a surprise sprite 🧩
+title: Get a surprise sprite
 ---
 
 Not sure which sprite to choose? Go to the **Choose a Sprite** menu and choose the **Surprise** option to add a surprise sprite to your project.

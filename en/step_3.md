@@ -2,7 +2,7 @@
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-In this step, you will make the silly eyes! Each eye needs to be a separate sprite so that it can move separately.
+Make the silly eyes! Each eye needs to be a separate sprite so that it can move separately.
 
 If you need help, look at the tips in the **Debug** task at the bottom of this step.
 </div>
@@ -68,13 +68,35 @@ title: Turn a round costume into an eyeball
 
 There are costumes in Scratch that you can edit to make silly eyes for your character. 
 
+Click on the **Choose a Costume** icon to see the library Scratch costumes. 
+
+![The Choose a Costume icon.](images/choose-a-costume.png)
+
+Click on the costume you want to add to your sprite. 
+
 Use the Paint editor to change a costume. You could add circles, choose a different **Fill** colour, or remove parts of the costume to turn it into a silly eye. 
 
-**Tip:** You will need to centre the **Eyeball** costume in the Paint editor so that it rotates smoothly as it turns. Use the crosshair to centre the costume. The black pupil and coloured iris need to be positioned on the right-hand side of the costume so that the **Eyeball** follows the mouse pointer.
+Make sure that the eyeball is centred — move it so that the blue cross in the costume lines up with the grey crosshair in the Paint editor.
+
+**Tip:** The black pupil and coloured iris need to be positioned on the right-hand side of the costume so that the **Eyeball** follows the mouse pointer.
 
 ![Existing Scratch costumes as eyeballs.](images/costume-eyes.gif)
 
 ![The Paint editor showing an edited button1 costume.](images/button-eye.png)
+
+--- /collapse ---
+
+--- collapse ---
+
+---
+title: Reuse an eyeball costume from 🧩
+---
+
+The 🧩 sprite contains eyeballs that you can **reuse**.
+
+Select the 🧩 sprite and click on Costumes then drag an eyeball costume to your Eyeball sprite in the Sprite pane. 
+
+![An animation of dragging an eyeball costume from the Paint editor to another sprite.](images/costume-eyes.gif)
 
 --- /collapse ---
 
