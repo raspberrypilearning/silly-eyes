@@ -15,6 +15,8 @@ Use your design skills to add a character sprite and suitable backdrop.
 <span style="color: #0faeb0">**Design**</span> means deciding on the way that a project looks and making decisions about what it does. 
 </p>
 
+### Open the starter project
+
 --- task ---
 
 Open the [Silly eyes starter project](https://scratch.mit.edu/projects/582221984/editor){:target="_blank"}. Scratch will open in another browser tab.
@@ -22,6 +24,8 @@ Open the [Silly eyes starter project](https://scratch.mit.edu/projects/582221984
 [[[working-offline]]]
 
 --- /task ---
+
+### Choose your sprite and backdrop
 
 --- task ---
 
@@ -52,6 +56,8 @@ Not sure which sprite to choose? Go to the **Choose a Sprite** menu and choose t
 **Tip:** If you create your own sprite in the Paint editor, **don't add eyes yet, because they need to be separate sprites.**
 
 --- /task ---
+
+### Resize your sprite
 
 --- task ---
 

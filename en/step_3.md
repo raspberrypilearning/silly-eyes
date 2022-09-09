@@ -13,6 +13,8 @@ Make the silly eyes! Each eye needs to be a separate sprite so that it can move 
 </div>
 </div>
 
+### Draw an eyeball
+
 --- task ---
 
 Use the **Paint** option to create a new **sprite**. 
@@ -110,6 +112,8 @@ Now, make the eyeball look at the `mouse-pointer`{:class="block3motion"} so that
 <span style="color: #0faeb0">**User**</span> means the person using the project (not just making it), and <span style="color: #0faeb0">**user interaction**</span> is how the project reacts to the user doing things such as moving the mouse and clicking on the screen. 
 </p>
 
+### Code your eyeball
+
 --- task ---
 
 Add a script to `set the rotation style`{:class="block3motion"} to `all around`{:class="block3motion"} to make the eyeball `point towards the mouse pointer`{:class="block3motion"} `forever`{:class="block3control"}. 
@@ -131,6 +135,8 @@ end
 
 --- /task ---
 
+### Add another eyeball
+
 --- task ---
 
 To add another eye, right-click (or on a tablet, tap and hold) on the **Eyeball** sprite in the Sprite list and choose **duplicate**.
@@ -138,6 +144,8 @@ To add another eye, right-click (or on a tablet, tap and hold) on the **Eyeball*
 [[[scratch3-duplicate-sprite]]]
 
 --- /task ---
+
+### Test your silly eyes
 
 --- task ---
 
