@@ -136,5 +136,4 @@ clear graphic effects
 By making your project full-screen, you are seeing what you have made from the perspective of a user who is playing with your project. **User interaction** is important in digital making. 
 </p>
 
---- save ---
 
