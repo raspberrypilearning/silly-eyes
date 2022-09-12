@@ -23,6 +23,8 @@ Open the [Silly eyes starter project](https://scratch.mit.edu/projects/582221984
 
 [[[working-offline]]]
 
+⏱️ Not much time? You can remix one of the [examples](https://scratch.mit.edu/studios/29029028){:target="_blank"}. 
+
 --- /task ---
 
 ### Choose your sprite and backdrop
