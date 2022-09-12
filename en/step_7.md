@@ -26,20 +26,28 @@ To submit your project to our ['Silly eyes — Community' Scratch studio](https:
 
 --- task ---
 
-Take a look at these fabulous community projects from our ['Surprise! animation — Community' Scratch studio](https://scratch.mit.edu/studios/29079784){:target="_blank"} Click on the backdrops, eyeballs and accessories to interact with them:
+Take a look at these fabulous community projects from our ['Silly eyes — Community' Scratch studio](https://scratch.mit.edu/studios/29079784){:target="_blank"}. Click on the backdrops, eyeballs and accessories to interact with them:
 
-**Ladybug scare**: [See inside](https://scratch.mit.edu/projects/517735755/editor){:target="_blank"}
+**Ladybug scare** [See inside](https://scratch.mit.edu/projects/517735755/editor){:target="_blank"}
+
+Click on the backdrop:
+
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/517735755/?autostart=false" frameborder="0"></iframe>
 </div>
 
-**Butterfly and bear**: [See inside](https://scratch.mit.edu/projects/569624392/editor){:target="_blank"}
+**Butterfly and bear** [See inside](https://scratch.mit.edu/projects/569624392/editor){:target="_blank"}
+
+Click on the bear and butterfly:
+
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/569624392/?autostart=false" frameborder="0"></iframe>
 </div>
 
-**Purple monster**: [See inside](https://scratch.mit.edu/projects/523223028/editor){:target="_blank"}
-<div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/523223028/?autostart=false" frameborder="0"></iframe>
-</div>
 --- /task ---
+
+--- task ---
+
+You can also look at the remixes for the [Silly eyes starter project](https://scratch.mit.edu/projects/582221984/remixes){:target="_blank"} to see what other creators have made.
+
+--- /task --- 

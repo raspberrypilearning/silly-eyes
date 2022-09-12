@@ -2,7 +2,7 @@
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-Have you got an idea about your own character? Now, you can get it ready for silly eyes!
+Use your design skills to add a character sprite and suitable backdrop. 
 </div>
 <div>
 
@@ -10,6 +10,12 @@ Have you got an idea about your own character? Now, you can get it ready for sil
 
 </div>
 </div>
+
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
+<span style="color: #0faeb0">**Design**</span> means deciding on the way that a project looks and making decisions about what it does. 
+</p>
+
+### Open the starter project
 
 --- task ---
 
@@ -19,15 +25,20 @@ Open the [Silly eyes starter project](https://scratch.mit.edu/projects/582221984
 
 --- /task ---
 
+### Choose your sprite and backdrop
+
 --- task ---
 
-**Choose:** Choose a sprite **or** create your own simple sprite in the Paint editor.
+**Choose:** Add a **sprite** and a **backdrop** for your silly eyes project. 
 
-You don't have to choose a person or animal. You could choose an object, like the donut.
++ What does your character look like? A person 🧜🏽‍♀️, animal 🐶 or object 🧸.
++ Where do you want your character to live? Somewhere sensible 🏠 or silly 🎪.
 
-![The add sprite icon.](images/add-sprite.png)
+![The add sprite icon and add backdrop icon side by side.](images/sprite-and-backdrop.png)
 
 [[[generic-scratch3-sprite-from-library]]]
+
+[[[generic-scratch3-backdrop-from-library]]]
 
 [[[scratch3-backdrops-and-sprites-using-shapes]]]
 
@@ -46,25 +57,21 @@ Not sure which sprite to choose? Go to the **Choose a Sprite** menu and choose t
 
 --- /task ---
 
-At the moment, your character will be much smaller than the characters in our example projects. You can make your character bigger so that it fills more of the screen.
+### Resize your sprite
 
 --- task ---
 
-In the Sprite pane, change the number in the **Size** property to a number of your choice. 
+In the Sprite pane, change the number in the **Size** property to a number that makes your character fill the Stage. 
 
 ![](images/size-property.png){:width="500px"}
 
 --- /task ---
 
-Where do you want your character to live? 
-
 --- task ---
 
-**Choose:** Choose a backdrop that is sensible or silly.
+Look at the Stage. You will see your large character and chosen backdrop. 
 
-![The add backdrop icon.](images/add-backdrop.png)
-
-[[[generic-scratch3-backdrop-from-library]]]
+![](images/large-sprite-stage.png){:width="500px"}
 
 --- /task ---
 
