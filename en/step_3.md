@@ -33,6 +33,8 @@ It is really important that:
 
 **Choose:** Draw an eyeball **or** start from a round sprite.
 
+![Example eyeballs. One drawn from scratch, another taken from the beachball and the third from a baseball.](images/make-an-eye.png)
+
 --- collapse ---
 ---
 title: Draw an eyeball in the Paint editor
@@ -140,6 +142,8 @@ end
 --- task ---
 
 To add another eye, right-click (or on a tablet, tap and hold) on the **Eyeball** sprite in the Sprite list and choose **duplicate**.
+
+![Example eyeballs in pairs. One drawn from scratch and another made from the ball sprite.](images/duplicate-eyes.png)
 
 [[[scratch3-duplicate-sprite]]]
 
