@@ -76,5 +76,3 @@ Look at the Stage. You will see your large character and chosen backdrop.
 ![](images/large-sprite-stage.png){:width="500px"}
 
 --- /task ---
-
---- save ---
