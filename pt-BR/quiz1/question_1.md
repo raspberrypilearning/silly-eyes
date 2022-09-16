@@ -1,23 +1,21 @@
-## Reflexão
+## Quick quiz
 
-Muito bem, você aprendeu muito! Agora, é hora de refletir - refletir é uma parte importante do aprendizado, porque isso ajuda a fazer novas conexões no seu cérebro.
+Answer the three questions. There are hints to guide you to the correct answer.
 
-Responda às três perguntas abaixo para refletir sobre o que você aprendeu.
+When you have answered each question, click on **Check my answer**.
 
-Após responder cada pergunta, clique em **Enviar**. Você vai ser guiado para a resposta correta. Você pode fazer esta atividade quantas vezes quiser.
-
-Divirta-se!
+Have fun!
 
 --- question ---
 ---
 legenda: Pergunta 1 de 3
 ---
 
-Adicionamos este código a **Globo Ocular**, mas o globo ocular não está girando quando o ponteiro do mouse se move.
+We added this code to an **Eyeball** sprite, but the eyeball is not rotating when the mouse pointer moves.
 
-![Captura de tela mostrando o script e o Palco. O script não está destacando a linha amarela externa. Os blocos no script são: 'quando clicar na bandeira verde', 'definir o estilo de rotação ao redor', 'para sempre', 'apontar para o ponteiro do mouse'.](images/code-not-running.png)
+![Screenshot showing the script and the Stage. The script is not glowing with a yellow outline. The blocks in the script are 'when green flag clicked', 'set rotation style all around', 'forever', 'point towards mouse-pointer'.](images/code-not-running.png)
 
-Como você poderia resolver o problema com apenas uma ação?
+How could you fix the problem with just one action?
 
 --- choices ---
 
@@ -25,13 +23,13 @@ Como você poderia resolver o problema com apenas uma ação?
 
   --- feedback ---
 
-Sim! Apenas adicionar o script não o faz funcionar. Você precisa clicar na bandeira verde para fazer seu código funcionar.
+Yes! Just adding the script does not make it run. You need to click on the green flag to make your code run.
 
-Seu código terá um contorno amarelo ao redor dele quando ele estiver em execução.
+Your code will have a yellow outline around it when it is running.
 
-Esquecer de clicar na bandeira verde é um erro muito comum - todos nós fazemos isso!
+Forgetting to click on the green flag is a really common mistake — we all do it!
 
-**Dica:** Se você alterar o código em um loop enquanto o script ainda estiver em execução, o Scratch executará o novo código na próxima vez que o loop for executado! Você não precisa clicar na bandeira verde novamente. Isso é muito útil quando você está experimentando ideias.
+**Tip:** If you change code in a loop while the script is running, Scratch will run the new code the next time that the loop runs! You don't need to click on the green flag again. This is really useful when you are trying out ideas.
 
   --- /feedback ---
 
@@ -39,7 +37,7 @@ Esquecer de clicar na bandeira verde é um erro muito comum - todos nós fazemos
 
   --- feedback ---
 
-O script não começa com um bloco `quando este ator clicou ` {:class="block3events"}.
+The script does not start with a `when this sprite clicked`{:class="block3events"} block.
 
   --- /feedback ---
 
@@ -47,7 +45,7 @@ O script não começa com um bloco `quando este ator clicou ` {:class="block3eve
 
   --- feedback ---
 
-Você não precisa executar o bloco `conjunto de estilo de rotação`{:class="block3looks"} muitas vezes. Se você configurá-lo uma vez antes do loop, ele não mudará até que você o configure um estilo diferente. Mover o bloco `conjunto de estilo de rotação`{:class="block3looks"} não ajudará com o problema em questão.
+You do not need to run the `set rotation style`{:class="block3looks"} block lots of times. If you set it once before the loop, it will not change until you set it to a different style. Moving the `set rotation style`{:class="block3looks"} block will not help with the problem in the question.
 
   --- /feedback ---
 
@@ -55,7 +53,7 @@ Você não precisa executar o bloco `conjunto de estilo de rotação`{:class="bl
 
   --- feedback ---
 
-Você não precisa clicar no Palco para fazer a bola do olho girar. Quando o código está sendo executado, o globo ocular apenas seguirá o ponteiro do mouse (ou seu dedo, se você estiver usando um tablet).
+You do not need to click on the Stage to get the eyeball to rotate. When the code is running, the eyeball will just follow the mouse pointer (or your finger, if you are using a tablet).
 
   --- /feedback ---
 
