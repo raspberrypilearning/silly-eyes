@@ -1,23 +1,21 @@
-## Réflexion
+## Quick quiz
 
-Bravo, vous avez beaucoup appris ! Maintenant, il est temps de réfléchir - la réflexion est une partie importante de l'apprentissage, car elle aide à établir de nouvelles connexions dans ton cerveau.
+Answer the three questions. There are hints to guide you to the correct answer.
 
-Réponds aux trois questions ci-dessous pour réfléchir à ce que tu as appris.
+When you have answered each question, click on **Check my answer**.
 
-Lorsque tu as répondu à chaque question, tapes sur **Soumettre**. Tu seras guidé vers la bonne réponse. Tu peux faire cette activité autant de fois que tu le souhaites.
-
-Amuse-toi bien!
+Have fun!
 
 --- question ---
 ---
 legend : Question 1 sur 3
 ---
 
-Nous avons ajouté ce code à un spirite **oeil** , mais l'oeil ne tourne pas lorsque le pointeur de la souris se déplace.
+We added this code to an **Eyeball** sprite, but the eyeball is not rotating when the mouse pointer moves.
 
-![Capture d'écran montrant le script et la scène. Le script ne brille pas avec un contour jaune. Les blocs du script sont « quand le drapeau vert est cliqué », « définir le style de rotation tout autour », « répéter indéfiniment », « s'orienter vers le pointeur de la souris ».](images/code-not-running.png)
+![Screenshot showing the script and the Stage. The script is not glowing with a yellow outline. The blocks in the script are 'when green flag clicked', 'set rotation style all around', 'forever', 'point towards mouse-pointer'.](images/code-not-running.png)
 
-Comment peux-tu résoudre le problème avec une seule action ?
+How could you fix the problem with just one action?
 
 --- choices ---
 
@@ -25,13 +23,13 @@ Comment peux-tu résoudre le problème avec une seule action ?
 
   --- feedback ---
 
-Oui! Le simple fait d'ajouter le script ne le fait pas s'exécuter. Tu dois cliquer sur le drapeau vert pour exécuter ton code.
+Yes! Just adding the script does not make it run. You need to click on the green flag to make your code run.
 
-Ton code sera entouré d'un contour jaune lors de son exécution.
+Your code will have a yellow outline around it when it is running.
 
-Oublier de cliquer sur le drapeau vert est une erreur très courante — nous le faisons tous !
+Forgetting to click on the green flag is a really common mistake — we all do it!
 
-**Astuce :** Si tu modifies le code dans une boucle pendant l'exécution du script, Scratch exécutera le nouveau code la prochaine fois que la boucle s'exécutera ! Tu n'as pas besoin de cliquer à nouveau sur le drapeau vert. C'est vraiment utile lorsque tu essaies des idées.
+**Tip:** If you change code in a loop while the script is running, Scratch will run the new code the next time that the loop runs! You don't need to click on the green flag again. This is really useful when you are trying out ideas.
 
   --- /feedback ---
 
@@ -39,7 +37,7 @@ Oublier de cliquer sur le drapeau vert est une erreur très courante — nous le
 
   --- feedback ---
 
-Le script ne commence pas par un bloc `quand ce sprite est cliqué ` {:class="block3events"}.
+The script does not start with a `when this sprite clicked`{:class="block3events"} block.
 
   --- /feedback ---
 
@@ -47,7 +45,7 @@ Le script ne commence pas par un bloc `quand ce sprite est cliqué ` {:class="bl
 
   --- feedback ---
 
-Tu n'as pas besoin d'exécuter le bloc `fixer le sens de rotation`{:class="block3looks"} de nombreuses fois. Si tu le définis une fois avant la boucle, il ne changera pas tant que tu ne le définis pas dans un style différent. Déplacer le bloc `fixer le sens de rotation`{:class="block3looks"} n'aidera pas à résoudre le problème de la question.
+You do not need to run the `set rotation style`{:class="block3looks"} block lots of times. If you set it once before the loop, it will not change until you set it to a different style. Moving the `set rotation style`{:class="block3looks"} block will not help with the problem in the question.
 
   --- /feedback ---
 
@@ -55,7 +53,7 @@ Tu n'as pas besoin d'exécuter le bloc `fixer le sens de rotation`{:class="block
 
   --- feedback ---
 
-Tu n'as pas besoin de cliquer sur la scène pour faire pivoter l'oeil. Lorsque le code s'exécute, l'oeil suivra simplement le pointeur de la souris (ou ton doigt, si tu utilises une tablette).
+You do not need to click on the Stage to get the eyeball to rotate. When the code is running, the eyeball will just follow the mouse pointer (or your finger, if you are using a tablet).
 
   --- /feedback ---
 
