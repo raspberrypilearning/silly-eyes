@@ -1,23 +1,22 @@
-## مشاركة
+## What next?
 
-إذا كنت في نادي برمجي ، فلماذا لا تشارك مشروعك مع الأصدقاء والأقران؟
+If you are following the [Introduction to Scratch](https://projects.raspberrypi.org/en/pathways/scratch-intro) pathway, you can move on to the [Surprise! animation](https://projects.raspberrypi.org/en/projects/surprise-animation) project. In this project, you will make an animation of a story with a surprise.
 
-يمكنك أيضًا إظهار كيفية عمل مشروعك لعائلتك.
+--- print-only ---
 
-إذا كان لديك حساب Scratch ، فيمكنك مشاركة مشروعك من خلال Scratch. يمكنك إرسال رابط إلى الأشخاص الذين تعرفهم ، وسيتمكن مجتمع Scratch بأكمله من العثور على مشروعك وتجربته.
+![A 'Surprise! animation' project.](images/surprise-story.png)
 
-[[[share-scratch]]]
+--- /print-only ---
 
-لماذا لا تدعو أصدقائك لإنشاء مشروع؟ دعهم يعرفون كيف استمتعت
+--- no-print ---
 
-إذا كان لديك حساب Scratch ، وشاركت مشروعك "العيون المضحكة" ، ترقب التعليقات التي قد يدلي بها الآخرون حول إبداعك. التعليقات هي طريقة رائعة للتفكير في عملك. تجاهل أي تعليقات غير مفيدة أو غير ذات صلة.
+Click on the green flag to watch the animation:
 
-[[[comments-feedback-scratch]]]
+<div class="scratch-preview" style="margin-left: 15px;">
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/495932563/?autostart=false" frameborder="0"></iframe>
+</div>
 
---- task ---
+--- /no-print ---
 
-ألهم مجتمع Raspberry Pi Foundation بمشروعك!
+If you want to have more fun exploring Scratch, then you could try out any of [these projects](https://projects.raspberrypi.org/en/projects?software%5B%5D=scratch&curriculum%5B%5D=%201).
 
-تقديم مشروع لدينا ["عيون مضحكة- مجتمع" خاستديو Scratch](https://scratch.mit.edu/studios/29120534){: الهدف = "_ فارغا"}، يرجى ملء [هذا النموذج](https://form.raspberrypi.org/f/community-project-submissions){: الهدف = "_ فارغا"}.
-
---- /task ---
