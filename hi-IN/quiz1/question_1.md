@@ -1,16 +1,14 @@
-## Reflection
+## Quick quiz
 
-Well done, you have learned a lot! Now, it's time to reflect — reflecting is an important part of learning, because it helps make new connections in your brain.
+Answer the three questions. There are hints to guide you to the correct answer.
 
-Answer the three questions below to reflect on what you have learned.
-
-When you have answered each question, click on **Submit**. You will be guided towards the correct answer. You can do this activity as many times as you want to.
+When you have answered each question, click on **Check my answer**.
 
 Have fun!
 
 --- question ---
 ---
-legend: Question 1 of 3
+legend: 3 प्रश्नों में पहला
 ---
 
 We added this code to an **Eyeball** sprite, but the eyeball is not rotating when the mouse pointer moves.
@@ -21,7 +19,7 @@ How could you fix the problem with just one action?
 
 --- choices ---
 
-- (x) Click on the green flag
+- (x) हरे झंडे पर क्लिक करें ।
 
   --- feedback ---
 
@@ -35,7 +33,7 @@ Forgetting to click on the green flag is a really common mistake — we all do i
 
   --- /feedback ---
 
-- ( ) Click on the eyeball
+- ( ) आईबॉल पर क्लिक करें
 
   --- feedback ---
 
@@ -43,7 +41,7 @@ The script does not start with a `when this sprite clicked`{:class="block3events
 
   --- /feedback ---
 
-- ( ) Move the `set rotation style`{:class="block3looks"} block inside the `forever`{:class="block3control"} loop
+- ( ) `forever`{:class="block3control"}} लूप के अंदर `set rotation style`{:class="block3looks"} खंड को लाएं
 
   --- feedback ---
 
@@ -51,7 +49,7 @@ You do not need to run the `set rotation style`{:class="block3looks"} block lots
 
   --- /feedback ---
 
-- ( ) Click on the Stage
+- ( ) Stage पर क्लिक करें
 
   --- feedback ---
 
