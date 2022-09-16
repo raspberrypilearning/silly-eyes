@@ -43,42 +43,41 @@ change [color v] effect by (25)
 
 ### キャラクター効果
 
-必要に応じて、 **キャラクター** スプライトをクリックすると、色やその他のグラフィック効果を変更することもできます。
-
 --- task ---
 
-スプライトリストで**キャラクター** スプライトをクリックしてから、[ **コード**] タブをクリックします。
+Click on your **character** sprite in the Sprite list, then click on the **Code** tab.
 
-目の色を変更するために使用したのと同じスクリプトを追加します。 **キャラクター**に対してどのグラフィック効果を変更しますか？
+Add the same script as you used to change the eye colour. Which graphic effects do you want to change for your **character**?
 
-**選択：** `[色v]の効果を(0)にする`{:class="block3looks"}ブロック内のドロップダウンメニューで効果を選択します。 好きな変更ができるまで、数字を試してみてください。
+**Choose:** Choose an effect in the drop-down menu within the `change color effect by`{:class="block3looks"} block. Experiment with the numbers and effects until you have a change that you like.
 
 [[[scratch3-graphic-effects]]]
 
 --- /task ---
 
-次に、帽子など、クリックすると変化する **アクセサリ**を追加します。ー `次のコスチュームにする`{:class="block3looks"}ブロックを使用します。
+### An accessory
+
+Now, add an **accessory**, such as a hat, that changes when you click on it — use the `next costume`{:class="block3looks"} block.
 
 --- task ---
 
-**選択：** 好みのアクセサリーの変化またはコスチュームの変化を追加します。
+**Choose:** Add an accessory change or costume change of your choice.
 
-
-![アクセサリー付きのスプライト。](images/accessory-sprite.png)
+![Sprites with accessories.](images/accessory-sprite.png)
 
 --- collapse ---
 ---
 title: クリックしたときにスプライトのコスチュームを変える
 ---
 
-**コスチュームアクセサリー付きGobo**: [内部を見る](https://scratch.mit.edu/projects/496334057/editor){:target="_ blank"}
+**Gobo with costume accessories**: [See inside](https://scratch.mit.edu/projects/496334057/editor){:target="_blank"}
 <div class="scratch-preview">
 <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/496334057/?autostart=false" frameborder="0"></iframe>
 </div>
 
-一部のスプライトにはすでにコスチュームの選択肢があります。
+Some sprites already have a choice of costumes.
 
-スプライトをクリックすると、スプライトのコスチュームを `次のコスチューム`{:class="block3looks"}に変更するコードを追加できます。
+You can add code to make a sprite's costume change to the `next costume`{:class="block3looks"} when you click on the sprite:
 
 ```blocks3
 when this sprite clicked
@@ -87,7 +86,7 @@ next costume
 
 --- /collapse ---
 
-スプライトにコスチュームの選択肢がない場合、またはさらに追加したい場合は、スプライトに任意のコスチュームを追加できます。
+If your sprite does not have a choice of costumes, or you want to add more, you can add any costume to a sprite.
 
 [[[scratch3-add-costumes-to-a-sprite]]]
 
@@ -95,7 +94,9 @@ next costume
 
 --- task ---
 
-**テスト：** スプライトが希望どおりに相互作用するまで、スプライトで作業します。 一度に1つの変更を試し、それがどうなるかをテストします。変更したところを簡単に見つけて、気に入らない場合に元に戻すことができるようにするためです。
+**Test:** Work on your sprites until they interact in the way that you want.
+
+**Tip:** Try one change at a time and test what it does so that you can easily spot each change and undo anything that you do not like.
 
 --- /task ---
 
@@ -123,5 +124,16 @@ clear graphic effects
 
 --- /task ---
 
---- save ---
+--- task ---
+
+**Test:** Test your project again, but this time, make it full-screen so that you can see how it will appear to someone looking at it.
+
+[[[scratch3-full-screen]]]
+
+--- /task ---
+
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
+By making your project full-screen, you are seeing what you have made from the perspective of a user who is playing with your project. **User interaction** is important in digital making. 
+</p>
+
 
