@@ -5,31 +5,32 @@ description: Crie seu próprio aplicativo com um personagem cujos olhos seguem o
 version: 4
 listed: true
 copyedit: false
-last_tested: "2021-02-25"
+last_tested: '2021-02-25'
 steps:
   - 
-    title: Introdução
+    title: You will make
   - 
-    title: Seu personagem
+    title: Create your character
   - 
     title: Faça olhos bobos
-    completion: engaged
+    completion:
+      - engaged
   - 
-    title: Efeitos do ator
+    title: Add sprite effects
+    completion:
+      - internal
   - 
-    title: Efeitos do palco
-    completion: internal
-  - 
-    title: Reflexão
+    title: Quick quiz
     knowledge_quiz:
       path: quiz1
       version: 1
       questions: 3
       passing_score: 3
-    completion: external
+    completion:
+      - external
   - 
-    title: Melhore o seu projeto
+    title: Upgrade your project
   - 
-    title: Compartilhar
+    title: Share
   - 
-    title: O que vem depois?
+    title: What next?
