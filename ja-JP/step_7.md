@@ -1,27 +1,53 @@
-## プロジェクトをアップグレードする
+## Share
 
-時間がある場合は、プロジェクトをアップグレードできます。
+If you are in a club, why not share your project with friends and peers?
 
-以下のことができます：
-- ボディパーツを追加する
-- おかしな目のスプライトを追加する
-- 背景を追加する
-- アクセサリーを追加するか、アクセサリーにコスチュームを追加します
-- さまざまなグラフィック効果を試す
+You could also show your family how your project works.
 
-['Silly eyes — Examples’ Scratch studio](https://scratch.mit.edu/studios/29029028){:target="_ blank"}の各プロジェクトには **内部を参照** リンクがあり、これを使用してScratchエディターでプロジェクトを開き、コードを見てアイデアを得たり、プロジェクトがどのように機能するかを確認することができます。
+If you have a Scratch account, you can share your project through Scratch. You can send a link to people you know, and the whole Scratch community will be able to find your project and try it out.
 
-**Sporg** キャラクターにも、 `マウスのポインターへ向ける`{:class="block3motion"}腕があります。
+[[[share-scratch]]]
 
-**Sporg**： [内部を参照](https://scratch.mit.edu/projects/495865892/editor){:target="_ blank"}
+Why not invite your friends to create a project? Let them know how you had fun.
+
+If you have a Scratch account, and have shared your 'Silly eyes' project, keep an eye out for comments that others may make about your creation. Feedback is a great way to reflect on your work. Ignore any comments that are unhelpful or irrelevant.
+
+[[[comments-feedback-scratch]]]
+
+--- task ---
+
+Inspire the Raspberry Pi Foundation community with your project!
+
+To submit your project to our ['Silly eyes — Community' Scratch studio](https://scratch.mit.edu/studios/29120534){:target="_blank"}, please complete [this form](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}.
+
+--- /task ---
+
+### Community submissions
+
+--- task ---
+
+Take a look at these fabulous community projects from our ['Silly eyes — Community' Scratch studio](https://scratch.mit.edu/studios/29079784){:target="_blank"}. Click on the backdrops, eyeballs and accessories to interact with them:
+
+**Ladybug scare** [See inside](https://scratch.mit.edu/projects/517735755/editor){:target="_blank"}
+
+Click on the backdrop:
+
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/495865892/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/517735755/?autostart=false" frameborder="0"></iframe>
 </div>
 
-他のボディパーツを追加する場合は、それらを回転させたいポイントを中央に配置する必要があります。 たとえば、腕は肩から回転します。
+**Butterfly and bear** [See inside](https://scratch.mit.edu/projects/569624392/editor){:target="_blank"}
 
-[[[scratch-crosshair]]]
+Click on the bear and butterfly:
 
-['Silly eyes － Community’ Sctratch studio](https://scratch.mit.edu/studios/29120534){:target="_ blank"}を見て、コミュニティメンバーによって作成されたプロジェクトを確認してください。
+<div class="scratch-preview" style="margin-left: 15px;">
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/569624392/?autostart=false" frameborder="0"></iframe>
+</div>
 
---- save ---
+--- /task ---
+
+--- task ---
+
+You can also look at the remixes for the [Silly eyes starter project](https://scratch.mit.edu/projects/582221984/remixes){:target="_blank"} to see what other creators have made.
+
+--- /task --- 
