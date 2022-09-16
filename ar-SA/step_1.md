@@ -1,38 +1,34 @@
-## المقدمة
+## You will make
 
-في هذا المشروع ، ستقوم بتصميم وإنشاء شخصية عيون مضحكة متحركة. ستتبع عيون الشخصية الكبيرة المضحكة مؤشر الماوس لجلب الحيوية على شخصيتك.
+Design and create a silly eyes character 👀. ستتبع عيون الشخصية الكبيرة المضحكة مؤشر الماوس لجلب الحيوية على شخصيتك.
 
-<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-<span style="color: #0faeb0">** التصميم **</span> يعني تحديد الشكل الذي يبدو عليه المشروع واتخاذ القرارات بشأن ما يفعله. 
-</p>
+![Examples of projects.](images/showcase-line.png)
 
 سوف تفعلها:
-+ جعل مشروع مع **تفاعل المستخدم**
-+ تميز الطابع الشخصي على مشروع مع تأثيرات الألوان والرسوم
-+ تعرف على التصميم في الصناعة الرقمية
 
-<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-<span style="color: #0faeb0">** المستخدم **</span> يعني الشخص الذي يستخدم المشروع (وليس فقط صنعه) ، و <span style="color: #0faeb0">** تفاعل المستخدم **</span> هو كيفية تفاعل المشروع مع قيام المستخدم بأشياء مثل تحريك الماوس والنقر على الشاشة. 
-</p>
-
-![أمثلة على المشاريع.](images/showcase-line.png)
++ Make a project that is fun to play with
++ Create your own character
++ Code your project using **sprites, scripts and loops**
 
 --- no-print ---
+
+### Play ▶️
 
 --- task ---
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 175px; flex-grow: 1">  
 
-### جربها 
+**Gobo watching**: [See inside](https://scratch.mit.edu/projects/495141114/editor){:target="_blank"}
 
-حرك الماوس (أو إذا كنت تستخدم جهازًا لوحيًا ، فحرك إصبعك) حول الشاشة وشاهد ما يحدث لعيون جوبو. ماذا يحدث عندما تتحرك بين عيني جوبو؟ 
+Move the mouse (or if you are using a tablet, move your finger) around the Stage. 
+
+What happens when you move between Gobo's eyes? 
   
-حاول النقر فوق أجزاء مختلفة من المشروع لتخصيص المشروع.
-
+What happens when you click on different parts of the project?
 </div>
 <div>
-** مشاهدة جوبو**: [انظر في الداخل] (https://scratch.mit.edu/projects/495141114/editor) {: target = "_blank"}
+
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/495141114/?autostart=false" frameborder="0"></iframe>
 </div>
@@ -41,37 +37,43 @@
 
 --- /task ---
 
-### احصل على الإلهام
-
-سوف تتخذ بعض قرارات التصميم لإنشاء شخصيتك. فكر في نوع شخصية العين المضحكة التي تريد صنعها.
+### Get ideas 💭
 
 --- task ---
 
-استكشف هذه المشاريع النموذجية للحصول على مزيد من الأفكار:
+Play with these example projects to get ideas:
 
-**لا تأكل الدونات**: [انظر في الداخل](https://scratch.mit.edu/projects/495865093/editor){: target = "_ blank"}
+⭐ Share your finished Silly eyes project for a chance of it being featured here.
+
+**Don't eat donut**: [See inside](https://scratch.mit.edu/projects/495865093/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/495865093/?autostart=false" frameborder="0"></iframe>
 </div>
 
-**تحت سطح البحر**: [انظر في الداخل](https://scratch.mit.edu/projects/495866460/editor){: target = "_ blank"}
-<div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/495866460/?autostart=false" frameborder="0"></iframe>
-</div>
-
-**سبورج**: [انظر في الداخل](https://scratch.mit.edu/projects/495865892/editor){: target = "_ blank"}
+**Sporg**: [See inside](https://scratch.mit.edu/projects/495865892/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/495865892/?autostart=false" frameborder="0"></iframe>
 </div>
---- / مهمة --- --- / no-print ---
+
+**⭐ Purple monster** (featured community project)
+
+Click on the purple monster and the eyeballs:
+
+<div class="scratch-preview" style="margin-left: 15px;">
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/523223028/?autostart=false" frameborder="0"></iframe>
+</div>
+
+--- /task ---
+
+--- /no-print ---
 
 --- print-only ---
 
-### احصل على الإلهام
+### Get ideas 💭
 
-سوف تتخذ بعض قرارات التصميم لإنشاء شخصيتك. فكر في نوع شخصية العين المضحكة التي تريد صنعها. للحصول على مزيد من الأفكار، **انظر في الداخل** مثال على المشاريع في استوديو Scratch "العيون السخيفة - أمثلة": https://scratch.mit.edu/studios/29029028
+Design and create a silly eye character 👀. The character's large, silly eyes will follow the mouse pointer to bring your character to life. To get more ideas, **See inside** example projects in the 'Silly eyes — Examples' Scratch studio: https://scratch.mit.edu/studios/29029028
 
-![مشروع "مشاهدة جوبو".](images/gobo-watching.png) ![مشروع "لا تأكل دونات".](images/dont-eat-donut.png) ![مشروع تحت البحر.](images/under-the-sea.png) ![مشروع "سبورج".](images/sporg.png)
+![The 'Gobo watching' project.](images/gobo-watching.png) ![The 'Don't eat donut' project.](images/dont-eat-donut.png) ![The 'Sporg' project.](images/sporg.png)
 
 --- /print-only ---
 
