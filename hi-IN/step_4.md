@@ -1,27 +1,27 @@
-## Sprite effects
+## स्प्राइट प्रभाव
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-You can make your **character** sprite and **silly eye** sprites change their `Looks`{:class="block3looks"} when you click on them.
+जब आप अपने **character** स्प्राइट और **silly eyes** स्प्राइटस पर क्लिक करते हैं तो वो अपना `Looks`{:class="block3looks"} बदल सकें।
 </div>
 <div>
 
-![A character and eyes with graphic effects.](images/character-graphic-effects.png){:width="300px"}    
+![ग्राफिक प्रभाव के साथ एक पात्र और ऑंखें.](images/character-graphic-effects.png){:width="300px"}    
 
 </div>
 </div>
 
-### Silly eye effects
+### नासमझ आँख प्रभाव
 
 --- task ---
 
-Add a `when this sprite clicked`{:class="block3events"} block to your **Eyeball** sprite.
+एक `when this sprite clicked`{:class="block3events"} खंड को अपने **Eyeball** स्प्राइट में जोड़ें।
 
-Can you work out what code block you would put underneath to change your sprite's eye colour when you click on the **Eyeball** sprite?
+क्या आप यह पता लगा सकते हैं कि किस कोड खंड से, **Eyeball** स्प्राइट पर आपके द्वारा क्लिक होने पर स्प्राइट की आंखों का रंग बदलेगा?
 
 --- collapse ---
 ---
-title: Change graphic effects when the sprite is clicked
+title: स्प्राइट पर क्लिक करने पर ग्राफिक प्रभाव बदलें
 ---
 
 ```blocks3
@@ -35,15 +35,13 @@ change [color v] effect by (25)
 
 --- task ---
 
-If you want both eyeballs to have the same effect, you will need to copy your script to the **Eyeball 2** sprite.
+यदि आप चाहते हैं कि दोनों आईबॉल्स का प्रभाव समान हो, तो आपको अपनी स्क्रिप्ट को **Eyeball 2** स्प्राइट में कॉपी करना होगा।
 
 [[[scratch3-copy-code]]]
 
 --- /task ---
 
-### Character effects
-
-If you want to, you can also make your **character** sprite change colour and other graphic effects when you click on it.
+### पात्र प्रभाव
 
 --- task ---
 
@@ -51,11 +49,13 @@ Click on your **character** sprite in the Sprite list, then click on the **Code*
 
 Add the same script as you used to change the eye colour. Which graphic effects do you want to change for your **character**?
 
-**Choose:** Choose an effect in the drop-down menu within the `change color effect by`{:class="block3looks"} block. Experiment with the numbers until you have a change that you like.
+**Choose:** Choose an effect in the drop-down menu within the `change color effect by`{:class="block3looks"} block. Experiment with the numbers and effects until you have a change that you like.
 
 [[[scratch3-graphic-effects]]]
 
 --- /task ---
+
+### An accessory
 
 Now, add an **accessory**, such as a hat, that changes when you click on it — use the `next costume`{:class="block3looks"} block.
 
@@ -63,12 +63,11 @@ Now, add an **accessory**, such as a hat, that changes when you click on it — 
 
 **Choose:** Add an accessory change or costume change of your choice.
 
-
 ![Sprites with accessories.](images/accessory-sprite.png)
 
 --- collapse ---
 ---
-title: Make a sprite change costume when clicked
+title: क्लिक करने पर स्प्राइट की पोशाक चेंज हो
 ---
 
 **Gobo with costume accessories**: [See inside](https://scratch.mit.edu/projects/496334057/editor){:target="_blank"}
@@ -95,26 +94,28 @@ If your sprite does not have a choice of costumes, or you want to add more, you 
 
 --- task ---
 
-**Test:** Work on your sprites until they interact in the way that you want. Try one change at a time and test what it does so that you can easily spot each change and undo anything that you do not like.
+**Test:** Work on your sprites until they interact in the way that you want.
+
+**Tip:** Try one change at a time and test what it does so that you can easily spot each change and undo anything that you do not like.
 
 --- /task ---
 
 --- task ---
 
-**Debug:**
+**डीबग:**
 
-If you add code to the wrong sprite, you can fix that:
+यदि आप गलत स्प्राइट में कोड जोड़ते हैं, तो आप उसे ठीक कर सकते हैं:
 
 [[[scratch3-copy-code]]]
 
-If you need to, you can reset the graphic effects:
+यदि आवश्यकता है, तो आप ग्राफिक प्रभावों को रीसेट कर सकते हैं:
 
 --- collapse ---
 ---
-title: I don't want these graphic effects
+title: मुझे ये ग्राफिक प्रभाव नहीं चाहिए
 ---
 
-To reset the graphic effects at any time, click on the `clear graphic effects`{:class="block3looks"} block in the `Looks`{:class="block3looks"} blocks menu. Clicking on the green flag also clears graphic effects.
+ग्राफिक प्रभावों को किसी भी समय रीसेट करने के लिए, `Looks`{:class="block3looks"} खंड मेन्यू के `clear graphic effects`{:class="block3looks"} खंड पर क्लिक करें। हरे झंडे पर क्लिक करने से ग्राफिक प्रभाव भी साफ हो जाता है।
 
 ```blocks3
 clear graphic effects
@@ -123,5 +124,16 @@ clear graphic effects
 
 --- /task ---
 
---- save ---
+--- task ---
+
+**Test:** Test your project again, but this time, make it full-screen so that you can see how it will appear to someone looking at it.
+
+[[[scratch3-full-screen]]]
+
+--- /task ---
+
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
+By making your project full-screen, you are seeing what you have made from the perspective of a user who is playing with your project. **User interaction** is important in digital making. 
+</p>
+
 
