@@ -1,23 +1,22 @@
-## Μοιράσου
+## What next?
 
-Εάν είσαι σε μια λέσχη, γιατί να μην μοιραστείς το έργο σου με φίλους και συνομήλικους;
+If you are following the [Introduction to Scratch](https://projects.raspberrypi.org/en/pathways/scratch-intro) pathway, you can move on to the [Surprise! animation](https://projects.raspberrypi.org/en/projects/surprise-animation) project. In this project, you will make an animation of a story with a surprise.
 
-Θα μπορούσες επίσης να δείξεις στην οικογένειά σου πώς λειτουργεί το έργο σου.
+--- print-only ---
 
-Εάν διαθέτεις λογαριασμό Scratch, μπορείς να μοιραστείς το έργο σου μέσω του Scratch. Μπορείς να στείλεις έναν σύνδεσμο σε άτομα που γνωρίζεις και ολόκληρη η κοινότητα Scratch θα μπορεί να βρει το έργο σου και να το δοκιμάσει.
+![A 'Surprise! animation' project.](images/surprise-story.png)
 
-[[[share-scratch]]]
+--- /print-only ---
 
-Γιατί να μην καλέσεις τους φίλους σου να δημιουργήσουν ένα έργο; Ενημέρωσέ τους για το πόσο διασκέδασες.
+--- no-print ---
 
-Εάν έχεις λογαριασμό Scratch και έχεις μοιραστεί το έργο σου "Αστεία μάτια", πρόσεξε τα σχόλια που μπορούν να κάνουν άλλοι σχετικά με τη δημιουργία σου. Η ανατροφοδότηση είναι ένας πολύ καλός τρόπος για να αναστοχαστείς πάνω στη δουλειά σου. Αγνόησε οποιαδήποτε σχόλια δεν σε βοηθούν ή είναι άσχετα.
+Click on the green flag to watch the animation:
 
-[[[comments-feedback-scratch]]]
+<div class="scratch-preview" style="margin-left: 15px;">
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/495932563/?autostart=false" frameborder="0"></iframe>
+</div>
 
---- task ---
+--- /no-print ---
 
-Δώσε έμπνευση στην κοινότητα του Raspberry Pi Foundation με το έργο σου!
+If you want to have more fun exploring Scratch, then you could try out any of [these projects](https://projects.raspberrypi.org/en/projects?software%5B%5D=scratch&curriculum%5B%5D=%201).
 
-Για να υποβάλεις το έργο σου στην δικιά μας ['Αστεία μάτια - Κοινότητα' Scratch studio](https://scratch.mit.edu/studios/29120534){:target="_blank"}, συμπλήρωσε [αυτήν τη φόρμα](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}.
-
---- /task ---
