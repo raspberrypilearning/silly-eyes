@@ -5,31 +5,32 @@ description: Δημιούργησε τη δική σου εφαρμογή με �
 version: 4
 listed: true
 copyedit: false
-last_tested: "2021-02-25"
+last_tested: '2021-02-25'
 steps:
   - 
-    title: Εισαγωγή
+    title: You will make
   - 
-    title: Ο χαρακτήρας σου
+    title: Create your character
   - 
     title: Κάνε αστεία μάτια
-    completion: engaged
+    completion:
+      - engaged
   - 
-    title: Εφέ αντικειμένου
+    title: Add sprite effects
+    completion:
+      - internal
   - 
-    title: Εφέ υπόβαθρου
-    completion: internal
-  - 
-    title: Αναστοχασμός
-    completion: external
+    title: Quick quiz
     knowledge_quiz:
       path: quiz1
       version: 1
       questions: 3
       passing_score: 3
+    completion:
+      - external
   - 
-    title: Αναβάθμισε το έργο σου
+    title: Upgrade your project
   - 
-    title: Μοιράσου
+    title: Share
   - 
-    title: Και μετά;
+    title: What next?
