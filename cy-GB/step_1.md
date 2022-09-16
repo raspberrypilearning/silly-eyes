@@ -1,38 +1,34 @@
-## Cyflwyniad
+## You will make
 
-Yn y prosiect hwn, byddi di'n dylunio ac yn creu cymeriad llygad gwirion. Bydd llygaid mawr, gwirion y cymeriad yn dilyn pwyntydd y llygoden i ddod â dy gymeriad yn fyw.
+Design and create a silly eyes character 👀. Bydd llygaid mawr, gwirion y cymeriad yn dilyn pwyntydd y llygoden i ddod â dy gymeriad yn fyw.
 
-<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-Mae <span style="color: #0faeb0">**Dylunio**</span> yn golygu penderfynu ar y ffordd mae prosiect yn edrych a gwneud penderfyniadau am yr hyn mae'n ei wneud. 
-</p>
+![Examples of projects.](images/showcase-line.png)
 
 Byddi di'n:
-+ Creu prosiect gyda **rhyngweithio gan y defnyddiwr**
-+ Personoli prosiect gydag effeithiau lliw a graffeg
-+ Dysgu am ddylunio mewn gwneud digidol
 
-<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-Y <span style="color: #0faeb0">**Defnyddiwr**</span> yw'r person sy'n defnyddio'r prosiect (ddim y person sy'n ei greu), a <span style="color: #0faeb0">**rhyngweithio gan y defnyddiwr**</span> yw'r ffordd mae'r prosiect yn ymateb i'r defnyddiwr wrth iddo wneud pethau fel symud y llygoden a chlicio ar y sgrin. 
-</p>
-
-![Enghreifftiau o brosiectau.](images/showcase-line.png)
++ Make a project that is fun to play with
++ Create your own character
++ Code your project using **sprites, scripts and loops**
 
 --- no-print ---
+
+### Play ▶️
 
 --- task ---
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 175px; flex-grow: 1">  
 
-### Rho gynnig arni 
+**Gobo watching**: [See inside](https://scratch.mit.edu/projects/495141114/editor){:target="_blank"}
 
-Symuda'r llygoden (neu os wyt ti'n defnyddio tabled, symuda dy fys) o amgylch y sgrin a gwylia beth sy'n digwydd i lygaid Gobo. Beth sy'n digwydd pan wyt ti'n symud rhwng llygaid Gobo? 
+Move the mouse (or if you are using a tablet, move your finger) around the Stage. 
+
+What happens when you move between Gobo's eyes? 
   
-Ceisia glicio ar wahanol rannau o'r prosiect i addasu'r prosiect.
-
+What happens when you click on different parts of the project?
 </div>
 <div>
-**Gobo yn gwylio**: [Gweld tu mewn](https://scratch.mit.edu/projects/495141114/editor){:target="_blank"}
+
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/495141114/?autostart=false" frameborder="0"></iframe>
 </div>
@@ -41,37 +37,43 @@ Ceisia glicio ar wahanol rannau o'r prosiect i addasu'r prosiect.
 
 --- /task ---
 
-### Cael ysbrydoliaeth
-
-Rwyt ti'n mynd i wneud rhai penderfyniadau dylunio i greu dy gymeriad. Meddylia pa fath o gymeriad llygad gwirion rwyt ti am ei greu.
+### Get ideas 💭
 
 --- task ---
 
-Cymer olwg ar y prosiectau enghreifftiol hyn i gael mwy o syniadau:
+Play with these example projects to get ideas:
 
-**Paid bwyta'r doesen**: [Gweld tu mewn](https://scratch.mit.edu/projects/495865093/editor){:target="_blank"}
+⭐ Share your finished Silly eyes project for a chance of it being featured here.
+
+**Don't eat donut**: [See inside](https://scratch.mit.edu/projects/495865093/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/495865093/?autostart=false" frameborder="0"></iframe>
 </div>
 
-**Dan y môr**: [Gweld tu mewn](https://scratch.mit.edu/projects/495866460/editor){:target="_blank"}
-<div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/495866460/?autostart=false" frameborder="0"></iframe>
-</div>
-
-**Sporg**: [Gweld tu mewn](https://scratch.mit.edu/projects/495865892/editor){:target="_blank"}
+**Sporg**: [See inside](https://scratch.mit.edu/projects/495865892/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/495865892/?autostart=false" frameborder="0"></iframe>
 </div>
---- /task --- --- /no-print ---
+
+**⭐ Purple monster** (featured community project)
+
+Click on the purple monster and the eyeballs:
+
+<div class="scratch-preview" style="margin-left: 15px;">
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/523223028/?autostart=false" frameborder="0"></iframe>
+</div>
+
+--- /task ---
+
+--- /no-print ---
 
 --- print-only ---
 
-### Cael ysbrydoliaeth
+### Get ideas 💭
 
-Rwyt ti'n mynd i wneud rhai penderfyniadau dylunio i greu dy gymeriad. Meddylia pa fath o gymeriad llygad gwirion rwyt ti am ei greu. I gael mwy o syniadau, **Cymer olwg y tu mewn i** brosiectau enghreifftiol yn stiwdio Scratch 'Silly eyes - Examples': https://scratch.mit.edu/studios/29029028
+Design and create a silly eye character 👀. The character's large, silly eyes will follow the mouse pointer to bring your character to life. To get more ideas, **See inside** example projects in the 'Silly eyes — Examples' Scratch studio: https://scratch.mit.edu/studios/29029028
 
-![Y prosiect 'Gobo yn gwylio'.](images/gobo-watching.png) ![Y prosiect 'Paid bwyta'r doesen'.](images/dont-eat-donut.png) ![Y prosiect 'Dan y môr'.](images/under-the-sea.png) ![Y prosiect 'Sporg'.](images/sporg.png)
+![The 'Gobo watching' project.](images/gobo-watching.png) ![The 'Don't eat donut' project.](images/dont-eat-donut.png) ![The 'Sporg' project.](images/sporg.png)
 
 --- /print-only ---
 
