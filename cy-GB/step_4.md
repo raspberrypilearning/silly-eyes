@@ -43,42 +43,41 @@ Os wyt ti am i'r ddwy belen llygad gael yr un effaith, bydd angen i ti gopïo dy
 
 ### Effeithiau cymeriad
 
-Os wyt ti eisiau, galli di hefyd wneud i dy **gymeriad** newid lliw a defnyddio effeithiau graffeg eraill pan fyddi di'n clicio arno.
-
 --- task ---
 
-Clicia ar dy **gymeriad** yn y rhestr Corluniau, yna clicia ar y tab **Cod**.
+Click on your **character** sprite in the Sprite list, then click on the **Code** tab.
 
-Ychwanega yr un sgript wnes di ei defnyddio i newid lliw'r llygad. Pa effeithiau graffeg wyt ti am eu newid ar gyfer dy **gymeriad**?
+Add the same script as you used to change the eye colour. Which graphic effects do you want to change for your **character**?
 
-**Dewis:** Dewisa effaith yn y gwymplen yn y bloc `newid effaith lliw gan`{:class="block3looks"}. Arbrofa gyda'r rhifau nes bod gen ti newid rwyt ti'n ei hoffi.
+**Choose:** Choose an effect in the drop-down menu within the `change color effect by`{:class="block3looks"} block. Experiment with the numbers and effects until you have a change that you like.
 
 [[[scratch3-graphic-effects]]]
 
 --- /task ---
 
-Nawr, ychwanega **ategolyn**, fel het, sy'n newid pan fyddi di'n clicio arno - defnyddia'r bloc `gwisg nesaf`{:class="block3looks"}.
+### An accessory
+
+Now, add an **accessory**, such as a hat, that changes when you click on it — use the `next costume`{:class="block3looks"} block.
 
 --- task ---
 
-**Dewis:** Ychwanega newid ategolyn neu newid gwisg o dy ddewis.
+**Choose:** Add an accessory change or costume change of your choice.
 
-
-![Corluniau gydag ategolion.](images/accessory-sprite.png)
+![Sprites with accessories.](images/accessory-sprite.png)
 
 --- collapse ---
 ---
 title: Gwneud i gorlun newid ei wisg pan gaiff ei glicio
 ---
 
-**Gobo gyda ategolion gwisg**: [Gweld tu mewn](https://scratch.mit.edu/projects/496334057/editor){:target="_blank"}
+**Gobo with costume accessories**: [See inside](https://scratch.mit.edu/projects/496334057/editor){:target="_blank"}
 <div class="scratch-preview">
 <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/496334057/?autostart=false" frameborder="0"></iframe>
 </div>
 
-Mae gan rai corluniau ddewis o wisgoedd eisoes.
+Some sprites already have a choice of costumes.
 
-Galli di ychwanegu cod i wneud i wisg corlun newid i'r `wisg nesaf`{:class="block3looks"} pan wyt ti'n clicio ar y corlun:
+You can add code to make a sprite's costume change to the `next costume`{:class="block3looks"} when you click on the sprite:
 
 ```blocks3
 when this sprite clicked
@@ -87,7 +86,7 @@ next costume
 
 --- /collapse ---
 
-Os nad oes gan dy gorlun ddewis o wisgoedd, neu os wyt ti am ychwanegu mwy, galli di ychwanegu unrhyw wisg at gorlun.
+If your sprite does not have a choice of costumes, or you want to add more, you can add any costume to a sprite.
 
 [[[scratch3-add-costumes-to-a-sprite]]]
 
@@ -95,7 +94,9 @@ Os nad oes gan dy gorlun ddewis o wisgoedd, neu os wyt ti am ychwanegu mwy, gall
 
 --- task ---
 
-**Prawf:** Gweithia ar dy gorluniau nes eu bod yn rhyngweithio yn y ffordd rwyt ti eisiau. Ceisia wneud un newid ar y tro a phrofi yr hyn y mae'n ei wneud fel y galli di adnabod pob newid yn hawdd a dad-wneud unrhyw beth dwyt ti ddim yn ei hoffi.
+**Test:** Work on your sprites until they interact in the way that you want.
+
+**Tip:** Try one change at a time and test what it does so that you can easily spot each change and undo anything that you do not like.
 
 --- /task ---
 
@@ -123,5 +124,16 @@ clear graphic effects
 
 --- /task ---
 
---- save ---
+--- task ---
+
+**Test:** Test your project again, but this time, make it full-screen so that you can see how it will appear to someone looking at it.
+
+[[[scratch3-full-screen]]]
+
+--- /task ---
+
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
+By making your project full-screen, you are seeing what you have made from the perspective of a user who is playing with your project. **User interaction** is important in digital making. 
+</p>
+
 
