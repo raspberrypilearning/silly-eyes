@@ -1,23 +1,22 @@
-## Rhannu
+## What next?
 
-Os wyt ti mewn clwb, beth am rannu dy brosiect â ffrindiau a chyfoedion?
+If you are following the [Introduction to Scratch](https://projects.raspberrypi.org/en/pathways/scratch-intro) pathway, you can move on to the [Surprise! animation](https://projects.raspberrypi.org/en/projects/surprise-animation) project. In this project, you will make an animation of a story with a surprise.
 
-Gallet ti hefyd ddangos i dy deulu sut mae dy brosiect yn gweithio.
+--- print-only ---
 
-Os oes gen ti gyfrif Scratch, galli di rannu dy brosiect drwy Scratch. Galli di anfon dolen at bobl rwyt ti'n eu hadnabod, a bydd y gymuned Scratch gyfan yn gallu dod o hyd i dy brosiect a rhoi cynnig arno.
+![A 'Surprise! animation' project.](images/surprise-story.png)
 
-[[[share-scratch]]]
+--- /print-only ---
 
-Beth am wahodd dy ffrindiau i greu prosiect? Gad iddyn nhw wybod dy fod wedi cael hwyl.
+--- no-print ---
 
-Os oes gen ti gyfrif Scratch, ac rwyt ti wedi rhannu dy brosiect 'Silly eyes', cadwa lygad allan am sylwadau y gallai eraill eu gwneud am dy greadigaeth. Mae adborth yn ffordd wych o fyfyrio ar dy waith. Anwybydda unrhyw sylwadau sy'n ddi-fudd neu'n amherthnasol.
+Click on the green flag to watch the animation:
 
-[[[comments-feedback-scratch]]]
+<div class="scratch-preview" style="margin-left: 15px;">
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/495932563/?autostart=false" frameborder="0"></iframe>
+</div>
 
---- task ---
+--- /no-print ---
 
-Dyro ysbrydoliaeth i gymuned y Raspberry Pi Foundation gyda dy brosiect!
+If you want to have more fun exploring Scratch, then you could try out any of [these projects](https://projects.raspberrypi.org/en/projects?software%5B%5D=scratch&curriculum%5B%5D=%201).
 
-I gyflwyno dy brosiect i'n stiwdio [Scratch 'Llygaid gwirion'](https://scratch.mit.edu/studios/29120534){:target="_blank"}, cwblha'r [ffurflen hon](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}.
-
---- /task ---
