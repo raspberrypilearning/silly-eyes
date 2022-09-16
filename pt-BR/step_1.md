@@ -1,38 +1,34 @@
-## Introdução
+## You will make
 
-Neste projeto, você projetará e criará um personagem com olho de bobo. Os olhos grandes e bobos do personagem seguirão o ponteiro do mouse para dar vida ao seu personagem.
+Design and create a silly eyes character 👀. Os olhos grandes e bobos do personagem seguirão o ponteiro do mouse para dar vida ao seu personagem.
 
-<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-<span style="color: #0faeb0">**Design **</span> significa decidir a aparência de um projeto e tomar decisões sobre o que ele faz. 
-</p>
+![Examples of projects.](images/showcase-line.png)
 
 Você deve:
-+ Faça um projeto com **interação do usuário**
-+ Personalize um projeto com cores e efeitos gráficos
-+ Aprenda sobre design em criação digital
 
-<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-<span style="color: #0faeb0">** Usuário **</span> significa a pessoa que está usando o projeto (não apenas fazendo), e <span style="color: #0faeb0">** interação do usuário **</span> é como o projeto reage ao usuário ao fazer coisas como mover o mouse e clicar na tela. 
-</p>
-
-![Exemplos de projetos.](images/showcase-line.png)
++ Make a project that is fun to play with
++ Create your own character
++ Code your project using **sprites, scripts and loops**
 
 --- no-print ---
+
+### Play ▶️
 
 --- task ---
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 175px; flex-grow: 1">  
 
-### Experimente 
+**Gobo watching**: [See inside](https://scratch.mit.edu/projects/495141114/editor){:target="_blank"}
 
-Mova o mouse (ou mova o dedo se estiver usando um tablet) pela tela e observe o que acontece com os olhos do Gobo. O que acontece quando você move o mouse ou os dedos - se estiver usando o tablet - entre os olhos de Gobo? 
+Move the mouse (or if you are using a tablet, move your finger) around the Stage. 
+
+What happens when you move between Gobo's eyes? 
   
-Experimente clicar em diferentes partes do projeto para personalizá-lo.
-
+What happens when you click on different parts of the project?
 </div>
 <div>
-** Gobo assistindo **: [Veja dentro] (https://scratch.mit.edu/projects/495141114/editor) {: target = "_blank"}
+
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/495141114/?autostart=false" frameborder="0"></iframe>
 </div>
@@ -41,37 +37,43 @@ Experimente clicar em diferentes partes do projeto para personalizá-lo.
 
 --- /task ---
 
-### Inspire-se
-
-Você vai tomar algumas decisões de design para criar seu personagem. Pense no tipo de personagem de olho bobo que você deseja fazer.
+### Get ideas 💭
 
 --- task ---
 
-Explore estes projetos de exemplo para obter ideia para o seu livro:
+Play with these example projects to get ideas:
 
-**Não coma rosquinha**: [Veja dentro de](https://scratch.mit.edu/projects/495865093/editor){: target = "_ blank"}
+⭐ Share your finished Silly eyes project for a chance of it being featured here.
+
+**Don't eat donut**: [See inside](https://scratch.mit.edu/projects/495865093/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/495865093/?autostart=false" frameborder="0"></iframe>
-</div>
-
-**Sob o mar**: [Veja interior](https://scratch.mit.edu/projects/495866460/editor){: target="_ blank"}
-<div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/495866460/?autostart=false" frameborder="0"></iframe>
 </div>
 
 **Sporg**: [See inside](https://scratch.mit.edu/projects/495865892/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/495865892/?autostart=false" frameborder="0"></iframe>
 </div>
---- /task--- --- /no-print ---
+
+**⭐ Purple monster** (featured community project)
+
+Click on the purple monster and the eyeballs:
+
+<div class="scratch-preview" style="margin-left: 15px;">
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/523223028/?autostart=false" frameborder="0"></iframe>
+</div>
+
+--- /task ---
+
+--- /no-print ---
 
 --- print-only ---
 
-### Inspire-se
+### Get ideas 💭
 
-Você vai tomar algumas decisões de design para criar seu personagem. Pense no tipo de personagem de olho bobo que você deseja fazer. Para obter mais ideias **Veja exemplos** de projetos de "Olhos bobos - Exemplos do Scratch estúdio: https://scratch.mit.edu/studios/29029028
+Design and create a silly eye character 👀. The character's large, silly eyes will follow the mouse pointer to bring your character to life. To get more ideas, **See inside** example projects in the 'Silly eyes — Examples' Scratch studio: https://scratch.mit.edu/studios/29029028
 
-![Projeto 'Gobo assistindo'.](images/gobo-watching.png) ![Projeto 'Não coma Rosquinha'.](images/dont-eat-donut.png) ![Projeto "Sob o mar".](images/under-the-sea.png) ![Projeto 'Sporg'.](images/sporg.png)
+![The 'Gobo watching' project.](images/gobo-watching.png) ![The 'Don't eat donut' project.](images/dont-eat-donut.png) ![The 'Sporg' project.](images/sporg.png)
 
 --- /print-only ---
 
