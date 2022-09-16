@@ -43,42 +43,41 @@ change [color v] effect by (25)
 
 ### تأثيرات الشخصية
 
-إذا كنت ترغب في ذلك ، يمكنك أيضًا جعل**الشخصية الخاصة بك** تغير الون و التاثيرات الرسومية الأخرى عند النقر فوقه.
-
 --- task ---
 
-انقر على **شخصية** كائن في قائمة كائن، ثم انقر فوق علامة التبويب **المقاطع البرمجية**
+Click on your **character** sprite in the Sprite list, then click on the **Code** tab.
 
-أضف نفس المقطع البرمجي الذي استخدمته لتغيير لون العين. ما التأثيرات الرسومية التي تريد تغييرها **للشخصية**؟
+Add the same script as you used to change the eye colour. Which graphic effects do you want to change for your **character**?
 
-**اختر:** اختر تأثيرًا في القائمة المنسدلة ضمن `تغيير تأثير اللون بمقدار`التعليمة البرمجية{: class = "block3looks"}. جرب الأرقام حتى تحصل على التغيير الذي تريده.
+**Choose:** Choose an effect in the drop-down menu within the `change color effect by`{:class="block3looks"} block. Experiment with the numbers and effects until you have a change that you like.
 
 [[[scratch3-graphic-effects]]]
 
 --- /task ---
 
-الآن ، أضف **ملحق**، مثل قبعة ، يتغير عند النقر فوقه - استخدم `المظهر التالي`{: class = "block3looks"}.
+### An accessory
+
+Now, add an **accessory**, such as a hat, that changes when you click on it — use the `next costume`{:class="block3looks"} block.
 
 --- task ---
 
-**اختر:** بإضافة تغيير ملحق أو تغيير مظهر من اختيارك.
+**Choose:** Add an accessory change or costume change of your choice.
 
-
-![الشخصيات مع الملحقات.](images/accessory-sprite.png)
+![Sprites with accessories.](images/accessory-sprite.png)
 
 --- collapse ---
 ---
 title: اصنع مظهر تغيير كائن عند النقر عليه
 ---
 
-**جوبو مع إكسسوارات المظاهر**: [اطلع على البرنامج](https://scratch.mit.edu/projects/496334057/editor){: target = "_ blank"}
+**Gobo with costume accessories**: [See inside](https://scratch.mit.edu/projects/496334057/editor){:target="_blank"}
 <div class="scratch-preview">
 <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/496334057/?autostart=false" frameborder="0"></iframe>
 </div>
 
-بعض الكائنات لديها بالفعل اختيار المظاهر.
+Some sprites already have a choice of costumes.
 
-يمكنك إضافة التعليمة البرمجية لتغيير `المظهر`التالي {: class = "block3looks"} عند النقر فوق الكائن:
+You can add code to make a sprite's costume change to the `next costume`{:class="block3looks"} when you click on the sprite:
 
 ```blocks3
 when this sprite clicked
@@ -87,7 +86,7 @@ next costume
 
 --- /collapse ---
 
-إذا لم يكن لدى الكائن الخاص بك خيار المظاهر، أو إذا كنت تريد إضافة المزيد ، فيمكنك إضافة أي مظهر إلى كائن ما.
+If your sprite does not have a choice of costumes, or you want to add more, you can add any costume to a sprite.
 
 [[[scratch3-add-costumes-to-a-sprite]]]
 
@@ -95,7 +94,9 @@ next costume
 
 --- task ---
 
-**اختبار:** اعمل على الشخصيات المتحركة الخاصة بك حتى تتفاعل بالطريقة التي تريدها. جرب تغييرًا واحدًا في كل مرة واختبر ما يفعله بحيث يمكنك بسهولة اكتشاف كل تغيير والتراجع عن أي شيء لا ترغبه.
+**Test:** Work on your sprites until they interact in the way that you want.
+
+**Tip:** Try one change at a time and test what it does so that you can easily spot each change and undo anything that you do not like.
 
 --- /task ---
 
@@ -123,5 +124,16 @@ clear graphic effects
 
 --- /task ---
 
---- save ---
+--- task ---
+
+**Test:** Test your project again, but this time, make it full-screen so that you can see how it will appear to someone looking at it.
+
+[[[scratch3-full-screen]]]
+
+--- /task ---
+
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
+By making your project full-screen, you are seeing what you have made from the perspective of a user who is playing with your project. **User interaction** is important in digital making. 
+</p>
+
 
