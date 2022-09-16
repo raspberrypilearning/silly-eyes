@@ -5,31 +5,32 @@ description: 目がマウスポインタをたどるキャラクターで独自�
 version: 4
 listed: true
 copyedit: false
-last_tested: "2021-02-25"
+last_tested: '2021-02-25'
 steps:
   - 
-    title: はじめに
+    title: You will make
   - 
-    title: あなたのキャラクター
+    title: Create your character
   - 
     title: おかしな目をつくる
-    completion: engaged
+    completion:
+      - engaged
   - 
-    title: スプライト効果
+    title: Add sprite effects
+    completion:
+      - internal
   - 
-    title: ステージ効果
-    completion: internal
-  - 
-    title: ふりかえり
-    completion: external
+    title: Quick quiz
     knowledge_quiz:
       path: quiz1
       version: 1
       questions: 3
       passing_score: 3
+    completion:
+      - external
   - 
-    title: プロジェクトをアップグレードする
+    title: Upgrade your project
   - 
-    title: 共有
+    title: Share
   - 
-    title: 次は何をしますか？
+    title: What next?
