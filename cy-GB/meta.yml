@@ -5,31 +5,32 @@ description: Creu dy ap dy hun gyda chymeriad y mae ei lygaid yn dilyn pwyntydd 
 version: 4
 listed: true
 copyedit: false
-last_tested: "2021-02-25"
+last_tested: '2021-02-25'
 steps:
   - 
-    title: Cyflwyniad
+    title: You will make
   - 
-    title: Dy gymeriad
+    title: Create your character
   - 
     title: Creu llygaid gwirion
-    completion: engaged
+    completion:
+      - engaged
   - 
-    title: Effeithiau corlun
+    title: Add sprite effects
+    completion:
+      - internal
   - 
-    title: Effeithiau llwyfan
-    completion: internal
-  - 
-    title: Myfyrio
-    completion: external
+    title: Quick quiz
     knowledge_quiz:
       path: quiz1
       version: 1
       questions: 3
       passing_score: 3
+    completion:
+      - external
   - 
-    title: Uwchraddio dy brosiect
+    title: Upgrade your project
   - 
-    title: Rhannu
+    title: Share
   - 
-    title: Beth nesaf?
+    title: What next?
