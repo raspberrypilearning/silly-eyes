@@ -1,11 +1,11 @@
 --- question ---
 ---
-legend: Question 3 of 3
+legend: 3 प्रश्नों में तीसरा
 ---
 
-<span style="color: #0faeb0">**User interaction**</span> is how the project reacts to the user. The 'Silly eyes' project that you have made probably has lots of <span style="color: #0faeb0">**user interaction**</span>!
+प्रोजेक्ट उपयोगकर्ता के प्रति कैसे प्रतिक्रिया करता है, ये <span style="color: #0faeb0">**यूजर इंटरैक्शन**</span> है। आपने जो 'नासमझ आँखें' ('सिली आइज़') प्रोजेक्ट बनाया है, उसमें संभवत: बहुत सारे <span style="color: #0faeb0">**यूजर इंटरैक्शन**</span> हैं!
 
-Which of these scripts allows user interaction after the program has started?
+प्रोग्राम शुरू होने के बाद इनमें से कौन सी स्क्रिप्ट यूजर इंटरैक्शन की अनुमति देती है?
 
 --- choices ---
 
@@ -17,7 +17,7 @@ clear graphic effects
 
   --- feedback ---
 
-The graphic effects are cleared after the timer reaches 10. The user does not have to do anything, so there is no user interaction.
+टाइमर के 10 तक पहुंचने के बाद ग्राफिक प्रभाव समाप्त हो जाते हैं। उपयोगकर्ता को कुछ भी करने की ज़रूरत नहीं है, इसलिए कोई यूजर इंटरेक्शन नहीं है।
 
   --- /feedback ---
 - ( )
@@ -28,7 +28,7 @@ say [hello] for (2) seconds
 
   --- feedback ---
 
-The sprite says "hello" after the backdrop switches. The user does not have to do anything, so there is no user interaction.
+बैकड्रॉप स्विच के बाद स्प्राइट "hello" कहता है। उपयोगकर्ता को कुछ भी करने की ज़रूरत नहीं है, इसलिए कोई यूजर इंटरेक्शन नहीं है।
 
   --- /feedback ---
 - (x)
@@ -39,16 +39,16 @@ change [color v] effect by (25)
 
   --- feedback ---
 
-The user has to click on the sprite to change the colour. This is user interaction.
+उपयोगकर्ता को रंग बदलने के लिए स्प्राइट पर क्लिक करना होगा। यह यूजर इंटरैक्शन है।
 
   --- /feedback ---
 
 
-- ( ) Give me a clue.
+- ( ) मुझे एक सुराग दो।
 
   --- feedback ---
 
- User interaction is how the project reacts to the user doing things such as moving the mouse and clicking on the screen.
+ माउस को हिलाने और स्क्रीन पर क्लिक करने जैसे यूजर द्वारा किये गए कार्य के प्रति प्रोजेक्ट की प्रतिक्रिया यूजर इंटरेक्शन है।
 
   --- /feedback ---
 
