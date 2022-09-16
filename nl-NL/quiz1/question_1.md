@@ -1,23 +1,21 @@
-## Reflectie
+## Quick quiz
 
-Goed gedaan, je hebt veel geleerd! Nu is het tijd om te reflecteren - reflecteren is een belangrijk onderdeel van leren, omdat het helpt om nieuwe verbindingen in je hersenen te maken.
+Answer the three questions. There are hints to guide you to the correct answer.
 
-Beantwoord de drie onderstaande vragen om na te denken over wat je hebt geleerd.
+When you have answered each question, click on **Check my answer**.
 
-Wanneer je elke vraag hebt beantwoord, klik je op **Verzenden**. Je wordt naar het juiste antwoord geleid. Je kunt deze activiteit zo vaak doen als je wilt.
-
-Veel plezier!
+Have fun!
 
 --- question ---
 ---
 legend: Vraag 1 van 3
 ---
 
-We hebben deze code toegevoegd aan een **Oogbol** sprite, maar de oogbol draait niet wanneer de muisaanwijzer beweegt.
+We added this code to an **Eyeball** sprite, but the eyeball is not rotating when the mouse pointer moves.
 
-![Schermafbeelding van het script en het speelveld. Het script gloeit niet met een gele omtrek. De blokken in het script zijn 'wanneer op groene vlag wordt geklikt', 'maak rotatiestijl helemaal rond', 'herhaal', 'richt naar muisaanwijzer'.](images/code-not-running.png)
+![Screenshot showing the script and the Stage. The script is not glowing with a yellow outline. The blocks in the script are 'when green flag clicked', 'set rotation style all around', 'forever', 'point towards mouse-pointer'.](images/code-not-running.png)
 
-Hoe kun je het probleem met slechts één actie oplossen?
+How could you fix the problem with just one action?
 
 --- choices ---
 
@@ -25,13 +23,13 @@ Hoe kun je het probleem met slechts één actie oplossen?
 
   --- feedback ---
 
-Ja! Alleen het toevoegen van het script zorgt er niet voor dat het wordt uitgevoerd. Je moet op de groene vlag klikken om je code te laten uitvoeren.
+Yes! Just adding the script does not make it run. You need to click on the green flag to make your code run.
 
-Je code heeft een gele omtrek eromheen wanneer deze wordt uitgevoerd.
+Your code will have a yellow outline around it when it is running.
 
-Vergeten op de groene vlag te klikken is een veelgemaakte fout - we doen het allemaal!
+Forgetting to click on the green flag is a really common mistake — we all do it!
 
-**Tip:** Als je code in een lus wijzigt, terwijl het script wordt uitgevoerd, zal Scratch de nieuwe code uitvoeren de volgende keer dat de lus wordt uitgevoerd! Je hoeft niet opnieuw op de groene vlag te klikken. Dit is erg handig wanneer je ideeën uitprobeert.
+**Tip:** If you change code in a loop while the script is running, Scratch will run the new code the next time that the loop runs! You don't need to click on the green flag again. This is really useful when you are trying out ideas.
 
   --- /feedback ---
 
@@ -39,7 +37,7 @@ Vergeten op de groene vlag te klikken is een veelgemaakte fout - we doen het all
 
   --- feedback ---
 
-Het script begint niet met een `wanneer op deze sprite wordt geklikt`{:class="block3events"} blok.
+The script does not start with a `when this sprite clicked`{:class="block3events"} block.
 
   --- /feedback ---
 
@@ -47,7 +45,7 @@ Het script begint niet met een `wanneer op deze sprite wordt geklikt`{:class="bl
 
   --- feedback ---
 
-Je hoeft het `maak draaistijl`{:class="block3looks"} blok niet steeds uit te voeren. Als je het eenmaal vóór de lus instelt, verandert het niet totdat je het op een andere stijl instelt. Het verplaatsen van het `maak draaistijl`{:class="block3looks"} blok zal niet helpen bij het probleem in de vraag.
+You do not need to run the `set rotation style`{:class="block3looks"} block lots of times. If you set it once before the loop, it will not change until you set it to a different style. Moving the `set rotation style`{:class="block3looks"} block will not help with the problem in the question.
 
   --- /feedback ---
 
@@ -55,7 +53,7 @@ Je hoeft het `maak draaistijl`{:class="block3looks"} blok niet steeds uit te voe
 
   --- feedback ---
 
-Je hoeft niet op het speelveld te klikken om de oogbol te laten draaien. Wanneer de code actief is, volgt de oogbol de muisaanwijzer (of je vinger, als je een tablet gebruikt).
+You do not need to click on the Stage to get the eyeball to rotate. When the code is running, the eyeball will just follow the mouse pointer (or your finger, if you are using a tablet).
 
   --- /feedback ---
 
