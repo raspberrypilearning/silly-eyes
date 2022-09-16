@@ -1,23 +1,22 @@
-## Comparte
+## What next?
 
-Si estás en un club, ¿por qué no compartes tu proyecto con tus amigos y compañeros?
+If you are following the [Introduction to Scratch](https://projects.raspberrypi.org/en/pathways/scratch-intro) pathway, you can move on to the [Surprise! animation](https://projects.raspberrypi.org/en/projects/surprise-animation) project. In this project, you will make an animation of a story with a surprise.
 
-También podrías mostrarle a tu familia cómo funciona tu proyecto.
+--- print-only ---
 
-Si tienes una cuenta de Scratch, puedes compartir tu proyecto a través de Scratch. Puedes enviar un enlace a las personas que conoces y toda la comunidad de Scratch podrá encontrar tu proyecto y probarlo.
+![A 'Surprise! animation' project.](images/surprise-story.png)
 
-[[[share-scratch]]]
+--- /print-only ---
 
-¿Por qué no invitas a tus amigos a crear un proyecto? Déjales saber cuánto te divertiste.
+--- no-print ---
 
-Si tienes una cuenta de Scratch y has compartido tu proyecto 'Ojos tontos', mantente atento a los comentarios que otros puedan hacer sobre tu creación. La retroalimentación es una excelente manera de reflexionar sobre tu trabajo. Ignora cualquier comentario que sea inútil o irrelevante.
+Click on the green flag to watch the animation:
 
-[[[comments-feedback-scratch]]]
+<div class="scratch-preview" style="margin-left: 15px;">
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/495932563/?autostart=false" frameborder="0"></iframe>
+</div>
 
---- task ---
+--- /no-print ---
 
-¡Inspira a la comunidad de la Fundación Raspberry Pi con tu proyecto!
+If you want to have more fun exploring Scratch, then you could try out any of [these projects](https://projects.raspberrypi.org/en/projects?software%5B%5D=scratch&curriculum%5B%5D=%201).
 
-Para enviar tu proyecto a ['Ojos tontos de la Comunidad' Scratch](https://scratch.mit.edu/studios/29120534){:target="_ blank"}, completa [este formulario](https://form.raspberrypi.org/f/community-project-submissions){:target="_ blank"}.
-
---- /task ---
