@@ -2,9 +2,8 @@
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-In this step, you will make the silly eyes! Each eye needs to be a separate sprite so that it can move separately.
+Make the silly eyes! Each eye needs to be a separate sprite so that it can move separately.
 
-If you need help, look at the tips in the **Debug** task at the bottom of this step.
 </div>
 <div>
 
@@ -13,6 +12,8 @@ If you need help, look at the tips in the **Debug** task at the bottom of this s
 
 </div>
 </div>
+
+### Draw an eyeball
 
 --- task ---
 
@@ -32,6 +33,8 @@ It is really important that:
 
 **Choose:** Draw an eyeball **or** start from a round sprite.
 
+![Example eyeballs. One drawn from scratch, another taken from the beachball and the third from a baseball.](images/make-an-eye.png)
+
 --- collapse ---
 ---
 title: Draw an eyeball in the Paint editor
@@ -47,9 +50,11 @@ In this example, we set the **Outline** to black and the **Fill** colour of the 
 
 Use the **Fill** and **Outline** colour choosers to choose colours. To make black, slide both the **Saturation** and **Brightness** to `0`. To make white, slide the **Saturation** to `0` and the **Brightness** to `100`.
 
-![](images/black-colour.png) ![](images/white-colour.png)
+![Saturation and brightness sliders set to 0.](images/black-colour.png) ![Saturation and brightness sliders set to 100.](images/white-colour.png)
 
 Make sure that the eyeball is centred — move it so that the blue cross in the costume lines up with the grey crosshair in the Paint editor.
+
+![An animated image of a circle costume being dragged from the top left to fit with the circles centre over the crosshair icon.](images/eye-centre.gif)
 
 Draw a smaller perfect circle and position it on the right-hand side of the eyeball:
 
@@ -59,7 +64,6 @@ You could also draw circles inside circles, or use colour, to get different effe
 
 --- /collapse ---
 
-
 --- collapse ---
 ---
 title: Turn a round costume into an eyeball
@@ -67,11 +71,21 @@ title: Turn a round costume into an eyeball
 
 There are costumes in Scratch that you can edit to make silly eyes for your character.
 
-Use the Paint editor to change a costume. You could add circles, choose a different **Fill** colour, or remove parts of the costume to turn it into a silly eye.
-
-**Tip:** You will need to centre the **Eyeball** costume in the Paint editor so that it rotates smoothly as it turns. Use the crosshair to centre the costume. The black pupil and coloured iris need to be positioned on the right-hand side of the costume so that the **Eyeball** follows the mouse pointer.
-
 ![Existing Scratch costumes as eyeballs.](images/costume-eyes.gif)
+
+Click on the **Choose a Costume** icon to see the library Scratch costumes.
+
+![The Choose a Costume icon.](images/choose-a-costume.png)
+
+Click on the costume you want to add to your sprite.
+
+Use the Paint editor to change the costume. You could add circles, choose a different **Fill** colour, or remove parts of the costume to turn it into a silly eye.
+
+Make sure that the eyeball is centred — move it so that the blue cross in the costume lines up with the grey crosshair in the Paint editor.
+
+![An animated image of a ball costume being dragged from the top left to fit with the balls centre over the crosshair icon.](images/crosshair-centre.gif)
+
+**Tip:** The black pupil and coloured iris need to be positioned on the right-hand side of the costume so that the **Eyeball** follows the mouse pointer.
 
 ![The Paint editor showing an edited button1 costume.](images/button-eye.png)
 
@@ -93,7 +107,13 @@ Drag the **Eyeball** sprite to position it on the Stage, and change its size to 
 
 --- /task ---
 
-Now, make the eyeball look at the `mouse-pointer`{:class="block3motion"}.
+Now, make the eyeball look at the `mouse-pointer`{:class="block3motion"} so that the user can interact with your project.
+
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
+<span style="color: #0faeb0">**User**</span> means the person using the project (not just making it), and <span style="color: #0faeb0">**user interaction**</span> is how the project reacts to the user doing things such as moving the mouse and clicking on the screen. 
+</p>
+
+### Code your eyeball
 
 --- task ---
 
@@ -116,16 +136,19 @@ end
 
 --- /task ---
 
-
-If your character only has one eye, then you have finished.
+### Add another eyeball
 
 --- task ---
 
-Otherwise, right-click (or on a tablet, tap and hold) on the **Eyeball** sprite in the Sprite list and choose **duplicate** to create more silly eyes.
+To add another eye, right-click (or on a tablet, tap and hold) on the **Eyeball** sprite in the Sprite list and choose **duplicate**.
+
+![Example eyeballs in pairs. One drawn from scratch and another made from the ball sprite.](images/duplicate-eyes.png)
 
 [[[scratch3-duplicate-sprite]]]
 
 --- /task ---
+
+### Test your silly eyes
 
 --- task ---
 
@@ -225,7 +248,4 @@ You might find a bug that is not listed here. Can you work out how to fix it?
 
 We love hearing about your bugs and how you fixed them. Use the **Send feedback** button at the bottom of this page and tell us if you found a different bug in your project.
 
-
 --- /task ---
-
---- save ---
