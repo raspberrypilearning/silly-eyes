@@ -1,32 +1,33 @@
 ---
-title: Silly eyes
+title: नासमझ आँखें
 hero_image: images/banner.png
-description: Create your own app with a character whose eyes follow the mouse pointer
+description: एक पात्र के साथ अपना खुद का ऐप बनाएं, जिसकी आंखें माउस पॉइंटर का अनुसरण करे।
 version: 4
 listed: true
 copyedit: false
-last_tested: "2021-02-25"
+last_tested: '2021-02-25'
 steps:
   - 
-    title: Introduction
+    title: You will make
   - 
-    title: Your character
+    title: Create your character
   - 
-    title: Make silly eyes
-    completion: engaged
+    title: नासमझ आँखें बनायें
+    completion:
+      - engaged
   - 
-    title: Sprite effects
+    title: Add sprite effects
+    completion:
+      - internal
   - 
-    title: Stage effects
-    completion: internal
-  - 
-    title: Reflection
-    completion: external
+    title: Quick quiz
     knowledge_quiz:
       path: quiz1
       version: 1
       questions: 3
       passing_score: 3
+    completion:
+      - external
   - 
     title: Upgrade your project
   - 
