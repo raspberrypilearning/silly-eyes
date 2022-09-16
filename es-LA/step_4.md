@@ -43,42 +43,41 @@ Si quieres que ambos ojos tengan el mismo efecto, tienes que copiar tu script al
 
 ### Efectos para personajes
 
-Si lo desearas, también puedes hacer que tu objeto **personaje** cambie de color y que tenga otros efectos gráficos cuando hagas clic en él.
-
 --- task ---
 
-Haz clic en tu objeto **personaje** en la Lista de objetos, luego haz clic en la pestaña **Código**.
+Click on your **character** sprite in the Sprite list, then click on the **Code** tab.
 
-Agrega el mismo script que usaste para cambiar el color de ojos. ¿Qué efectos gráficos deseas cambiar para tu **personaje**?
+Add the same script as you used to change the eye colour. Which graphic effects do you want to change for your **character**?
 
-**Elige:** Elige un efecto en el Menú desplegable dentro del `cambiar el efecto color en`{: class = "block3looks"}. Experimenta con los números hasta que tengas un cambio que te guste.
+**Choose:** Choose an effect in the drop-down menu within the `change color effect by`{:class="block3looks"} block. Experiment with the numbers and effects until you have a change that you like.
 
 [[[scratch3-graphic-effects]]]
 
 --- /task ---
 
-Ahora, agrega un **accesorio**, como un sombrero, que cambia cuando haces clic en él; usa el bloque `siguiente disfraz`{:class="block3looks"}.
+### An accessory
+
+Now, add an **accessory**, such as a hat, that changes when you click on it — use the `next costume`{:class="block3looks"} block.
 
 --- task ---
 
-**Elige:** Agrega un cambio de accesorio o de disfraz de tu elección.
+**Choose:** Add an accessory change or costume change of your choice.
 
-
-![Objetos con accesorios.](images/accessory-sprite.png)
+![Sprites with accessories.](images/accessory-sprite.png)
 
 --- collapse ---
 ---
 title: Haz que un objeto cambie de disfraz cuando hagas clic en él
 ---
 
-**Gobo con accesorios de disfraz**: [Ver dentro](https://scratch.mit.edu/projects/496334057/editor){:target="_ blank"}
+**Gobo with costume accessories**: [See inside](https://scratch.mit.edu/projects/496334057/editor){:target="_blank"}
 <div class="scratch-preview">
 <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/496334057/?autostart=false" frameborder="0"></iframe>
 </div>
 
-Algunos objetos ya tienen una selección de disfraces.
+Some sprites already have a choice of costumes.
 
-Puedes agregar código para hacer que el disfraz de un objeto cambie al `siguiente disfraz`{:class="block3looks"} cuando haces clic en el objeto:
+You can add code to make a sprite's costume change to the `next costume`{:class="block3looks"} when you click on the sprite:
 
 ```blocks3
 when this sprite clicked
@@ -87,7 +86,7 @@ next costume
 
 --- /collapse ---
 
-Si tu objeto no tiene una opción de disfraces, o quieres agregar más, puedes agregar cualquier disfraz a un objeto.
+If your sprite does not have a choice of costumes, or you want to add more, you can add any costume to a sprite.
 
 [[[scratch3-add-costumes-to-a-sprite]]]
 
@@ -95,7 +94,9 @@ Si tu objeto no tiene una opción de disfraces, o quieres agregar más, puedes a
 
 --- task ---
 
-**Prueba:** Trabaja en tus objetos hasta que interactúen de la forma que desees. Prueba un cambio a la vez y prueba lo que hace, de tal manera que puedas detectar fácilmente cada cambio y deshacer cualquier cosa que no le guste.
+**Test:** Work on your sprites until they interact in the way that you want.
+
+**Tip:** Try one change at a time and test what it does so that you can easily spot each change and undo anything that you do not like.
 
 --- /task ---
 
@@ -123,5 +124,16 @@ clear graphic effects
 
 --- /task ---
 
---- save ---
+--- task ---
+
+**Test:** Test your project again, but this time, make it full-screen so that you can see how it will appear to someone looking at it.
+
+[[[scratch3-full-screen]]]
+
+--- /task ---
+
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
+By making your project full-screen, you are seeing what you have made from the perspective of a user who is playing with your project. **User interaction** is important in digital making. 
+</p>
+
 
