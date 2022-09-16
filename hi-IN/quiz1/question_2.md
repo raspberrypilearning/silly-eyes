@@ -1,9 +1,9 @@
 --- question ---
 ---
-legend: Question 2 of 3
+legend: 3 प्रश्नों में दूसरा
 ---
 
-To make the rocket interactive, the **rocket** sprite has this script:
+रॉकेट को इंटरैक्टिव बनाने के लिए, **rocket** स्प्राइट में यह स्क्रिप्ट है:
 
 ```blocks3
 when flag clicked
@@ -13,39 +13,39 @@ point towards (mouse-pointer v)
 end
 ```
 
-Which **rocket** costume should we use so that the top of the rocket will point towards the mouse pointer?
+रॉकेट का टॉप माउस पॉइंटर की ओर संकेत करने के लिए हमें किस **rocket** पोशाक का उपयोग करना चाहिए?
 
 --- choices ---
 
-- ( ) ![A rocket pointing to the left-hand side.](images/rocket_left.png)
+- ( ) ![बाईं ओर संकेत करते हुआ एक रॉकेट।](images/rocket_left.png)
 
   --- feedback ---
 
-If the rocket is pointing to the left-hand side, the rocket will be facing the opposite direction to (away from) the mouse pointer when it rotates.
+यदि रॉकेट बाईं ओर संकेत कर रहा है, तो रॉकेट घुमाए जाने पर माउस पॉइंटर के विपरीत (दूर) दिशा का सामना करेगा।
 
   --- /feedback ---
 
-- ( ) ![A rocket facing down.](images/rocket_down.png)
+- ( ) ![नीचे की ओर एक रॉकेट।](images/rocket_down.png)
 
   --- feedback ---
 
-If the rocket is facing down, it will be facing a different direction to the mouse pointer when it rotates.
+यदि रॉकेट नीचे की ओर है, तब ये घूमने पर माउस पॉइंटर की एक अलग दिशा का सामना करेगा।
 
   --- /feedback ---
 
-- (x) ![A rocket pointing to the right-hand side.](images/rocket_right.png)
+- (x) ![दाहिने हाथ की ओर संकेत करते हुए एक रॉकेट।](images/rocket_right.png)
 
   --- feedback ---
 
-If the rocket is pointing to the right-hand side, the rocket is in the default position for correctly pointing towards your mouse pointer if the rotation style is set to `all around`{:class="block3motion"}.
+यदि रॉकेट दाईं ओर संकेत कर रहा है, तो रॉकेट आपके माउस पॉइंटर की ओर सही ढंग से संकेत करने के लिए डिफ़ॉल्ट स्थिति में है अगर रोटेशन शैली को`all around`{:class="block3motion"} सेट किया गया है।
 
   --- /feedback ---
 
-- ( ) ![A rocket facing up.](images/rocket_up.png)
+- ( ) ![ऊपर की ओर एक रॉकेट।](images/rocket_up.png)
 
   --- feedback ---
 
-If the rocket is facing up, it will be facing a different direction to the mouse pointer when it rotates.
+यदि रॉकेट ऊपर की ओर है, तब ये घूमने पर माउस पॉइंटर की एक अलग दिशा का सामना करेगा।
 
   --- /feedback ---
 
