@@ -43,42 +43,41 @@ change [color v] effect by (25)
 
 ### Εφέ χαρακτήρων
 
-Εάν θέλεις, μπορείς επίσης να κάνεις το αντικείμενο **χαρακτήρα** να αλλάξει χρώμα και εφέ γραφικών όταν κάνεις κλικ σε αυτό.
-
 --- task ---
 
-Κάνε κλικ στον **χαρακτήρα** στη λίστα αντικειμένων και στη συνέχεια, κάνε κλικ στην καρτέλα **Κώδικας**.
+Click on your **character** sprite in the Sprite list, then click on the **Code** tab.
 
-Πρόσθεσε το ίδιο script που χρησιμοποίησες για να αλλάξει το χρώμα των ματιών. Ποια εφέ γραφικών θέλεις να αλλάξεις για τον **χαρακτήρα ** σου;
+Add the same script as you used to change the eye colour. Which graphic effects do you want to change for your **character**?
 
-**Επιλογή:** Επίλεξε ένα εφέ από το μενού `άλλαξε εφέ χρώματος κατά`{: class = "block3looks"}. Πειραματίσου με τους αριθμούς μέχρι να έχεις μια αλλαγή που σου αρέσει.
+**Choose:** Choose an effect in the drop-down menu within the `change color effect by`{:class="block3looks"} block. Experiment with the numbers and effects until you have a change that you like.
 
 [[[scratch3-graphic-effects]]]
 
 --- /task ---
 
-Τώρα, πρόσθεσε ένα **αξεσουάρ**, όπως ένα καπέλο, που αλλάζει όταν κάνεις κλικ πάνω του - χρησιμοποίησε το μπλοκ`επόμενη ενδυμασία`{: class = «block3looks»}.
+### An accessory
+
+Now, add an **accessory**, such as a hat, that changes when you click on it — use the `next costume`{:class="block3looks"} block.
 
 --- task ---
 
-**Επίλεξε:** Πρόσθεσε αλλαγή αξεσουάρ ή αλλαγή ενδυμασίας της επιλογής σου.
+**Choose:** Add an accessory change or costume change of your choice.
 
-
-![Αντικείμενα με αξεσουάρ.](images/accessory-sprite.png)
+![Sprites with accessories.](images/accessory-sprite.png)
 
 --- collapse ---
 ---
 title: Κάνε μια αλλαγή ενδυμασίας στο αντικείμενο όταν κάνεις κλικ
 ---
 
-**Gobo με αξεσουάρ ενδυμασιών**: [Δες μέσα](https://scratch.mit.edu/projects/496334057/editor){: target = "_ blank"}
+**Gobo with costume accessories**: [See inside](https://scratch.mit.edu/projects/496334057/editor){:target="_blank"}
 <div class="scratch-preview">
 <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/496334057/?autostart=false" frameborder="0"></iframe>
 </div>
 
-Ορισμένα sprites έχουν ήδη επιλογή ενδυμασιών.
+Some sprites already have a choice of costumes.
 
-Μπορείς να προσθέσεις κώδικα για να κάνεις να αλλάξει η ενδυμασία στην`επόμενη ενδυμασία`{:class="block3looks"} όταν κάνεις κλικ στο αντικείμενο:
+You can add code to make a sprite's costume change to the `next costume`{:class="block3looks"} when you click on the sprite:
 
 ```blocks3
 when this sprite clicked
@@ -87,7 +86,7 @@ next costume
 
 --- /collapse ---
 
-Εάν το αντικείμενό σου δεν έχει επιλογή ενδυμασιών ή θέλεις να προσθέσεις περισσότερες, μπορείς να προσθέσεις οποιαδήποτε ενδυμασία σε ένα αντικείμενο.
+If your sprite does not have a choice of costumes, or you want to add more, you can add any costume to a sprite.
 
 [[[scratch3-add-costumes-to-a-sprite]]]
 
@@ -95,7 +94,9 @@ next costume
 
 --- task ---
 
-**Δοκιμή:** Δούλεψε τα αντικείμενά σου μέχρι να αλληλεπιδράσουν με τον τρόπο που θέλεις. Κάνε μία αλλαγή τη φορά και έλεγξε τι κάνει, ώστε να μπορείς εύκολα να εντοπίσεις κάθε αλλαγή και να αναιρέσεις οτιδήποτε δεν σου αρέσει.
+**Test:** Work on your sprites until they interact in the way that you want.
+
+**Tip:** Try one change at a time and test what it does so that you can easily spot each change and undo anything that you do not like.
 
 --- /task ---
 
@@ -123,5 +124,16 @@ clear graphic effects
 
 --- /task ---
 
---- save ---
+--- task ---
+
+**Test:** Test your project again, but this time, make it full-screen so that you can see how it will appear to someone looking at it.
+
+[[[scratch3-full-screen]]]
+
+--- /task ---
+
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
+By making your project full-screen, you are seeing what you have made from the perspective of a user who is playing with your project. **User interaction** is important in digital making. 
+</p>
+
 
