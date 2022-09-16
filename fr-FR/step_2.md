@@ -2,7 +2,7 @@
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-As-tu une idée de ton propre personnage ? Maintenant, tu peux le préparer pour les yeux idiots !
+Use your design skills to add a character sprite and suitable backdrop. 
 </div>
 <div>
 
@@ -11,21 +11,36 @@ As-tu une idée de ton propre personnage ? Maintenant, tu peux le préparer pour
 </div>
 </div>
 
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
+<span style="color: #0faeb0">**Design**</span> means deciding on the way that a project looks and making decisions about what it does. 
+</p>
+
+### Open the starter project
+
 --- task ---
 
-Ouvre le [Des yeux stupides projet de démarrage](https://scratch.mit.edu/projects/582221984/editor){:target="_blank"}. Scratch s'ouvrira dans un autre onglet du navigateur.
+Open the [Silly eyes starter project](https://scratch.mit.edu/projects/582221984/editor){:target="_blank"}. Scratch will open in another browser tab.
 
 [[[working-offline]]]
 
+⏱️ Not much time? You can start from one of the [examples](https://scratch.mit.edu/studios/29029028){:target="_blank"}.
+
 --- /task ---
+
+### Choose your sprite and backdrop
 
 --- task ---
 
-**Choisis :** Choisis un sprite **ou** crée ton propre sprite simple dans l'éditeur de peinture.
+**Choose:** Add a **sprite** and a **backdrop** for your silly eyes project.
 
-Tu n'as pas à choisir une personne ou un animal. Tu peux choisir un objet, comme le donut.
++ What does your character look like? A person 🧜🏽‍♀️, animal 🐶 or object 🧸.
++ Where do you want your character to live? Somewhere sensible 🏠 or silly 🎪.
+
+![The add sprite icon and add backdrop icon side by side.](images/sprite-and-backdrop.png)
 
 [[[generic-scratch3-sprite-from-library]]]
+
+[[[generic-scratch3-backdrop-from-library]]]
 
 [[[scratch3-backdrops-and-sprites-using-shapes]]]
 
@@ -34,34 +49,30 @@ Tu n'as pas à choisir une personne ou un animal. Tu peux choisir un objet, comm
 title : Obtenir un sprite surprise
 ---
 
-Tu ne sais pas quel sprite choisir ? Va dans le **Choisir un Sprite** et choisis l'option **Surprise** pour ajouter un sprite surprise dans ton projet.
+Not sure which sprite to choose? Go to the **Choose a Sprite** menu and choose the **Surprise** option to add a surprise sprite to your project.
 
-![L'option « Surprise » dans le menu « Choisir un Sprite ».](images/surprise-sprite.png)
+![The 'Surprise' option in the 'Choose a Sprite' menu.](images/surprise-sprite.png)
 
 --- /collapse ---
 
-**Astuce :** Si tu crée ton propre sprite dans l'éditeur Paint, **n'ajoute pas encore des yeux, car ils doivent être des sprites séparés.**
+**Tip:** If you create your own sprite in the Paint editor, **don't add eyes yet, because they need to be separate sprites.**
 
 --- /task ---
 
-Pour le moment, ton personnage sera beaucoup plus petit que les personnages de nos exemples de projets. Tu peux agrandir ton personnage pour qu'il remplisse plus l'écran.
+### Resize your sprite
 
 --- task ---
 
-Dans le volet Sprite, remplace le nombre de la **Taille** par un nombre de ton choix.
+In the Sprite pane, change the number in the **Size** property to a number that makes your character fill the Stage.
 
 ![](images/size-property.png){:width="500px"}
 
 --- /task ---
 
-Où veux-tu que ton personnage vive ?
-
 --- task ---
 
-**Choisir :** Choisis une toile de fond qui est raisonnable ou stupide.
+Look at the Stage. You will see your large character and chosen backdrop.
 
-[[[generic-scratch3-backdrop-from-library]]]
+![](images/large-sprite-stage.png){:width="500px"}
 
 --- /task ---
-
---- save ---
