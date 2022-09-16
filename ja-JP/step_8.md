@@ -1,23 +1,22 @@
-## 共有
+## What next?
 
-クラブにいる場合は、プロジェクトを友人や仲間と共有してみませんか？
+If you are following the [Introduction to Scratch](https://projects.raspberrypi.org/en/pathways/scratch-intro) pathway, you can move on to the [Surprise! animation](https://projects.raspberrypi.org/en/projects/surprise-animation) project. In this project, you will make an animation of a story with a surprise.
 
-プロジェクトがどのように機能するかを家族に示すこともできます。
+--- print-only ---
 
-Scratchアカウントをお持ちの場合は、Scratchを介してプロジェクトを共有できます。 あなたはあなたが知っている人々にリンクを送ることができ、そしてスクラッチコミュニティ全体があなたのプロジェクトを見つけてそれを試すことができるでしょう。
+![A 'Surprise! animation' project.](images/surprise-story.png)
 
-[[[share-scratch]]]
+--- /print-only ---
 
-友達を招待してプロジェクトを作ってみませんか？ あなたがどのように楽しんだかを彼らに知らせてください。
+--- no-print ---
 
-Scratchアカウントを持っていて、「おかしな目」プロジェクトを共有している場合は、他の人が行うあなたの創作物へのコメントに注意してください。 フィードバックは、あなたの仕事を振り返るのに最適な方法です。 役に立たない、または無関係なコメントは無視してください。
+Click on the green flag to watch the animation:
 
-[[[comments-feedback-scratch]]]
+<div class="scratch-preview" style="margin-left: 15px;">
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/495932563/?autostart=false" frameborder="0"></iframe>
+</div>
 
---- task ---
+--- /no-print ---
 
-あなたのプロジェクトでRaspberry Pi財団コミュニティを刺激してください！
+If you want to have more fun exploring Scratch, then you could try out any of [these projects](https://projects.raspberrypi.org/en/projects?software%5B%5D=scratch&curriculum%5B%5D=%201).
 
-あなたのプロジェクトを ['Silly eyes — Community' Scratch studio](https://scratch.mit.edu/studios/29120534){:target="_blank"}に送るには、[このフォーム](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}を使ってください。
-
---- /task ---
