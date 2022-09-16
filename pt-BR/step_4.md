@@ -43,42 +43,41 @@ Se você quiser que ambos os globos oculares tenham o mesmo efeito, você precis
 
 ### Efeitos de personagem
 
-Se quiser, você também pode fazer seu **caractere** mudar de cor e outros efeitos gráficos quando você clicar nele.
-
 --- task ---
 
-Clique em seu **caractere** na lista de Atores e, em seguida, clique na guia **Código**.
+Click on your **character** sprite in the Sprite list, then click on the **Code** tab.
 
-Adicione o mesmo script que você usou para alterar a cor dos olhos. Quais efeitos gráficos você deseja alterar para o seu **caractere**?
+Add the same script as you used to change the eye colour. Which graphic effects do you want to change for your **character**?
 
-**Escolha:** Escolha um efeito no menu suspenso dentro de `altere o efeito de cor por`{:class="block3looks"}. Experimente com os números até que você tenha uma mudança que você goste.
+**Choose:** Choose an effect in the drop-down menu within the `change color effect by`{:class="block3looks"} block. Experiment with the numbers and effects until you have a change that you like.
 
 [[[scratch3-graphic-effects]]]
 
 --- /task ---
 
-Agora, adicione um **acessório**, como um chapéu, que muda quando você clica nele - use os `próximos blocos de trajes`{:class="block3looks"}.
+### An accessory
+
+Now, add an **accessory**, such as a hat, that changes when you click on it — use the `next costume`{:class="block3looks"} block.
 
 --- task ---
 
-**Escolha:** Adicione uma mudança de acessório ou roupa de sua escolha.
+**Choose:** Add an accessory change or costume change of your choice.
 
-
-![Atores com acessórios.](images/accessory-sprite.png)
+![Sprites with accessories.](images/accessory-sprite.png)
 
 --- collapse ---
 ---
 title: Faça um ator mudar de roupa quando clicado
 ---
 
-**Gobo com acessórios de traje**: [Veja interior](https://scratch.mit.edu/projects/496334057/editor){:target="_ blank"}
+**Gobo with costume accessories**: [See inside](https://scratch.mit.edu/projects/496334057/editor){:target="_blank"}
 <div class="scratch-preview">
 <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/496334057/?autostart=false" frameborder="0"></iframe>
 </div>
 
-Alguns atores já têm uma escolha de fantasias.
+Some sprites already have a choice of costumes.
 
-Você pode adicionar um código para fazer a mudança da fantasia de um ator para a `próxima fantasia`{:class="block3looks"} ao clicar no ator:
+You can add code to make a sprite's costume change to the `next costume`{:class="block3looks"} when you click on the sprite:
 
 ```blocks3
 when this sprite clicked
@@ -87,7 +86,7 @@ next costume
 
 --- /collapse ---
 
-Se o seu ator não tiver uma fantasia escolhida, ou se você quiser adicionar mais, você pode adicionar qualquer fantasia a um ator.
+If your sprite does not have a choice of costumes, or you want to add more, you can add any costume to a sprite.
 
 [[[scratch3-add-costumes-to-a-sprite]]]
 
@@ -95,7 +94,9 @@ Se o seu ator não tiver uma fantasia escolhida, ou se você quiser adicionar ma
 
 --- task ---
 
-**Teste:** Trabalhe em seus atores até que eles interajam da maneira que você deseja. Experimente uma mudança de cada vez e teste o que ela faz para que você possa identificar facilmente cada mudança e desfazer qualquer coisa que não goste.
+**Test:** Work on your sprites until they interact in the way that you want.
+
+**Tip:** Try one change at a time and test what it does so that you can easily spot each change and undo anything that you do not like.
 
 --- /task ---
 
@@ -123,5 +124,16 @@ clear graphic effects
 
 --- /task ---
 
---- save ---
+--- task ---
+
+**Test:** Test your project again, but this time, make it full-screen so that you can see how it will appear to someone looking at it.
+
+[[[scratch3-full-screen]]]
+
+--- /task ---
+
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
+By making your project full-screen, you are seeing what you have made from the perspective of a user who is playing with your project. **User interaction** is important in digital making. 
+</p>
+
 
