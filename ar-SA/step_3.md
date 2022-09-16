@@ -2,9 +2,8 @@
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-في هذه الخطوة ، ستجعل العيون المضحكة! يجب أن تكون كل عين كائنًا منفصلاً حتى تتمكن من التحرك بشكل منفصل.
+Make the silly eyes! يجب أن تكون كل عين كائنًا منفصلاً حتى تتمكن من التحرك بشكل منفصل.
 
-إذا كنت بحاجة إلى مساعدة ، فراجع النصائح ** تصحيح الأخطاء ** في أسفل هذه الخطوة.
 </div>
 <div>
 
@@ -13,6 +12,8 @@
 
 </div>
 </div>
+
+### Draw an eyeball
 
 --- task ---
 
@@ -32,48 +33,61 @@
 
 **اختر:** ارسم مقلة العين**أو** ابدأ من كائن دائري.
 
+![Example eyeballs. One drawn from scratch, another taken from the beachball and the third from a baseball.](images/make-an-eye.png)
+
 --- collapse ---
 ---
 العنوان: ارسم مقلة العين في محرر الرسام
 ---
 
-حدد أداة **الدائرة**
+Select the **Circle** tool.
 
-لرسم دائرة مثالية ، اضغط مع الاستمرار على مفتاح <kbd></kbd> على لوحة المفاتيح أثناء الرسم باستخدام أداة **دائرة ** إذا كنت تستخدم جهازًا لوحيًا ، فحاول الاقتراب من دائرة مثالية قدر الإمكان.
+To draw a perfect circle, press and hold the <kbd>Shift</kbd> key on the keyboard while you draw with the **Circle** tool. If you are using a tablet, try to get as close to a perfect circle as you can.
 
-في هذا المثال ، قمنا بتعيين **الاطار** إلى الأسود و **ملء** من لون مقلة العين إلى الأبيض:
+In this example, we set the **Outline** to black and the **Fill** colour of the eyeball to white:
 
-![مقلة عين بيضاء مع مخطط أسود.](images/eyeball-outline.png)
+![A white eyeball with a black outline.](images/eyeball-outline.png)
 
-استخدم **ملء** و **الاطار** لاختيار الألوان. لجعل منزلق اللون الاسود **تشبع** و **السطوع من** إلى `0`. لجعل منزلق الأبيض **التشبع** إلى `0` و **السطوع** إلى `100`.
+Use the **Fill** and **Outline** colour choosers to choose colours. To make black, slide both the **Saturation** and **Brightness** to `0`. To make white, slide the **Saturation** to `0` and the **Brightness** to `100`.
 
-![](images/black-colour.png) ![](images/white-colour.png)
+![Saturation and brightness sliders set to 0.](images/black-colour.png) ![Saturation and brightness sliders set to 100.](images/white-colour.png)
 
-تأكد من أن مقلة العين في المنتصف - حركها بحيث يصطف الصليب الأزرق في المظهر مع التقاطع الرمادي في محرر الرسام.
+Make sure that the eyeball is centred — move it so that the blue cross in the costume lines up with the grey crosshair in the Paint editor.
 
-ارسم دائرة مثالية أصغر وضعها على الجانب الأيمن من مقلة العين:
+![An animated image of a circle costume being dragged from the top left to fit with the circles centre over the crosshair icon.](images/eye-centre.gif)
 
-![مقلة العين مع قزحية حمراء وبؤبؤ أسود على الجانب الأيمن.](images/eyeball-with-iris.png)
+Draw a smaller perfect circle and position it on the right-hand side of the eyeball:
 
-يمكنك أيضًا رسم دوائر داخل دوائر ، أو استخدام الألوان للحصول على تأثيرات مختلفة.
+![An eyeball with a red iris and black pupil on the right-hand side.](images/eyeball-with-iris.png)
+
+You could also draw circles inside circles, or use colour, to get different effects.
 
 --- /collapse ---
-
 
 --- collapse ---
 ---
 العنوان: دور مظهراً مستديرًا إلى مقلة عين
 ---
 
-هناك مظاهر في Scratch يمكنك تعديلها لتكوين عيون مضحكة لشخصيتك.
-
-استخدم محرر الرسام لتغيير مظهر. يمكنك إضافة دوائر ، واختيار **ملء** ، أو إزالة أجزاء من المظهر لتحويله إلى عين مضحكة.
-
-**نصيحة:** ستحتاج إلى توسيط **مقلة العين** في محرر الرسام بحيث يدور بسلاسة أثناء دورانه. استخدم علامة التقاطع لتوسيط المظهر. بؤبؤ العين والقزحية الملونة تحتاج إلى وضعه على الجانب الأيمن من المظهر بحيث **مقلة العين** يتبع مؤشر الماوس.
+There are costumes in Scratch that you can edit to make silly eyes for your character.
 
 ![مظاهر Scratch موجودة مثل مقل العيون.](images/costume-eyes.gif)
 
-![يعرض محرر الرسام مظهر محرر زر1.](images/button-eye.png)
+Click on the **Choose a Costume** icon to see the library Scratch costumes.
+
+![The Choose a Costume icon.](images/choose-a-costume.png)
+
+Click on the costume you want to add to your sprite.
+
+Use the Paint editor to change the costume. You could add circles, choose a different **Fill** colour, or remove parts of the costume to turn it into a silly eye.
+
+Make sure that the eyeball is centred — move it so that the blue cross in the costume lines up with the grey crosshair in the Paint editor.
+
+![An animated image of a ball costume being dragged from the top left to fit with the balls centre over the crosshair icon.](images/crosshair-centre.gif)
+
+**Tip:** The black pupil and coloured iris need to be positioned on the right-hand side of the costume so that the **Eyeball** follows the mouse pointer.
+
+![The Paint editor showing an edited button1 costume.](images/button-eye.png)
 
 --- /collapse ---
 
@@ -81,23 +95,29 @@
 
 --- task ---
 
-قم بتسمية الكائن الخاص بك `مقلة العين` في جزء الشخصية.
+Name your sprite `Eyeball` in the Sprite pane.
 
-![تم تعيين اسم الكائن على "مقلة العين" في جزء الشخصية.](images/eyeball-name.png)
+![The sprite's name set to 'Eyeball' in the Sprite pane.](images/eyeball-name.png)
 
 --- /task ---
 
 --- task ---
 
-اسحب كائن **مقلة العين** لوضعه على المنصة ، وقم بتغيير حجمه ليناسب شخصيتك.
+Drag the **Eyeball** sprite to position it on the Stage, and change its size to fit your character.
 
 --- /task ---
 
-الآن ، اجعل مقلة العين تنظر إلى `مؤشر الماوس`{: class = "block3motion"}.
+Now, make the eyeball look at the `mouse-pointer`{:class="block3motion"} so that the user can interact with your project.
+
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
+<span style="color: #0faeb0">**User**</span> means the person using the project (not just making it), and <span style="color: #0faeb0">**user interaction**</span> is how the project reacts to the user doing things such as moving the mouse and clicking on the screen. 
+</p>
+
+### Code your eyeball
 
 --- task ---
 
-أضف نصًا إلى `اضبط نمط التدوير`{: class = "block3motion"} على `جميع أنحاء`{: class = "block3motion"} لجعل مقلة العين `باتجاه مؤشر الماوس`{: class = "block3motion"} `للأبد`{: class = "block3control"}.
+Add a script to `set the rotation style`{:class="block3motion"} to `all around`{:class="block3motion"} to make the eyeball `point towards the mouse pointer`{:class="block3motion"} `forever`{:class="block3control"}.
 
 --- collapse ---
 ---
@@ -116,35 +136,38 @@ end
 
 --- /task ---
 
-
-إذا كانت شخصيتك لها عين واحدة فقط ، فقد انتهيت.
+### Add another eyeball
 
 --- task ---
 
-بخلاف ذلك ، انقر بزر الماوس الأيمن (أو على جهاز لوحي ، انقر مع الاستمرار) على **مقلة العين** كائن في قائمة الكائن واختر **مضاعفة** لإنشاء المزيد من العيون المضحكة.
+To add another eye, right-click (or on a tablet, tap and hold) on the **Eyeball** sprite in the Sprite list and choose **duplicate**.
+
+![Example eyeballs in pairs. One drawn from scratch and another made from the ball sprite.](images/duplicate-eyes.png)
 
 [[[scratch3-duplicate-sprite]]]
 
 --- /task ---
 
+### Test your silly eyes
+
 --- task ---
 
-**اختبار:** انقر فوق العلم الأخضر واختبر مشروعك. هل تتبع العيون المضحكة مؤشر الماوس أثناء تحريك الماوس؟
+**Test:** Click on the green flag and test your project. Do the silly eyes follow your mouse pointer as you move the mouse around?
 
-**نصيحة:** لست مضطرًا للاحتفاظ بمؤشر الماوس على المنصة. سوف تتبع العيون مؤشر الماوس الخاص بك بينما تستمر في البرمجة في Scratch.
+**Tip:** You don't have to keep the mouse pointer on the Stage. The eyes will follow your mouse pointer as you carry on coding in Scratch.
 
 --- /task ---
 
 --- task ---
 
-**تصحيح:** قد تجد بعض الأخطاء في مشروعك والتي تحتاج إلى إصلاحها. فيما يلي بعض الأخطاء الشائعة:
+**Debug:** You might find some bugs in your project that you need to fix. Here are some common bugs:
 
 --- collapse ---
 ---
 العنوان: العيون لا تتحرك
 ---
 
-تأكد من أنك أضفت التعليمات البرمجية إلى **مقلة العين** كائنات و **نقرت على العلم الأخضر**. لن يتم تشغيل التعليمات البرمجية الخاص بك حتى تضغط على العلم الأخضر.
+Make sure that you have added the code to the **Eyeball** sprites and **clicked on the green flag**. Your code will not run until you click on the green flag.
 
 --- /collapse ---
 
@@ -153,15 +176,15 @@ end
 العنوان: تشير او حركة العيون بعيدًا عن الماوس
 ---
 
-في **مقلة العين** ، تحقق من أن بؤبؤ العين على الجانب الأيمن (بعد الصليب الأزرق في منتصف الكائن).
+In the **Eyeball** costumes, check that the pupil is on the right-hand side (past the blue cross in the middle of the costume).
 
-تحتوي كائنات **مقلة العين** `حول`{: class = "block3motion"} `نمط دوران`{: class = "block3motion"} ، حتى تتمكن من الدوران في أي اتجاه.
+The **Eyeball** sprites have the `all around`{:class="block3motion"} `rotation style`{:class="block3motion"}, so they can rotate in any direction.
 
-عندما **مقل العيون** تناوب على `نقطة نحو`{: فئة = "block3motion"} في `الماوس المؤشر`{: فئة = "block3motion"}، فإن بؤبؤ العين يكون الأقرب إلى مؤشر الماوس.
+When the **Eyeballs** rotate to `point towards`{:class="block3motion"} the `mouse-pointer`{:class="block3motion"}, the pupils will be closest to the mouse pointer.
 
-![وضع بؤبؤ العين على الجانب الأيمن من مظهر مقلة العين.](images/eye-right.gif)
+![Placing the pupil on the right-hand side of an eyeball costume.](images/eye-right.gif)
 
-![مظهر مقلة العين مع بؤبؤ العين على الجانب الأيمن.](images/eye-costume.png)
+![An eyeball costume with the pupil on the right-hand side.](images/eye-costume.png)
 
 --- /collapse ---
 
@@ -170,11 +193,11 @@ end
 العنوان: العيون تقفز حول المسرح
 ---
 
-تأكد من أن مظاهر**مقلة العين** لتوسيط مظهرما ، اسحب المظهر بحيث يصطف الصليب الأزرق في المظهر مع علامة التقاطع الرمادية في محرر الرسام.
+Check that the **Eyeball** costumes are centred. To centre a costume, drag the costume so that the blue cross in the costume lines up with the grey crosshair in the Paint editor.
 
-![توسيط مظهر مقلة العين في محرر الرسام.](images/eye-centered.gif)
+![Centring an eyeball costume in the Paint editor.](images/eye-centered.gif)
 
-![مظهر مقلة العين متمركز في محرر الرسام.](images/eye-costume.png)
+![An eyeball costume centred in the Paint editor.](images/eye-costume.png)
 
 --- /collapse ---
 
@@ -183,9 +206,9 @@ end
 العنوان: الشخصية أمام العينين
 ---
 
-عندما تسحب كائنًا لوضعه على المنصة ، فإنه يتحرك أمام الكائنات الأخرى.
+When you drag a sprite to position it on the Stage, it moves in front of the other sprites.
 
-للحصول على **شخصيتك** الكائن إلى البقاء في `الخلف`{: فئة = "block3looks"}، الاستخدام:
+To get your **character** sprite to stay at the `back`{:class="block3looks"}, use:
 
 ```blocks3
 when green flag clicked
@@ -200,11 +223,11 @@ go to [back v] layer // behind all other sprites
 العنوان: تتبع الشخصية والعينان مؤشر الماوس
 ---
 
-هل إضافة عيون والأزياء الخاصة بك **شخصية** بدلا من الأزياء للكائنات منفصلة؟ يمكنك إصلاح ذلك.
+Did you add the eyes as costumes for your **character** instead of as costumes for separate sprites? You can fix that.
 
-تتمثل إحدى طرق إصلاحه في تكرار **شخصية** ثم إعادة تسمية النسخة `مقلة العين`. ثم، حذف ازياء  **مقلة العين** من **الشخصية** شخصية، وحذف **شخصية** ازياء من **مقلة العين** شخصية. بعد ذلك ، يمكنك نسخ **مقلة العين** وتسمية النسخة `مقلة العين2`.
+One way to fix it is to duplicate the **character** sprite and then rename the copy `Eyeball`. Then, delete the **Eyeball** costumes from the **character** sprite, and delete the **character** costumes from the **Eyeball** sprite. Then, you can duplicate the **Eyeball** sprite and name the copy `Eyeball 2`.
 
-يجب أن يكون الرمز إلى `نقطة باتجاه`{: class = "block3motion"} `مؤشر الماوس`{: class = "block3motion"} على **Eyeball** sprites وليس على **شخصية** الكائن.
+The code to `point towards`{:class="block3motion"} the `mouse-pointer`{:class="block3motion"} should be on the **Eyeball** sprites and not the **character** sprite.
 
 --- /collapse ---
 
@@ -213,19 +236,16 @@ go to [back v] layer // behind all other sprites
 العنوان: الشخصية تتبع مؤشر الماوس (والعينان لا)
 ---
 
-تحتاج إلى إضافة `نقطة `{: class = "block3motion"} إلى كائنات**بؤبؤ العين** ، وليس **شخصية** الكائن الخاص بك!
+You need to add the `point towards`{:class="block3motion"} code to the individual **Eyeball** sprites, not your **character** sprite!
 
-لنسخ التعليمات البرمجية، يمكنك سحب التعليمة البرمجية من منطقة التعليمات البرمجية لـ**شخصيتك** إلى كائنات**بؤبؤ العين** في قائمة كائن.
+To copy the code, you can drag the code from the Code area for your **character** to the **Eyeball** sprites in the Sprite list.
 
-ستحتاج أيضًا إلى حذف البرنامج النصي من **شخصية**الكائن  للقيام بذلك ، اسحب التعليمة البرمجية إلى قائمة المقاطع البرمجية.
+You will also need to delete the script from the **character** sprite. To do this, drag the script to the Blocks menu.
 
 --- /collapse ---
 
-قد تجد خطأ غير مدرج هنا. هل يمكنك معرفة كيفية إصلاحه؟
+You might find a bug that is not listed here. Can you work out how to fix it?
 
-نحن نحب أن نسمع عن أخطائك وكيفية إصلاحها. استخدم **إرسال ملاحظات** في أسفل هذه الصفحة وأخبرنا إذا وجدت خطأً مختلفًا في مشروعك.
-
+We love hearing about your bugs and how you fixed them. Use the **Send feedback** button at the bottom of this page and tell us if you found a different bug in your project.
 
 --- /task ---
-
---- save ---
