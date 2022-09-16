@@ -1,23 +1,21 @@
-## Αναστοχασμός
+## Quick quiz
 
-Μπράβο, έμαθες πολλά! Τώρα, ήρθε η ώρα να εξετάσεις τις νέες γνώσεις- ο αναστοχασμός είναι σημαντικό μέρος της μάθησης, επειδή βοηθά στη δημιουργία νέων συνδέσεων στον εγκέφαλό σου.
+Answer the three questions. There are hints to guide you to the correct answer.
 
-Απάντησε στις τρεις ερωτήσεις παρακάτω για να διαπιστώσεις τι έμαθες.
+When you have answered each question, click on **Check my answer**.
 
-Όταν απαντήσεις σε κάθε ερώτηση, κάνε κλικ στην**Υποβολή**. Θα οδηγηθείς στη σωστή απάντηση. Μπορείς να επαναλάβεις αυτήν τη δραστηριότητα όσες φορές θέλεις.
-
-Καλή διασκέδαση!
+Have fun!
 
 --- question ---
 ---
 legend: Ερώτηση 1 από 3
 ---
 
-Προσθέσαμε αυτόν τον κώδικα σε ένα αντικείμενο **Μάτι**, αλλά ο βολβός του ματιού δεν περιστρέφεται όταν κινείται ο δείκτης του ποντικιού.
+We added this code to an **Eyeball** sprite, but the eyeball is not rotating when the mouse pointer moves.
 
-![Στιγμιότυπο οθόνης που δείχνει το σενάριο και τη Σκηνή. Το σενάριο δεν φωτίζεται με κίτρινο περίγραμμα. Τα μπλοκ στο σενάριο είναι "όταν γίνει κλικ στην πράσινη σημαία", "ορίστε τρόπο περιστροφής ", "για πάντα", "δείξε προς δείκτη ποντικιού".](images/code-not-running.png)
+![Screenshot showing the script and the Stage. The script is not glowing with a yellow outline. The blocks in the script are 'when green flag clicked', 'set rotation style all around', 'forever', 'point towards mouse-pointer'.](images/code-not-running.png)
 
-Πώς θα μπορούσες να διορθώσεις το πρόβλημα με μία μόνο ενέργεια;
+How could you fix the problem with just one action?
 
 --- choices ---
 
@@ -25,13 +23,13 @@ legend: Ερώτηση 1 από 3
 
   --- feedback ---
 
-Ναι! Μόνο η προσθήκη του σεναρίου (script) δεν το κάνει να τρέξει. Πρέπει να κάνεις κλικ στην πράσινη σημαία για να εκτελέσεις τον κώδικά σου.
+Yes! Just adding the script does not make it run. You need to click on the green flag to make your code run.
 
-Ο κώδικάς σου θα έχει ένα κίτρινο περίγραμμα γύρω του όταν εκτελείται.
+Your code will have a yellow outline around it when it is running.
 
-Το να ξεχάσεις να κάνεις κλικ στην πράσινη σημαία είναι ένα πολύ συνηθισμένο λάθος - όλοι το κάνουμε!
+Forgetting to click on the green flag is a really common mistake — we all do it!
 
-**Συμβουλή:** Εάν αλλάξεις τον κώδικα σε έναν βρόχο ενώ εκτελείται το σενάριο, το Scratch θα εκτελέσει τον νέο κώδικα την επόμενη φορά που θα εκτελεστεί ο βρόχος! Δεν χρειάζεται να κάνεις ξανά κλικ στην πράσινη σημαία. Αυτό είναι πραγματικά χρήσιμο όταν δοκιμάζεις ιδέες.
+**Tip:** If you change code in a loop while the script is running, Scratch will run the new code the next time that the loop runs! You don't need to click on the green flag again. This is really useful when you are trying out ideas.
 
   --- /feedback ---
 
@@ -39,7 +37,7 @@ legend: Ερώτηση 1 από 3
 
   --- feedback ---
 
-Το σενάριο δεν ξεκινά με `όταν γίνει κλικ σε αυτό το αντικείμενο`μπλοκ 1 {: class = "block3events"}.
+The script does not start with a `when this sprite clicked`{:class="block3events"} block.
 
   --- /feedback ---
 
@@ -47,7 +45,7 @@ legend: Ερώτηση 1 από 3
 
   --- feedback ---
 
-Δεν χρειάζεται να εκτελέσεις το μπλοκ`όρισε τρόπο περιστροφής`{: class = "block3looks"} πολλές φορές. Εάν το ορίσεις μία φορά πριν από τον βρόχο, δεν θα αλλάξει μέχρι να ορίσεις ένα διαφορετικό τρόπο. Η μετακίνηση του `όρισε τρόπο περιστροφής`:: class = "block3looks"} δεν θα βοηθήσει στο πρόβλημα αυτής της ερώτησης.
+You do not need to run the `set rotation style`{:class="block3looks"} block lots of times. If you set it once before the loop, it will not change until you set it to a different style. Moving the `set rotation style`{:class="block3looks"} block will not help with the problem in the question.
 
   --- /feedback ---
 
@@ -55,7 +53,7 @@ legend: Ερώτηση 1 από 3
 
   --- feedback ---
 
-Δεν χρειάζεται να κάνεις κλικ στη Σκηνή για να περιστραφεί ο βολβός του ματιού. Όταν εκτελείται ο κώδικας, ο βολβός του ματιού θα ακολουθεί απλώς τον δείκτη του ποντικιού (ή το δάχτυλό σας, εάν χρησιμοποιείτε tablet).
+You do not need to click on the Stage to get the eyeball to rotate. When the code is running, the eyeball will just follow the mouse pointer (or your finger, if you are using a tablet).
 
   --- /feedback ---
 
