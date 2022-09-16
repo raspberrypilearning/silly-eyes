@@ -1,27 +1,53 @@
-## Améliorer ton projet
+## Share
 
-Si tu as le temps, tu peux perfectionner ton projet.
+If you are in a club, why not share your project with friends and peers?
 
-Tu pourrais :
-- Ajouter plus de parties du corps
-- Ajouter plus de sprites avec des yeux idiots
-- Ajouter plus de toiles de fond
-- Ajouter plus d'accessoires ou ajouter plus de costumes à tes accessoires
-- Essayer différents effets graphiques
+You could also show your family how your project works.
 
-Chaque projet dans le ['Silly eyes — Exemples' Scratch studio](https://scratch.mit.edu/studios/29029028){:target="_blank"} a un **Voir à l'intérieur** , que tu peux utiliser pour ouvrir le projet dans l'éditeur Scratch et regarder le code pour avoir des idées et voir comment le projet fonctionne.
+If you have a Scratch account, you can share your project through Scratch. You can send a link to people you know, and the whole Scratch community will be able to find your project and try it out.
 
-Le personnage **Sporg** a également des bras qui `s'orientent vers le pointeur de la souris`{:class="block3motion"}.
+[[[share-scratch]]]
 
-**Sporg** : [Voir à l'intérieur](https://scratch.mit.edu/projects/495865892/editor){:target="_blank"}
+Why not invite your friends to create a project? Let them know how you had fun.
+
+If you have a Scratch account, and have shared your 'Silly eyes' project, keep an eye out for comments that others may make about your creation. Feedback is a great way to reflect on your work. Ignore any comments that are unhelpful or irrelevant.
+
+[[[comments-feedback-scratch]]]
+
+--- task ---
+
+Inspire the Raspberry Pi Foundation community with your project!
+
+To submit your project to our ['Silly eyes — Community' Scratch studio](https://scratch.mit.edu/studios/29120534){:target="_blank"}, please complete [this form](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}.
+
+--- /task ---
+
+### Community submissions
+
+--- task ---
+
+Take a look at these fabulous community projects from our ['Silly eyes — Community' Scratch studio](https://scratch.mit.edu/studios/29079784){:target="_blank"}. Click on the backdrops, eyeballs and accessories to interact with them:
+
+**Ladybug scare** [See inside](https://scratch.mit.edu/projects/517735755/editor){:target="_blank"}
+
+Click on the backdrop:
+
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/495865892/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/517735755/?autostart=false" frameborder="0"></iframe>
 </div>
 
-Si tu ajoutes d'autres parties du corps, tu devras les centrer à l'endroit à partir duquel tu souhaites qu'elles pivotent. Par exemple, un bras tournerait à partir de l'épaule.
+**Butterfly and bear** [See inside](https://scratch.mit.edu/projects/569624392/editor){:target="_blank"}
 
-[[[scratch-crosshair]]]
+Click on the bear and butterfly:
 
-Jette un œil à notre ['Silly eyes — Community' Scratch studio](https://scratch.mit.edu/studios/29120534){:target="_blank"} pour voir les projets créés par les membres de la communauté.
+<div class="scratch-preview" style="margin-left: 15px;">
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/569624392/?autostart=false" frameborder="0"></iframe>
+</div>
 
---- save ---
+--- /task ---
+
+--- task ---
+
+You can also look at the remixes for the [Silly eyes starter project](https://scratch.mit.edu/projects/582221984/remixes){:target="_blank"} to see what other creators have made.
+
+--- /task --- 
