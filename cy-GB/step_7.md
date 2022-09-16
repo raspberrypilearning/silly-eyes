@@ -1,27 +1,53 @@
-## Uwchraddio dy brosiect
+## Share
 
-Os oes gen ti amser, galli di uwchraddio dy brosiect.
+If you are in a club, why not share your project with friends and peers?
 
-Gallet ti:
-- Ychwanegu mwy o rannau'r corff
-- Ychwanegu mwy o gorluniau gyda llygaid gwirion
-- Ychwanegu mwy o gorluniau
-- Ychwanegu mwy o ategolion, neu ychwanegu mwy o wisgoedd i dy ategolion
-- Rhoi cynnig ar wahanol effeithiau graffeg
+You could also show your family how your project works.
 
-Mae gan bob prosiect yn [stiwdio scratch 'Silly eyes — Examples'](https://scratch.mit.edu/studios/29029028){:target="_blank"} ddolen **Gweld tu mewn**, y galli di ei defnyddio i agor y prosiect yn y golygydd Scratch a tharo golwg ar y cod i gael syniadau a gweld sut mae'r prosiect yn gweithio.
+If you have a Scratch account, you can share your project through Scratch. You can send a link to people you know, and the whole Scratch community will be able to find your project and try it out.
 
-Mae gan y cymeriad **Sporg** hefyd freichiau sy'n `pwyntio at bwyntydd y llygoden`{:class="block3motion"}.
+[[[share-scratch]]]
 
-**Sporg**: [Gweld tu mewn](https://scratch.mit.edu/projects/495865892/editor){:target="_blank"}
+Why not invite your friends to create a project? Let them know how you had fun.
+
+If you have a Scratch account, and have shared your 'Silly eyes' project, keep an eye out for comments that others may make about your creation. Feedback is a great way to reflect on your work. Ignore any comments that are unhelpful or irrelevant.
+
+[[[comments-feedback-scratch]]]
+
+--- task ---
+
+Inspire the Raspberry Pi Foundation community with your project!
+
+To submit your project to our ['Silly eyes — Community' Scratch studio](https://scratch.mit.edu/studios/29120534){:target="_blank"}, please complete [this form](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}.
+
+--- /task ---
+
+### Community submissions
+
+--- task ---
+
+Take a look at these fabulous community projects from our ['Silly eyes — Community' Scratch studio](https://scratch.mit.edu/studios/29079784){:target="_blank"}. Click on the backdrops, eyeballs and accessories to interact with them:
+
+**Ladybug scare** [See inside](https://scratch.mit.edu/projects/517735755/editor){:target="_blank"}
+
+Click on the backdrop:
+
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/495865892/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/517735755/?autostart=false" frameborder="0"></iframe>
 </div>
 
-Os wyt ti'n ychwanegu rhannau eraill o'r corff, bydd angen i ti eu canoli ar y pwynt rwyt ti am iddyn nhw gylchdroi o'i gwmpas. Er enghraifft, byddai braich yn cylchdroi o'r ysgwydd.
+**Butterfly and bear** [See inside](https://scratch.mit.edu/projects/569624392/editor){:target="_blank"}
 
-[[[scratch-crosshair]]]
+Click on the bear and butterfly:
 
-Cymer olwg ar ein ['stiwdio Scratch 'Silly eyes — Community'](https://scratch.mit.edu/studios/29120534){:target="_blank"} i weld prosiectau mae aelodau'r gymuned wedi'u creu.
+<div class="scratch-preview" style="margin-left: 15px;">
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/569624392/?autostart=false" frameborder="0"></iframe>
+</div>
 
---- save ---
+--- /task ---
+
+--- task ---
+
+You can also look at the remixes for the [Silly eyes starter project](https://scratch.mit.edu/projects/582221984/remixes){:target="_blank"} to see what other creators have made.
+
+--- /task --- 
