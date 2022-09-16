@@ -1,23 +1,21 @@
-## انعكاس
+## Quick quiz
 
-أحسنت ، لقد تعلمت الكثير! الآن ، حان وقت التفكير - التفكير جزء مهم من التعلم ، لأنه يساعد في إنشاء روابط جديدة في عقلك.
+Answer the three questions. There are hints to guide you to the correct answer.
 
-أجب عن الأسئلة الثلاثة أدناه لتفكر فيما تعلمته.
+When you have answered each question, click on **Check my answer**.
 
-عندما تجيب على كل سؤال ، انقر فوق **إرسال**. سيتم توجيهك نحو الإجابة الصحيحة. يمكنك القيام بهذا النشاط عدة مرات كما تريد.
-
-استمتع!
+Have fun!
 
 --- question ---
 ---
 legend: السؤال 1 من 3
 ---
 
-أضفنا هذه التعليمة البرمجية إلى كائن **مقلة العين** ، لكن مقلة العين لا تدور عندما يتحرك مؤشر الماوس.
+We added this code to an **Eyeball** sprite, but the eyeball is not rotating when the mouse pointer moves.
 
-![لقطة شاشة توضح التعليمة والمسرح او المنصة. التعليمة البرمجية لا تتوهج بمخطط او ظل أصفر. تكون التعليمة البرمجية (اللبنة) الموجودة في المقطع البرمجي "عند النقر فوق العلم الأخضر" ، "تعيين نمط التدوير في كل مكان" ، "كرر باستمرار" ، "أشر نحو مؤشر الماوس".](images/code-not-running.png)
+![Screenshot showing the script and the Stage. The script is not glowing with a yellow outline. The blocks in the script are 'when green flag clicked', 'set rotation style all around', 'forever', 'point towards mouse-pointer'.](images/code-not-running.png)
 
-كيف يمكنك حل المشكلة بخطوة واحدة فقط؟
+How could you fix the problem with just one action?
 
 --- choices ---
 
@@ -25,13 +23,13 @@ legend: السؤال 1 من 3
 
   --- feedback ---
 
-نعم! مجرد إضافة المفطع البرمجي لا يجعله يعمل. تحتاج إلى النقر فوق العلم الأخضر لتشغيل التعليمة البرمجية الخاص بك.
+Yes! Just adding the script does not make it run. You need to click on the green flag to make your code run.
 
-سيحتوي التعليمة البرمجية الخاص بك على مخطط او ظل أصفر حوله عند تشغيله.
+Your code will have a yellow outline around it when it is running.
 
-نسيان النقر فوق العلم الأخضر هو خطأ شائع حقًا - نحن جميعًا نفعل ذلك!
+Forgetting to click on the green flag is a really common mistake — we all do it!
 
-**نصيحة:** إذا قمت بتغيير التعليمات البرمجية في حلقة أثناء تشغيل التعليمة البرمحية ، فسيقوم Scratch بتشغيل التعليمة البرمحية الجديدة في المرة التالية التي يتم فيها تشغيل او تنفيذ تعليمة التكرار! لا تحتاج إلى النقر فوق العلم الأخضر مرة أخرى. هذا مفيد حقًا عندما تجرب الأفكار.
+**Tip:** If you change code in a loop while the script is running, Scratch will run the new code the next time that the loop runs! You don't need to click on the green flag again. This is really useful when you are trying out ideas.
 
   --- /feedback ---
 
@@ -39,7 +37,7 @@ legend: السؤال 1 من 3
 
   --- feedback ---
 
-لا التعليمة البرمجية `عندما نقر هذا`{: class = "block3events"}.
+The script does not start with a `when this sprite clicked`{:class="block3events"} block.
 
   --- /feedback ---
 
@@ -47,7 +45,7 @@ legend: السؤال 1 من 3
 
   --- feedback ---
 
-لا تحتاج إلى تشغيل تعليمة ` مجموعة نمط التدوير`{: class = "block3looks"} عدة مرات. إذا قمت بتعيينها مرة واحدة قبل حلقة التكرار، فلن تتغير حتى تقوم بتعيينها على نمط مختلف. لن يساعد نقل تعليمة `نمط الدوران`{: class = "block3looks"} في حل المشكلة في السؤال.
+You do not need to run the `set rotation style`{:class="block3looks"} block lots of times. If you set it once before the loop, it will not change until you set it to a different style. Moving the `set rotation style`{:class="block3looks"} block will not help with the problem in the question.
 
   --- /feedback ---
 
@@ -55,7 +53,7 @@ legend: السؤال 1 من 3
 
   --- feedback ---
 
-لا تحتاج إلى النقر فوق المنصة لجعل مقلة العين تدور. عند تشغيل او تنفيذ التعليم البرمجية، ستتبع مقلة العين مؤشر الماوس فقط (أو إصبعك ، إذا كنت تستخدم جهازًا لوحيًا).
+You do not need to click on the Stage to get the eyeball to rotate. When the code is running, the eyeball will just follow the mouse pointer (or your finger, if you are using a tablet).
 
   --- /feedback ---
 
