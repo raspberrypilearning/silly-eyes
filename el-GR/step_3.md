@@ -2,9 +2,8 @@
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-Σε αυτό το βήμα, θα κάνεις τα αστεία μάτια! Κάθε μάτι πρέπει να είναι ένα ξεχωριστό αντικείμενο, ώστε να μπορεί να κινείται ξεχωριστά.
+Make the silly eyes! Κάθε μάτι πρέπει να είναι ένα ξεχωριστό αντικείμενο, ώστε να μπορεί να κινείται ξεχωριστά.
 
-Εάν χρειάζεσαι βοήθεια, δες τις συμβουλές στην εργασία ** Εντοπισμός σφαλμάτων (Debug)** στο κάτω μέρος αυτού του βήματος.
 </div>
 <div>
 
@@ -13,6 +12,8 @@
 
 </div>
 </div>
+
+### Draw an eyeball
 
 --- task ---
 
@@ -32,48 +33,61 @@
 
 **Επίλεξε:** Σχεδίασε ένα βολβό ματιού **ή** ξεκίνησε από ένα στρογγυλό αντικείμενο.
 
+![Example eyeballs. One drawn from scratch, another taken from the beachball and the third from a baseball.](images/make-an-eye.png)
+
 --- collapse ---
 ---
 title: Σχεδίασε ένα βολβό ματιού στον επεξεργαστή Ζωγραφική
 ---
 
-Επίλεξε το εργαλείο **Κύκλος**.
+Select the **Circle** tool.
 
-Για να σχεδιάσεις έναν τέλειο κύκλο, κράτησε παρατεταμένα το πλήκτρο <kbd>Shift</kbd> στο πληκτρολόγιο ενώ σχεδιάζεις με το εργαλείο **Κύκλος**. Εάν χρησιμοποιείς tablet, προσπάθησε να φτάσεις όσο το δυνατόν πιο κοντά σε έναν τέλειο κύκλο.
+To draw a perfect circle, press and hold the <kbd>Shift</kbd> key on the keyboard while you draw with the **Circle** tool. If you are using a tablet, try to get as close to a perfect circle as you can.
 
-Σε αυτό το παράδειγμα, ορίζουμε το **Περίγραμμα** μαύρο και το **Γέμισμα** στο βολβό του ματιού λευκό:
+In this example, we set the **Outline** to black and the **Fill** colour of the eyeball to white:
 
-![Λευκός βολβός ματιών με μαύρο περίγραμμα.](images/eyeball-outline.png)
+![A white eyeball with a black outline.](images/eyeball-outline.png)
 
-Χρησιμοποίησε το **Γέμισμα** και το **Περίγραμμα** για να επιλέξεις χρώματα. Για το μαύρο χρώμα, σύρε και τον **Κορεσμό** και την **Φωτεινότητα** στο `0`. Για το λευκό χρώμα, σύρε τον **Κορεσμό** στο`0` και την**Φωτεινότητα** στο`100`.
+Use the **Fill** and **Outline** colour choosers to choose colours. To make black, slide both the **Saturation** and **Brightness** to `0`. To make white, slide the **Saturation** to `0` and the **Brightness** to `100`.
 
-![](images/black-colour.png) ![](images/white-colour.png)
+![Saturation and brightness sliders set to 0.](images/black-colour.png) ![Saturation and brightness sliders set to 100.](images/white-colour.png)
 
-Βεβαιώσου ότι ο βολβός του ματιού είναι κεντραρισμένος - μετακίνησέ τον έτσι ώστε ο μπλε σταυρός στην ενδυμασία να ευθυγραμμίζεται με τον γκρι σταυρό στον επεξεργαστή Ζωγραφική.
+Make sure that the eyeball is centred — move it so that the blue cross in the costume lines up with the grey crosshair in the Paint editor.
 
-Σχεδίασε έναν μικρότερο τέλειο κύκλο και τοποθέτησέ τον στη δεξιά πλευρά του βολβού του ματιού:
+![An animated image of a circle costume being dragged from the top left to fit with the circles centre over the crosshair icon.](images/eye-centre.gif)
 
-![Βολβός ματιού με κόκκινη ίριδα και μαύρη κόρη στη δεξιά πλευρά.](images/eyeball-with-iris.png)
+Draw a smaller perfect circle and position it on the right-hand side of the eyeball:
 
-Μπορείς επίσης να σχεδιάσεις κύκλους μέσα σε κύκλους ή να χρησιμοποιήσεις χρώμα, για να έχεις διαφορετικά εφέ.
+![An eyeball with a red iris and black pupil on the right-hand side.](images/eyeball-with-iris.png)
+
+You could also draw circles inside circles, or use colour, to get different effects.
 
 --- /collapse ---
-
 
 --- collapse ---
 ---
 title: Μετάτρεψε μια στρογγυλή φορεσιά σε βολβό ματιών
 ---
 
-Υπάρχουν ενδυμασίες στο Scratch που μπορείς να επεξεργαστείς για να κάνεις αστεία μάτια για τον χαρακτήρα σου.
-
-Χρησιμοποίησε τον επεξεργαστή Ζωγραφική για να αλλάξεις μια ενδυμασία. Μπορείς να προσθέσεις κύκλους, να επιλέξεις ένα διαφορετικό **Γέμισμα** ή να αφαιρέσεις μέρη της ενδυμασίας για να το μετατρέψεις σε αστείο μάτι.
-
-**Συμβουλή:** Θα χρειαστεί να κεντράρεις το **Μάτι** στον επεξεργαστή Ζωγραφική, έτσι ώστε να περιστρέφεται ομαλά καθώς γυρίζει. Χρησιμοποίησε τον σταυρό για να κεντράρεις την ενδυμασία. Η μαύρη κόρη και η έγχρωμη ίριδα πρέπει να τοποθετηθούν στη δεξιά πλευρά της φορεσιάς, έτσι ώστε το **Μάτι** να ακολουθεί τον δείκτη του ποντικιού.
+There are costumes in Scratch that you can edit to make silly eyes for your character.
 
 ![Υφιστάμενες ενδυμασίες Scratch για βολβούς ματιών.](images/costume-eyes.gif)
 
-![Ο επεξεργαστής Ζωγραφική εμφανίζει κουμπί για επεξεργασία ενδυμασίας.](images/button-eye.png)
+Click on the **Choose a Costume** icon to see the library Scratch costumes.
+
+![The Choose a Costume icon.](images/choose-a-costume.png)
+
+Click on the costume you want to add to your sprite.
+
+Use the Paint editor to change the costume. You could add circles, choose a different **Fill** colour, or remove parts of the costume to turn it into a silly eye.
+
+Make sure that the eyeball is centred — move it so that the blue cross in the costume lines up with the grey crosshair in the Paint editor.
+
+![An animated image of a ball costume being dragged from the top left to fit with the balls centre over the crosshair icon.](images/crosshair-centre.gif)
+
+**Tip:** The black pupil and coloured iris need to be positioned on the right-hand side of the costume so that the **Eyeball** follows the mouse pointer.
+
+![The Paint editor showing an edited button1 costume.](images/button-eye.png)
 
 --- /collapse ---
 
@@ -81,23 +95,29 @@ title: Μετάτρεψε μια στρογγυλή φορεσιά σε βολβ
 
 --- task ---
 
-Ονόμασε το αντικείμενο`Eyeball` στο παράθυρο Αντικείμενο.
+Name your sprite `Eyeball` in the Sprite pane.
 
-![Το όνομα του αντικειμένου ορίστηκε σε 'Μάτι' στο παράθυρο αντικειμένων.](images/eyeball-name.png)
+![The sprite's name set to 'Eyeball' in the Sprite pane.](images/eyeball-name.png)
 
 --- /task ---
 
 --- task ---
 
-Σύρε το **Μάτι** για να το τοποθετήσεις στη Σκηνή και άλλαξε το μέγεθός του για να ταιριάζει στον χαρακτήρα σου.
+Drag the **Eyeball** sprite to position it on the Stage, and change its size to fit your character.
 
 --- /task ---
 
-Τώρα, κάνε το βολβό του ματιού να κοιτάξει τον `δείκτη του ποντικιού`{: class = "block3motion"}.
+Now, make the eyeball look at the `mouse-pointer`{:class="block3motion"} so that the user can interact with your project.
+
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
+<span style="color: #0faeb0">**User**</span> means the person using the project (not just making it), and <span style="color: #0faeb0">**user interaction**</span> is how the project reacts to the user doing things such as moving the mouse and clicking on the screen. 
+</p>
+
+### Code your eyeball
 
 --- task ---
 
-Πρόσθεσε ένα script στο `όρισε τρόπο περιστροφής`{: class = "block3motion"} σε `τριγύρω`{: class = "block3motion"} για να κάνεις τον βολβό του ματιού `σημείο προς τον δείκτη του ποντικιού`{: class = "block3motion"} `για πάντα`{: class = "block3control"}.
+Add a script to `set the rotation style`{:class="block3motion"} to `all around`{:class="block3motion"} to make the eyeball `point towards the mouse pointer`{:class="block3motion"} `forever`{:class="block3control"}.
 
 --- collapse ---
 ---
@@ -116,35 +136,38 @@ end
 
 --- /task ---
 
-
-Εάν ο χαρακτήρας σου έχει μόνο ένα μάτι, τότε έχεις τελειώσει.
+### Add another eyeball
 
 --- task ---
 
-Διαφορετικά, κάνε δεξί κλικ (ή σε ένα tablet, πάτησε παρατεταμένα) στο **Μάτι** στη λίστα αντικειμένων και επίλεξε **διπλασιασμός** για να δημιουργήσεις πιο αστεία μάτια.
+To add another eye, right-click (or on a tablet, tap and hold) on the **Eyeball** sprite in the Sprite list and choose **duplicate**.
+
+![Example eyeballs in pairs. One drawn from scratch and another made from the ball sprite.](images/duplicate-eyes.png)
 
 [[[scratch3-duplicate-sprite]]]
 
 --- /task ---
 
+### Test your silly eyes
+
 --- task ---
 
-**Δοκιμή:** Κάνε κλικ στην πράσινη σημαία και δοκίμασε το έργο σου. Τα αστεία μάτια ακολουθούν τον δείκτη του ποντικιού σου καθώς κινείς το ποντίκι;
+**Test:** Click on the green flag and test your project. Do the silly eyes follow your mouse pointer as you move the mouse around?
 
-**Συμβουλή:** Δεν χρειάζεται να κρατάς τον δείκτη του ποντικιού στο Σκηνή. Τα μάτια θα ακολουθήσουν τον δείκτη του ποντικιού σου καθώς συνεχίζεις τον κώδικα στο Scratch.
+**Tip:** You don't have to keep the mouse pointer on the Stage. The eyes will follow your mouse pointer as you carry on coding in Scratch.
 
 --- /task ---
 
 --- task ---
 
-**Εντοπισμός σφαλμάτων (Debug):** Ενδέχεται να βρεις κάποια σφάλματα στο έργο σου που πρέπει να διορθώσεις. Εδώ είναι μερικά κοινά σφάλματα:
+**Debug:** You might find some bugs in your project that you need to fix. Here are some common bugs:
 
 --- collapse ---
 ---
 title: Τα μάτια δεν κινούνται
 ---
 
-Βεβαιώσου ότι έχεις προσθέσει τον κώδικα στα αντικείμενα**Μάτι** και **κάνε κλικ στην πράσινη σημαία**. Ο κώδικας σου δεν θα εκτελεστεί μέχρι να κάνεις κλικ στην πράσινη σημαία.
+Make sure that you have added the code to the **Eyeball** sprites and **clicked on the green flag**. Your code will not run until you click on the green flag.
 
 --- /collapse ---
 
@@ -153,15 +176,15 @@ title: Τα μάτια δεν κινούνται
 title: Τα μάτια δείχνουν μακριά από το ποντίκι
 ---
 
-Στις ενδυμασίες **Μάτι**, βεβαιώσου ότι η κόρη είναι στη δεξιά πλευρά (πέρα από τον μπλε σταυρό στη μέση της ενδυμασίας).
+In the **Eyeball** costumes, check that the pupil is on the right-hand side (past the blue cross in the middle of the costume).
 
-Τα αντικείμενα **Μάτι** έχουν το `τριγύρω`{:class="block3motion"} `τρόπο περιστροφής`{:class="block3motion"}, ώστε να μπορούν να περιστρέφονται προς οποιαδήποτε κατεύθυνση.
+The **Eyeball** sprites have the `all around`{:class="block3motion"} `rotation style`{:class="block3motion"}, so they can rotate in any direction.
 
-Όταν τα **Μάτια** περιστρέφονται `δείξε προς`{: class = "block3motion"} τον `δείκτη του ποντικιού`{: class = "block3motion"}, οι μαθητές/τριες θα είναι πιο κοντά στον δείκτη του ποντικιού.
+When the **Eyeballs** rotate to `point towards`{:class="block3motion"} the `mouse-pointer`{:class="block3motion"}, the pupils will be closest to the mouse pointer.
 
-![Τοποθέτηση της κόρης στη δεξιά πλευρά της ενδυμασίας του βολβού του ματιού.](images/eye-right.gif)
+![Placing the pupil on the right-hand side of an eyeball costume.](images/eye-right.gif)
 
-![Ενδυμασία βολβού ματιού με την κόρη στη δεξιά πλευρά.](images/eye-costume.png)
+![An eyeball costume with the pupil on the right-hand side.](images/eye-costume.png)
 
 --- /collapse ---
 
@@ -170,11 +193,11 @@ title: Τα μάτια δείχνουν μακριά από το ποντίκι
 title: Τα μάτια πηδάνε γύρω από τη Σκηνή
 ---
 
-Έλεγξε ότι οι ενδυμασίες **Μάτι** είναι κεντραρισμένες. Για να κεντράρεις μια ενδυμασία, σύρε την ενδυμασία έτσι ώστε ο μπλε σταυρός στην ενδυμασία να ευθυγραμμιστεί με τον γκρι σταυρό στον επεξεργαστή Ζωγραφική.
+Check that the **Eyeball** costumes are centred. To centre a costume, drag the costume so that the blue cross in the costume lines up with the grey crosshair in the Paint editor.
 
-![Κεντράρισμα ενδυμασίας βολβού ματιού στον επεξεργαστή Ζωγραφική.](images/eye-centered.gif)
+![Centring an eyeball costume in the Paint editor.](images/eye-centered.gif)
 
-![Μια ενδυμασία βολβού κεντραρισμένη στον επεξεργαστή Ζωγραφική.](images/eye-costume.png)
+![An eyeball costume centred in the Paint editor.](images/eye-costume.png)
 
 --- /collapse ---
 
@@ -183,9 +206,9 @@ title: Τα μάτια πηδάνε γύρω από τη Σκηνή
 title: Ο χαρακτήρας είναι μπροστά από τα μάτια
 ---
 
-Όταν σύρεις ένα αντικείμενο για να το τοποθετήσεις στη Σκηνή, κινείται μπροστά από τα άλλα αντικείμενα.
+When you drag a sprite to position it on the Stage, it moves in front of the other sprites.
 
-Για να μετακινήσεις τον **χαρακτήρα** αντικείμενο για να μείνει `πίσω`{: class = "block3looks"}, χρησιμοποίησε:
+To get your **character** sprite to stay at the `back`{:class="block3looks"}, use:
 
 ```blocks3
 when green flag clicked
@@ -200,11 +223,11 @@ go to [back v] layer // behind all other sprites
 title: Ο χαρακτήρας και τα μάτια ακολουθούν τον δείκτη του ποντικιού
 ---
 
-Μήπως πρόσθεσες τα μάτια σαν ενδυμασίες για τον **χαρακτήρα** αντί για ενδυμασίες για ξεχωριστά αντικείμενα; Μπορείς να το διορθώσεις αυτό.
+Did you add the eyes as costumes for your **character** instead of as costumes for separate sprites? You can fix that.
 
-Ένας τρόπος για να το διορθώσεις είναι να αντιγράψεις τον **χαρακτήρα** και στη συνέχεια να μετονομάσεις το αντίγραφο `Μάτι`. Στη συνέχεια, διάγραψε τις ενδυμασίες **Μάτι** από τον **χαρακτήρα** του αντικειμένου και διάγραψε τις ενδυμασίες του **χαρακτήρα** από το αντικείμενο**Μάτι**. Στη συνέχεια, μπορείς να διπλασιάσεις το **Μάτι** και να ονομάσεις το αντίγραφο `Μάτι 2`.
+One way to fix it is to duplicate the **character** sprite and then rename the copy `Eyeball`. Then, delete the **Eyeball** costumes from the **character** sprite, and delete the **character** costumes from the **Eyeball** sprite. Then, you can duplicate the **Eyeball** sprite and name the copy `Eyeball 2`.
 
-Ο κώδικας στο `σημείο προς`{: class = "block3motion"} τον`δείκτη ποντικιού`{: class = "block3motion"} πρέπει να βρίσκεται στα αντικείμενα**Μάτι** και όχι στο αντικείμενο**χαρακτήρας**.
+The code to `point towards`{:class="block3motion"} the `mouse-pointer`{:class="block3motion"} should be on the **Eyeball** sprites and not the **character** sprite.
 
 --- /collapse ---
 
@@ -213,19 +236,16 @@ title: Ο χαρακτήρας και τα μάτια ακολουθούν το�
 title: Ο χαρακτήρας ακολουθεί τον δείκτη του ποντικιού (και τα μάτια όχι)
 ---
 
-Πρέπει να προσθέσεις τον κώδικα `δείξε προς`{: class = "block3motion"} τα μεμονωμένα αντικείμενα**Μάτι**, όχι στο αντικείμενο **χαρακτήρα** σου!
+You need to add the `point towards`{:class="block3motion"} code to the individual **Eyeball** sprites, not your **character** sprite!
 
-Για να αντιγράψεις τον κώδικα, μπορείς να σύρεις τον κώδικα από την περιοχή Κώδικα για τον**χαρακτήρα** σου στα αντικείμενα **Μάτι** στη λίστα αντικειμένων.
+To copy the code, you can drag the code from the Code area for your **character** to the **Eyeball** sprites in the Sprite list.
 
-Θα χρειαστεί επίσης να διαγράψεις το σενάριο από το αντικείμενο **χαρακτήρα**. Για να το κάνεις αυτό, σύρε το script στο μενού Κώδικας.
+You will also need to delete the script from the **character** sprite. To do this, drag the script to the Blocks menu.
 
 --- /collapse ---
 
-Πιθανόν να βρεις ένα σφάλμα που δεν αναφέρεται εδώ. Μπορείς να σκεφτείς πώς θα το λύσεις;
+You might find a bug that is not listed here. Can you work out how to fix it?
 
-Μας αρέσει να μαθαίνουμε για τα σφάλματα που εντοπίζεις και πώς τα διορθώνεις. Χρησιμοποίησε την **Αποστολή σχολίων** στο κάτω μέρος αυτής της σελίδας και πες μας αν εντόπισες κάποιο διαφορετικό σφάλμα στο έργο σου.
-
+We love hearing about your bugs and how you fixed them. Use the **Send feedback** button at the bottom of this page and tell us if you found a different bug in your project.
 
 --- /task ---
-
---- save ---
