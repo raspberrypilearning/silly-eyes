@@ -2,7 +2,7 @@
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-Oes gen ti syniad am dy gymeriad dy hun? Nawr, gallet ti ei baratoi ar gyfer llygaid gwirion!
+Use your design skills to add a character sprite and suitable backdrop. 
 </div>
 <div>
 
@@ -11,21 +11,36 @@ Oes gen ti syniad am dy gymeriad dy hun? Nawr, gallet ti ei baratoi ar gyfer lly
 </div>
 </div>
 
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
+<span style="color: #0faeb0">**Design**</span> means deciding on the way that a project looks and making decisions about what it does. 
+</p>
+
+### Open the starter project
+
 --- task ---
 
-Agora'r [prosiect cychwynnol Llygaid gwirion](https://scratch.mit.edu/projects/582221984/editor){:target="_blank"}. Bydd Scratch yn agor mewn tab arall ar y porwr.
+Open the [Silly eyes starter project](https://scratch.mit.edu/projects/582221984/editor){:target="_blank"}. Scratch will open in another browser tab.
 
 [[[working-offline]]]
 
+⏱️ Not much time? You can start from one of the [examples](https://scratch.mit.edu/studios/29029028){:target="_blank"}.
+
 --- /task ---
+
+### Choose your sprite and backdrop
 
 --- task ---
 
-**Dewis:** Dewisa gorlun **neu** greu dy gorlun syml dy hun yn y Golygydd paent.
+**Choose:** Add a **sprite** and a **backdrop** for your silly eyes project.
 
-Does dim rhaid i ti ddewis person neu anifail. Fe allet ti ddewis gwrthrych, fel y toesen.
++ What does your character look like? A person 🧜🏽‍♀️, animal 🐶 or object 🧸.
++ Where do you want your character to live? Somewhere sensible 🏠 or silly 🎪.
+
+![The add sprite icon and add backdrop icon side by side.](images/sprite-and-backdrop.png)
 
 [[[generic-scratch3-sprite-from-library]]]
+
+[[[generic-scratch3-backdrop-from-library]]]
 
 [[[scratch3-backdrops-and-sprites-using-shapes]]]
 
@@ -34,34 +49,30 @@ Does dim rhaid i ti ddewis person neu anifail. Fe allet ti ddewis gwrthrych, fel
 teitl: Cael corlun annisgwyl
 ---
 
-Ddim yn siŵr pa gorlun i'w ddewis? Cer i'r ddewislen **Dewiswch Gorlun** a dewis **Annisgwyl** i ychwanegu corlun annisgwyl i dy brosiect.
+Not sure which sprite to choose? Go to the **Choose a Sprite** menu and choose the **Surprise** option to add a surprise sprite to your project.
 
-![Y dewis 'Annisgwyl' yn y ddewislen 'Dewiswch gorlun'.](images/surprise-sprite.png)
+![The 'Surprise' option in the 'Choose a Sprite' menu.](images/surprise-sprite.png)
 
 --- /collapse ---
 
-**Awgrym:** Os wyt ti'n creu dy gorlun dy hun yn y Golygydd paent, **paid ag ychwanegu llygaid eto, oherwydd mae angen iddyn nhw fod yn gorluniau ar wahân.**
+**Tip:** If you create your own sprite in the Paint editor, **don't add eyes yet, because they need to be separate sprites.**
 
 --- /task ---
 
-Ar hyn o bryd, mae dy gymeriad yn llawer llai na'r cymeriadau yn ein prosiectau enghreifftiol. Galli di wneud dy gymeriad yn fwy fel ei fod yn llenwi mwy o'r sgrin.
+### Resize your sprite
 
 --- task ---
 
-Yng nghwarel y Corlun, newidia'r rhif yn y briodwedd **Maint** i rif o dy ddewis.
+In the Sprite pane, change the number in the **Size** property to a number that makes your character fill the Stage.
 
 ![](images/size-property.png){:width="500px"}
 
 --- /task ---
 
-Ble wyt ti am i dy gymeriad fyw?
-
 --- task ---
 
-**Dewis:** Dewisa gefnlen sy'n gall neu'n wirion.
+Look at the Stage. You will see your large character and chosen backdrop.
 
-[[[generic-scratch3-backdrop-from-library]]]
+![](images/large-sprite-stage.png){:width="500px"}
 
 --- /task ---
-
---- save ---
