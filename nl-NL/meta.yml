@@ -5,31 +5,32 @@ description: Maak je eigen app met een personage wiens ogen de muisaanwijzer vol
 version: 4
 listed: true
 copyedit: false
-last_tested: "2021-02-25"
+last_tested: '2021-02-25'
 steps:
   - 
-    title: Inleiding
+    title: You will make
   - 
-    title: Jouw personage
+    title: Create your character
   - 
     title: Maak maffe ogen
-    completion: engaged
+    completion:
+      - engaged
   - 
-    title: Sprite-effecten
+    title: Add sprite effects
+    completion:
+      - internal
   - 
-    title: Speelveld-effecten
-    completion: internal
-  - 
-    title: Reflectie
-    completion: external
+    title: Quick quiz
     knowledge_quiz:
       path: quiz1
       version: 1
       questions: 3
       passing_score: 3
+    completion:
+      - external
   - 
-    title: Verbeter je project
+    title: Upgrade your project
   - 
-    title: Deel
+    title: Share
   - 
-    title: Wat kun je verder nog doen?
+    title: What next?
