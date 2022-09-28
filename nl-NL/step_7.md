@@ -1,4 +1,4 @@
-## Share and play
+## Deel en speel
 
 If you are in a club, why not share your project with friends and peers?
 
