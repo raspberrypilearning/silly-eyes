@@ -55,9 +55,9 @@ Play with these example projects to get ideas:
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/495865892/?autostart=false" frameborder="0"></iframe>
 </div>
 
-**⭐ Crab with hats** (featured community project)
+** ⭐Krab met hoeden ** (uitgelicht gemeenschapsproject)
 
-Click on the crab, hat, backdrop and the eyeballs:
+Klik op de krab, hoed, achtergrond en de oogbollen:
 
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/736988636/?autostart=false" frameborder="0"></iframe>
