@@ -55,12 +55,12 @@ Play with these example projects to get ideas:
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/495865892/?autostart=false" frameborder="0"></iframe>
 </div>
 
-**⭐ Purple monster** (featured community project)
+**⭐ Crab with hats** (featured community project)
 
-Click on the purple monster and the eyeballs:
+Click on the crab, hat, backdrop and the eyeballs:
 
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/523223028/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/736988636/?autostart=false" frameborder="0"></iframe>
 </div>
 
 --- /task ---
