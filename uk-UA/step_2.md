@@ -1,42 +1,42 @@
-## Your character
+## Твій персонаж
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-Use your design skills to add a character sprite and suitable backdrop. 
+Використовуй свої навички дизайнера, щоб додати спрайт персонажа та відповідний фон. 
 </div>
 <div>
 
-![A large character.](images/character.png){:width="300px"}    
+![Великий персонаж.](images/character.png){:width="300px"}    
 
 </div>
 </div>
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-<span style="color: #0faeb0">**Design**</span> means deciding on the way that a project looks and making decisions about what it does. 
+<span style="color: #0faeb0">**Дизайн**</span> - це прийняття рішення про те, як буде виглядати проєкт, і прийняття рішень про те, що він буде робити. 
 </p>
 
-### Open the starter project
+### Відкрий початковий проєкт
 
 --- task ---
 
-Open the [Silly eyes starter project](https://scratch.mit.edu/projects/582221984/editor){:target="_blank"}. Scratch will open in another browser tab.
+Відкрий [Стартовий проєкт Дурненькі очі](https://scratch.mit.edu/projects/582221984/editor){:target="_blank"}. Scratch відкриється в іншій вкладці браузера.
 
 [[[working-offline]]]
 
-⏱️ Not much time? You can start from one of the [examples](https://scratch.mit.edu/studios/29029028){:target="_blank"}.
+⏱️ Недостатньо часу? Ти можеш почати з одного з [прикладів](https://scratch.mit.edu/studios/29029028){:target="_blank"}.
 
 --- /task ---
 
-### Choose your sprite and backdrop
+### Вибери спрайт та фон
 
 --- task ---
 
-**Choose:** Add a **sprite** and a **backdrop** for your silly eyes project.
+**Вибір:** Додай **спрайт** та **тло** для твого проєкту Дурнуваті очі.
 
-+ What does your character look like? A person 🧜🏽‍♀️, animal 🐶 or object 🧸.
-+ Where do you want your character to live? Somewhere sensible 🏠 or silly 🎪.
++ Як виглядає твій персонаж? Людина 🧜🏽, тварина 🐶 або предмет 🧸.
++ Де ти хочеш, щоб жив твій персонаж? Десь розсудливо 🏠, або безглуздо 🎪.
 
-![The add sprite icon and add backdrop icon side by side.](images/sprite-and-backdrop.png)
+![Іконка додавання спрайта та іконка додавання тла знаходяться поруч.](images/sprite-and-backdrop.png)
 
 [[[generic-scratch3-sprite-from-library]]]
 
@@ -46,24 +46,24 @@ Open the [Silly eyes starter project](https://scratch.mit.edu/projects/582221984
 
 --- collapse ---
 ---
-title: Get a surprise sprite
+title: Отримай спрайт-сюрприз
 ---
 
-Not sure which sprite to choose? Go to the **Choose a Sprite** menu and choose the **Surprise** option to add a surprise sprite to your project.
+Не знаєш, який спрайт вибрати? Перейди в меню **Обрати спрайт** та вибери опцію **Сюрприз**, щоб додати спрайт-сюрприз до твого проєкту.
 
-![The 'Surprise' option in the 'Choose a Sprite' menu.](images/surprise-sprite.png)
+![Опція 'Сюрприз' в меню 'Обрати спрайт'.](images/surprise-sprite.png)
 
 --- /collapse ---
 
-**Tip:** If you create your own sprite in the Paint editor, **don't add eyes yet, because they need to be separate sprites.**
+**Порада** Якщо ти створюєш свій спрайт у редакторі Малювання, **поки що не додавай очі, тому що вони мають бути окремими спрайтами.**
 
 --- /task ---
 
-### Resize your sprite
+### Зміна розміру спрайта
 
 --- task ---
 
-In the Sprite pane, change the number in the **Size** property to a number that makes your character fill the Stage.
+На панелі Спрайтів, змінюй число у полі **Розмір** на число, яке змусить твого персонажа зайняти всю Сцену.
 
 ![](images/size-property.png){:width="500px"}
 
@@ -71,7 +71,7 @@ In the Sprite pane, change the number in the **Size** property to a number that 
 
 --- task ---
 
-Look at the Stage. You will see your large character and chosen backdrop.
+Подивись на Сцену. Ти побачиш свого великого персонажа та обране тло.
 
 ![](images/large-sprite-stage.png){:width="500px"}
 
