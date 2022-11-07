@@ -1,31 +1,31 @@
-## You will make
+## Ce que tu vas faire
 
-Design and create a silly eyes character 👀. Les grands yeux idiots du personnage suivront le pointeur de la souris pour donner la vie à ton personnage.
+Conçois et crée un personnage aux yeux rigolos 👀. Les grands yeux rigolos du personnage suivront le pointeur de la souris pour donner vie à ton personnage.
 
-![Examples of projects.](images/showcase-line.png)
+![Exemples de projets.](images/showcase-line.png)
 
 Tu vas devoir :
 
-+ Make a project that is fun to play with
-+ Create your own character
-+ Code your project using **sprites, scripts and loops**
++ Créer un projet amusant à jouer
++ Créer ton propre personnage
++ Coder ton projet à l'aide de **sprites, scripts et boucles**
 
 --- no-print ---
 
-### Play ▶️
+### Joue ▶️
 
 --- task ---
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 175px; flex-grow: 1">  
 
-**Gobo watching**: [See inside](https://scratch.mit.edu/projects/495141114/editor){:target="_blank"}
+**Gobo regarde** : [Voir à l'intérieur](https://scratch.mit.edu/projects/495141114/editor){:target="_blank"}
 
-Move the mouse (or if you are using a tablet, move your finger) around the Stage. 
+Déplace la souris (ou si tu utilises une tablette, déplace ton doigt) autour de la scène. 
 
-What happens when you move between Gobo's eyes? 
+Que se passe-t-il lorsque tu te déplaces entre les yeux de Gobo ? 
   
-What happens when you click on different parts of the project?
+Que se passe-t-il lorsque tu cliques sur différentes parties du projet ?
 </div>
 <div>
 
@@ -37,27 +37,27 @@ What happens when you click on different parts of the project?
 
 --- /task ---
 
-### Get ideas 💭
+### Trouve l'inspiration 💭
 
 --- task ---
 
-Play with these example projects to get ideas:
+Joue avec ces exemples de projets pour trouver des idées :
 
-⭐ Share your finished Silly eyes project for a chance of it being featured here.
+⭐ Partage ton projet « Yeux rigolos » terminé pour avoir une chance qu'il soit présenté ici.
 
-**Don't eat donut**: [See inside](https://scratch.mit.edu/projects/495865093/editor){:target="_blank"}
+**Ne mange pas de donut** : [Voir à l'intérieur](https://scratch.mit.edu/projects/495865093/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/495865093/?autostart=false" frameborder="0"></iframe>
 </div>
 
-**Sporg**: [See inside](https://scratch.mit.edu/projects/495865892/editor){:target="_blank"}
+**Sporg** : [Voir à l'intérieur](https://scratch.mit.edu/projects/495865892/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/495865892/?autostart=false" frameborder="0"></iframe>
 </div>
 
-**⭐ Crab with hats** (featured community project)
+**⭐ Crabe avec chapeaux** (projet de la communauté à l'affiche)
 
-Click on the crab, hat, backdrop and the eyeballs:
+Clique sur le crabe, le chapeau, l'arrière-plan et les globes oculaires :
 
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/736988636/?autostart=false" frameborder="0"></iframe>
@@ -69,11 +69,11 @@ Click on the crab, hat, backdrop and the eyeballs:
 
 --- print-only ---
 
-### Get ideas 💭
+### Trouve l'inspiration 💭
 
-Design and create a silly eye character 👀. The character's large, silly eyes will follow the mouse pointer to bring your character to life. To get more ideas, **See inside** example projects in the 'Silly eyes — Examples' Scratch studio: https://scratch.mit.edu/studios/29029028
+Conçois et crée un personnage aux yeux rigolos 👀. Les grands yeux rigolos du personnage suivront le pointeur de la souris pour donner vie à ton personnage. Pour obtenir plus d'idées, **Voir à l'intérieur** les exemples de projets dans le studio Scratch « Yeux rigolos » : https://scratch.mit.edu/studios/29029028
 
-![The 'Gobo watching' project.](images/gobo-watching.png) ![The 'Don't eat donut' project.](images/dont-eat-donut.png) ![The 'Sporg' project.](images/sporg.png)
+![Le projet "Gobo regarde".](images/gobo-watching.png) ![Le projet "Ne mange pas de donut".](images/dont-eat-donut.png) ![Le projet "Sporg".](images/sporg.png)
 
 --- /print-only ---
 
