@@ -1,4 +1,4 @@
-## Challenge: створіть власну групу
+## Що далі?
 
 Якщо ти йдеш по проєктах [Знайомство зі Scratch](https://projects.raspberrypi.org/uk-UA/pathways/scratch-intro), можеш перейти до [Сюрпризу! проект aнімація](https://projects.raspberrypi.org/uk-UA/projects/surprise-animation). У цьому проєкті ти будеш робити анімацію історії з сюрпризом.
 
