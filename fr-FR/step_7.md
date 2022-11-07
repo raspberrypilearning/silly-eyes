@@ -1,47 +1,55 @@
-## Share and play
+## Partager et jouer
 
-If you are in a club, why not share your project with friends and peers?
+Si tu es dans un club, pourquoi ne pas partager ton projet avec tes amis et tes camarades ?
 
-You could also show your family how your project works.
+Tu peux également montrer à ta famille comment fonctionne ton projet.
 
-If you have a Scratch account, you can share your project through Scratch. You can send a link to people you know, and the whole Scratch community will be able to find your project and try it out.
+Si tu as un compte Scratch, tu peux partager ton projet via Scratch. Tu peux envoyer un lien à des personnes que tu connais, et toute la communauté Scratch pourra trouver ton projet et l'essayer.
 
 [[[share-scratch]]]
 
-Why not invite your friends to create a project? Let them know how you had fun.
+Pourquoi ne pas inviter tes amis à créer un projet ? Fais-leur savoir combien tu t'es amusé(e).
 
-If you have a Scratch account, and have shared your 'Silly eyes' project, keep an eye out for comments that others may make about your creation. Feedback is a great way to reflect on your work. Ignore any comments that are unhelpful or irrelevant.
+Si tu as un compte Scratch et que tu as partagé ton projet « Yeux rigolos », gardes un œil sur les commentaires que d'autres pourraient faire sur ta création. Les réactions et commentaires te donnent un excellent moyen de réfléchir à ton travail. Ignore les commentaires inutiles ou non pertinents.
 
 [[[comments-feedback-scratch]]]
 
 --- task ---
 
-Inspire the Raspberry Pi Foundation community with your project!
+Inspire la communauté Raspberry Pi Foundation avec ton projet !
 
-To submit your project to our ['Silly eyes — Community' Scratch studio](https://scratch.mit.edu/studios/29120534){:target="_blank"}, please complete [this form](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}.
+Pour soumettre ton projet à notre studio Scratch de la communauté [Yeux rigolos](https://scratch.mit.edu/studios/29120534){:target="_blank"}, remplis [ce formulaire](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}.
 
 --- /task ---
 
-### Community submissions
+### Soumissions à la communauté
 
 --- task ---
 
-Take a look at these fabulous community projects from our ['Silly eyes — Community' Scratch studio](https://scratch.mit.edu/studios/29079784){:target="_blank"}. Click on the backdrops, eyeballs and accessories to interact with them:
+Jette un coup d'œil à ces fabuleux projets communautaires de notre studio Scratch de la communauté [Yeux rigolos](https://scratch.mit.edu/studios/29079784){:target="_blank"}. Clique sur les arrières-plans, globes oculaires et accessoires pour interagir avec eux :
 
-**Ladybug scare** [See inside](https://scratch.mit.edu/projects/517735755/editor){:target="_blank"}
+**Peur de coccinelle** [Voir à l'intérieur](https://scratch.mit.edu/projects/517735755/editor){:target="_blank"}
 
-Click on the backdrop:
+Clique sur l'arrière-plan :
 
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/517735755/?autostart=false" frameborder="0"></iframe>
 </div>
 
-**Butterfly and bear** [See inside](https://scratch.mit.edu/projects/569624392/editor){:target="_blank"}
+**Papillon et ours** [Voir à l'intérieur](https://scratch.mit.edu/projects/569624392/editor){:target="_blank"}
 
-Click on the bear and butterfly:
+Clique sur l'ours et le papillon :
 
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/569624392/?autostart=false" frameborder="0"></iframe>
+</div>
+
+**Pixel dot** [See inside](https://scratch.mit.edu/projects/747156758/editor){:target="_blank"}
+
+Click on the green flag to see everything pixelate:
+
+<div class="scratch-preview" style="margin-left: 15px;">
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/747156758/?autostart=false" frameborder="0"></iframe>
 </div>
 
 --- /task ---
