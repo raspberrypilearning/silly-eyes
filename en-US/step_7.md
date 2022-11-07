@@ -44,6 +44,14 @@ Click on the bear and butterfly:
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/569624392/?autostart=false" frameborder="0"></iframe>
 </div>
 
+**Pixel dot** [See inside](https://scratch.mit.edu/projects/747156758/editor){:target="_blank"}
+
+Click on the green flag to see everything pixelate:
+
+<div class="scratch-preview" style="margin-left: 15px;">
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/747156758/?autostart=false" frameborder="0"></iframe>
+</div>
+
 --- /task ---
 
 --- task ---
