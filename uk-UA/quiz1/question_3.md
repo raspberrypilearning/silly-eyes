@@ -1,11 +1,11 @@
 --- question ---
 ---
-legend: Question 3 of 3
+legend: Питання 3 з 3
 ---
 
-<span style="color: #0faeb0">**User interaction**</span> is how the project reacts to the user. The 'Silly eyes' project that you have made probably has lots of <span style="color: #0faeb0">**user interaction**</span>!
+<span style="color: #0faeb0">**Взаємодія з користувачем**</span> - це те, як проєкт реагує на користувача. Проєкт 'Дурненькі очі', який був створений тобою, напевно, має багато <span style="color: #0faeb0">**взаємодії з користувачем**</span>!
 
-Which of these scripts allows user interaction after the program has started?
+Який з цих скриптів дозволяє взаємодію з користувачем після запуску програми?
 
 --- choices ---
 
@@ -17,7 +17,7 @@ clear graphic effects
 
   --- feedback ---
 
-The graphic effects are cleared after the timer reaches 10. The user does not have to do anything, so there is no user interaction.
+Графічні ефекти будуть вимкнені після того, як таймер досягне позначки 10. Користувач не повинен нічого робити, тому відсутня будь-яка взаємодія з користувачем.
 
   --- /feedback ---
 - ( )
@@ -28,7 +28,7 @@ say [hello] for (2) seconds
 
   --- feedback ---
 
-The sprite says "hello" after the backdrop switches. The user does not have to do anything, so there is no user interaction.
+Спрайт скаже "привіт" після зміни тла. Користувач не повинен нічого робити, тому відсутня будь-яка взаємодія з користувачем.
 
   --- /feedback ---
 - (x)
@@ -39,16 +39,16 @@ change [color v] effect by (25)
 
   --- feedback ---
 
-The user has to click on the sprite to change the colour. This is user interaction.
+Щоб змінити колір, користувач має натиснути на спрайт. Це і є взаємодія з користувачем.
 
   --- /feedback ---
 
 
-- ( ) Give me a clue.
+- ( ) Дай мені підказку.
 
   --- feedback ---
 
- User interaction is how the project reacts to the user doing things such as moving the mouse and clicking on the screen.
+ Взаємодія з користувачем - це те, як проєкт реагує на дії користувача, такі як переміщення курсора миші та кліки по екрану.
 
   --- /feedback ---
 
