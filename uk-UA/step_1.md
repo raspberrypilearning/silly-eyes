@@ -1,31 +1,31 @@
-## You will make
+## Ти зробиш
 
-Design and create a silly eyes character 👀. The character's large, silly eyes will follow the mouse pointer to bring your character to life.
+Придумаєш та створиш персонажа з дурнуватими очима 👀. Великі, дурнуваті очі персонажа будуть слідувати за курсором миші, щоб оживити твого персонажа.
 
-![Examples of projects.](images/showcase-line.png)
+![Приклади проєктів.](images/showcase-line.png)
 
-You will:
+Зможеш:
 
-+ Make a project that is fun to play with
-+ Create your own character
-+ Code your project using **sprites, scripts and loops**
++ Зробити проєкт, з яким буде цікаво гратись
++ Створити власного персонажа
++ Кодувати свій проєкт за допомогою **спрайтів, скриптів і циклів**
 
 --- no-print ---
 
-### Play ▶️
+### Грати ▶️
 
 --- task ---
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 175px; flex-grow: 1">  
 
-**Gobo watching**: [See inside](https://scratch.mit.edu/projects/495141114/editor){:target="_blank"}
+**Gobo спостерігає**: [Переглянути код](https://scratch.mit.edu/projects/495141114/editor){:target="_blank"}
 
-Move the mouse (or if you are using a tablet, move your finger) around the Stage. 
+Переміщай мишку (або, якщо використовуєш планшет, - палець) по Сцені. 
 
-What happens when you move between Gobo's eyes? 
+Що відбувається, коли ти проходиш між очима Gobo? 
   
-What happens when you click on different parts of the project?
+Що відбувається, коли ти клікаєш на різні частини проєкту?
 </div>
 <div>
 
@@ -37,27 +37,27 @@ What happens when you click on different parts of the project?
 
 --- /task ---
 
-### Get ideas 💭
+### Отримай ідеї 💭
 
 --- task ---
 
-Play with these example projects to get ideas:
+Пограйся з цими проєктами, щоб отримати ідеї:
 
-⭐ Share your finished Silly eyes project for a chance of it being featured here.
+⭐ Поділися своїм готовим проєктом Дурненькі очі, щоб мати шанс бути опублікованим у цьому списку.
 
-**Don't eat donut**: [See inside](https://scratch.mit.edu/projects/495865093/editor){:target="_blank"}
+**Не їжте пончики**: [Переглянути код](https://scratch.mit.edu/projects/495865093/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/495865093/?autostart=false" frameborder="0"></iframe>
 </div>
 
-**Sporg**: [See inside](https://scratch.mit.edu/projects/495865892/editor){:target="_blank"}
+**Sporg**: [Переглянути код](https://scratch.mit.edu/projects/495865892/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/495865892/?autostart=false" frameborder="0"></iframe>
 </div>
 
-**⭐ Crab with hats** (featured community project)
+**⭐ Краб з капелюшками** (проєкт спільноти)
 
-Click on the crab, hat, backdrop and the eyeballs:
+Натисни на краба, капелюх, фон і очні яблука:
 
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/736988636/?autostart=false" frameborder="0"></iframe>
@@ -69,11 +69,11 @@ Click on the crab, hat, backdrop and the eyeballs:
 
 --- print-only ---
 
-### Get ideas 💭
+### Отримай ідеї 💭
 
-Design and create a silly eye character 👀. The character's large, silly eyes will follow the mouse pointer to bring your character to life. To get more ideas, **See inside** example projects in the 'Silly eyes — Examples' Scratch studio: https://scratch.mit.edu/studios/29029028
+Придумай і створи персонажа з дурнуватими очима 👀. Великі, дурнуваті очі персонажа будуть слідувати за курсором миші, щоб оживити твого персонажа. Щоб надихнутися ідеями, **переглянь код** проєктів-прикладів у студії Scratch 'Дурненькі очі — Приклади': https://scratch.mit.edu/studios/29029028
 
-![The 'Gobo watching' project.](images/gobo-watching.png) ![The 'Don't eat donut' project.](images/dont-eat-donut.png) ![The 'Sporg' project.](images/sporg.png)
+![Проєкт 'Gobo спостерігає'.](images/gobo-watching.png) ![Проєкт 'Не їжте пончики'.](images/dont-eat-donut.png) ![Проєкт 'Sporg'.](images/sporg.png)
 
 --- /print-only ---
 
