@@ -8,19 +8,19 @@ copyedit: false
 last_tested: '2021-02-25'
 steps:
   - 
-    title: You will make
+    title: Je gaat maken
   - 
-    title: Create your character
+    title: Creëer je personage
   - 
     title: Maak maffe ogen
     completion:
       - engaged
   - 
-    title: Add sprite effects
+    title: Sprite-effecten toevoegen
     completion:
       - internal
   - 
-    title: Quick quiz
+    title: Snelle quiz
     knowledge_quiz:
       path: quiz1
       version: 1
@@ -29,8 +29,8 @@ steps:
     completion:
       - external
   - 
-    title: Upgrade your project
+    title: Verbeter je project
   - 
     title: Deel en speel
   - 
-    title: What next?
+    title: Wat kun je verder nog doen?
