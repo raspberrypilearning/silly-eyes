@@ -1,27 +1,27 @@
-## Sprite effects
+## Ефекти спрайтів
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-You can make your **character** sprite and **silly eye** sprites change their `Looks`{:class="block3looks"} when you click on them.
+Ти можеш зробити так, щоб твій спрайт **персонаж** та спрайт **дурнувате око** змінювали свій `Вигляд`{:class="block3looks"}, коли ти клацаєш на них.
 </div>
 <div>
 
-![A character and eyes with graphic effects.](images/character-graphic-effects.png){:width="300px"}    
+![Персонаж та очі з графічними ефектами.](images/character-graphic-effects.png){:width="300px"}    
 
 </div>
 </div>
 
-### Silly eye effects
+### Ефекти дурнуватих очей
 
 --- task ---
 
-Add a `when this sprite clicked`{:class="block3events"} block to your **Eyeball** sprite.
+Додай блок `коли спрайт натиснуто`{:class="block3events"} до спрайта **Очне яблуко**.
 
-Can you work out what code block you would put underneath to change your sprite's eye colour when you click on the **Eyeball** sprite?
+Ти можеш визначити, який блок коду потрібно поставити нижче, щоб колір ока змінився при натисканні на спрайт **Очне яблуко**?
 
 --- collapse ---
 ---
-title: Change graphic effects when the sprite is clicked
+title: Зміна графічних ефектів при натисканні на спрайт
 ---
 
 ```blocks3
@@ -35,49 +35,49 @@ change [color v] effect by (25)
 
 --- task ---
 
-If you want both eyeballs to have the same effect, you will need to copy your script to the **Eyeball 2** sprite.
+Якщо ти хочеш, щоб обидва ока мали однаковий ефект, тобі потрібно скопіювати свій скрипт на спрайт **Очне яблуко 2**.
 
 [[[scratch3-copy-code]]]
 
 --- /task ---
 
-### Character effects
+### Ефекти персонажів
 
 --- task ---
 
-Click on your **character** sprite in the Sprite list, then click on the **Code** tab.
+Клацни на спрайт твого **персонажа** у списку Спрайтів та натисни на вкладку **Код**.
 
-Add the same script as you used to change the eye colour. Which graphic effects do you want to change for your **character**?
+Додай такий самий скрипт, який використовувався для зміни кольору очей. Які графічні ефекти ти хочеш змінити для твого **персонажа**?
 
-**Choose:** Choose an effect in the drop-down menu within the `change color effect by`{:class="block3looks"} block. Experiment with the numbers and effects until you have a change that you like.
+**Вибір:** Обери ефект у спливаючому меню блока `змінити ефект колір на`{:class="block3looks"}. Експериментуй з цифрами та ефектами, поки не досягнеш бажаних результатів.
 
 [[[scratch3-graphic-effects]]]
 
 --- /task ---
 
-### An accessory
+### Аксесуар
 
-Now, add an **accessory**, such as a hat, that changes when you click on it — use the `next costume`{:class="block3looks"} block.
+А тепер додай **аксесуар**, наприклад, капелюх, який змінюється при натисканні на нього. Для цього скористайся блоком `наступний образ`{:class="block3looks"}.
 
 --- task ---
 
-**Choose:** Add an accessory change or costume change of your choice.
+**Вибір:** Додай зміну аксесуарів або іншого образа на твій вибір.
 
-![Sprites with accessories.](images/accessory-sprite.png)
+![Спрайти з аксесуарами.](images/accessory-sprite.png)
 
 --- collapse ---
 ---
-title: Make a sprite change costume when clicked
+title: Зробити так, щоб спрайт змінював образ при натисканні
 ---
 
-**Gobo with costume accessories**: [See inside](https://scratch.mit.edu/projects/496334057/editor){:target="_blank"}
+**Gobo з аксесуарами**: [Переглянути код](https://scratch.mit.edu/projects/496334057/editor){:target="_blank"}
 <div class="scratch-preview">
 <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/496334057/?autostart=false" frameborder="0"></iframe>
 </div>
 
-Some sprites already have a choice of costumes.
+Деякі спрайти вже мають вибір образів.
 
-You can add code to make a sprite's costume change to the `next costume`{:class="block3looks"} when you click on the sprite:
+Ти можеш додати код, який змусить спрайт змінювати образ на `наступний образ`{:class="block3looks"}, при натисканні на спрайт:
 
 ```blocks3
 when this sprite clicked
@@ -86,7 +86,7 @@ next costume
 
 --- /collapse ---
 
-If your sprite does not have a choice of costumes, or you want to add more, you can add any costume to a sprite.
+Якщо у твого спрайта немає вибору образів, або, якщо ти хочеш додати їх більше, то можеш додати будь-який образ до спрайта.
 
 [[[scratch3-add-costumes-to-a-sprite]]]
 
@@ -94,28 +94,28 @@ If your sprite does not have a choice of costumes, or you want to add more, you 
 
 --- task ---
 
-**Test:** Work on your sprites until they interact in the way that you want.
+**Тест:** Продовжуй працювати над спрайтами до тих пір, поки вони не будуть працювати так, як ти хочеш.
 
-**Tip:** Try one change at a time and test what it does so that you can easily spot each change and undo anything that you do not like.
+**Порада** Спробуй вносити по одній зміні за раз і перевіряй, що вона робить, щоб можна було легко помітити кожну зміну та скасувати все, що тобі не подобається.
 
 --- /task ---
 
 --- task ---
 
-**Debug:**
+**Налагодження:**
 
-If you add code to the wrong sprite, you can fix that:
+Якщо код додано не до того спрайта, це можна виправити:
 
 [[[scratch3-copy-code]]]
 
-If you need to, you can reset the graphic effects:
+При необхідності можна скасувати всі графічні ефекти:
 
 --- collapse ---
 ---
-title: I don't want these graphic effects
+title: Мені не потрібні ці графічні ефекти
 ---
 
-To reset the graphic effects at any time, click on the `clear graphic effects`{:class="block3looks"} block in the `Looks`{:class="block3looks"} blocks menu. Clicking on the green flag also clears graphic effects.
+Щоб у будь-який момент скасувати графічні ефекти, натисни на блок `очистити графічні ефекти`{:class="block3looks"} у меню блоків `Вигляд`{:class="block3looks"}. Натискання на зелений прапорець також зупиняє графічні ефекти.
 
 ```blocks3
 clear graphic effects
@@ -126,14 +126,14 @@ clear graphic effects
 
 --- task ---
 
-**Test:** Test your project again, but this time, make it full-screen so that you can see how it will appear to someone looking at it.
+**Тест:** Знову протестуй свій проєкт, але цього разу зроби його повноекранним, щоб можна було побачити, як він виглядатиме для інших користувачів.
 
 [[[scratch3-full-screen]]]
 
 --- /task ---
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-By making your project full-screen, you are seeing what you have made from the perspective of a user who is playing with your project. **User interaction** is important in digital making. 
+Зробивши свій проєкт повноекранним, ти побачиш, як він виглядає з точки зору користувача, який буде гратися з твоїм проєктом. **Взаємодія з користувачем** має важливе значення в цифровому виробництві. 
 </p>
 
 
