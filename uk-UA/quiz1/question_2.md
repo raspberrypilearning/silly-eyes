@@ -1,9 +1,9 @@
 --- question ---
 ---
-legend: Question 2 of 3
+legend: Питання 2 з 3
 ---
 
-To make the rocket interactive, the **rocket** sprite has this script:
+Щоб ракета стала інтерактивною, спрайт **ракета** має такий скрипт:
 
 ```blocks3
 when flag clicked
@@ -13,39 +13,39 @@ point towards (mouse-pointer v)
 end
 ```
 
-Which **rocket** costume should we use so that the top of the rocket will point towards the mouse pointer?
+Який образ **ракети** потрібно використати, щоб верхня частина ракети була спрямована в бік курсора миші?
 
 --- choices ---
 
-- ( ) ![A rocket pointing to the left-hand side.](images/rocket_left.png)
+- ( ) ![Ракета спрямована в лівий бік.](images/rocket_left.png)
 
   --- feedback ---
 
-If the rocket is pointing to the left-hand side, the rocket will be facing the opposite direction to (away from) the mouse pointer when it rotates.
+Якщо ракета спрямована в ліву сторону, то при обертанні ракета буде спрямована в бік, протилежний курсора миші (від нього).
 
   --- /feedback ---
 
-- ( ) ![A rocket facing down.](images/rocket_down.png)
+- ( ) ![Ракета спрямована вниз.](images/rocket_down.png)
 
   --- feedback ---
 
-If the rocket is facing down, it will be facing a different direction to the mouse pointer when it rotates.
+Якщо ракета спрямована вниз, то при обертанні вона буде спрямована в інший бік від курсора миші.
 
   --- /feedback ---
 
-- (x) ![A rocket pointing to the right-hand side.](images/rocket_right.png)
+- (x) ![Ракета спрямована в правий бік.](images/rocket_right.png)
 
   --- feedback ---
 
-If the rocket is pointing to the right-hand side, the rocket is in the default position for correctly pointing towards your mouse pointer if the rotation style is set to `all around`{:class="block3motion"}.
+Якщо ракета спрямована в праву сторону, ракета знаходиться в стандартному положенні для правильного наведення на курсор миші, якщо стиль обертання встановлений на `навколо`{:class="block3motion"}.
 
   --- /feedback ---
 
-- ( ) ![A rocket facing up.](images/rocket_up.png)
+- ( ) ![Ракета спрямована догори.](images/rocket_up.png)
 
   --- feedback ---
 
-If the rocket is facing up, it will be facing a different direction to the mouse pointer when it rotates.
+Якщо ракета спрямована догори, то при обертанні вона буде спрямована в інший бік, ніж курсор миші.
 
   --- /feedback ---
 
