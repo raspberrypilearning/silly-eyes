@@ -11,8 +11,8 @@ Welke van deze scripts staat gebruikersinteractie toe nadat het programma is ges
 
 - ( )
 ```blocks3
-when [timer v] > (10)
-clear graphic effects
+wanneer [klok v] > (10)
+zet alle effecten uit
 ```
 
   --- feedback ---
@@ -22,8 +22,8 @@ De grafische effecten worden gewist nadat de klok 10 heeft bereikt. De gebruiker
   --- /feedback ---
 - ( )
 ```blocks3
-when backdrop switches to [forest v]
-say [hello] for (2) seconds
+wanneer achtergrond verandert naar [bos v]
+zeg [hallo] (2) sec.
 ```
 
   --- feedback ---
@@ -33,8 +33,8 @@ De sprite zegt "hallo" nadat de achtergrond verandert. De gebruiker hoeft niets 
   --- /feedback ---
 - (x)
 ```blocks3
-when this sprite clicked
-change [color v] effect by (25)
+wanneer op deze sprite wordt geklikt
+verander [kleur v] effect met (25)
 ```
 
   --- feedback ---
