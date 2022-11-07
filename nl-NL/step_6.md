@@ -1,23 +1,23 @@
-## Upgrade your project
+## Verbeter je project
 
-If you have time, you can upgrade your project.
+Als je tijd hebt, kunt je jouw project verbeteren.
 
-### Add Stage effects
+### Voeg Speelveld-effecten toe
 
-Make your project do something when you click on the **Stage**.
+Laat wat gebeuren in je project als je op het **Speelveld** klikt.
 
-![The Stage with graphic effects.](images/stage-effects.png){:width="300px"}
+![Het speelveld met grafische effecten.](images/stage-effects.png){:width="300px"}
 {:width="300px"}
 
 --- task ---
 
-Click on the Stage pane and then on the **Code** tab to add code to the **Stage**.
+Klik op het speelveld-paneel en vervolgens op de **Code** tab om code toe te voegen aan het **speelveld**.
 
-**Choose:** Choose what you want to change when the **Stage** is clicked.
+**Kies:** Kies wat je wilt wijzigen wanneer op het **speelveld** wordt geklikt.
 
 --- collapse ---
 ---
-title: Change graphic effects when the Stage is clicked
+title: Grafische effecten wijzigen wanneer op het speelveld wordt geklikt
 ---
 
 ```blocks3
@@ -29,7 +29,7 @@ change [color v] effect by [25]
 
 --- collapse ---
 ---
-title: Switch backdrop when the Stage is clicked
+title: Van achtergrond wisselen wanneer op het speelveld wordt geklikt
 ---
 
 ```blocks3
@@ -41,42 +41,42 @@ next backdrop
 
 --- /task ---
 
-### Add more
+### Voeg meer toe
 
-You could also add:
-- More body parts
-- More sprites with silly eyes
-- More backdrops
-- More accessories, or add more costumes to your accessories
+Je zou het volgende kunnen toevoegen:
+- Meer lichaamsdelen
+- Meer sprites met maffe ogen
+- Meer achtergronden
+- Meer accessoires of meer uiterlijken toevoegen aan je accessoires
 
-This **Sporg** character also has arms that `point towards the mouse pointer`{:class="block3motion"}.
+Het **Sporg**-personage heeft ook armen die `naar de muisaanwijzer wijzen`{:class="block3motion"}.
 
-**Sporg**: [See inside](https://scratch.mit.edu/projects/495865892/editor){:target="_blank"}
+**Sporg**: [Bekijk van binnen](https://scratch.mit.edu/projects/495865892/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/495865892/?autostart=false" frameborder="0"></iframe>
 </div>
 
-If you add other body parts, you will need to centre them at the point that you want them to rotate from. For example, an arm would rotate from the shoulder.
+Als je andere lichaamsdelen toevoegt, moet je deze centreren op het punt waarvan je wilt dat ze omheen draaien. Een arm zou bijvoorbeeld vanuit de schouder draaien.
 
 [[[scratch-crosshair]]]
 
-### Get ideas
+### Doe inspiratie op
 
 --- task ---
 
-Each project in the ['Silly eyes — Examples' Scratch studio](https://scratch.mit.edu/studios/29029028){:target="_blank"} has a **See inside** link, which you can use to open the project in the Scratch editor and look at the code to get ideas and see how the project works.
+Elk project in de ['Maffe ogen — Voorbeelden' Scratch studio](https://scratch.mit.edu/studios/29029028){:target="_blank"} heeft een **Bekijk van binnen** link, die je kunt gebruiken om het project in de Scratch-editor te openen en de code te bekijken om ideeën op te doen en te zien hoe het project werkt.
 
 --- /task ---
 
 --- task ---
 
-Take a look at our ['Silly eyes — Community' Scratch studio](https://scratch.mit.edu/studios/29120534){:target="_blank"} to see projects created by community members.
+Bekijk onze ['Maffe ogen — Community' Scratch studio](https://scratch.mit.edu/studios/29120534){:target="_blank"} om projecten te zien die zijn gemaakt door communityleden.
 
 --- /task ---
 
 --- task ---
 
-You can also look at the remixes for the [Silly eyes starter project](https://scratch.mit.edu/projects/582221984/remixes){:target="_blank"} to see what other creators have made.
+Je kunt ook kijken naar de remixes voor het [Maffe Ogen startproject](https://scratch.mit.edu/projects/582221984/remixes){:target="_blank"} om te zien wat andere makers hebben gemaakt.
 
 --- /task ---
 
