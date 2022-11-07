@@ -1,93 +1,93 @@
-## Make silly eyes
+## Створення дурненьких очей
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-Make the silly eyes! Each eye needs to be a separate sprite so that it can move separately.
+Створи дурнуваті очі! Кожне око має бути окремим спрайтом, щоб воно окремо рухалося.
 
 </div>
 <div>
 
-![A character with silly eyes.](images/character-with-eyes.png)
+![Персонаж з дурнуватими очима.](images/character-with-eyes.png)
 {:width="300px"}  
 
 </div>
 </div>
 
-### Draw an eyeball
+### Намалюй очне яблуко
 
 --- task ---
 
-Use the **Paint** option to create a new **sprite**.
+Використовуй опцію **Малювати**, щоб створити новий **спрайт**.
 
-![The 'Paint' option in the 'Choose a Sprite' menu.](images/paint-a-sprite.png)
+![Опція 'Малювати' в меню 'Обрати спрайт'.](images/paint-a-sprite.png)
 
-The Paint editor will open, which will allow you to create your **Eyeball** sprite's costume.
+Відкриється редактор Малювання, який дозволить тобі створити образ спрайта **Очне яблуко**.
 
 --- /task ---
 
-It is really important that:
-- The black pupil and coloured iris face to the right-hand side of the **Eyeball** costume
-- The **Eyeball** costume is centred
+Дуже важливо, щоб:
+- Чорна зіниця та кольорова оболонка спрямовані на праву сторону образа **Очного яблука**
+- Образ **Очне яблуко** знаходиться в центрі
 
 --- task ---
 
-**Choose:** Draw an eyeball **or** start from a round sprite.
+**Вибір:** Намалювати очне яблуко **або** почати з круглого спрайта.
 
-![Example eyeballs. One drawn from scratch, another taken from the beachball and the third from a baseball.](images/make-an-eye.png)
+![Приклади очей. Один намальований з нуля, інший взятий з пляжного м'яча, а третій - з бейсбольного.](images/make-an-eye.png)
 
 --- collapse ---
 ---
-title: Draw an eyeball in the Paint editor
+title: Намалюй очне яблуко в редакторі Малювання
 ---
 
-Select the **Circle** tool.
+Вибери інструмент **Коло**.
 
-To draw a perfect circle, press and hold the <kbd>Shift</kbd> key on the keyboard while you draw with the **Circle** tool. If you are using a tablet, try to get as close to a perfect circle as you can.
+Щоб намалювати ідеальне коло, натисни та утримуй клавішу <kbd>Shift</kbd> на клавіатурі під час малювання інструментом **Коло**. Якщо ти користуєшся планшетом, постарайся максимально точно намалювати ідеальне коло.
 
-In this example, we set the **Outline** to black and the **Fill** colour of the eyeball to white:
+У цьому прикладі ми задаємо **Межу** назад та колір **Заповнення** очного яблука до білого:
 
-![A white eyeball with a black outline.](images/eyeball-outline.png)
+![Біле очне яблуко з чорним контуром.](images/eyeball-outline.png)
 
-Use the **Fill** and **Outline** colour choosers to choose colours. To make black, slide both the **Saturation** and **Brightness** to `0`. To make white, slide the **Saturation** to `0` and the **Brightness** to `100`.
+Використовуй палітру вибору кольорів **Заповнення** та **Межа**, щоб обрати кольори. Щоб зробити чорний колір, посунь повзунки **Насиченість** та **Яскравість** до `0`. Щоб зробити білий колір, посунь повзунки **Насиченість** до `0` та **Яскравість** до `100`.
 
-![Saturation and brightness sliders set to 0.](images/black-colour.png) ![Saturation and brightness sliders set to 100.](images/white-colour.png)
+![Повзунки насиченість та яскравість встановлені на 0.](images/black-colour.png) ![Повзунки насиченість та яскравість встановлені на 100.](images/white-colour.png)
 
-Make sure that the eyeball is centred — move it so that the blue cross in the costume lines up with the grey crosshair in the Paint editor.
+Переконайся, що очне яблуко розташоване по центру - перемісти його так, щоб синій хрестик на образі збігся з сірим прицілом у редакторі Малювання.
 
-![An animated image of a circle costume being dragged from the top left to fit with the circles centre over the crosshair icon.](images/eye-centre.gif)
+![Анімоване зображення образу кола, яке перетягується з лівого верхнього кута так, щоб розмістити його в центрі на значок перехрестя.](images/eye-centre.gif)
 
-Draw a smaller perfect circle and position it on the right-hand side of the eyeball:
+Намалюй ідеальне коло меншого розміру та розташуй його з правого боку від очного яблука:
 
-![An eyeball with a red iris and black pupil on the right-hand side.](images/eyeball-with-iris.png)
+![Очне яблуко з оболонкою червоного кольору та чорною зіницею з правого боку.](images/eyeball-with-iris.png)
 
-You could also draw circles inside circles, or use colour, to get different effects.
+Ти також можеш намалювати коло всередині кола, або використовувати кольори, щоб отримати різні ефекти.
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: Turn a round costume into an eyeball
+title: Перетвори круглий образ на очне яблуко
 ---
 
-There are costumes in Scratch that you can edit to make silly eyes for your character.
+У Scratch вже є образи, які ти можеш редагувати, щоб отримати дурнуваті очі для свого персонажа.
 
-![Existing Scratch costumes as eyeballs.](images/costume-eyes.gif)
+![Наведені образи Scratch для створення очних яблук.](images/costume-eyes.gif)
 
-Click on the **Choose a Costume** icon to see the library Scratch costumes.
+Натисни на іконку **Обрати образ**, щоб переглянути бібліотеку образів Scratch.
 
-![The Choose a Costume icon.](images/choose-a-costume.png)
+![Іконка Обрати образ.](images/choose-a-costume.png)
 
-Click on the costume you want to add to your sprite.
+Натисни на образ, який ти хочеш додати до свого спрайта.
 
-Use the Paint editor to change the costume. You could add circles, choose a different **Fill** colour, or remove parts of the costume to turn it into a silly eye.
+Для редагування образу використовуй редактор Малювання. Ти можеш додати кружечки, вибравши колір **Заповнення** або видалити частини образа, щоб перетворити його на дурнувате око.
 
-Make sure that the eyeball is centred — move it so that the blue cross in the costume lines up with the grey crosshair in the Paint editor.
+Переконайся, що очне яблуко розташоване по центру - перемісти його так, щоб синій хрестик на образі збігся з сірим прицілом у редакторі Малювання.
 
-![An animated image of a ball costume being dragged from the top left to fit with the balls centre over the crosshair icon.](images/crosshair-centre.gif)
+![Анімоване зображення образа м'яча, яке перетягується з лівого верхнього кута, щоб збігтися з іконкою прицілу.](images/crosshair-centre.gif)
 
-**Tip:** The black pupil and coloured iris need to be positioned on the right-hand side of the costume so that the **Eyeball** follows the mouse pointer.
+**Порада** Чорну зіницю та кольорову оболонку ока потрібно розташувати на правій стороні образу так, щоб **Очне яблуко** слідкувало за курсором миші.
 
-![The Paint editor showing an edited button1 costume.](images/button-eye.png)
+![Редактор Малювання показує відредагований образ кнопки1.](images/button-eye.png)
 
 --- /collapse ---
 
@@ -95,33 +95,33 @@ Make sure that the eyeball is centred — move it so that the blue cross in the 
 
 --- task ---
 
-Name your sprite `Eyeball` in the Sprite pane.
+Назви свій спрайт `Очне яблуко` на панелі Спрайт.
 
-![The sprite's name set to 'Eyeball' in the Sprite pane.](images/eyeball-name.png)
+![Спрайт з назвою 'Очне яблуко' на панелі Спрайт.](images/eyeball-name.png)
 
 --- /task ---
 
 --- task ---
 
-Drag the **Eyeball** sprite to position it on the Stage, and change its size to fit your character.
+Перетягни спрайт **Очне яблуко**, щоб розташувати його на Сцені та змінити його розмір залежно від твого персонажа.
 
 --- /task ---
 
-Now, make the eyeball look at the `mouse-pointer`{:class="block3motion"} so that the user can interact with your project.
+А тепер зроби так, щоб очне яблуко дивилося на `вказівник`{:class="block3motion"}. Таким чином, користувач зможе взаємодіяти з твоїм проєктом.
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-<span style="color: #0faeb0">**User**</span> means the person using the project (not just making it), and <span style="color: #0faeb0">**user interaction**</span> is how the project reacts to the user doing things such as moving the mouse and clicking on the screen. 
+<span style="color: #0faeb0">**Користувач**</span> - це особа, яка користується проєктом (а не тільки створює його), а <span style="color: #0faeb0">**взаємодія з користувачем**</span> - це те, як проєкт реагує на дії користувача, наприклад, переміщення миші або натискання на екран. 
 </p>
 
-### Code your eyeball
+### Додай код до очного яблука
 
 --- task ---
 
-Add a script to `set the rotation style`{:class="block3motion"} to `all around`{:class="block3motion"} to make the eyeball `point towards the mouse pointer`{:class="block3motion"} `forever`{:class="block3control"}.
+Зміни скрипт до блока `стиль обертання`{:class="block3motion"} на `навколо`{:class="block3motion"}, щоб змусити очне яблуко `слідкувати за курсором миші`{:class="block3motion"} `завжди`{:class="block3control"}.
 
 --- collapse ---
 ---
-title: Make a sprite point towards the mouse pointer
+title: Змусити спрайт слідкувати за курсором миші
 ---
 
 ```blocks3
@@ -136,79 +136,79 @@ end
 
 --- /task ---
 
-### Add another eyeball
+### Додай ще одне око
 
 --- task ---
 
-To add another eye, right-click (or on a tablet, tap and hold) on the **Eyeball** sprite in the Sprite list and choose **duplicate**.
+Щоб додати ще одне око, клацни правою кнопкою миші (або на планшеті торкнись й утримуй) на спрайт **Очне яблуко** у списку Спрайтів та вибери **дублювати**.
 
-![Example eyeballs in pairs. One drawn from scratch and another made from the ball sprite.](images/duplicate-eyes.png)
+![Приклад парних очних яблук. Один намальований з нуля, а інший зроблений зі спрайта кульки.](images/duplicate-eyes.png)
 
 [[[scratch3-duplicate-sprite]]]
 
 --- /task ---
 
-### Test your silly eyes
+### Випробуй свої дурненькі очі
 
 --- task ---
 
-**Test:** Click on the green flag and test your project. Do the silly eyes follow your mouse pointer as you move the mouse around?
+**Тест:** Натисни на зелений прапорець та протестуй свій проєкт. Чи слідкують очі за курсором миші, коли ти її пересуваєш?
 
-**Tip:** You don't have to keep the mouse pointer on the Stage. The eyes will follow your mouse pointer as you carry on coding in Scratch.
+**Порада** Не обов'язково наводити курсор миші тільки на Сцену. Очі будуть слідкувати за курсором миші, навіть якщо ти будеш продовжувати кодування у Scratch.
 
 --- /task ---
 
 --- task ---
 
-**Debug:** You might find some bugs in your project that you need to fix. Here are some common bugs:
+**Налагодження:** Можливо, у твоєму проєкті знайдуться помилки, які потрібно буде виправити. Ось деякі поширені помилки:
 
 --- collapse ---
 ---
-title: The eyes do not move
+title: Очі не рухаються
 ---
 
-Make sure that you have added the code to the **Eyeball** sprites and **clicked on the green flag**. Your code will not run until you click on the green flag.
+Переконайся, що додано до спрайта **Очне яблуко** та **зелений прапорець був натиснутий**. Твій код не запуститься, якщо ти не натиснеш на зелений прапорець.
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: The eyes point away from the mouse
+title: Очі відводяться від миші
 ---
 
-In the **Eyeball** costumes, check that the pupil is on the right-hand side (past the blue cross in the middle of the costume).
+У образі **Очне яблуко**, перевір, щоб зіниця ока була з правого боку (за синім хрестиком посередині образа).
 
-The **Eyeball** sprites have the `all around`{:class="block3motion"} `rotation style`{:class="block3motion"}, so they can rotate in any direction.
+Спрайти **Очне яблуко** мають `стиль обертання`{:class="block3motion"} `навколо`{:class="block3motion"}, щоб очі могли обертатись у будь-якому напрямку.
 
-When the **Eyeballs** rotate to `point towards`{:class="block3motion"} the `mouse-pointer`{:class="block3motion"}, the pupils will be closest to the mouse pointer.
+Коли **Очне яблуко** обертається та `слідкує за `{:class="block3motion"} `вказівником`{:class="block3motion"}, зіниці будуть розташовані ближче до вказівника миші.
 
-![Placing the pupil on the right-hand side of an eyeball costume.](images/eye-right.gif)
+![Розміщення зіниці з правого боку образа очного яблука.](images/eye-right.gif)
 
-![An eyeball costume with the pupil on the right-hand side.](images/eye-costume.png)
+![Образ очного яблука зі зіницею з правого боку.](images/eye-costume.png)
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: The eyes jump around the Stage
+title: Очі скачуть по сцені
 ---
 
-Check that the **Eyeball** costumes are centred. To centre a costume, drag the costume so that the blue cross in the costume lines up with the grey crosshair in the Paint editor.
+Переконайся, що образи **Очне яблуко** знаходяться в центрі. Щоб розмістити образ по центру, перетягни його так, щоб синій хрестик на образі збігся з сірим прицілом у редакторі Малювання.
 
-![Centring an eyeball costume in the Paint editor.](images/eye-centered.gif)
+![Центрування образа очного яблука в редакторі Малювання.](images/eye-centered.gif)
 
-![An eyeball costume centred in the Paint editor.](images/eye-costume.png)
+![Образ ока, який знаходиться в центрі редактора Малювання.](images/eye-costume.png)
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: The character is in front of the eyes
+title: Персонаж знаходиться перед очима
 ---
 
-When you drag a sprite to position it on the Stage, it moves in front of the other sprites.
+Коли ти перетягуєш спрайт, щоб розмістити його на Сцені, він буде розміщений попереду інших спрайтів.
 
-To get your **character** sprite to stay at the `back`{:class="block3looks"}, use:
+Щоб змусити твій спрайт **персонажа** стояти `позаду `{:class="block3looks"}, використовуй:
 
 ```blocks3
 when green flag clicked
@@ -220,32 +220,32 @@ go to [back v] layer // behind all other sprites
 
 --- collapse ---
 ---
-title: The character and the eyes follow the mouse pointer
+title: Персонаж та очі слідкують за курсором миші
 ---
 
-Did you add the eyes as costumes for your **character** instead of as costumes for separate sprites? You can fix that.
+Ти додаєш очі як образи для твого **персонажа**, а не як образи для окремих спрайтів? Ти можеш це виправити.
 
-One way to fix it is to duplicate the **character** sprite and then rename the copy `Eyeball`. Then, delete the **Eyeball** costumes from the **character** sprite, and delete the **character** costumes from the **Eyeball** sprite. Then, you can duplicate the **Eyeball** sprite and name the copy `Eyeball 2`.
+Один зі способів виправити це - продублювати спрайт **персонажа** та змінити назву копії на `Очне яблуко`. Після цього видали образи **Очне яблуко** від спрайта **персонажа**, та видали образ **персонажа** від спрайта **Очне яблуко**. Потім, ти можеш продублювати спрайт **Очне яблуко** та назвати копію `Очне яблуко 2`.
 
-The code to `point towards`{:class="block3motion"} the `mouse-pointer`{:class="block3motion"} should be on the **Eyeball** sprites and not the **character** sprite.
+Код `слідувати за`{:class="block3motion"} `вказівником`{:class="block3motion"} має бути на спрайтах **Очне яблуко**, а не на спрайті **персонажа**.
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: The character follows the mouse pointer (and the eyes do not)
+title: Персонаж слідкує за вказівником миші (а очі - ні)
 ---
 
-You need to add the `point towards`{:class="block3motion"} code to the individual **Eyeball** sprites, not your **character** sprite!
+Тобі потрібно додати блок `слідувати за`{:class="block3motion"} до індивідуального спрайта **Очне яблуко**, а не до спрайта **персонажа**!
 
-To copy the code, you can drag the code from the Code area for your **character** to the **Eyeball** sprites in the Sprite list.
+Щоб скопіювати код, ти можеш перетягнути код з області Коду до твого **персонажа** **Очне яблуко** у списку Спрайтів.
 
-You will also need to delete the script from the **character** sprite. To do this, drag the script to the Blocks menu.
+Також потрібно буде видалити скрипт зі спрайта **персонажа**. Щоб зробити це, перетягни скрипт в меню Блоки.
 
 --- /collapse ---
 
-You might find a bug that is not listed here. Can you work out how to fix it?
+Можливо, ти знайдеш помилку, яка не вказана тут. Чи зможеш ти самостійно її виправити?
 
-We love hearing about your bugs and how you fixed them. Use the **Send feedback** button at the bottom of this page and tell us if you found a different bug in your project.
+Нам подобається дізнаватись про твої помилки та про те, як їх вдалося виправити. Скористайся кнопкою **Надіслати відгук** внизу цієї сторінки та напиши нам, якщо у твоєму проєкті було виявлено іншу помилку.
 
 --- /task ---
