@@ -25,8 +25,8 @@ title: Grafische effecten wijzigen wanneer op de sprite wordt geklikt
 ---
 
 ```blocks3
-when this sprite clicked  
-change [color v] effect by (25)
+wanneer op deze sprite wordt geklikt
+verander [kleur v] effect met (25)
 ```
 
 --- /collapse ---
@@ -45,48 +45,48 @@ Als je wilt dat beide oogbollen hetzelfde effect hebben, moet je je script naar 
 
 --- task ---
 
-Click on your **character** sprite in the Sprite list, then click on the **Code** tab.
+Klik op je **personage** sprite in de Sprite-lijst en klik vervolgens op het **Code** tabblad.
 
-Add the same script as you used to change the eye colour. Which graphic effects do you want to change for your **character**?
+Voeg hetzelfde script toe als waarmee je de oogkleur hebt gewijzigd. Welke grafische effecten wil je veranderen voor je **personage**?
 
-**Choose:** Choose an effect in the drop-down menu within the `change color effect by`{:class="block3looks"} block. Experiment with the numbers and effects until you have a change that you like.
+**Kies:** Kies een effect in het vervolgkeuzemenu binnen het `verander kleur effect met`{:class="block3looks"} blok. Experimenteer met de getallen totdat je een verandering hebt die je leuk vindt.
 
 [[[scratch3-graphic-effects]]]
 
 --- /task ---
 
-### An accessory
+### Een accessoire
 
-Now, add an **accessory**, such as a hat, that changes when you click on it — use the `next costume`{:class="block3looks"} block.
+Voeg nu een **accessoire** toe, zoals een hoed, die verandert als je erop klikt — gebruik het `volgend uiterlijk`{:class="block3looks"} blok.
 
 --- task ---
 
-**Choose:** Add an accessory change or costume change of your choice.
+**Kies:** Voeg een accessoire-verandering of uiterlijkverandering naar keuze toe.
 
-![Sprites with accessories.](images/accessory-sprite.png)
+![Sprites met accessoires.](images/accessory-sprite.png)
 
 --- collapse ---
 ---
 title: Verander een sprite-uiterlijk wanneer erop wordt geklikt
 ---
 
-**Gobo with costume accessories**: [See inside](https://scratch.mit.edu/projects/496334057/editor){:target="_blank"}
+**Gobo met accessoires voor het uiterlijk**: [Bekijk van binnen](https://scratch.mit.edu/projects/496334057/editor){:target="_blank"}
 <div class="scratch-preview">
 <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/496334057/?autostart=false" frameborder="0"></iframe>
 </div>
 
-Some sprites already have a choice of costumes.
+Sommige sprites hebben al een keuze uit uiterlijken.
 
-You can add code to make a sprite's costume change to the `next costume`{:class="block3looks"} when you click on the sprite:
+Je kunt code toevoegen om het uiterlijk van een sprite te veranderen in het `volgende uiterlijk`{:class="block3looks"} wanneer je op de sprite klikt:
 
 ```blocks3
-when this sprite clicked
-next costume
+wanneer op deze sprite wordt geklikt
+volgend uiterlijk
 ```
 
 --- /collapse ---
 
-If your sprite does not have a choice of costumes, or you want to add more, you can add any costume to a sprite.
+Als je sprite geen keuze uit uiterlijken heeft, of als je er meer wilt toevoegen, kun je elk uiterlijk aan een sprite toevoegen.
 
 [[[scratch3-add-costumes-to-a-sprite]]]
 
@@ -94,9 +94,9 @@ If your sprite does not have a choice of costumes, or you want to add more, you 
 
 --- task ---
 
-**Test:** Work on your sprites until they interact in the way that you want.
+**Test:** Werk aan je sprites totdat ze op de door jou gewenste manier met elkaar omgaan.
 
-**Tip:** Try one change at a time and test what it does so that you can easily spot each change and undo anything that you do not like.
+**Tip:** Probeer één wijziging tegelijk en test wat hij doet, zodat je elke wijziging gemakkelijk kunt herkennen en alles ongedaan kunt maken wat je niet bevalt.
 
 --- /task ---
 
@@ -118,7 +118,7 @@ title: Ik wil deze grafische effecten niet
 Om de grafische effecten op elk moment opnieuw in te stellen, klik je op het `zet alle effecten uit`{:class="block3looks"} in het `Uiterlijken`{:class="block3looks"} blokkenmenu. Door op de groene vlag te klikken, worden ook de grafische effecten gewist.
 
 ```blocks3
-clear graphic effects
+wis grafische effecten
 ```
 --- /collapse ---
 
@@ -126,14 +126,14 @@ clear graphic effects
 
 --- task ---
 
-**Test:** Test your project again, but this time, make it full-screen so that you can see how it will appear to someone looking at it.
+**Test:** Test je project opnieuw, maar zet het deze keer op volledig scherm, zodat je kunt zien hoe het eruit zal zien voor iemand die ernaar kijkt.
 
 [[[scratch3-full-screen]]]
 
 --- /task ---
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-By making your project full-screen, you are seeing what you have made from the perspective of a user who is playing with your project. **User interaction** is important in digital making. 
+Door je project schermvullend te maken, zie je wat je hebt gemaakt vanuit het perspectief van een gebruiker die met jouw project speelt. **Gebruikersinteractie** is belangrijk bij digitaal maken. 
 </p>
 
 
