@@ -1,26 +1,26 @@
 ---
-title: Silly eyes
+title: Дурненькі очі
 hero_image: images/banner.png
-description: Create your own app with a character whose eyes follow the mouse pointer
+description: Створи свій додаток з персонажем, очі якого слідують за курсором миші
 version: 4
 listed: true
 copyedit: false
 last_tested: '2021-02-25'
 steps:
   - 
-    title: You will make
+    title: Ти зробиш
   - 
-    title: Create your character
+    title: Створення свого персонажа
   - 
-    title: Make silly eyes
+    title: Створення дурненьких очей
     completion:
       - engaged
   - 
-    title: Add sprite effects
+    title: Додавання ефектів спрайта
     completion:
       - internal
   - 
-    title: Quick quiz
+    title: Швидкий тест
     knowledge_quiz:
       path: quiz1
       version: 1
@@ -29,8 +29,8 @@ steps:
     completion:
       - external
   - 
-    title: Upgrade your project
+    title: Вдосконалення твого проєкту
   - 
-    title: Share and play
+    title: Ділись та грай
   - 
-    title: What next?
+    title: Що далі?
