@@ -1,31 +1,31 @@
-## You will make
+## Je gaat maken
 
-Design and create a silly eyes character 👀. De grote, maffe ogen van het personage volgen de muisaanwijzer om je personage tot leven te brengen.
+Ontwerp en maak een maffe ogen personage 👀. De grote, maffe ogen van het personage volgen de muisaanwijzer om je personage tot leven te brengen.
 
-![Examples of projects.](images/showcase-line.png)
+![Voorbeelden van projecten.](images/showcase-line.png)
 
 Je gaat:
 
-+ Make a project that is fun to play with
-+ Create your own character
-+ Code your project using **sprites, scripts and loops**
++ Maak een project dat leuk is om mee te spelen
++ Creëer je eigen personage
++ Codeer je project en maak gebruik van **sprites, scripts en herhalingen**
 
 --- no-print ---
 
-### Play ▶️
+### Afspelen ▶️
 
 --- task ---
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 175px; flex-grow: 1">  
 
-**Gobo watching**: [See inside](https://scratch.mit.edu/projects/495141114/editor){:target="_blank"}
+**Gobo-kijken**: [Bekijk van binnen](https://scratch.mit.edu/projects/495141114/editor){:target="_blank"}
 
-Move the mouse (or if you are using a tablet, move your finger) around the Stage. 
+Beweeg de muis (of als je een tablet gebruikt, je vinger) rond in het speelveld. 
 
-What happens when you move between Gobo's eyes? 
+Wat gebeurt er als je tussen Gobo's ogen beweegt? 
   
-What happens when you click on different parts of the project?
+Wat gebeurt er als je op verschillende onderdelen van het project klikt?
 </div>
 <div>
 
@@ -37,20 +37,20 @@ What happens when you click on different parts of the project?
 
 --- /task ---
 
-### Get ideas 💭
+### Doe inspiratie op 💭
 
 --- task ---
 
-Play with these example projects to get ideas:
+Speel met deze voorbeeldprojecten om ideeën op te doen:
 
-⭐ Share your finished Silly eyes project for a chance of it being featured here.
+⭐ Deel je voltooide Maffe ogen-project om kans te maken dat het hier wordt weergegeven.
 
-**Don't eat donut**: [See inside](https://scratch.mit.edu/projects/495865093/editor){:target="_blank"}
+**Eet geen donut**: [Bekikj van binnen](https://scratch.mit.edu/projects/495865093/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/495865093/?autostart=false" frameborder="0"></iframe>
 </div>
 
-**Sporg**: [See inside](https://scratch.mit.edu/projects/495865892/editor){:target="_blank"}
+**Sporg**: [Bekijk van binnen](https://scratch.mit.edu/projects/495865892/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/495865892/?autostart=false" frameborder="0"></iframe>
 </div>
@@ -69,11 +69,11 @@ Klik op de krab, hoed, achtergrond en de oogbollen:
 
 --- print-only ---
 
-### Get ideas 💭
+### Doe inspiratie op 💭
 
-Design and create a silly eye character 👀. The character's large, silly eyes will follow the mouse pointer to bring your character to life. To get more ideas, **See inside** example projects in the 'Silly eyes — Examples' Scratch studio: https://scratch.mit.edu/studios/29029028
+Ontwerp en maak een maffe ogen personage 👀. De grote, maffe ogen van het personage volgen de muisaanwijzer om je personage tot leven te brengen. Om meer ideeën op te doen, **Bekijk van binnen** de voorbeeldprojecten in de Scratch-studio 'Maffe ogen — Voorbeelden': https://scratch.mit.edu/studios/29029028
 
-![The 'Gobo watching' project.](images/gobo-watching.png) ![The 'Don't eat donut' project.](images/dont-eat-donut.png) ![The 'Sporg' project.](images/sporg.png)
+![Het project 'Gobo-kijken'.](images/gobo-watching.png) ![Het project 'Eet geen donut'.](images/dont-eat-donut.png) ![Het 'Sporg' project.](images/sporg.png)
 
 --- /print-only ---
 
