@@ -1,59 +1,59 @@
-## Quick quiz
+## Швидкий тест
 
-Answer the three questions. There are hints to guide you to the correct answer.
+Дай відповідь на три запитання. Підказки допоможуть знайти правильну відповідь.
 
-When you have answered each question, click on **Check my answer**.
+Відповівши на кожне питання, натисни на **Перевірити мою відповідь**.
 
-Have fun!
+Розважайся!
 
 --- question ---
 ---
-legend: Question 1 of 3
+legend: Питання 1 з 3
 ---
 
-We added this code to an **Eyeball** sprite, but the eyeball is not rotating when the mouse pointer moves.
+Ми додали цей код до спрайта **Око**, але очне яблуко не слідкує за курсором миші.
 
-![Screenshot showing the script and the Stage. The script is not glowing with a yellow outline. The blocks in the script are 'when green flag clicked', 'set rotation style all around', 'forever', 'point towards mouse-pointer'.](images/code-not-running.png)
+![Скріншот зі скриптом та Сценою. Скрипт не світиться жовтим контуром. Блоки в цьому скрипті це: 'коли зелений прапорець натиснуто', 'стиль обертання навколо', 'завжди', 'слідкувати за вказівник'.](images/code-not-running.png)
 
-How could you fix the problem with just one action?
+Як ти можеш вирішити проблему однією дією?
 
 --- choices ---
 
-- (x) Click on the green flag
+- (x) Натиснути на зелений прапорець
 
   --- feedback ---
 
-Yes! Just adding the script does not make it run. You need to click on the green flag to make your code run.
+Так! Те, що ти просто додаєш скрипт, ще не означає, що він буде запущений. Тобі потрібно натиснути на зелений прапорець, щоб твій код запустився.
 
-Your code will have a yellow outline around it when it is running.
+Під час виконання твій код буде обведений жовтим контуром.
 
-Forgetting to click on the green flag is a really common mistake — we all do it!
+Забути натиснути на зелений прапорець - це справді поширена помилка - ми всі це робимо!
 
-**Tip:** If you change code in a loop while the script is running, Scratch will run the new code the next time that the loop runs! You don't need to click on the green flag again. This is really useful when you are trying out ideas.
+**Порада** Якщо ти зміниш код під час виконання скрипта, Scratch виконає новий код під час наступного запуску скрипта! Тобі не потрібно знову натискати на зелений прапорець. Це дуже корисно, коли ти випробовуєш різні ідеї.
 
   --- /feedback ---
 
-- ( ) Click on the eyeball
+- ( ) Натиснути на очне яблуко
 
   --- feedback ---
 
-The script does not start with a `when this sprite clicked`{:class="block3events"} block.
+Скрипт не запускається з блоку `коли спрайт натиснуто`{:class="block3events"}.
 
   --- /feedback ---
 
-- ( ) Move the `set rotation style`{:class="block3looks"} block inside the `forever`{:class="block3control"} loop
+- ( ) Перемістити блок `стиль обертання`{:class="block3looks"} у цикл `завжди`{:class="block3control"}
 
   --- feedback ---
 
-You do not need to run the `set rotation style`{:class="block3looks"} block lots of times. If you set it once before the loop, it will not change until you set it to a different style. Moving the `set rotation style`{:class="block3looks"} block will not help with the problem in the question.
+Тобі не потрібно запускати блок `стиль обертання`{:class="block3looks"} декілька разів. Якщо ти встановиш його один раз перед циклом, він не зміниться, поки ти не зміниш його стиль на інший. Переміщення блока `стиль обертання`{:class="block3looks"} не допоможе тобі вирішити проблему, яка стоїть у запитанні.
 
   --- /feedback ---
 
-- ( ) Click on the Stage
+- ( ) Натиснути на Сцену
 
   --- feedback ---
 
-You do not need to click on the Stage to get the eyeball to rotate. When the code is running, the eyeball will just follow the mouse pointer (or your finger, if you are using a tablet).
+Тобі не потрібно натискати на Сцену, щоб змусити очне яблуко обертатися. Під час виконання коду очне яблуко буде просто слідувати за курсором миші (або пальцем, якщо ти використовуєш планшет).
 
   --- /feedback ---
 
