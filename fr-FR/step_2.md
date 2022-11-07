@@ -2,7 +2,7 @@
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-Use your design skills to add a character sprite and suitable backdrop. 
+Utilise tes compétences en conception pour ajouter un sprite de personnage et un arrière-plan approprié. 
 </div>
 <div>
 
@@ -12,31 +12,31 @@ Use your design skills to add a character sprite and suitable backdrop.
 </div>
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-<span style="color: #0faeb0">**Design**</span> means deciding on the way that a project looks and making decisions about what it does. 
+<span style="color: #0faeb0">**Conception**</span> signifie décider de l'apparence d'un projet et prendre des décisions sur ce qu'il fait. 
 </p>
 
-### Open the starter project
+### Ouvrir le projet de démarrage
 
 --- task ---
 
-Open the [Silly eyes starter project](https://scratch.mit.edu/projects/582221984/editor){:target="_blank"}. Scratch will open in another browser tab.
+Ouvre [le projet de démarrage « Yeux rigolos »](https://scratch.mit.edu/projects/582221984/editor){:target="_blank"}. Scratch s'ouvrira dans un autre onglet du navigateur.
 
 [[[working-offline]]]
 
-⏱️ Not much time? You can start from one of the [examples](https://scratch.mit.edu/studios/29029028){:target="_blank"}.
+⏱️ Tu n'as pas beaucoup de temps ? Tu peux commencer à partir de l'un des [exemples](https://scratch.mit.edu/studios/29029028){:target="_blank"}.
 
 --- /task ---
 
-### Choose your sprite and backdrop
+### Choisir ton sprite et ton arrière-plan
 
 --- task ---
 
-**Choose:** Add a **sprite** and a **backdrop** for your silly eyes project.
+**Choisir :** Ajoute un **sprite** et un **arrière-plan** pour ton projet « Yeux rigolos ».
 
-+ What does your character look like? A person 🧜🏽‍♀️, animal 🐶 or object 🧸.
-+ Where do you want your character to live? Somewhere sensible 🏠 or silly 🎪.
++ A quoi ressemble ton personnage ? Une personne 🧜🏽‍♀️, un animal 🐶 ou un objet 🧸.
++ Où veux-tu que ton personnage vive ? Un endroit sérieux 🏠 ou loufoque 🎪.
 
-![The add sprite icon and add backdrop icon side by side.](images/sprite-and-backdrop.png)
+![L'icône d'ajout de sprite et l'icône d'ajout d'arrière-plan côte à côte.](images/sprite-and-backdrop.png)
 
 [[[generic-scratch3-sprite-from-library]]]
 
@@ -46,24 +46,24 @@ Open the [Silly eyes starter project](https://scratch.mit.edu/projects/582221984
 
 --- collapse ---
 ---
-title : Obtenir un sprite surprise
+title: Obtenir un sprite surprise
 ---
 
-Not sure which sprite to choose? Go to the **Choose a Sprite** menu and choose the **Surprise** option to add a surprise sprite to your project.
+Tu ne sais pas quel sprite choisir ? Va dans le menu **Choisir un sprite** et choisis l'option **Surprise** pour ajouter un sprite surprise dans ton projet.
 
-![The 'Surprise' option in the 'Choose a Sprite' menu.](images/surprise-sprite.png)
+![L'option "Surprise" dans le menu "Choisir un sprite".](images/surprise-sprite.png)
 
 --- /collapse ---
 
-**Tip:** If you create your own sprite in the Paint editor, **don't add eyes yet, because they need to be separate sprites.**
+**Astuce :** si tu crées ton propre sprite dans l'éditeur peinture, **n'ajoute pas encore des yeux, car ce sont des sprites qui doivent être séparés.**
 
 --- /task ---
 
-### Resize your sprite
+### Redimensionne ton sprite
 
 --- task ---
 
-In the Sprite pane, change the number in the **Size** property to a number that makes your character fill the Stage.
+Dans le panneau Sprite, remplace le nombre dans la propriété **Taille** par un nombre permettant à ton personnage de remplir la scène.
 
 ![](images/size-property.png){:width="500px"}
 
@@ -71,7 +71,7 @@ In the Sprite pane, change the number in the **Size** property to a number that 
 
 --- task ---
 
-Look at the Stage. You will see your large character and chosen backdrop.
+Regarde la scène. Tu verras ton grand personnage et l'arrière-plan choisi.
 
 ![](images/large-sprite-stage.png){:width="500px"}
 
