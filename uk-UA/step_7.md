@@ -44,9 +44,9 @@
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/569624392/?autostart=false" frameborder="0"></iframe>
 </div>
 
-**Pixel dot** [See inside](https://scratch.mit.edu/projects/747156758/editor){:target="_blank"}
+**Піксельна точка** [Переглянути код](https://scratch.mit.edu/projects/747156758/editor){:target="_blank"}
 
-Click on the green flag to see everything pixelate:
+Натисніть на зелений прапорець, щоб побачити все піксельне:
 
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/747156758/?autostart=false" frameborder="0"></iframe>
@@ -56,6 +56,6 @@ Click on the green flag to see everything pixelate:
 
 --- task ---
 
-You can also look at the remixes for the [Silly eyes starter project](https://scratch.mit.edu/projects/582221984/remixes){:target="_blank"} to see what other creators have made.
+Також ти можеш ознайомитися з реміксами [Стартових проєктів з дурнуватими очима](https://scratch.mit.edu/projects/582221984/remixes){:target="_blank"} та подивитися, що зробили інші автори.
 
 --- /task --- 
