@@ -1,23 +1,23 @@
-## Upgrade your project
+## Вдосконалення твого проєкту
 
-If you have time, you can upgrade your project.
+Якщо у тебе є час, ти можеш вдосконалити свій проєкт.
 
-### Add Stage effects
+### Додавання ефектів для Сцени
 
-Make your project do something when you click on the **Stage**.
+Зробити так, щоб твій проєкт щось робив, коли ти натискаєш на **Сцену**.
 
-![The Stage with graphic effects.](images/stage-effects.png){:width="300px"}
+![Сцена з графічними ефектами.](images/stage-effects.png){:width="300px"}
 {:width="300px"}
 
 --- task ---
 
-Click on the Stage pane and then on the **Code** tab to add code to the **Stage**.
+Клацни на Сцену та перейди на вкладку **Код**, щоб додати код до **Сцени**.
 
-**Choose:** Choose what you want to change when the **Stage** is clicked.
+**Вибір:** Вибери, що ти хочеш змінювати, коли будеш натискати на **Сцену**.
 
 --- collapse ---
 ---
-title: Change graphic effects when the Stage is clicked
+title: Зміна графічних ефектів при натисканні на Сцену
 ---
 
 ```blocks3
@@ -29,7 +29,7 @@ change [color v] effect by [25]
 
 --- collapse ---
 ---
-title: Switch backdrop when the Stage is clicked
+title: Зміна тла при натисканні на Сцену
 ---
 
 ```blocks3
@@ -41,42 +41,42 @@ next backdrop
 
 --- /task ---
 
-### Add more
+### Додай більше
 
-You could also add:
-- More body parts
-- More sprites with silly eyes
-- More backdrops
-- More accessories, or add more costumes to your accessories
+Ти також можеш додати:
+- Більше частин тіла
+- Більше спрайтів з дурнуватими очима
+- Більше тла
+- Більше аксесуарів, або більше образів до твоїх аксесуарів
 
-This **Sporg** character also has arms that `point towards the mouse pointer`{:class="block3motion"}.
+Персонаж **Sporg** також має руки, які `слідкують за вказівником миші`{:class="block3motion"}.
 
-**Sporg**: [See inside](https://scratch.mit.edu/projects/495865892/editor){:target="_blank"}
+**Sporg**: [Переглянути код](https://scratch.mit.edu/projects/495865892/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/495865892/?autostart=false" frameborder="0"></iframe>
 </div>
 
-If you add other body parts, you will need to centre them at the point that you want them to rotate from. For example, an arm would rotate from the shoulder.
+Якщо ти будеш додавати інші частини тіла, тобі потрібно буде відцентрувати їх у точці, з якої ти хочеш, щоб вони оберталися. Наприклад, щоб рука оберталась від плеча.
 
 [[[scratch-crosshair]]]
 
-### Get ideas
+### Отримуй ідеї
 
 --- task ---
 
-Each project in the ['Silly eyes — Examples' Scratch studio](https://scratch.mit.edu/studios/29029028){:target="_blank"} has a **See inside** link, which you can use to open the project in the Scratch editor and look at the code to get ideas and see how the project works.
+Кожен проєкт з [Студії Scratch 'Дурненькі очі — Приклади' ](https://scratch.mit.edu/studios/29029028){:target="_blank"} має посилання **Переглянути код**, за допомогою якої можна відкрити проєкт в редакторі Scratch і подивитися на код, щоб отримати ідеї та побачити, як працює проєкт.
 
 --- /task ---
 
 --- task ---
 
-Take a look at our ['Silly eyes — Community' Scratch studio](https://scratch.mit.edu/studios/29120534){:target="_blank"} to see projects created by community members.
+Ознайомся зі [Студією Scratch 'Дурненькі очі — Спільнота'](https://scratch.mit.edu/studios/29120534){:target="_blank"}, щоб побачити проєкти, створені учасниками спільноти.
 
 --- /task ---
 
 --- task ---
 
-You can also look at the remixes for the [Silly eyes starter project](https://scratch.mit.edu/projects/582221984/remixes){:target="_blank"} to see what other creators have made.
+Також ти можеш ознайомитися з реміксами [Стартових проєктів з дурнуватими очима](https://scratch.mit.edu/projects/582221984/remixes){:target="_blank"} та подивитися, що зробили інші автори.
 
 --- /task ---
 
