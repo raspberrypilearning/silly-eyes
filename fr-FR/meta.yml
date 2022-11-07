@@ -1,5 +1,5 @@
 ---
-title: Des yeux stupides
+title: Yeux rigolos
 hero_image: images/banner.png
 description: Créer ta propre application avec un personnage dont les yeux suivent le pointeur de la souris
 version: 4
@@ -8,19 +8,19 @@ copyedit: false
 last_tested: '2021-02-25'
 steps:
   - 
-    title: You will make
+    title: Ce que tu vas faire
   - 
-    title: Create your character
+    title: Créer ton personnage
   - 
-    title: Créer des yeux stupides
+    title: Créer des yeux rigolos
     completion:
       - engaged
   - 
-    title: Add sprite effects
+    title: Ajouter des effets de sprite
     completion:
       - internal
   - 
-    title: Quick quiz
+    title: Questionnaire rapide
     knowledge_quiz:
       path: quiz1
       version: 1
@@ -29,8 +29,8 @@ steps:
     completion:
       - external
   - 
-    title: Upgrade your project
+    title: Améliorer ton projet
   - 
-    title: Share and play
+    title: Partager et jouer
   - 
-    title: What next?
+    title: Et ensuite ?
