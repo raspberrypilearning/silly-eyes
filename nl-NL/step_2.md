@@ -2,7 +2,7 @@
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-Use your design skills to add a character sprite and suitable backdrop. 
+Gebruik je ontwerpvaardigheden om een personage-sprite en een geschikte achtergrond toe te voegen. 
 </div>
 <div>
 
@@ -12,31 +12,31 @@ Use your design skills to add a character sprite and suitable backdrop.
 </div>
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-<span style="color: #0faeb0">**Design**</span> means deciding on the way that a project looks and making decisions about what it does. 
+<span style="color: #0faeb0">**Ontwerp**</span> betekent beslissen over de manier waarop een project eruitziet en beslissingen nemen over wat het doet. 
 </p>
 
-### Open the starter project
+### Open het startproject
 
 --- task ---
 
-Open the [Silly eyes starter project](https://scratch.mit.edu/projects/582221984/editor){:target="_blank"}. Scratch will open in another browser tab.
+Open het [Maffe ogen startproject](https://scratch.mit.edu/projects/582221984/editor){:target="_blank"}. Scratch wordt in een nieuw browsertabblad geopend.
 
 [[[working-offline]]]
 
-⏱️ Not much time? You can start from one of the [examples](https://scratch.mit.edu/studios/29029028){:target="_blank"}.
+⏱️ Niet veel tijd? Je kunt beginnen met een van de [voorbeelden](https://scratch.mit.edu/studios/29029028){:target="_blank"}.
 
 --- /task ---
 
-### Choose your sprite and backdrop
+### Kies je sprite en achtergrond
 
 --- task ---
 
-**Choose:** Add a **sprite** and a **backdrop** for your silly eyes project.
+**Kies:** Voeg een **sprite** en een **achtergrond** toe voor je maffe ogen project.
 
-+ What does your character look like? A person 🧜🏽‍♀️, animal 🐶 or object 🧸.
-+ Where do you want your character to live? Somewhere sensible 🏠 or silly 🎪.
++ Hoe ziet jouw personage eruit? Een persoon 🧜🏽‍♀️, dier 🐶 of object 🧸.
++ Waar wil je dat je personage woont? Ergens serieus 🏠 of maf 🎪.
 
-![The add sprite icon and add backdrop icon side by side.](images/sprite-and-backdrop.png)
+![Het sprite pictogram en het achtergrondpictogram naast elkaar.](images/sprite-and-backdrop.png)
 
 [[[generic-scratch3-sprite-from-library]]]
 
@@ -49,21 +49,21 @@ Open the [Silly eyes starter project](https://scratch.mit.edu/projects/582221984
 title: Krijg een verrassingssprite
 ---
 
-Not sure which sprite to choose? Go to the **Choose a Sprite** menu and choose the **Surprise** option to add a surprise sprite to your project.
+Weet je niet zeker welke sprite je moet kiezen? Ga naar het **Kies een sprite** menu en kies de **Verrassing** om een verrassingssprite aan je project toe te voegen.
 
-![The 'Surprise' option in the 'Choose a Sprite' menu.](images/surprise-sprite.png)
+![De optie 'Verrassing' in het menu 'Kies een sprite'.](images/surprise-sprite.png)
 
 --- /collapse ---
 
-**Tip:** If you create your own sprite in the Paint editor, **don't add eyes yet, because they need to be separate sprites.**
+**Tip:** Als je je eigen sprite maakt in de Teken-editor, **voeg dan nog geen ogen toe, omdat het aparte sprites moeten zijn.**
 
 --- /task ---
 
-### Resize your sprite
+### De grootte van je sprite wijzigen
 
 --- task ---
 
-In the Sprite pane, change the number in the **Size** property to a number that makes your character fill the Stage.
+Wijzig in het Sprite-paneel het getal in het **Grootte**-veld in een getal naar keuze.
 
 ![](images/size-property.png){:width="500px"}
 
@@ -71,7 +71,7 @@ In the Sprite pane, change the number in the **Size** property to a number that 
 
 --- task ---
 
-Look at the Stage. You will see your large character and chosen backdrop.
+Kijk naar het speelveld. Je zult je grote karakter en gekozen achtergrond zien.
 
 ![](images/large-sprite-stage.png){:width="500px"}
 
