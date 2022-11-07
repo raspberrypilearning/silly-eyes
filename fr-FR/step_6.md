@@ -1,23 +1,23 @@
-## Upgrade your project
+## Améliorer ton projet
 
-If you have time, you can upgrade your project.
+Si tu as le temps, tu peux perfectionner ton projet.
 
-### Add Stage effects
+### Ajouter des effets de scène
 
-Make your project do something when you click on the **Stage**.
+Fais faire quelque chose à ton projet lorsque tu cliques sur la **Scène**.
 
-![The Stage with graphic effects.](images/stage-effects.png){:width="300px"}
+![La scène avec effets graphiques.](images/stage-effects.png){:width="300px"}
 {:width="300px"}
 
 --- task ---
 
-Click on the Stage pane and then on the **Code** tab to add code to the **Stage**.
+Clique sur le panneau Scène puis sur l'onglet **Code** pour ajouter du code à la **Scène**.
 
-**Choose:** Choose what you want to change when the **Stage** is clicked.
+**Choisir :** Choisis ce que tu veux changer lorsque tu cliques sur **Scène**.
 
 --- collapse ---
 ---
-title: Change graphic effects when the Stage is clicked
+title: Modifier les effets graphiques lorsque l'on clique sur la scène
 ---
 
 ```blocks3
@@ -29,7 +29,7 @@ change [color v] effect by [25]
 
 --- collapse ---
 ---
-title: Switch backdrop when the Stage is clicked
+title: Changer d'arrière-plan lorsque l'on clique sur la scène
 ---
 
 ```blocks3
@@ -41,42 +41,42 @@ next backdrop
 
 --- /task ---
 
-### Add more
+### Ajouter plus
 
-You could also add:
-- More body parts
-- More sprites with silly eyes
-- More backdrops
-- More accessories, or add more costumes to your accessories
+Tu pourrais aussi ajouter :
+- Plus de parties du corps
+- Plus de sprites avec des yeux stupides
+- Plus d'arrières-plans
+- Plus d'accessoires, ou ajoute plus de costumes à tes accessoires
 
-This **Sporg** character also has arms that `point towards the mouse pointer`{:class="block3motion"}.
+Le personnage **Sporg** a également des bras qui `s'orientent vers le pointeur de la souris`{:class="block3motion"}.
 
-**Sporg**: [See inside](https://scratch.mit.edu/projects/495865892/editor){:target="_blank"}
+**Sporg** : [Voir à l'intérieur](https://scratch.mit.edu/projects/495865892/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/495865892/?autostart=false" frameborder="0"></iframe>
 </div>
 
-If you add other body parts, you will need to centre them at the point that you want them to rotate from. For example, an arm would rotate from the shoulder.
+Si tu ajoutes d'autres parties du corps, tu devras les centrer à l'endroit à partir duquel tu souhaites qu'elles pivotent. Par exemple, un bras tournerait à partir de l'épaule.
 
 [[[scratch-crosshair]]]
 
-### Get ideas
+### Trouve l'inspiration
 
 --- task ---
 
-Each project in the ['Silly eyes — Examples' Scratch studio](https://scratch.mit.edu/studios/29029028){:target="_blank"} has a **See inside** link, which you can use to open the project in the Scratch editor and look at the code to get ideas and see how the project works.
+Chaque projet dans le studio Scratch [Yeux rigolos : exemples](https://scratch.mit.edu/studios/29029028){:target="_blank"} a un lien **Voir à l'intérieur**, que tu peux utiliser pour ouvrir le projet dans l'éditeur Scratch et regarder le code pour avoir des idées et voir comment le projet fonctionne.
 
 --- /task ---
 
 --- task ---
 
-Take a look at our ['Silly eyes — Community' Scratch studio](https://scratch.mit.edu/studios/29120534){:target="_blank"} to see projects created by community members.
+Jette un œil à notre studio Scratch de la communauté [Yeux rigolos](https://scratch.mit.edu/studios/29120534){:target="_blank"} pour voir les projets créés par les membres de la communauté.
 
 --- /task ---
 
 --- task ---
 
-You can also look at the remixes for the [Silly eyes starter project](https://scratch.mit.edu/projects/582221984/remixes){:target="_blank"} to see what other creators have made.
+Tu peux également consulter les remixes du [projet de démarrage « Yeux rigolos »](https://scratch.mit.edu/projects/582221984/remixes){:target="_blank"} pour voir ce que d'autres créateurs ont fait.
 
 --- /task ---
 
