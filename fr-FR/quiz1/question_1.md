@@ -1,21 +1,21 @@
-## Quick quiz
+## Questionnaire rapide
 
-Answer the three questions. There are hints to guide you to the correct answer.
+Réponds aux trois questions. Il y a des indices pour te guider vers la bonne réponse.
 
-When you have answered each question, click on **Check my answer**.
+Lorsque tu as répondu à chaque question, clique sur **Vérifier ma réponse**.
 
-Have fun!
+Amuse-toi bien !
 
 --- question ---
 ---
-legend : Question 1 sur 3
+legend: Question 1 sur 3
 ---
 
-We added this code to an **Eyeball** sprite, but the eyeball is not rotating when the mouse pointer moves.
+Nous avons ajouté ce code à un spirite **globe oculaire**, mais l'œil ne tourne pas lorsque le pointeur de la souris se déplace.
 
-![Screenshot showing the script and the Stage. The script is not glowing with a yellow outline. The blocks in the script are 'when green flag clicked', 'set rotation style all around', 'forever', 'point towards mouse-pointer'.](images/code-not-running.png)
+![Capture d'écran montrant le script et la scène. Le script ne brille pas avec un contour jaune. Les blocs du script sont "quand le drapeau vert est cliqué", "fixer le style de rotation à 360°" "répéter indéfiniment", "s'orienter vers pointeur de la souris".](images/code-not-running.png)
 
-How could you fix the problem with just one action?
+Comment peux-tu résoudre le problème avec une seule action ?
 
 --- choices ---
 
@@ -23,21 +23,21 @@ How could you fix the problem with just one action?
 
   --- feedback ---
 
-Yes! Just adding the script does not make it run. You need to click on the green flag to make your code run.
+Oui ! Le simple fait d'ajouter le script ne le fait pas fonctionner. Tu dois cliquer sur le drapeau vert pour exécuter ton code.
 
-Your code will have a yellow outline around it when it is running.
+Ton code sera entouré d'un contour jaune lors de son exécution.
 
-Forgetting to click on the green flag is a really common mistake — we all do it!
+Oublier de cliquer sur le drapeau vert est une erreur très courante, nous le faisons tous !
 
-**Tip:** If you change code in a loop while the script is running, Scratch will run the new code the next time that the loop runs! You don't need to click on the green flag again. This is really useful when you are trying out ideas.
+**Astuce :** si tu modifies le code dans une boucle pendant l'exécution du script, Scratch exécutera le nouveau code la prochaine fois que la boucle s'exécutera ! Tu n'as pas besoin de cliquer à nouveau sur le drapeau vert. C'est vraiment utile lorsque tu essaies des idées.
 
   --- /feedback ---
 
-- ( ) Clique sur l’oeil
+- ( ) Clique sur le globe oculaire
 
   --- feedback ---
 
-The script does not start with a `when this sprite clicked`{:class="block3events"} block.
+Le script ne commence pas par un bloc `quand ce sprite est cliqué`{:class="block3events"}.
 
   --- /feedback ---
 
@@ -45,7 +45,7 @@ The script does not start with a `when this sprite clicked`{:class="block3events
 
   --- feedback ---
 
-You do not need to run the `set rotation style`{:class="block3looks"} block lots of times. If you set it once before the loop, it will not change until you set it to a different style. Moving the `set rotation style`{:class="block3looks"} block will not help with the problem in the question.
+Tu n'as pas besoin d'exécuter plusieurs fois le bloc `fixer le sens de rotation`{:class="block3looks"}. Si tu le définis une fois avant la boucle, il ne changera pas tant que tu ne le définis pas dans un style différent. Déplacer le bloc `fixer le sens de rotation`{:class="block3looks"} n'aidera pas à résoudre le problème de la question.
 
   --- /feedback ---
 
@@ -53,7 +53,7 @@ You do not need to run the `set rotation style`{:class="block3looks"} block lots
 
   --- feedback ---
 
-You do not need to click on the Stage to get the eyeball to rotate. When the code is running, the eyeball will just follow the mouse pointer (or your finger, if you are using a tablet).
+Tu n'as pas besoin de cliquer sur la scène pour faire pivoter le globe oculaire. Lorsque le code s'exécute, le globe oculaire suivra simplement le pointeur de la souris (ou ton doigt, si tu utilises une tablette).
 
   --- /feedback ---
 
