@@ -1,7 +1,7 @@
-behind all other sprites
+позаду всіх інших спрайтів
 
-Don't eat me!
+Не їж мене!
 
-Eye of Sporg
+Око Спорга
 
-Arm of Sporg
+Рука Спорга
