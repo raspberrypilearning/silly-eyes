@@ -26,7 +26,7 @@ Pour soumettre ton projet à notre studio Scratch de la communauté [Yeux rigolo
 
 --- task ---
 
-Take a look at these fabulous community projects from our ['Silly eyes — Community' Scratch studio](https://scratch.mit.edu/studios/29120534){:target="_blank"}. Clique sur les arrières-plans, globes oculaires et accessoires pour interagir avec eux :
+Jette un coup d'œil à ces fabuleux projets communautaires de notre studio Scratch de la communauté [Yeux rigolos](https://scratch.mit.edu/studios/29120534){:target="_blank"}. Clique sur les arrières-plans, globes oculaires et accessoires pour interagir avec eux :
 
 **Peur de coccinelle** [Voir à l'intérieur](https://scratch.mit.edu/projects/517735755/editor){:target="_blank"}
 
@@ -44,9 +44,9 @@ Clique sur l'ours et le papillon :
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/569624392/?autostart=false" frameborder="0"></iframe>
 </div>
 
-**Pixel dot** [See inside](https://scratch.mit.edu/projects/747156758/editor){:target="_blank"}
+**Pixel dot** : [Voir à l'intérieur](https://scratch.mit.edu/projects/747156758/editor){:target="_blank"}
 
-Click on the green flag to see everything pixelate:
+Clique sur le drapeau vert pour tout voir pixelisé :
 
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/747156758/?autostart=false" frameborder="0"></iframe>
@@ -56,6 +56,6 @@ Click on the green flag to see everything pixelate:
 
 --- task ---
 
-You can also look at the remixes for the [Silly eyes starter project](https://scratch.mit.edu/projects/582221984/remixes){:target="_blank"} to see what other creators have made.
+Tu peux également consulter les remixes du [projet de démarrage « Yeux rigolos »](https://scratch.mit.edu/projects/582221984/remixes){:target="_blank"} pour voir ce que d'autres créateurs ont fait.
 
 --- /task --- 
