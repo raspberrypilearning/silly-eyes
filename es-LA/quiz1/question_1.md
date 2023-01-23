@@ -1,10 +1,10 @@
-## Quick quiz
+## Examen rápido
 
-Answer the three questions. There are hints to guide you to the correct answer.
+Contesta las tres preguntas. Hay pistas para guiarte hacia la respuesta correcta.
 
-When you have answered each question, click on **Check my answer**.
+Cuando hayas respondido a cada pregunta, haz clic en **Revisar mi respuesta**.
 
-Have fun!
+¡Qué te diviertas!
 
 --- question ---
 ---
@@ -29,7 +29,7 @@ Your code will have a yellow outline around it when it is running.
 
 Forgetting to click on the green flag is a really common mistake — we all do it!
 
-**Tip:** If you change code in a loop while the script is running, Scratch will run the new code the next time that the loop runs! You don't need to click on the green flag again. This is really useful when you are trying out ideas.
+**Consejo:** Si cambias el código en un bucle mientras se ejecutando ejecuta el código, ¡Scratch ejecutará el nuevo código la próxima vez que se ejecute el bucle! You don't need to click on the green flag again. This is really useful when you are trying out ideas.
 
   --- /feedback ---
 
@@ -45,7 +45,7 @@ The script does not start with a `when this sprite clicked`{:class="block3events
 
   --- feedback ---
 
-You do not need to run the `set rotation style`{:class="block3looks"} block lots of times. If you set it once before the loop, it will not change until you set it to a different style. Moving the `set rotation style`{:class="block3looks"} block will not help with the problem in the question.
+You do not need to run the `set rotation style`{:class="block3looks"} block lots of times. If you set it once before the loop, it will not change until you set it to a different style. Mover el bloque `fijar estilo de rotación`{:class="block3looks"} no te ayudará con el problema de la pregunta.
 
   --- /feedback ---
 
