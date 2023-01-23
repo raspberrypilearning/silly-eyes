@@ -55,12 +55,12 @@ Joue avec ces exemples de projets pour trouver des idées :
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/495865892/?autostart=false" frameborder="0"></iframe>
 </div>
 
-**⭐ Crabe avec chapeaux** (projet de la communauté à l'affiche)
+**⭐ Silly pufferfish** (featured community project)
 
-Clique sur le crabe, le chapeau, l'arrière-plan et les globes oculaires :
+Click on the pufferfish, hat, scarf, backdrop and the eyeballs:
 
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/736988636/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/772759744/?autostart=false" frameborder="0"></iframe>
 </div>
 
 --- /task ---
