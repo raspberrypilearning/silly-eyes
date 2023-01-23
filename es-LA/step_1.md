@@ -1,27 +1,28 @@
-## You will make
+## Lo que harás
 
 Design and create a silly eyes character 👀. Los ojos grandes y tontos del personaje seguirán el puntero del ratón para darle vida a tu personaje.
 
-![Examples of projects.](images/showcase-line.png)
+![Ejemplos de proyectos.](images/showcase-line.png)
 
 Vas a:
 
-+ Make a project that is fun to play with
++ Haz un proyecto con el que sea divertido jugar
 + Create your own character
 + Code your project using **sprites, scripts and loops**
 
 --- no-print ---
 
-### Play ▶️
+### Reproducir ▶️
 
 --- task ---
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 175px; flex-grow: 1">  
 
-**Gobo watching**: [See inside](https://scratch.mit.edu/projects/495141114/editor){:target="_blank"}
+**Gobo watching**: [Ver dentro]
+(https://scratch.mit.edu/projects/495141114/editor){:target="_blank"}
 
-Move the mouse (or if you are using a tablet, move your finger) around the Stage. 
+Mueve el ratón (o si estás usando una tableta, mueve tu dedo) por el escenario. 
 
 What happens when you move between Gobo's eyes? 
   
@@ -37,30 +38,30 @@ What happens when you click on different parts of the project?
 
 --- /task ---
 
-### Get ideas 💭
+### Obtén ideas 💭
 
 --- task ---
 
-Play with these example projects to get ideas:
+Explora estos ejemplos de proyectos para obtener más ideas:
 
-⭐ Share your finished Silly eyes project for a chance of it being featured here.
+⭐ Comparte tu proyecto de animación de Ojos tontos y ten la oportunidad de que se muestre aquí.
 
-**Don't eat donut**: [See inside](https://scratch.mit.edu/projects/495865093/editor){:target="_blank"}
+**No te comas la dona**: [Ver dentro](https://scratch.mit.edu/projects/495865093/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/495865093/?autostart=false" frameborder="0"></iframe>
 </div>
 
-**Sporg**: [See inside](https://scratch.mit.edu/projects/495865892/editor){:target="_blank"}
+**Sporg**: [Ver dentro](https://scratch.mit.edu/projects/495865892/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/495865892/?autostart=false" frameborder="0"></iframe>
 </div>
 
-**⭐ Crab with hats** (featured community project)
+**⭐ Silly pufferfish** (featured community project)
 
-Click on the crab, hat, backdrop and the eyeballs:
+Click on the pufferfish, hat, scarf, backdrop and the eyeballs:
 
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/736988636/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/772759744/?autostart=false" frameborder="0"></iframe>
 </div>
 
 --- /task ---
@@ -69,11 +70,11 @@ Click on the crab, hat, backdrop and the eyeballs:
 
 --- print-only ---
 
-### Get ideas 💭
+### Obtén ideas 💭
 
-Design and create a silly eye character 👀. The character's large, silly eyes will follow the mouse pointer to bring your character to life. To get more ideas, **See inside** example projects in the 'Silly eyes — Examples' Scratch studio: https://scratch.mit.edu/studios/29029028
+Design and create a silly eye character 👀. The character's large, silly eyes will follow the mouse pointer to bring your character to life. Para obtener más ideas, **Ver dentro** ejemplos de proyectos en 'Ejemplos de Ojos tontos' del Estudio Scratch: https://scratch.mit.edu/studios/29029028
 
-![The 'Gobo watching' project.](images/gobo-watching.png) ![The 'Don't eat donut' project.](images/dont-eat-donut.png) ![The 'Sporg' project.](images/sporg.png)
+![El proyecto 'Gobo mirando'.](images/gobo-watching.png) ![The 'Don't eat donut' project.](images/dont-eat-donut.png) ![El proyecto 'Sporg'.](images/sporg.png)
 
 --- /print-only ---
 
