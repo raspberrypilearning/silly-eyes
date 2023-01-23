@@ -1,16 +1,16 @@
 --- question ---
 ---
-legend : Question 2 sur 3
+legend: Question 2 sur 3
 ---
 
 Pour rendre la fusée interactive, le sprite **fusée** a ce script :
 
 ```blocks3
-quand le drapeau est cliqué
-fixer le sens de rotation [360°]
-répéter indéfiniment
-s'orienter vers (pointeur de souris v)
-fin
+when flag clicked
+set rotation style [all around v]
+forever
+point towards (mouse-pointer v)
+end
 ```
 
 Quel costume de **fusée** devons-nous utiliser pour que le haut de la fusée pointe vers le pointeur de la souris ?

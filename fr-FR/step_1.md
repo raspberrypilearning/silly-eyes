@@ -1,38 +1,34 @@
-## Introduction
+## Ce que tu vas faire
 
-Dans ce projet, tu vas concevoir et créer un personnage aux yeux idiots. Les grands yeux idiots du personnage suivront le pointeur de la souris pour donner la vie à ton personnage.
-
-<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-<span style="color: #0faeb0">**Conception**</span> signifie décider de l'apparence d'un projet et prendre des décisions sur ce qu'il fait. 
-</p>
-
-Tu vas devoir :
-+ Faire un projet avec **interaction utilisateur**
-+ Personnaliser un projet avec des effets de couleurs et graphiques
-+ En savoir plus sur le design dans la fabrication numérique
-
-<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-<span style="color: #0faeb0">**Utilisateur**</span> signifie la personne qui utilise le projet (pas seulement le faire), et <span style="color: #0faeb0">**Interaction de l'utilisateur**</span> est la façon dont le projet réagit lorsque l'utilisateur fait des choses telles que déplacer la souris et cliquer sur l'écran. 
-</p>
+Conçois et crée un personnage aux yeux rigolos 👀. Les grands yeux rigolos du personnage suivront le pointeur de la souris pour donner vie à ton personnage.
 
 ![Exemples de projets.](images/showcase-line.png)
 
+Tu vas devoir :
+
++ Créer un projet amusant à jouer
++ Créer ton propre personnage
++ Coder ton projet à l'aide de **sprites, scripts et boucles**
+
 --- no-print ---
+
+### Joue ▶️
 
 --- task ---
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 175px; flex-grow: 1">  
 
-### Essaye-le 
+**Gobo regarde** : [Voir à l'intérieur](https://scratch.mit.edu/projects/589904812/editor){:target="_blank"}
 
-Déplace la souris (ou si tu utilises une tablette, déplace ton doigt) sur l'écran et regarde ce qui arrive aux yeux de Gobo. Que se passe-t-il lorsque tu te déplaces entre les yeux de Gobo ? 
+Déplace la souris (ou si tu utilises une tablette, déplace ton doigt) autour de la scène. 
+
+Que se passe-t-il lorsque tu te déplaces entre les yeux de Gobo ? 
   
-Essaye de cliquer sur différentes parties du projet pour personnaliser le projet.
-
+Que se passe-t-il lorsque tu cliques sur différentes parties du projet ?
 </div>
 <div>
-**Regarder des gobos** : [Voir à l'intérieur](https://scratch.mit.edu/projects/589904812/editor){:target="_blank"}
+
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/589904812/?autostart=false" frameborder="0"></iframe>
 </div>
@@ -41,37 +37,43 @@ Essaye de cliquer sur différentes parties du projet pour personnaliser le proje
 
 --- /task ---
 
-### Trouve l'inspiration
-
-Tu vas prendre des décisions de conception pour créer ton personnage. Réfléchis au genre de personnage aux yeux idiots que tu veux créer.
+### Trouve l'inspiration 💭
 
 --- task ---
 
-Explore ces exemples de projets pour obtenir plus d'idées :
+Joue avec ces exemples de projets pour trouver des idées :
+
+⭐ Partage ton projet « Yeux rigolos » terminé pour avoir une chance qu'il soit présenté ici.
 
 **Ne mange pas de donut** : [Voir à l'intérieur](https://scratch.mit.edu/projects/589946184/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/589946184/?autostart=false" frameborder="0"></iframe>
 </div>
 
-**Sous la mer** : [Voir à l'intérieur](https://scratch.mit.edu/projects/589947012/editor){:target="_blank"}
-<div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/589947012/?autostart=false" frameborder="0"></iframe>
-</div>
-
 **Sporg** : [Voir à l'intérieur](https://scratch.mit.edu/projects/589947715/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/589947715/?autostart=false" frameborder="0"></iframe>
 </div>
---- /task --- --- /no-print ---
+
+**⭐ Silly pufferfish** (projet communautaire en vedette)
+
+Clique sur le poisson-globe, le chapeau, l'écharpe, l'arrière-plan et les globes oculaires :
+
+<div class="scratch-preview" style="margin-left: 15px;">
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/772759744/?autostart=false" frameborder="0"></iframe>
+</div>
+
+--- /task ---
+
+--- /no-print ---
 
 --- print-only ---
 
-### Trouve l'inspiration
+### Trouve l'inspiration 💭
 
-Tu vas prendre des décisions de conception pour créer ton personnage. Réfléchis au genre de personnage aux yeux idiots que tu veux créer. Pour obtenir plus d'idées, **Voir à l'intérieur** exemples de projets dans le studio Scratch « Silly Eyes — Exemples » : https://scratch.mit.edu/studios/29029028
+Conçois et crée un personnage aux yeux rigolos 👀. Les grands yeux rigolos du personnage suivront le pointeur de la souris pour donner vie à ton personnage. Pour obtenir plus d'idées, **Voir à l'intérieur** les exemples de projets dans le studio Scratch « Yeux rigolos » : https://scratch.mit.edu/studios/29029028
 
-![Le projet « Gobo watching ».](images/gobo-watching.png) ![Le projet « Ne mangez pas de donut ».](images/dont-eat-donut.png) ![Le projet « Sous la mer ».](images/under-the-sea.png) ![Le projet « Sporg ».](images/sporg.png)
+![Le projet "Gobo regarde".](images/gobo-watching.png) ![Le projet "Ne mange pas de donut".](images/dont-eat-donut.png) ![Le projet "Sporg".](images/sporg.png)
 
 --- /print-only ---
 
