@@ -1,6 +1,6 @@
-## Upgrade your project
+## Mejora tu proyecto
 
-If you have time, you can upgrade your project.
+Si tienes tiempo, puedes mejorar tu proyecto.
 
 ### Add Stage effects
 
@@ -13,7 +13,7 @@ Make your project do something when you click on the **Stage**.
 
 Click on the Stage pane and then on the **Code** tab to add code to the **Stage**.
 
-**Choose:** Choose what you want to change when the **Stage** is clicked.
+**Elige:** Elige lo que quieras cambiar cuando se haga clic en el **Escenario**.
 
 --- collapse ---
 ---
@@ -51,7 +51,7 @@ You could also add:
 
 This **Sporg** character also has arms that `point towards the mouse pointer`{:class="block3motion"}.
 
-**Sporg**: [See inside](https://scratch.mit.edu/projects/495865892/editor){:target="_blank"}
+**Sporg**: [Ver dentro](https://scratch.mit.edu/projects/495865892/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/495865892/?autostart=false" frameborder="0"></iframe>
 </div>
@@ -60,11 +60,11 @@ If you add other body parts, you will need to centre them at the point that you 
 
 [[[scratch-crosshair]]]
 
-### Get ideas
+### Obtén ideas
 
 --- task ---
 
-Each project in the ['Silly eyes — Examples' Scratch studio](https://scratch.mit.edu/studios/29029028){:target="_blank"} has a **See inside** link, which you can use to open the project in the Scratch editor and look at the code to get ideas and see how the project works.
+Cada uno de los proyectos en ['Ejemplos de Ojos tontos' del Estudio Scratch](https://scratch.mit.edu/studios/29029028){:target="_blank"} tiene un enlace **Ver dentro**, que puedes usar para abrir el proyecto en el Editor de Scratch y darle un vistazo al código, para obtener nuevas ideas y ver cómo funciona el proyecto.
 
 --- /task ---
 
@@ -76,7 +76,7 @@ Take a look at our ['Silly eyes — Community' Scratch studio](https://scratch.m
 
 --- task ---
 
-You can also look at the remixes for the [Silly eyes starter project](https://scratch.mit.edu/projects/582221984/remixes){:target="_blank"} to see what other creators have made.
+También puedes ver los remixes del [Proyecto inicial Ojos tontos](https://scratch.mit.edu/projects/582221984/remixes) para ver lo que han hecho otros creadores.
 
 --- /task ---
 
