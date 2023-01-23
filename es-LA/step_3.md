@@ -48,7 +48,7 @@ In this example, we set the **Outline** to black and the **Fill** colour of the 
 
 ![A white eyeball with a black outline.](images/eyeball-outline.png)
 
-Use the **Fill** and **Outline** colour choosers to choose colours. To make black, slide both the **Saturation** and **Brightness** to `0`. To make white, slide the **Saturation** to `0` and the **Brightness** to `100`.
+Usa los selectores de color de **Relleno** y **Contorno** para elegir colores. To make black, slide both the **Saturation** and **Brightness** to `0`. To make white, slide the **Saturation** to `0` and the **Brightness** to `100`.
 
 ![Saturation and brightness sliders set to 0.](images/black-colour.png) ![Saturation and brightness sliders set to 100.](images/white-colour.png)
 
@@ -73,19 +73,19 @@ There are costumes in Scratch that you can edit to make silly eyes for your char
 
 ![Disfraces de Scratch existentes como globos oculares.](images/costume-eyes.gif)
 
-Click on the **Choose a Costume** icon to see the library Scratch costumes.
+Haz clic en el icono**Elegir un disfraz**para ver la biblioteca de disfraces de Scratch.
 
-![The Choose a Costume icon.](images/choose-a-costume.png)
+![El ícono 'Elige un disfraz'.](images/choose-a-costume.png)
 
 Click on the costume you want to add to your sprite.
 
-Use the Paint editor to change the costume. You could add circles, choose a different **Fill** colour, or remove parts of the costume to turn it into a silly eye.
+Use the Paint editor to change the costume. Puedes agregar círculos, elegir un color de **Relleno** diferente o quitar partes del disfraz para convertirlo en un ojo tonto.
 
 Make sure that the eyeball is centred — move it so that the blue cross in the costume lines up with the grey crosshair in the Paint editor.
 
 ![An animated image of a ball costume being dragged from the top left to fit with the balls centre over the crosshair icon.](images/crosshair-centre.gif)
 
-**Tip:** The black pupil and coloured iris need to be positioned on the right-hand side of the costume so that the **Eyeball** follows the mouse pointer.
+**Consejo:** La pupila negra y el iris de color deben colocarse en la parte derecha del disfraz para que el **Globo ocular** siga el puntero del ratón.
 
 ![The Paint editor showing an edited button1 costume.](images/button-eye.png)
 
@@ -140,7 +140,7 @@ end
 
 --- task ---
 
-To add another eye, right-click (or on a tablet, tap and hold) on the **Eyeball** sprite in the Sprite list and choose **duplicate**.
+Para añadir otro ojo, haz clic derecho (o en una tablet, mantén presionado) en el objeto **Globo ocular** en la Lista de objetos y elije **duplicar**.
 
 ![Example eyeballs in pairs. One drawn from scratch and another made from the ball sprite.](images/duplicate-eyes.png)
 
@@ -148,19 +148,19 @@ To add another eye, right-click (or on a tablet, tap and hold) on the **Eyeball*
 
 --- /task ---
 
-### Test your silly eyes
+### Prueba tus ojos tontos
 
 --- task ---
 
-**Test:** Click on the green flag and test your project. Do the silly eyes follow your mouse pointer as you move the mouse around?
+**Prueba:** Haz clic en la bandera verde y prueba tu proyecto. Do the silly eyes follow your mouse pointer as you move the mouse around?
 
-**Tip:** You don't have to keep the mouse pointer on the Stage. The eyes will follow your mouse pointer as you carry on coding in Scratch.
+**Consejo:** No es necesario que mantengas el puntero del ratón en el escenario. The eyes will follow your mouse pointer as you carry on coding in Scratch.
 
 --- /task ---
 
 --- task ---
 
-**Debug:** You might find some bugs in your project that you need to fix. Here are some common bugs:
+**Debug:** Es posible que encuentres algunos errores en tu proyecto que necesites corregir. A continuación, se muestran algunos errores comunes:
 
 --- collapse ---
 ---
@@ -244,8 +244,8 @@ You will also need to delete the script from the **character** sprite. To do thi
 
 --- /collapse ---
 
-You might find a bug that is not listed here. Can you work out how to fix it?
+Es posible que encuentres un error que no se incluye aquí. Can you work out how to fix it?
 
-We love hearing about your bugs and how you fixed them. Use the **Send feedback** button at the bottom of this page and tell us if you found a different bug in your project.
+Nos encanta conocer tus errores y cómo los solucionaste. Usa el botón **Enviar comentarios** en la parte inferior de esta página y cuéntanos si encontraste un error distinto en tu proyecto.
 
 --- /task ---
