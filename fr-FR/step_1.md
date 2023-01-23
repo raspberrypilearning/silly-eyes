@@ -55,9 +55,9 @@ Joue avec ces exemples de projets pour trouver des idées :
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/495865892/?autostart=false" frameborder="0"></iframe>
 </div>
 
-**⭐ Silly pufferfish** (featured community project)
+**⭐ Silly pufferfish** (projet communautaire en vedette)
 
-Click on the pufferfish, hat, scarf, backdrop and the eyeballs:
+Clique sur le poisson-globe, le chapeau, l'écharpe, l'arrière-plan et les globes oculaires :
 
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/772759744/?autostart=false" frameborder="0"></iframe>
