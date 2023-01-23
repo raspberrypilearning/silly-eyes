@@ -15,11 +15,11 @@ Use your design skills to add a character sprite and suitable backdrop.
 <span style="color: #0faeb0">**Design**</span> means deciding on the way that a project looks and making decisions about what it does. 
 </p>
 
-### Open the starter project
+### Abre el proyecto inicial
 
 --- task ---
 
-Open the [Silly eyes starter project](https://scratch.mit.edu/projects/582221984/editor){:target="_blank"}. Scratch will open in another browser tab.
+Abre el proyecto inicial de [Ojos tontos](https://scratch.mit.edu/projects/582221984/editor){:target="_blank"}. Scratch will open in another browser tab.
 
 [[[working-offline]]]
 
@@ -27,11 +27,11 @@ Open the [Silly eyes starter project](https://scratch.mit.edu/projects/582221984
 
 --- /task ---
 
-### Choose your sprite and backdrop
+### Elige tu objeto y tu fondo
 
 --- task ---
 
-**Choose:** Add a **sprite** and a **backdrop** for your silly eyes project.
+**Elige:** Añadir un **objeto** y un **fondo** para tu proyecto de ojos tontos.
 
 + What does your character look like? A person 🧜🏽‍♀️, animal 🐶 or object 🧸.
 + Where do you want your character to live? Somewhere sensible 🏠 or silly 🎪.
@@ -49,13 +49,13 @@ Open the [Silly eyes starter project](https://scratch.mit.edu/projects/582221984
 title: Obtén un objeto sorpresa
 ---
 
-Not sure which sprite to choose? Go to the **Choose a Sprite** menu and choose the **Surprise** option to add a surprise sprite to your project.
+¿No estás seguro sobre qué objeto elegir? Ve al menú **Elegir un objeto** y elige la opción **Sorpresa** para agregar un objeto sorpresa a tu proyecto.
 
-![The 'Surprise' option in the 'Choose a Sprite' menu.](images/surprise-sprite.png)
+![La opción 'Sorpresa' en el menú 'Elegir un Objeto'.](images/surprise-sprite.png)
 
 --- /collapse ---
 
-**Tip:** If you create your own sprite in the Paint editor, **don't add eyes yet, because they need to be separate sprites.**
+**Consejo:** Si creas tu propio objeto en el Editor de dibujo, **no le agregues ojos todavía, porque estos deben ser objetos separados.**
 
 --- /task ---
 
