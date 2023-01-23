@@ -20,7 +20,7 @@ steps:
     completion:
       - internal
   - 
-    title: Quick quiz
+    title: Examen rápido
     knowledge_quiz:
       path: quiz1
       version: 1
@@ -29,8 +29,8 @@ steps:
     completion:
       - external
   - 
-    title: Upgrade your project
+    title: Mejora tu proyecto
   - 
-    title: Share and play
+    title: Comparte y juega
   - 
-    title: What next?
+    title: '¿Qué sigue?'
