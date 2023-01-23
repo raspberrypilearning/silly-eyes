@@ -26,7 +26,7 @@
 
 --- task ---
 
-Поглянь на ці дивовижні проєкти нашої спільноти у [Студії Scratch 'Дурненькі очі — Спільнота'](https://scratch.mit.edu/studios/29079784){:target="_blank"}. Натисни на тло, очі та аксесуари, щоб взаємодіяти з ними:
+Take a look at these fabulous community projects from our ['Silly eyes — Community' Scratch studio](https://scratch.mit.edu/studios/29120534){:target="_blank"}. Натисни на тло, очі та аксесуари, щоб взаємодіяти з ними:
 
 **Перелякане сонечко** [Переглянути код](https://scratch.mit.edu/projects/517735755/editor){:target="_blank"}
 
