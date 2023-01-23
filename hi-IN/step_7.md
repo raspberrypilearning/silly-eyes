@@ -26,7 +26,7 @@ To submit your project to our ['Silly eyes — Community' Scratch studio](https:
 
 --- task ---
 
-Take a look at these fabulous community projects from our ['Silly eyes — Community' Scratch studio](https://scratch.mit.edu/studios/29079784){:target="_blank"}. Click on the backdrops, eyeballs and accessories to interact with them:
+Take a look at these fabulous community projects from our ['Silly eyes — Community' Scratch studio](https://scratch.mit.edu/studios/29120534){:target="_blank"}. Click on the backdrops, eyeballs and accessories to interact with them:
 
 **Ladybug scare** [See inside](https://scratch.mit.edu/projects/517735755/editor){:target="_blank"}
 
