@@ -1,6 +1,6 @@
 ## Et ensuite ?
 
-Si tu suis le [Introduction à Scratch](https://projects.raspberrypi.org/fr-FR/pathways/scratch-intro), tu peux passer à [Surprise ! animation](https://projects.raspberrypi.org/fr-FR/projects/surprise-animation) projet. Dans ce projet, tu feras une animation d'une histoire avec une surprise.
+Si tu suis le [Introduction à Scratch](https://projects.raspberrypi.org/fr-FR/pathways/scratch-intro) , tu peux passer à [Surprise ! animation](https://projects.raspberrypi.org/fr-FR/projects/surprise-animation) projet. Dans ce projet, tu feras une animation d'une histoire avec une surprise.
 
 --- print-only ---
 
@@ -25,5 +25,6 @@ Ce projet a été traduit par des bénévoles:
 
 Sk Abdul Gafur
 Michel Arnols
+Jonathan Vannieuwkerke
 
 Grâce aux bénévoles, nous pouvons donner aux gens du monde entier la chance d'apprendre dans leur propre langue. Vous pouvez nous aider à atteindre plus de personnes en vous portant volontaire pour la traduction - plus d'informations sur [rpf.io/translate](https://rpf.io/translate).

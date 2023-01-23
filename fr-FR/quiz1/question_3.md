@@ -3,7 +3,7 @@
 legend : Question 3 sur 3
 ---
 
-<span style="color: #0faeb0">**Interaction avec l'utilisateur**</span> est la façon dont le projet réagit à l’utilisateur. Le projet « yeux stupides » que tu as réalisé a probablement beaucoup d'<span style="color: #0faeb0">**interaction utilisateur**</span> !
+<span style="color: #0faeb0">**Interaction avec l'utilisateur**</span> est la façon dont le projet réagit à l’utilisateur. Le projet « Yeux rigolos » que tu as réalisé a probablement beaucoup d'<span style="color: #0faeb0">**interaction utilisateur**</span> !
 
 Lequel de ces scripts autorise l'interaction de l'utilisateur après le démarrage du programme ?
 
@@ -17,7 +17,7 @@ clear graphic effects
 
   --- feedback ---
 
-Les effets graphiques sont effacés une fois que la minuterie atteint 10. L’utilisateur n'a rien à faire, il n'y a donc aucune interaction avec l’utilisateur.
+Les effets graphiques sont effacés une fois que le chrono atteint 10. L’utilisateur n'a rien à faire, il n'y a donc aucune interaction avec l’utilisateur.
 
   --- /feedback ---
 - ( )

@@ -1,27 +1,61 @@
-## Améliorer ton projet
+## Partager et jouer
 
-Si tu as le temps, tu peux perfectionner ton projet.
+Si tu es dans un club, pourquoi ne pas partager ton projet avec tes amis et tes camarades ?
 
-Tu pourrais :
-- Ajouter plus de parties du corps
-- Ajouter plus de sprites avec des yeux idiots
-- Ajouter plus de toiles de fond
-- Ajouter plus d'accessoires ou ajouter plus de costumes à tes accessoires
-- Essayer différents effets graphiques
+Tu peux également montrer à ta famille comment fonctionne ton projet.
 
-Chaque projet dans le ['Silly eyes — Exemples' Scratch studio](https://scratch.mit.edu/studios/29029028){:target="_blank"} a un **Voir à l'intérieur**, que tu peux utiliser pour ouvrir le projet dans l'éditeur Scratch et regarder le code pour avoir des idées et voir comment le projet fonctionne.
+Si tu as un compte Scratch, tu peux partager ton projet via Scratch. Tu peux envoyer un lien à des personnes que tu connais, et toute la communauté Scratch pourra trouver ton projet et l'essayer.
 
-Le personnage **Sporg** a également des bras qui `s'orientent vers le pointeur de la souris`{:class="block3motion"}.
+[[[share-scratch]]]
 
-**Sporg** : [Voir à l'intérieur](https://scratch.mit.edu/projects/589947715/editor){:target="_blank"}
+Pourquoi ne pas inviter tes amis à créer un projet ? Fais-leur savoir combien tu t'es amusé(e).
+
+Si tu as un compte Scratch et que tu as partagé ton projet « Yeux rigolos », gardes un œil sur les commentaires que d'autres pourraient faire sur ta création. Les réactions et commentaires te donnent un excellent moyen de réfléchir à ton travail. Ignore les commentaires inutiles ou non pertinents.
+
+[[[comments-feedback-scratch]]]
+
+--- task ---
+
+Inspire la communauté Raspberry Pi Foundation avec ton projet !
+
+Pour soumettre ton projet à notre studio Scratch de la communauté [Yeux rigolos](https://scratch.mit.edu/studios/29120534){:target="_blank"}, remplis [ce formulaire](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}.
+
+--- /task ---
+
+### Soumissions à la communauté
+
+--- task ---
+
+Jette un coup d'œil à ces fabuleux projets communautaires de notre studio Scratch de la communauté ['Silly eyes — Community'](https://scratch.mit.edu/studios/29120534){:target="_blank"}. Clique sur les arrières-plans, globes oculaires et accessoires pour interagir avec eux :
+
+**Peur de coccinelle** [Voir à l'intérieur](https://scratch.mit.edu/projects/517735755/editor){:target="_blank"}
+
+Clique sur l'arrière-plan :
+
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/589947715/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/517735755/?autostart=false" frameborder="0"></iframe>
 </div>
 
-Si tu ajoutes d'autres parties du corps, tu devras les centrer à l'endroit à partir duquel tu souhaites qu'elles pivotent. Par exemple, un bras tournerait à partir de l'épaule.
+**Papillon et ours** [Voir à l'intérieur](https://scratch.mit.edu/projects/569624392/editor){:target="_blank"}
 
-[[[scratch-crosshair]]]
+Clique sur l'ours et le papillon :
 
-Jette un œil à notre ['Silly eyes — Community' Scratch studio](https://scratch.mit.edu/studios/29120534){:target="_blank"} pour voir les projets créés par les membres de la communauté.
+<div class="scratch-preview" style="margin-left: 15px;">
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/569624392/?autostart=false" frameborder="0"></iframe>
+</div>
 
---- save ---
+**Pixel dot** [Voir à l'intérieur](https://scratch.mit.edu/projects/747156758/editor){:target="_blank"}
+
+CClique sur le drapeau vert pour tout voir pixelisé :
+
+<div class="scratch-preview" style="margin-left: 15px;">
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/747156758/?autostart=false" frameborder="0"></iframe>
+</div>
+
+--- /task ---
+
+--- task ---
+
+Tu peux également consulter les remixes du [projet de démarrage « Yeux rigolos »](https://scratch.mit.edu/projects/582221984/remixes){:target="_blank"} pour voir ce que d'autres créateurs ont fait.
+
+--- /task --- 
