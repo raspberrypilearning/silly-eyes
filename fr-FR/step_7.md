@@ -26,7 +26,7 @@ Pour soumettre ton projet à notre studio Scratch de la communauté [Yeux rigolo
 
 --- task ---
 
-Jette un coup d'œil à ces fabuleux projets communautaires de notre studio Scratch de la communauté [Yeux rigolos](https://scratch.mit.edu/studios/29079784){:target="_blank"}. Clique sur les arrières-plans, globes oculaires et accessoires pour interagir avec eux :
+Take a look at these fabulous community projects from our ['Silly eyes — Community' Scratch studio](https://scratch.mit.edu/studios/29120534){:target="_blank"}. Clique sur les arrières-plans, globes oculaires et accessoires pour interagir avec eux :
 
 **Peur de coccinelle** [Voir à l'intérieur](https://scratch.mit.edu/projects/517735755/editor){:target="_blank"}
 
