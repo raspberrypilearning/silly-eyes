@@ -55,9 +55,9 @@ Speel met deze voorbeeldprojecten om ideeën op te doen:
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/495865892/?autostart=false" frameborder="0"></iframe>
 </div>
 
-**⭐ Silly pufferfish** (featured community project)
+**Onder de zee**: [Van binnen bekijken](https://scratch.mit.edu/projects/600238656/editor){:target="_blank"}
 
-Click on the pufferfish, hat, scarf, backdrop and the eyeballs:
+Klik op de kogelvis, hoed, sjaal, achtergrond en de oogbollen:
 
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/772759744/?autostart=false" frameborder="0"></iframe>
