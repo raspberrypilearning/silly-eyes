@@ -26,7 +26,7 @@ Om je project in te dienen bij onze ['Maffe ogen — Community' Scratch studio](
 
 --- task ---
 
-Take a look at these fabulous community projects from our ['Silly eyes — Community' Scratch studio](https://scratch.mit.edu/studios/29120534){:target="_blank"}. Klik op de achtergronden, oogbollen en accessoires om ermee te communiceren:
+Bekijk deze fantastische projecten van onze ['Maffe Ogen — Community' Scratch-studio](https://scratch.mit.edu/studios/29120534){:target="_blank"}. Klik op de achtergronden, oogbollen en accessoires om ermee te communiceren:
 
 **Lieveheersbeestje-angst** [Bekijk van binnen](https://scratch.mit.edu/projects/517735755/editor){:target="_blank"}
 
