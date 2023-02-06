@@ -42,7 +42,7 @@ title: Dessiner un œil dans l'éditeur de peinture
 
 Sélectionne l'outil **Cercle**.
 
-Pour dessiner un cercle parfait, maintiens enfoncée la touche <kbd>majuscule</kbd> du clavier pendant que tu dessines avec l'outil **Cercle**. Si tu utilises une tablette, essaies de te rapprocher le plus possible d'un cercle parfait.
+Pour dessiner un cercle parfait, maintiens enfoncée la touche <kbd>majuscule</kbd> du clavier pendant que tu dessines avec l'outil **Cercle**. Si tu utilises une tablette, essaie de te rapprocher le plus possible d'un cercle parfait.
 
 Dans cet exemple, nous définissons le **contour** sur noir et le **remplissage** du globe oculaire sur blanc :
 
