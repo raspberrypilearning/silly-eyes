@@ -44,9 +44,9 @@ Klik op de beer en vlinder:
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/569624392/?autostart=false" frameborder="0"></iframe>
 </div>
 
-**Pixel dot** [See inside](https://scratch.mit.edu/projects/747156758/editor){:target="_blank"}
+**Pixelpunt**: [Bekijk van binnen](https://scratch.mit.edu/projects/747156758/editor){:target="_blank"}
 
-Click on the green flag to see everything pixelate:
+Klik op de groene vlag om al het gepixelde te zien:
 
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/747156758/?autostart=false" frameborder="0"></iframe>
