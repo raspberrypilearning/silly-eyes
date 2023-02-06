@@ -2,7 +2,7 @@
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-Heb je een idee voor je eigen personage? Nu kun je het klaarmaken voor maffe ogen!
+Gebruik je ontwerpvaardigheden om een personage-sprite en een geschikte achtergrond toe te voegen. 
 </div>
 <div>
 
@@ -11,21 +11,36 @@ Heb je een idee voor je eigen personage? Nu kun je het klaarmaken voor maffe oge
 </div>
 </div>
 
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
+<span style="color: #0faeb0">**Ontwerp**</span> betekent beslissen over de manier waarop een project eruitziet en beslissingen nemen over wat het doet. 
+</p>
+
+### Open het startproject
+
 --- task ---
 
 Open het [Maffe ogen startproject](https://scratch.mit.edu/projects/582221984/editor){:target="_blank"}. Scratch wordt in een nieuw browsertabblad geopend.
 
 [[[working-offline]]]
 
+⏱️ Niet veel tijd? Je kunt beginnen met een van de [voorbeelden](https://scratch.mit.edu/studios/29029028){:target="_blank"}.
+
 --- /task ---
+
+### Kies je sprite en achtergrond
 
 --- task ---
 
-**Kies:** Kies een sprite **of** maak je eigen eenvoudige sprite in de Paint-editor.
+**Kies:** Voeg een **sprite** en een **achtergrond** toe voor je maffe ogen project.
 
-Je hoeft geen persoon of dier te kiezen. Je zou een voorwerp kunnen kiezen, zoals de donut.
++ Hoe ziet jouw personage eruit? Een persoon 🧜🏽‍♀️, dier 🐶 of object 🧸.
++ Waar wil je dat je personage woont? Ergens serieus 🏠 of maf 🎪.
+
+![Het sprite pictogram en het achtergrondpictogram naast elkaar.](images/sprite-and-backdrop.png)
 
 [[[generic-scratch3-sprite-from-library]]]
+
+[[[generic-scratch3-backdrop-from-library]]]
 
 [[[scratch3-backdrops-and-sprites-using-shapes]]]
 
@@ -44,7 +59,7 @@ Weet je niet zeker welke sprite je moet kiezen? Ga naar het **Kies een sprite** 
 
 --- /task ---
 
-Op dit moment zal je personage veel kleiner zijn dan de personages in onze voorbeeldprojecten. Je kunt je personage groter maken zodat het meer van het scherm vult.
+### De grootte van je sprite wijzigen
 
 --- task ---
 
@@ -54,14 +69,10 @@ Wijzig in het Sprite-paneel het getal in het **Grootte**-veld in een getal naar 
 
 --- /task ---
 
-Waar wil je dat je personage woont?
-
 --- task ---
 
-**Kies:** Kies een achtergrond die verstandig of maf is.
+Kijk naar het speelveld. Je zult je grote karakter en gekozen achtergrond zien.
 
-[[[generic-scratch3-backdrop-from-library]]]
+![](images/large-sprite-stage.png){:width="500px"}
 
 --- /task ---
-
---- save ---

@@ -26,7 +26,7 @@ title: Grafische effecten wijzigen wanneer op de sprite wordt geklikt
 
 ```blocks3
 when this sprite clicked  
-change [color v] effect by (25)
+change [kleur v] effect by (25)
 ```
 
 --- /collapse ---
@@ -43,8 +43,6 @@ Als je wilt dat beide oogbollen hetzelfde effect hebben, moet je je script naar 
 
 ### Personage-effecten
 
-Als je wilt, kun je je **personage** van kleur laten veranderen en andere grafische effecten toepassen als je erop klikt.
-
 --- task ---
 
 Klik op je **personage** sprite in de Sprite-lijst en klik vervolgens op het **Code** tabblad.
@@ -57,12 +55,13 @@ Voeg hetzelfde script toe als waarmee je de oogkleur hebt gewijzigd. Welke grafi
 
 --- /task ---
 
+### Een accessoire
+
 Voeg nu een **accessoire** toe, zoals een hoed, die verandert als je erop klikt — gebruik het `volgend uiterlijk`{:class="block3looks"} blok.
 
 --- task ---
 
 **Kies:** Voeg een accessoire-verandering of uiterlijkverandering naar keuze toe.
-
 
 ![Sprites met accessoires.](images/accessory-sprite.png)
 
@@ -71,7 +70,7 @@ Voeg nu een **accessoire** toe, zoals een hoed, die verandert als je erop klikt 
 title: Verander een sprite-uiterlijk wanneer erop wordt geklikt
 ---
 
-**Gobo met accessoires voor het uiterlijk**: [Van binnen bekijken](https://scratch.mit.edu/projects/496334057/editor){:target="_blank"}
+**Gobo met accessoires voor het uiterlijk**: [Bekijk van binnen](https://scratch.mit.edu/projects/496334057/editor){:target="_blank"}
 <div class="scratch-preview">
 <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/496334057/?autostart=false" frameborder="0"></iframe>
 </div>
@@ -95,7 +94,9 @@ Als je sprite geen keuze uit uiterlijken heeft, of als je er meer wilt toevoegen
 
 --- task ---
 
-**Test:** Werk aan je sprites totdat ze op de door jou gewenste manier met elkaar omgaan. Probeer één wijziging tegelijk uit en test wat het doet, zodat je elke wijziging gemakkelijk kunt herkennen en alles ongedaan kunt maken wat je niet bevalt.
+**Test:** Werk aan je sprites totdat ze op de door jou gewenste manier met elkaar omgaan.
+
+**Tip:** Probeer één wijziging tegelijk en test wat hij doet, zodat je elke wijziging gemakkelijk kunt herkennen en alles ongedaan kunt maken wat je niet bevalt.
 
 --- /task ---
 
@@ -123,5 +124,16 @@ clear graphic effects
 
 --- /task ---
 
---- save ---
+--- task ---
+
+**Test:** Test je project opnieuw, maar zet het deze keer op volledig scherm, zodat je kunt zien hoe het eruit zal zien voor iemand die ernaar kijkt.
+
+[[[scratch3-full-screen]]]
+
+--- /task ---
+
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
+Door je project schermvullend te maken, zie je wat je hebt gemaakt vanuit het perspectief van een gebruiker die met jouw project speelt. **Gebruikersinteractie** is belangrijk bij digitaal maken. 
+</p>
+
 

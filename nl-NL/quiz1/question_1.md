@@ -1,10 +1,8 @@
-## Reflectie
+## Snelle quiz
 
-Goed gedaan, je hebt veel geleerd! Nu is het tijd om te reflecteren - reflecteren is een belangrijk onderdeel van leren, omdat het helpt om nieuwe verbindingen in je hersenen te maken.
+Beantwoord de drie vragen. Er zijn tips om je naar het juiste antwoord te leiden.
 
-Beantwoord de drie onderstaande vragen om na te denken over wat je hebt geleerd.
-
-Wanneer je elke vraag hebt beantwoord, klik je op **Verzenden**. Je wordt naar het juiste antwoord geleid. Je kunt deze activiteit zo vaak doen als je wilt.
+Wanneer je elke vraag hebt beantwoord, klik je op **Verzenden**.
 
 Veel plezier!
 
@@ -15,7 +13,7 @@ legend: Vraag 1 van 3
 
 We hebben deze code toegevoegd aan een **Oogbol** sprite, maar de oogbol draait niet wanneer de muisaanwijzer beweegt.
 
-![Schermafbeelding van het script en het speelveld. Het script gloeit niet met een gele omtrek. De blokken in het script zijn 'wanneer op groene vlag wordt geklikt', 'maak rotatiestijl helemaal rond', 'herhaal', 'richt naar muisaanwijzer'.](images/code-not-running.png)
+![Schermafbeelding van het script en het speelveld. Het script is niet gemarkeerd met een gele omtrek. De blokken in het script zijn 'wanneer op groene vlag wordt geklikt', 'maak draaistijl helemaal rond', 'herhaal', 'richt naar muisaanwijzer'.](images/code-not-running.png)
 
 Hoe kun je het probleem met slechts één actie oplossen?
 
