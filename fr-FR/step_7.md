@@ -10,7 +10,7 @@ Si tu as un compte Scratch, tu peux partager ton projet via Scratch. Tu peux env
 
 Pourquoi ne pas inviter tes amis à créer un projet ? Fais-leur savoir combien tu t'es amusé(e).
 
-Si tu as un compte Scratch et que tu as partagé ton projet « Yeux rigolos », gardes un œil sur les commentaires que d'autres pourraient faire sur ta création. Les réactions et commentaires te donnent un excellent moyen de réfléchir à ton travail. Ignore les commentaires inutiles ou non pertinents.
+Si tu as un compte Scratch et que tu as partagé ton projet « Yeux rigolos », garde un œil sur les commentaires que d'autres pourraient faire sur ta création. Les réactions et commentaires te donnent un excellent moyen de réfléchir à ton travail. Ignore les commentaires inutiles ou non pertinents.
 
 [[[comments-feedback-scratch]]]
 
