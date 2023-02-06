@@ -55,7 +55,7 @@ Speel met deze voorbeeldprojecten om ideeën op te doen:
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/495865892/?autostart=false" frameborder="0"></iframe>
 </div>
 
-**Onder de zee**: [Van binnen bekijken](https://scratch.mit.edu/projects/600238656/editor){:target="_blank"}
+**⭐ Maffe kogelvis** (uitgelicht gemeenschapsproject)
 
 Klik op de kogelvis, hoed, sjaal, achtergrond en de oogbollen:
 
