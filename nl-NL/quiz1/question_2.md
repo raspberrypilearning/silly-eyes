@@ -7,9 +7,9 @@ Om de raket interactief te maken, heeft de **raket** sprite dit script:
 
 ```blocks3
 when flag clicked
-set rotation style [all around v]
+set rotation style [helemaal rond v]
 forever
-point towards (mouse-pointer v)
+point towards (muisaanwijzer v)
 end
 ```
 

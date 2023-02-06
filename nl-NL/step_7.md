@@ -1,27 +1,61 @@
-## Verbeter je project
+## Deel en speel
 
-Als je tijd hebt, kunt je jouw project verbeteren.
+Als je lid bent van een club, waarom zou je je project dan niet delen met vrienden en collega's?
 
-Je zou:
-- Meer lichaamsdelen kunnen toevoegen
-- Meer sprites met gekke ogen kunnen toevoegen
-- Meer achtergronden kunnen toevoegen
-- Meer accessoires of meer uiterlijken kunnen toevoegen aan je accessoires
-- Verschillende grafische effecten kunnen proberen
+Je kunt jouw familie ook laten zien hoe jouw project werkt.
 
-Elk project in de ['Maffe ogen — Voorbeelden' Scratch studio](https://scratch.mit.edu/studios/29029028){:target="_blank"} heeft een **Bekijk van binnen** link, die je kunt gebruiken om het project in de Scratch-editor te openen en de code te bekijken om ideeën op te doen en te zien hoe het project werkt.
+Als je een Scratch-account hebt, kun je je project delen via Scratch. Je kunt een link sturen naar mensen die je kent, en de hele Scratch-gemeenschap zal je project kunnen vinden en uitproberen.
 
-Het **Sporg**-personage heeft ook armen die `naar de muisaanwijzer wijzen`{:class="block3motion"}.
+[[[share-scratch]]]
 
-**Sporg**: [Bekijk van binnen](https://scratch.mit.edu/projects/600239440/editor){:target="_blank"}
+Waarom nodig je je vrienden niet uit om een project te maken? Laat ze weten hoeveel plezier je hebt gehad.
+
+Als je een Scratch-account hebt en je 'Maffe ogen'-project hebt gedeeld, let dan op opmerkingen die anderen over je creatie kunnen maken. Terugkoppeling is een geweldige manier om te reflecteren op je werk. Negeer alle opmerkingen die nutteloos of irrelevant zijn.
+
+[[[comments-feedback-scratch]]]
+
+--- task ---
+
+Inspireer de Raspberry Pi Foundation-gemeenschap met jouw project!
+
+Om je project in te dienen bij onze ['Maffe ogen — Community' Scratch studio](https://scratch.mit.edu/studios/29120534){:target="_blank"}, vul dan [dit formulier](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"} in.
+
+--- /task ---
+
+### Community-inzendingen
+
+--- task ---
+
+Bekijk deze fantastische projecten van onze ['Maffe Ogen — Community' Scratch-studio](https://scratch.mit.edu/studios/29120534){:target="_blank"}. Klik op de achtergronden, oogbollen en accessoires om ermee te communiceren:
+
+**Lieveheersbeestje-angst** [Bekijk van binnen](https://scratch.mit.edu/projects/517735755/editor){:target="_blank"}
+
+Klik op de achtergrond:
+
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/600239440/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/517735755/?autostart=false" frameborder="0"></iframe>
 </div>
 
-Als je andere lichaamsdelen toevoegt, moet je deze centreren op het punt waarvan je wilt dat ze omheen draaien. Een arm zou bijvoorbeeld vanuit de schouder draaien.
+**Vlinder en beer** [Bekijk van binnen](https://scratch.mit.edu/projects/569624392/editor){:target="_blank"}
 
-[[[scratch-crosshair]]]
+Klik op de beer en vlinder:
 
-Bekijk onze ['Maffe ogen — Community' Scratch studio](https://scratch.mit.edu/studios/29120534){:target="_blank"} om projecten te zien die zijn gemaakt door communityleden.
+<div class="scratch-preview" style="margin-left: 15px;">
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/569624392/?autostart=false" frameborder="0"></iframe>
+</div>
 
---- save ---
+**Pixelpunt** [Bekijk van binnen](https://scratch.mit.edu/projects/747156758/editor){:target="_blank"}
+
+Klik op de groene vlag om al het gepixelde te zien:
+
+<div class="scratch-preview" style="margin-left: 15px;">
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/747156758/?autostart=false" frameborder="0"></iframe>
+</div>
+
+--- /task ---
+
+--- task ---
+
+Je kunt ook kijken naar de remixes voor het [Maffe Ogen startproject](https://scratch.mit.edu/projects/582221984/remixes){:target="_blank"} om te zien wat anderen hebben gemaakt.
+
+--- /task --- 

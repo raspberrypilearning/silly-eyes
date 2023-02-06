@@ -2,16 +2,18 @@
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-In deze stap maak je de maffe ogen! Elk oog moet een afzonderlijke sprite zijn, zodat het afzonderlijk kan bewegen.
+Maak de maffe ogen! Elk oog moet een afzonderlijke sprite zijn, zodat het afzonderlijk kan bewegen.
 
-Als je hulp nodig hebt, bekijk dan de tips in de taak **Fouten oplossen** onder aan deze stap.
 </div>
 <div>
 
-![Een personage met maffe ogen.](images/character-with-eyes.png){:width="300px"}  
+![Een personage met maffe ogen.](images/character-with-eyes.png)
+{:width="300px"}  
 
 </div>
 </div>
+
+### Teken een oogbol
 
 --- task ---
 
@@ -31,6 +33,8 @@ Het is echt belangrijk dat:
 
 **Kies:** Teken een oogbol **of** start vanuit een ronde sprite.
 
+![Voorbeeld oogbollen. Eén uit het niets getekend, een andere uit de strandbal gehaald en de derde uit een honkbal.](images/make-an-eye.png)
+
 --- collapse ---
 ---
 title: Teken een oogbol in de Teken-editor
@@ -46,9 +50,12 @@ In dit voorbeeld stellen we de **Omtrek** op zwart en de **Vulling**-kleur van d
 
 Gebruik de **Vulling**- en **Omtrek** kleurkiezers om kleuren te kiezen. Om zwart te maken, schuif je zowel **Verzadiging** als **Helderheid** naar `0`. Om wit te maken, schuif je de **Verzadiging** naar `0` en de **Helderheid** naar `100`.
 
-![](images/black-colour.png) ![](images/white-colour.png)
+![Schuifregelaars voor verzadiging en helderheid ingesteld op 0.](images/black-colour.png) 
+![Schuifregelaars voor verzadiging en helderheid ingesteld op 100.](images/white-colour.png)
 
 Zorg ervoor dat de oogbol gecentreerd is - verplaats hem zodat het blauwe kruis in het uiterlijk uitgelijnd is met het grijze dradenkruis in de Teken-editor.
+
+![Een geanimeerde afbeelding van een cirkeluiterlijk dat van linksboven wordt gesleept om te passen bij het midden van de cirkels boven het dradenkruispictogram.](images/eye-centre.gif)
 
 Teken een kleinere perfecte cirkel en plaats deze aan de rechterkant van de oogbol:
 
@@ -58,7 +65,6 @@ Je kunt ook cirkels binnen cirkels tekenen of kleur gebruiken om verschillende e
 
 --- /collapse ---
 
-
 --- collapse ---
 ---
 title: Verander een rond uiterlijk in een oogbol
@@ -66,11 +72,21 @@ title: Verander een rond uiterlijk in een oogbol
 
 Er zijn uiterlijken in Scratch die je kunt bewerken om maffe ogen voor je personage te maken.
 
+![Bestaande Scratch-uiterlijken als oogbollen.](images/costume-eyes.gif)
+
+Klik op het pictogram **Kies een uiterlijk** om de bibliotheek met Scratch uiterlijken te zien.
+
+![Het pictogram Kies een uiterlijk.](images/choose-a-costume.png)
+
+Klik op het uiterlijk dat je aan je sprite wilt toevoegen.
+
 Gebruik de Teken-editor om een uiterlijk te wijzigen. Je kunt cirkels toevoegen, een andere **Vulling**-kleur kiezen of delen van het uiterlijk verwijderen om er een maf oog van te maken.
 
-**Tip:** Je moet het **Oogbol**-uiterlijk in de Teken-editor centreren zodat het soepel draait terwijl het ronddraait. Gebruik het dradenkruis om het uiterlijk te centreren. De zwarte pupil en gekleurde iris moeten aan de rechterkant van het uiterlijk worden geplaatst, zodat de **Oogbol** de muisaanwijzer volgt.
+Zorg ervoor dat de oogbol gecentreerd is - verplaats hem zodat het blauwe kruis in het uiterlijk uitgelijnd is met het grijze dradenkruis in de Teken-editor.
 
-![Bestaande Scratch-uiterlijken als oogbollen.](images/costume-eyes.gif)
+![Een geanimeerde afbeelding van een cirkel die vanaf de linkerbovenhoek wordt gesleept om in het midden van het dradenkruispictogram te passen.](images/crosshair-centre.gif)
+
+**Tip:** De zwarte pupil en gekleurde iris moeten aan de rechterkant van het uiterlijk worden geplaatst, zodat de **Oogbol** de muisaanwijzer volgt.
 
 ![De Teken-editor die een bewerkt button1-uiterlijk toont.](images/button-eye.png)
 
@@ -94,6 +110,12 @@ Sleep de **Oogbol**-sprite om deze op het werkgebied te plaatsen en wijzig de gr
 
 Laat de oogbol nu naar de `muisaanwijzer`{:class="block3motion"} kijken.
 
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
+<span style="color: #0faeb0">**Gebruiker**</span> betekent de persoon die het project gebruikt (niet alleen om het te maken), en <span style="color: #0faeb0">**gebruikersinteractie**</span> is hoe het project reageert als de gebruiker dingen doet zoals het bewegen van de muis en klikken op het scherm. 
+</p>
+
+### Codeer je oogbol
+
 --- task ---
 
 Voeg een script toe om `maak de draaistijl`{:class="block3motion"} in te stellen op `helemaal rond`{:class="block3motion"} om de oogbol `naar de muisaanwijzer`{:class="block3motion"} te laten wijzen `voor altijd herhaald`{:class="block3control"}.
@@ -105,9 +127,9 @@ title: Laat een sprite naar de muisaanwijzer wijzen
 
 ```blocks3
 when flag clicked
-set rotation style [all around v]
+set rotation style [helemaal rond v]
 forever
-point towards (mouse-pointer v)
+point towards (muiswijzer v)
 end
 ```
 
@@ -115,16 +137,19 @@ end
 
 --- /task ---
 
-
-Als je personage maar één oog heeft, ben je klaar.
+### Voeg nog een oogbol toe
 
 --- task ---
 
-Klik anders met de rechtermuisknop (of tik op een tablet en houd vast) op de **Oogbol**-sprite in de Sprite-lijst en kies **dupliceren** om meer maffe ogen te creëren.
+Om nog een oog toe te voegen, klik je met de rechtermuisknop (of tik je op een tablet) op de sprite **Oogbol** in de Sprite-lijst en kies je **dupliceren**.
+
+![Voorbeeld oogbollen in paren. Een helemaal opnieuw getekend en een andere gemaakt van de bal-sprite.](images/duplicate-eyes.png)
 
 [[[scratch3-duplicate-sprite]]]
 
 --- /task ---
+
+### Test je maffe ogen
 
 --- task ---
 
@@ -143,7 +168,7 @@ Klik anders met de rechtermuisknop (of tik op een tablet en houd vast) op de **O
 title: De ogen bewegen niet
 ---
 
-Zorg ervoor dat je de code hebt toegevoegd aan de **Oogbol**-sprites en **geklikt op de groene vlag**. Je code wordt pas uitgevoerd als je op de groene vlag klikt.
+Zorg ervoor dat je de code hebt toegevoegd aan de **Oogbol**-sprites en **op de groene vlag hebt geklikt**. Je code wordt pas uitgevoerd als je op de groene vlag klikt.
 
 --- /collapse ---
 
@@ -156,7 +181,7 @@ Controleer in de **Oogbol** uiterlijken of de pupil zich aan de rechterkant bevi
 
 De **Oogbol** sprites hebben de `helemal rond`{:class="block3motion"} `draaistijl`{:class="block3motion"}, zodat ze in elke richting kunnen draaien.
 
-Wanneer de **Oogbollen** roteren naar `wijzen in de richting van`{:class="block3motion"} de `muisaanwijzer`{:class="block3motion"}, dan zullen de pupillen zich het dichtst bij de muisaanwijzer bevinden.
+Wanneer de **Oogbollen** draaien naar `wijzen in de richting van`{:class="block3motion"} de `muisaanwijzer`{:class="block3motion"}, dan zullen de pupillen zich het dichtst bij de muisaanwijzer bevinden.
 
 ![De pupil aan de rechterkant van een oogboluiterlijk plaatsen.](images/eye-right.gif)
 
@@ -171,9 +196,9 @@ title: De ogen springen over het speelveld
 
 Controleer of de **Oogbol** uiterlijken gecentreerd zijn. Om een uiterlijk te centreren, sleep je het uiterlijk zo dat het blauwe kruis in het uiterlijk op één lijn ligt met het grijze dradenkruis in de Teken-editor.
 
-![Een oogboluiterlijk centreren in de Teken-editor.](images/eye-centered.gif)
+![Een oogboluiterlijk gecentreerd in de Teken-editor.](images/eye-centered.gif)
 
-![Een oogboluiterlijk gecentreerd in de Teken-editor.](images/eye-costume.png)
+![Een oogboluiterlijk centreren in de Teken-editor.](images/eye-costume.png)
 
 --- /collapse ---
 
@@ -182,14 +207,14 @@ Controleer of de **Oogbol** uiterlijken gecentreerd zijn. Om een uiterlijk te ce
 title: Het personage staat voor de ogen
 ---
 
-Wanneer je een sprite sleept om deze in het speelveld te plaatsen, beweegt deze voor de andere sprites.
+Wanneer je een sprite sleept om deze in het speelveld te plaatsen, zal deze voor de andere sprites komen te staan.
 
 Om ervoor te zorgen dat je sprite van je **personage** `achteraan`{:class="block3looks"} blijft, gebruik je:
 
 ```blocks3
 when green flag clicked
 forever
-go to [back v] layer // achter alle andere sprites
+go to [achtergrond v] layer // achter alle andere sprites
 ```
 
 --- /collapse ---
@@ -220,11 +245,8 @@ Je moet ook het script van de **personage** sprite verwijderen. Sleep hiervoor h
 
 --- /collapse ---
 
-Mogelijk vind je een fout die hier niet wordt vermeld. Kun je achterhalen hoe deze te repareren is?
+Mogelijk vind je een fout die hier niet wordt vermeld. Kun je erachter komen hoe je het kunt oplossen?
 
 We horen graag over je fouten en hoe je ze hebt opgelost. Gebruik de **Feedback verzenden** knop onderaan deze pagina en vertel ons of je een andere fout in je project hebt gevonden.
 
-
 --- /task ---
-
---- save ---

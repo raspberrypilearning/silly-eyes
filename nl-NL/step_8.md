@@ -1,23 +1,32 @@
-## Deel
+## Wat kun je verder nog doen?
 
-Als je lid bent van een club, waarom zou je je project dan niet delen met vrienden en collega's?
+Als je het [Introductie tot Scratch](https://projects.raspberrypi.org/nl-NL/pathways/scratch-intro) pad volgt, kun je doorgaan naar het [Verrassing! animatie](https://projects.raspberrypi.org/nl-NL/projects/surprise-animation) project. In dit project maak je een animatie van een verhaal met een verrassing.
 
-Je kunt jouw familie ook laten zien hoe jouw project werkt.
+--- print-only ---
 
-Als je een Scratch-account hebt, kun je je project delen via Scratch. Je kunt een link sturen naar mensen die je kent, en de hele Scratch-gemeenschap zal je project kunnen vinden en uitproberen.
+![Een 'Verrassing! animatie' project.](images/surprise-story.png)
 
-[[[share-scratch]]]
+--- /print-only ---
 
-Waarom nodig je je vrienden niet uit om een project te maken? Laat ze weten hoeveel plezier je hebt gehad.
+--- no-print ---
 
-Als je een Scratch-account hebt en je 'Maffe ogen'-project hebt gedeeld, let dan op opmerkingen die anderen over je creatie kunnen maken. Terugkoppeling is een geweldige manier om te reflecteren op je werk. Negeer alle opmerkingen die nutteloos of irrelevant zijn.
+Klik op de groene vlag om de animatie te zien:
 
-[[[comments-feedback-scratch]]]
+<div class="scratch-preview" style="margin-left: 15px;">
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/495932563/?autostart=false" frameborder="0"></iframe>
+</div>
 
---- task ---
+--- /no-print ---
 
-Inspireer de Raspberry Pi Foundation-gemeenschap met jouw project!
+Wil je nog meer plezier hebben met het verkennen van Scratch, dan kun je één van [deze projecten](https://projects.raspberrypi.org/nl-NL/projects?software%5B%5D=scratch&curriculum%5B%5D=%201) proberen.
 
-Om je project in te dienen bij onze ['Maffe ogen — Community' Scratch studio](https://scratch.mit.edu/studios/29120534){:target="_blank"}, vul dan [dit formulier](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"} in.
+***
+Dit project werd vertaald door vrijwilligers:
 
---- /task ---
+Robert-Jan Kempenaar
+Sanneke van der Meer
+Max Schaaper
+Iny van Beuningen
+
+Dankzij vrijwilligers kunnen we mensen over de hele wereld de kans geven om in hun eigen taal te leren. Jij kunt ons helpen meer mensen te bereiken door vrijwillig te starten met vertalen - meer informatie op [rpf.io/translate](https://rpf.io/translate).
+
