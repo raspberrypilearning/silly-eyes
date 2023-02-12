@@ -2,22 +2,22 @@
 
 Si tienes tiempo, puedes mejorar tu proyecto.
 
-### Add Stage effects
+### Añade efectos al escenario
 
-Make your project do something when you click on the **Stage**.
+Haz que tu proyecto haga algo cuando hagas clic en el **Escenario**.
 
-![The Stage with graphic effects.](images/stage-effects.png){:width="300px"}
+![El escenario con efectos gráficos.](images/stage-effects.png){:width="300px"}
 {:width="300px"}
 
 --- task ---
 
-Click on the Stage pane and then on the **Code** tab to add code to the **Stage**.
+Haz clic en el panel del Escenario y luego en la pestaña de **Código** para añadir código al **Escenario**.
 
 **Elige:** Elige lo que quieras cambiar cuando se haga clic en el **Escenario**.
 
 --- collapse ---
 ---
-title: Change graphic effects when the Stage is clicked
+title: Cambia efectos gráaficos cuando se haga clic en el Escenario
 ---
 
 ```blocks3
@@ -29,7 +29,7 @@ change [color v] effect by [25]
 
 --- collapse ---
 ---
-title: Switch backdrop when the Stage is clicked
+title: Cambia el fondo cuando se haga clic en el Escenario
 ---
 
 ```blocks3
@@ -41,22 +41,22 @@ next backdrop
 
 --- /task ---
 
-### Add more
+### Añade más
 
-You could also add:
-- More body parts
-- More sprites with silly eyes
-- More backdrops
-- More accessories, or add more costumes to your accessories
+También podrías añadir:
+- Más partes del cuerpo
+- Más objetos con ojos tontos
+- Más fondos
+- Más accesorios, o añadir más disfraces a tus accesorios
 
-This **Sporg** character also has arms that `point towards the mouse pointer`{:class="block3motion"}.
+Este personaje **Sporg** también tiene brazos que `apuntan hacia el puntero del ratón`{:class="block3motion"}.
 
 **Sporg**: [Ver dentro](https://scratch.mit.edu/projects/495865892/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/495865892/?autostart=false" frameborder="0"></iframe>
 </div>
 
-If you add other body parts, you will need to centre them at the point that you want them to rotate from. For example, an arm would rotate from the shoulder.
+Si añades otras partes del cuerpo, necesitarás centrarlas en el punto desde que quieres que giren. Por ejemplo, un brazo rotaría desde el hombro.
 
 [[[scratch-crosshair]]]
 
@@ -70,7 +70,7 @@ Cada uno de los proyectos en ['Ejemplos de Ojos tontos' del Estudio Scratch](htt
 
 --- task ---
 
-Take a look at our ['Silly eyes — Community' Scratch studio](https://scratch.mit.edu/studios/29120534){:target="_blank"} to see projects created by community members.
+Echa un vistazo a nuestro ['Ojos tontos - Comunidad' Scratch studio](https://scratch.mit.edu/studios/29120534){:target="_ blank"} para ver los proyectos creados por miembros de la comunidad.
 
 --- /task ---
 
