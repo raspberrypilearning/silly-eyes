@@ -53,7 +53,7 @@ No es necesario que ejecutes el bloque `fijar estilo de rotación`{:class="block
 
   --- feedback ---
 
-No es necesario que hagas clic en el escenario para que el globo ocular gire. When the code is running, the eyeball will just follow the mouse pointer (or your finger, if you are using a tablet).
+No es necesario que hagas clic en el escenario para que el globo ocular gire. Cuando el código se está ejecutando, el globo ocular simplemente sigue el puntero del ratón (o tu dedo, si estás usando una tableta).
 
   --- /feedback ---
 
