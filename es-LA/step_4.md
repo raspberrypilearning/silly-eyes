@@ -45,25 +45,25 @@ Si quieres que ambos ojos tengan el mismo efecto, tienes que copiar tu script al
 
 --- task ---
 
-Click on your **character** sprite in the Sprite list, then click on the **Code** tab.
+Haz clic en tu objeto **personaje** en la Lista de objetos, luego haz clic en la pestaña **Código**.
 
-Add the same script as you used to change the eye colour. Which graphic effects do you want to change for your **character**?
+Agrega el mismo script que usaste para cambiar el color de ojos. ¿Qué efectos gráficos deseas cambiar para tu **personaje**?
 
-**Elige:** Elige un efecto en el Menú desplegable dentro del `cambiar el efecto color en`{:class="block3looks"}. Experiment with the numbers and effects until you have a change that you like.
+**Elige:** Elige un efecto en el Menú desplegable dentro del `cambiar el efecto color en`{:class="block3looks"}. Experimenta con los números hasta que tengas un cambio que te guste.
 
 [[[scratch3-graphic-effects]]]
 
 --- /task ---
 
-### An accessory
+### Un accesorio
 
-Now, add an **accessory**, such as a hat, that changes when you click on it — use the `next costume`{:class="block3looks"} block.
+Ahora, agrega un **accesorio**, como un sombrero, que cambia cuando haces clic en él; usa el bloque `siguiente disfraz`{:class="block3looks"}.
 
 --- task ---
 
 **Elige:** Agrega un cambio de accesorio o de disfraz de tu elección.
 
-![Sprites with accessories.](images/accessory-sprite.png)
+![Objetos con accesorios.](images/accessory-sprite.png)
 
 --- collapse ---
 ---
@@ -75,9 +75,9 @@ title: Haz que un objeto cambie de disfraz cuando hagas clic en él
 <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/496334057/?autostart=false" frameborder="0"></iframe>
 </div>
 
-Some sprites already have a choice of costumes.
+Algunos objetos ya tienen una selección de disfraces.
 
-You can add code to make a sprite's costume change to the `next costume`{:class="block3looks"} when you click on the sprite:
+Puedes agregar código para hacer que el disfraz de un objeto cambie al `siguiente disfraz`{:class="block3looks"} cuando haces clic en el objeto:
 
 ```blocks3
 when this sprite clicked
@@ -86,7 +86,7 @@ next costume
 
 --- /collapse ---
 
-If your sprite does not have a choice of costumes, or you want to add more, you can add any costume to a sprite.
+Si tu objeto no tiene una opción de disfraces, o quieres agregar más, puedes agregar cualquier disfraz a un objeto.
 
 [[[scratch3-add-costumes-to-a-sprite]]]
 
@@ -133,7 +133,7 @@ clear graphic effects
 --- /task ---
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-By making your project full-screen, you are seeing what you have made from the perspective of a user who is playing with your project. **User interaction** is important in digital making. 
+Al ver tu proyecto en pantalla completa, estás viendo lo que has hecho desde la perspectiva de un usuario que está jugando con tu proyecto. La ** Interacción del usuario ** es importante en la creación digital. 
 </p>
 
 
