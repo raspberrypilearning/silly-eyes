@@ -79,9 +79,9 @@ Haz clic en el icono**Elegir un disfraz**para ver la biblioteca de disfraces de 
 
 Haz clic en el disfraz que quieras agregar a tu objeto.
 
-Use the Paint editor to change the costume. Puedes agregar círculos, elegir un color de **Relleno** diferente o quitar partes del disfraz para convertirlo en un ojo tonto.
+Usa el Editor de dibujo para cambiar el disfraz. Puedes agregar círculos, elegir un color de **Relleno** diferente o quitar partes del disfraz para convertirlo en un ojo tonto.
 
-Make sure that the eyeball is centred — move it so that the blue cross in the costume lines up with the grey crosshair in the Paint editor.
+Asegúrate de que el globo ocular esté centrado; muévelo de modo que la cruz azul del disfraz se alinee con la cruz gris en el Editor de dibujo.
 
 ![Una imagen animada de un disfraz de círculo siendo arrastrado desde la parte superior izquierda para que encaje con el centro de los círculos sobre el ícono de la cruz.](images/crosshair-centre.gif)
 
@@ -97,7 +97,7 @@ Make sure that the eyeball is centred — move it so that the blue cross in the 
 
 Nombra tu objeto `Globo ocular` en el Panel de objetos.
 
-![The sprite's name set to 'Eyeball' in the Sprite pane.](images/eyeball-name.png)
+![El nombre del objeto establecido como 'Globo Ocular' en el Panel de objetos.](images/eyeball-name.png)
 
 --- /task ---
 
@@ -107,13 +107,13 @@ Arrastra el objeto **Globo ocular** para colocarlo en el escenario y cambia su t
 
 --- /task ---
 
-Now, make the eyeball look at the `mouse-pointer`{:class="block3motion"} so that the user can interact with your project.
+Ahora, haz que el globo ocular mire el `puntero del ratón `:class="block3motion"} para que el usuario pueda interactuar con tu proyecto.
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
 <span style="color: #0faeb0">** Usuario **</span> se refiere a la persona que usa el proyecto (no solo la que lo hace), e <span style="color: #0faeb0">** interacción del usuario **</span> es cómo el proyecto reacciona cuando el usuario hace cosas como mover el ratón y hacer clic en la pantalla. 
 </p>
 
-### Code your eyeball
+### Programa tu Ojo
 
 --- task ---
 
@@ -142,7 +142,7 @@ end
 
 Para añadir otro ojo, haz clic derecho (o en una tablet, mantén presionado) en el objeto **Globo ocular** en la Lista de objetos y elije **duplicar**.
 
-![Example eyeballs in pairs. One drawn from scratch and another made from the ball sprite.](images/duplicate-eyes.png)
+![Ejemplo de ojos en pares. Uno dibujado y otro hecho a partir de el objeto de la bola.](images/duplicate-eyes.png)
 
 [[[scratch3-duplicate-sprite]]]
 
@@ -208,7 +208,7 @@ título: El personaje está frente a los ojos
 
 Cuando arrastras un objeto para colocarlo en el escenario, se mueve delante de los otros objetos.
 
-To get your **character** sprite to stay at the `back`{:class="block3looks"}, use:
+Para que tu objeto **personaje** se quede`al fondo`{:class="block3looks"}, usa:
 
 ```blocks3
 when green flag clicked
@@ -236,7 +236,7 @@ El código para `apuntar hacia`{:class="block3motion"} el `puntero del ratón`{:
 title: El personaje sigue el puntero del ratón (pero los ojos no)
 ---
 
-You need to add the `point towards`{:class="block3motion"} code to the individual **Eyeball** sprites, not your **character** sprite!
+Necesitas añadir el código `apuntar hacia `{:class="block3motion"} a los objetos **Globo ocular**, no a tu **personaje**!
 
 Para copiar el código, puedes arrastrar el código desde el Área de código para tu **personaje** a los objetos **Globo ocular** en la Lista de objetos.
 
@@ -244,7 +244,7 @@ También deberás eliminar el script del objeto **personaje**. Para hacer esto, 
 
 --- /collapse ---
 
-Es posible que encuentres un error que no se incluye aquí. Can you work out how to fix it?
+Es posible que encuentres un error que no se incluye aquí. ¿Puedes averiguar cómo solucionarlo?
 
 Nos encanta conocer tus errores y cómo los solucionaste. Usa el botón **Enviar comentarios** en la parte inferior de esta página y cuéntanos si encontraste un error distinto en tu proyecto.
 
