@@ -8,15 +8,15 @@ copyedit: false
 last_tested: '2021-02-25'
 steps:
   - 
-    title: You will make
+    title: Introducción
   - 
-    title: Create your character
+    title: Tu personaje
   - 
     title: Crea ojos tontos
     completion:
       - engaged
   - 
-    title: Add sprite effects
+    title: Efectos para un objeto
     completion:
       - internal
   - 
