@@ -2,7 +2,7 @@
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-Use your design skills to add a character sprite and suitable backdrop. 
+Usa tus habilidades de diseño para agregar un objeto de personaje y un fondo adecuado. 
 </div>
 <div>
 
@@ -12,18 +12,18 @@ Use your design skills to add a character sprite and suitable backdrop.
 </div>
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-<span style="color: #0faeb0">**Design**</span> means deciding on the way that a project looks and making decisions about what it does. 
+<span style="color: #0faeb0">** Diseño **</span> se refiere a decidir la apariencia de un proyecto y tomar decisiones sobre lo que hace. 
 </p>
 
 ### Abre el proyecto inicial
 
 --- task ---
 
-Abre el proyecto inicial de [Ojos tontos](https://scratch.mit.edu/projects/582221984/editor){:target="_blank"}. Scratch will open in another browser tab.
+Abre el proyecto inicial de [Ojos tontos](https://scratch.mit.edu/projects/582221984/editor){:target="_blank"}. Scratch se abrirá en otra pestaña del navegador.
 
 [[[working-offline]]]
 
-⏱️ Not much time? You can start from one of the [examples](https://scratch.mit.edu/studios/29029028){:target="_blank"}.
+⏱️ ¿Poco tiempo? Puedes comenzar desde uno de los [ejemplos](https://scratch.mit.edu/studios/29029028){:target="_blank"}.
 
 --- /task ---
 
@@ -33,10 +33,10 @@ Abre el proyecto inicial de [Ojos tontos](https://scratch.mit.edu/projects/58222
 
 **Elige:** Añadir un **objeto** y un **fondo** para tu proyecto de ojos tontos.
 
-+ What does your character look like? A person 🧜🏽‍♀️, animal 🐶 or object 🧸.
-+ Where do you want your character to live? Somewhere sensible 🏠 or silly 🎪.
++ ¿Cómo es tu personaje? Una persona 🧜🏽‍♀️, animal 🐶 u objeto 🧸.
++ ¿Dónde quieres que viva tu personaje? En algún lugar sensato 🏠 o ridículo 🎪.
 
-![The add sprite icon and add backdrop icon side by side.](images/sprite-and-backdrop.png)
+![El ícono para agregar un objeto y el ícono para agregar fondo uno al lado del otro.](images/sprite-and-backdrop.png)
 
 [[[generic-scratch3-sprite-from-library]]]
 
@@ -59,11 +59,11 @@ title: Obtén un objeto sorpresa
 
 --- /task ---
 
-### Resize your sprite
+### Cambia el tamaño de tu objeto
 
 --- task ---
 
-In the Sprite pane, change the number in the **Size** property to a number that makes your character fill the Stage.
+En el Panel de objetos, cambia el número en la propiedad **Tamaño** por un número de tu elección.
 
 ![](images/size-property.png){:width="500px"}
 
@@ -71,7 +71,7 @@ In the Sprite pane, change the number in the **Size** property to a number that 
 
 --- task ---
 
-Look at the Stage. You will see your large character and chosen backdrop.
+Mira el escenario. Verás a tu gran personaje y el fondo que elegiste.
 
 ![](images/large-sprite-stage.png){:width="500px"}
 
