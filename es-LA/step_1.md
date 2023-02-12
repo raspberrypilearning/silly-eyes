@@ -1,6 +1,6 @@
 ## Lo que harás
 
-Design and create a silly eyes character 👀. Los ojos grandes y tontos del personaje seguirán el puntero del ratón para darle vida a tu personaje.
+En este proyecto, diseñarás y crearás un personaje con ojos tontos 👀. Los ojos grandes y tontos del personaje seguirán el puntero del ratón para darle vida a tu personaje.
 
 ![Ejemplos de proyectos.](images/showcase-line.png)
 
@@ -8,7 +8,7 @@ Vas a:
 
 + Haz un proyecto con el que sea divertido jugar
 + Create your own character
-+ Code your project using **sprites, scripts and loops**
++ Codifica tu proyecto usando **objetos, código y bucles**
 
 --- no-print ---
 
@@ -24,9 +24,9 @@ Vas a:
 
 Mueve el ratón (o si estás usando una tableta, mueve tu dedo) por el escenario. 
 
-What happens when you move between Gobo's eyes? 
+¿Qué pasa cuando te mueves entre los ojos de Gobo? 
   
-What happens when you click on different parts of the project?
+¿Qué pasa cuando haces click en diferentes partes del proyecto?
 </div>
 <div>
 
@@ -56,9 +56,9 @@ Explora estos ejemplos de proyectos para obtener más ideas:
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/495865892/?autostart=false" frameborder="0"></iframe>
 </div>
 
-**⭐ Silly pufferfish** (featured community project)
+**⭐ Silly pufferfish** (Proyecto de la comunidad destacado)
 
-Click on the pufferfish, hat, scarf, backdrop and the eyeballs:
+Haz click en el pez globo, el sombrero, bufanda, fondo y globo ocular:
 
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/772759744/?autostart=false" frameborder="0"></iframe>
@@ -72,9 +72,9 @@ Click on the pufferfish, hat, scarf, backdrop and the eyeballs:
 
 ### Obtén ideas 💭
 
-Design and create a silly eye character 👀. The character's large, silly eyes will follow the mouse pointer to bring your character to life. Para obtener más ideas, **Ver dentro** ejemplos de proyectos en 'Ejemplos de Ojos tontos' del Estudio Scratch: https://scratch.mit.edu/studios/29029028
+Diseña y crea un personaje con ojos tontos 👀. Los ojos grandes y tontos del personaje seguirán el puntero del ratón para darle vida a tu personaje. Para obtener más ideas, **Ver dentro** ejemplos de proyectos en 'Ejemplos de Ojos tontos' del Estudio Scratch: https://scratch.mit.edu/studios/29029028
 
-![El proyecto 'Gobo mirando'.](images/gobo-watching.png) ![The 'Don't eat donut' project.](images/dont-eat-donut.png) ![El proyecto 'Sporg'.](images/sporg.png)
+![El proyecto 'Gobo mirando'.](images/gobo-watching.png) ![El proyecto 'No te comas el donut'.](images/dont-eat-donut.png) ![El proyecto 'Sporg'.](images/sporg.png)
 
 --- /print-only ---
 
