@@ -7,7 +7,7 @@ En este proyecto, diseñarás y crearás un personaje con ojos tontos 👀. Los 
 Vas a:
 
 + Haz un proyecto con el que sea divertido jugar
-+ Create your own character
++ Crear tu propio personaje
 + Codifica tu proyecto usando **objetos, código y bucles**
 
 --- no-print ---
@@ -58,7 +58,7 @@ Explora estos ejemplos de proyectos para obtener más ideas:
 
 **⭐ Silly pufferfish** (Proyecto de la comunidad destacado)
 
-Haz click en el pez globo, el sombrero, bufanda, fondo y globo ocular:
+Haz clic en el pez globo, el sombrero, bufanda, fondo y globo ocular:
 
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/772759744/?autostart=false" frameborder="0"></iframe>
