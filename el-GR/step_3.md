@@ -1,4 +1,4 @@
-## Κάνε αστεία μάτια
+## Δημιούργησε αστεία μάτια
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
@@ -66,7 +66,7 @@ You could also draw circles inside circles, or use colour, to get different effe
 
 --- collapse ---
 ---
-title: Μετάτρεψε μια στρογγυλή φορεσιά σε βολβό ματιών
+title: Μετάτρεψε μια στρογγυλή ενδυμασία σε βολβό ματιών
 ---
 
 There are costumes in Scratch that you can edit to make silly eyes for your character.
@@ -121,7 +121,7 @@ Add a script to `set the rotation style`{:class="block3motion"} to `all around`{
 
 --- collapse ---
 ---
-title: Κάνε ένα αντικείμενο προς τον δείκτη του ποντικιού
+title: Κάνε ένα αντικείμενο να δείχνει προς τον δείκτη του ποντικιού
 ---
 
 ```blocks3
