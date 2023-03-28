@@ -64,7 +64,7 @@ Si añades otras partes del cuerpo, necesitarás centrarlas en el punto desde qu
 
 --- task ---
 
-Cada uno de los proyectos en ['Ejemplos de Ojos tontos' del Estudio Scratch](https://scratch.mit.edu/studios/29029028){:target="_blank"} tiene un enlace **Ver dentro**, que puedes usar para abrir el proyecto en el Editor de Scratch y darle un vistazo al código, para obtener nuevas ideas y ver cómo funciona el proyecto.
+Cada uno de los proyectos en ['Ejemplos de Ojos tontos' del Estudio Scratch](https://scratch.mit.edu/studios/29029028){:target="_blank"} tiene un enlace **Ver dentro**, que puedes usar para abrirlo en el Editor y darle un vistazo al código, para obtener nuevas ideas y ver cómo funciona el proyecto.
 
 --- /task ---
 
