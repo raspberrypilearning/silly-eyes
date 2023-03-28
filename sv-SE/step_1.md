@@ -1,31 +1,31 @@
-## You will make
+## Du kommer att skapa
 
-Design and create a silly eyes character 👀. The character's large, silly eyes will follow the mouse pointer to bring your character to life.
+Designa och skapa en karaktär med roliga ögon👀. Karaktärens stora, roliga ögon kommer följa muspekaren för få den att verka levande.
 
-![Examples of projects.](images/showcase-line.png)
+![Exempel på projekt.](images/showcase-line.png)
 
-You will:
+Du kommer:
 
-+ Make a project that is fun to play with
-+ Create your own character
-+ Code your project using **sprites, scripts and loops**
++ Skapa ett projekt som är roligt att leka med
++ Skapa din egen karaktär
++ Koda ditt projekt med **sprajter, kod och loopar**
 
 --- no-print ---
 
-### Play ▶️
+### Spela ▶️
 
 --- task ---
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 175px; flex-grow: 1">  
 
-**Gobo watching**: [See inside](https://scratch.mit.edu/projects/495141114/editor){:target="_blank"}
+**Gobo tittar**: [Se inuti](https://scratch.mit.edu/projects/495141114/editor){:target="_blank"}
 
-Move the mouse (or if you are using a tablet, move your finger) around the Stage. 
+Flytta musen (eller om du använder en surfplatta, flytta ditt finger) runt scenen. 
 
-What happens when you move between Gobo's eyes? 
+Vad händer när du rör dig mellan Gobos ögon? 
   
-What happens when you click on different parts of the project?
+Vad händer när du klickar på olika delar av projektet?
 </div>
 <div>
 
@@ -37,27 +37,27 @@ What happens when you click on different parts of the project?
 
 --- /task ---
 
-### Get ideas 💭
+### Få idéer 💭
 
 --- task ---
 
-Play with these example projects to get ideas:
+Lek med dessa exempelprojekt för att få inspiration:
 
-⭐ Share your finished Silly eyes project for a chance of it being featured here.
+⭐ Dela ditt färdiga "roliga ögon"-projekt för en chans att få det visat här.
 
-**Don't eat donut**: [See inside](https://scratch.mit.edu/projects/495865093/editor){:target="_blank"}
+**Ät inte munken**: [Se inuti](https://scratch.mit.edu/projects/495865093/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/495865093/?autostart=false" frameborder="0"></iframe>
 </div>
 
-**Sporg**: [See inside](https://scratch.mit.edu/projects/495865892/editor){:target="_blank"}
+**Sporg**: [Se inuti](https://scratch.mit.edu/projects/495865892/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/495865892/?autostart=false" frameborder="0"></iframe>
 </div>
 
-**⭐ Silly pufferfish** (featured community project)
+**⭐ Rolig blåsfisk** (utvalt samhällsprojekt)
 
-Click on the pufferfish, hat, scarf, backdrop and the eyeballs:
+Klicka på blåsfisken, mössan, halsduken, bakgrunden och ögongloberna:
 
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/772759744/?autostart=false" frameborder="0"></iframe>
@@ -69,11 +69,11 @@ Click on the pufferfish, hat, scarf, backdrop and the eyeballs:
 
 --- print-only ---
 
-### Get ideas 💭
+### Få idéer 💭
 
-Design and create a silly eye character 👀. The character's large, silly eyes will follow the mouse pointer to bring your character to life. To get more ideas, **See inside** example projects in the 'Silly eyes — Examples' Scratch studio: https://scratch.mit.edu/studios/29029028
+Designa och skapa en karaktär med roliga ögon👀. Karaktärens stora, roliga ögon kommer följa muspekaren för få den att verka levande. För att få fler idéer, **Se på** exempelprojekt i 'Silly eyes — Exempel'-Scratchstudion: https://scratch.mit.edu/studios/29029028
 
-![The 'Gobo watching' project.](images/gobo-watching.png) ![The 'Don't eat donut' project.](images/dont-eat-donut.png) ![The 'Sporg' project.](images/sporg.png)
+![Projektet 'Gobo tittar'.](images/gobo-watching.png) ![Projektet 'Ät inte munken'.](images/dont-eat-donut.png) ![Sporg-projektet.](images/sporg.png)
 
 --- /print-only ---
 
