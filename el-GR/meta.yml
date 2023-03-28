@@ -8,19 +8,19 @@ copyedit: false
 last_tested: '2021-02-25'
 steps:
   - 
-    title: You will make
+    title: Θα φτιάξεις
   - 
-    title: Create your character
+    title: Δημιουργήσεις τον δικό σου χαρακτήρα
   - 
     title: Κάνε αστεία μάτια
     completion:
       - engaged
   - 
-    title: Add sprite effects
+    title: Πρόσθεσε εφέ υποβάθρου
     completion:
       - internal
   - 
-    title: Quick quiz
+    title: Γρήγορο κουίζ
     knowledge_quiz:
       path: quiz1
       version: 1
@@ -29,8 +29,8 @@ steps:
     completion:
       - external
   - 
-    title: Upgrade your project
+    title: Αναβάθμισε το έργο σου
   - 
-    title: Share and play
+    title: Μοιράσου και παίξε
   - 
-    title: What next?
+    title: Και τώρα;
