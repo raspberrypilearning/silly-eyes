@@ -1,26 +1,26 @@
 ---
-title: Silly eyes
+title: Roliga ögon
 hero_image: images/banner.png
-description: Create your own app with a character whose eyes follow the mouse pointer
+description: Skapa din egen app med en karaktär vars ögon följer muspekaren
 version: 4
 listed: true
 copyedit: false
 last_tested: '2021-02-25'
 steps:
   - 
-    title: You will make
+    title: Du kommer att skapa
   - 
-    title: Create your character
+    title: Skapa din karaktär
   - 
-    title: Make silly eyes
+    title: Gör roliga ögon
     completion:
       - engaged
   - 
-    title: Add sprite effects
+    title: Lägg till sprajteffekter
     completion:
       - internal
   - 
-    title: Quick quiz
+    title: Snabbt quiz
     knowledge_quiz:
       path: quiz1
       version: 1
@@ -29,8 +29,8 @@ steps:
     completion:
       - external
   - 
-    title: Upgrade your project
+    title: Uppgradera ditt projekt
   - 
-    title: Share and play
+    title: Dela och spela
   - 
-    title: What next?
+    title: Vad händer nu?
