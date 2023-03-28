@@ -1,52 +1,52 @@
-## Share and play
+## Dela och spela
 
-If you are in a club, why not share your project with friends and peers?
+Om du är medlem i en klubb, varför inte dela ditt projekt med vänner och skolkamrater?
 
-You could also show your family how your project works.
+Du kan även visa din familj hur ditt projekt fungerar.
 
-If you have a Scratch account, you can share your project through Scratch. You can send a link to people you know, and the whole Scratch community will be able to find your project and try it out.
+Om du har ett Scratch-konto kan du dela ditt projekt genom Scratch. Du kan skicka en länk till personer du känner så kommer hela Scratch-gemenskapen att kunna hitta ditt projekt och prova det.
 
 [[[share-scratch]]]
 
-Why not invite your friends to create a project? Let them know how you had fun.
+Varför inte bjuda in dina vänner att skapa projekt? Berätta för dem hur roligt det var.
 
-If you have a Scratch account, and have shared your 'Silly eyes' project, keep an eye out for comments that others may make about your creation. Feedback is a great way to reflect on your work. Ignore any comments that are unhelpful or irrelevant.
+Om du har ett Scratch-konto och har delat ditt "Roliga ögon"-projekt, håll utkik efter kommentarer som andra kan komma med. Feedback är ett bra sätt att reflektera över det du har gjort. Ignorera alla kommentarer som är ohjälpsamma eller irrelevanta.
 
 [[[comments-feedback-scratch]]]
 
 --- task ---
 
-Inspire the Raspberry Pi Foundation community with your project!
+Inspirera Raspberry Pi Foundation-gemenskapen med ditt projekt!
 
-To submit your project to our ['Silly eyes — Community' Scratch studio](https://scratch.mit.edu/studios/29120534){:target="_blank"}, please complete [this form](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}.
+För att skicka in ditt projekt till vår ['Roliga ögon — Community' Scratchstudio](https://scratch.mit.edu/studios/29120534){:target="_blank"}, fyll i [detta formulär](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}.
 
 --- /task ---
 
-### Community submissions
+### Communitybidrag
 
 --- task ---
 
-Take a look at these fabulous community projects from our ['Silly eyes — Community' Scratch studio](https://scratch.mit.edu/studios/29120534){:target="_blank"}. Click on the backdrops, eyeballs and accessories to interact with them:
+Ta en titt på dessa fantastiska community-projekt från vår ['Roliga ögon — Community'-Scratchstudio](https://scratch.mit.edu/studios/29120534){:target="_blank"}. Klicka på bakgrunderna, ögongloberna och tillbehören för att interagera med dem:
 
-**Ladybug scare** [See inside](https://scratch.mit.edu/projects/517735755/editor){:target="_blank"}
+**Nyckelpigsskräck** [Se inuti](https://scratch.mit.edu/projects/517735755/editor){:target="_blank"}
 
-Click on the backdrop:
+Klicka på bakgrunden:
 
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/517735755/?autostart=false" frameborder="0"></iframe>
 </div>
 
-**Butterfly and bear** [See inside](https://scratch.mit.edu/projects/569624392/editor){:target="_blank"}
+**Fjäril och björn** [Se inuti](https://scratch.mit.edu/projects/569624392/editor){:target="_blank"}
 
-Click on the bear and butterfly:
+Klicka på björnen och fjärilen:
 
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/569624392/?autostart=false" frameborder="0"></iframe>
 </div>
 
-**Pixel dot** [See inside](https://scratch.mit.edu/projects/747156758/editor){:target="_blank"}
+**Pixelpunkt** [Se inuti](https://scratch.mit.edu/projects/747156758/editor){:target="_blank"}
 
-Click on the green flag to see everything pixelate:
+Klicka på den gröna flaggan för att se allt pixlat:
 
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/747156758/?autostart=false" frameborder="0"></iframe>
@@ -56,6 +56,6 @@ Click on the green flag to see everything pixelate:
 
 --- task ---
 
-You can also look at the remixes for the [Silly eyes starter project](https://scratch.mit.edu/projects/582221984/remixes){:target="_blank"} to see what other creators have made.
+Du kan även kolla på remixarna av [Startprojektet "Roliga ögon"](https://scratch.mit.edu/projects/582221984/remixes){:target="_blank"} för att se vad andra har gjort.
 
 --- /task --- 
