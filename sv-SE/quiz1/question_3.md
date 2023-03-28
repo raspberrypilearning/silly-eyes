@@ -1,11 +1,11 @@
 --- question ---
 ---
-legend: Question 3 of 3
+legend: Fråga 3 av 3
 ---
 
-<span style="color: #0faeb0">**User interaction**</span> is how the project reacts to the user. The 'Silly eyes' project that you have made probably has lots of <span style="color: #0faeb0">**user interaction**</span>!
+<span style="color: #0faeb0">**Användarinteraktion**</span> är hur projektet reagerar på användaren. "Roliga ögon"-projektet som du har gjort har förmodligen massor av <span style="color: #0faeb0">**användarinteraktion**</span>!
 
-Which of these scripts allows user interaction after the program has started?
+Vilken av dessa koder gör användarinteraktion möjlig när programmet har startat?
 
 --- choices ---
 
@@ -17,7 +17,7 @@ clear graphic effects
 
   --- feedback ---
 
-The graphic effects are cleared after the timer reaches 10. The user does not have to do anything, so there is no user interaction.
+Bildeffekterna tas bort efter att timern har nått 10. Användaren behöver inte göra någonting så det finns ingen användarinteraktion.
 
   --- /feedback ---
 - ( )
@@ -28,7 +28,7 @@ say [hello] for (2) seconds
 
   --- feedback ---
 
-The sprite says "hello" after the backdrop switches. The user does not have to do anything, so there is no user interaction.
+Sprajten säger "hej" efter att bakgrunden växlas. Användaren behöver inte göra någonting så det finns ingen användarinteraktion.
 
   --- /feedback ---
 - (x)
@@ -39,16 +39,16 @@ change [color v] effect by (25)
 
   --- feedback ---
 
-The user has to click on the sprite to change the colour. This is user interaction.
+Användaren måste klicka på sprajten för att ändra färg. Detta är användarinteraktion.
 
   --- /feedback ---
 
 
-- ( ) Give me a clue.
+- ( ) Ge mig en ledtråd.
 
   --- feedback ---
 
- User interaction is how the project reacts to the user doing things such as moving the mouse and clicking on the screen.
+ Användarinteraktion är hur projektet reagerar på att användaren gör saker som att flytta musen och klicka på skärmen.
 
   --- /feedback ---
 
