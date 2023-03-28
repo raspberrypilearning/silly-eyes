@@ -115,7 +115,7 @@ Om du behöver kan du återställa de bildeffekterna:
 title: Jag vill inte ha de här bildeffekterna
 ---
 
-För att återställa bildeffekterna när som helst, klicka på `"rensa bildeffekter"`-blocket{:class="block3looks"} i `Utseende`{:class="block3looks"}blockmenyn. Att klicka på den gröna flaggan rensar också bildeffekter.
+För att återställa bildeffekterna när som helst, klicka på `"rensa bildeffekter"`{:class="block3looks"}-blocket i `Utseende`{:class="block3looks"}blockmenyn. Att klicka på den gröna flaggan rensar också bildeffekter.
 
 ```blocks3
 clear graphic effects
