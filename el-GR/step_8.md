@@ -1,16 +1,16 @@
-## What next?
+## Τι υπάρχει στη συνέχεια;
 
-If you are following the [Introduction to Scratch](https://projects.raspberrypi.org/en/pathways/scratch-intro) pathway, you can move on to the [Surprise! animation](https://projects.raspberrypi.org/en/projects/surprise-animation) project. In this project, you will make an animation of a story with a surprise.
+Εάν ακολουθείς το μονοπάτι[Εισαγωγή στο Scratch](https://projects.raspberrypi.org/en/pathways/scratch-intro), μπορείς να προχωρήσεις στο έργο [Έκπληξη! έργο ](https://projects.raspberrypi.org/en/projects/surprise-animation)κινούμενων σχεδίων. Σε αυτό το έργο, θα κάνεις μια κινούμενη εικόνα μιας ιστορίας με μια έκπληξη.
 
 --- print-only ---
 
-![A 'Surprise! animation' project.](images/surprise-story.png)
+![Μια έκπληξη! έργο κινουμένων σχεδίων.](images/surprise-story.png)
 
 --- /print-only ---
 
 --- no-print ---
 
-Click on the green flag to watch the animation:
+Κάνε κλικ στην πράσινη σημαία για να δεις την κινούμενη εικόνα:
 
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/495932563/?autostart=false" frameborder="0"></iframe>
@@ -18,5 +18,5 @@ Click on the green flag to watch the animation:
 
 --- /no-print ---
 
-If you want to have more fun exploring Scratch, then you could try out any of [these projects](https://projects.raspberrypi.org/en/projects?software%5B%5D=scratch&curriculum%5B%5D=%201).
+Εάν θέλεις να διασκεδάσεις περισσότερο εξερευνώντας το Scratch, τότε μπορείς να δοκιμάσεις [από αυτά τα έργα](https://projects.raspberrypi.org/en/projects?software%5B%5D=scratch&curriculum%5B%5D=%201).
 
