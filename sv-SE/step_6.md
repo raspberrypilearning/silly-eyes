@@ -1,23 +1,23 @@
-## Upgrade your project
+## Uppgradera ditt projekt
 
-If you have time, you can upgrade your project.
+Om du har tid kan du uppgradera ditt projekt.
 
-### Add Stage effects
+### Lägg till sceneffekter
 
-Make your project do something when you click on the **Stage**.
+Få ditt projekt att göra något när du klickar på **Scenen**.
 
-![The Stage with graphic effects.](images/stage-effects.png){:width="300px"}
+![Scenen med bildeffekter.](images/stage-effects.png){:width="300px"}
 {:width="300px"}
 
 --- task ---
 
-Click on the Stage pane and then on the **Code** tab to add code to the **Stage**.
+Klicka på Scenrutan och sen på **Kod**fliken för att lägga till kod till **Scenen**.
 
-**Choose:** Choose what you want to change when the **Stage** is clicked.
+**Välj:** Välj vad du vill ändra när **Scenen** klickas på.
 
 --- collapse ---
 ---
-title: Change graphic effects when the Stage is clicked
+title: Ändra bildeffekter när scenen blir klickad
 ---
 
 ```blocks3
@@ -29,7 +29,7 @@ change [color v] effect by [25]
 
 --- collapse ---
 ---
-title: Switch backdrop when the Stage is clicked
+title: Byt bakgrund när du klickar på scenen
 ---
 
 ```blocks3
@@ -41,42 +41,42 @@ next backdrop
 
 --- /task ---
 
-### Add more
+### Lägga till mer
 
-You could also add:
-- More body parts
-- More sprites with silly eyes
-- More backdrops
-- More accessories, or add more costumes to your accessories
+Du kan också lägga till:
+- Fler kroppsdelar
+- Fler sprajter med roliga ögon
+- Fler bakgrunder
+- Fler tillbehör eller lägg till fler klädslar till dina tillbehör
 
-This **Sporg** character also has arms that `point towards the mouse pointer`{:class="block3motion"}.
+Denna **Sporg**karaktär har även armar som `pekar mot muspekaren`{:class="block3motion"}.
 
-**Sporg**: [See inside](https://scratch.mit.edu/projects/495865892/editor){:target="_blank"}
+**Sporg**: [Se inuti](https://scratch.mit.edu/projects/495865892/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/495865892/?autostart=false" frameborder="0"></iframe>
 </div>
 
-If you add other body parts, you will need to centre them at the point that you want them to rotate from. For example, an arm would rotate from the shoulder.
+Om du lägger till andra kroppsdelar måste du centrera dem på den punkt som du vill att de ska rotera kring. Till exempel skulle en arm rotera runt axeln.
 
 [[[scratch-crosshair]]]
 
-### Get ideas
+### Få idéer
 
 --- task ---
 
-Each project in the ['Silly eyes — Examples' Scratch studio](https://scratch.mit.edu/studios/29029028){:target="_blank"} has a **See inside** link, which you can use to open the project in the Scratch editor and look at the code to get ideas and see how the project works.
+Varje projekt i ['Roliga Ögon — Exempel'-Scratchstudion](https://scratch.mit.edu/studios/29029028){:target="_blank"} har en **Se inuti** -länk, som du kan använda för att öppna projektet i Scratch-redigeraren och titta på koden för att få idéer och se hur projektet fungerar.
 
 --- /task ---
 
 --- task ---
 
-Take a look at our ['Silly eyes — Community' Scratch studio](https://scratch.mit.edu/studios/29120534){:target="_blank"} to see projects created by community members.
+Ta en titt på vår ['Roliga ögon — Community'-Scratchstudio](https://scratch.mit.edu/studios/29120534){:target="_blank"} för att se projekt skapade av communitymedlemmar.
 
 --- /task ---
 
 --- task ---
 
-You can also look at the remixes for the [Silly eyes starter project](https://scratch.mit.edu/projects/582221984/remixes){:target="_blank"} to see what other creators have made.
+Du kan även kolla på remixarna av [Startprojektet "Roliga ögon"](https://scratch.mit.edu/projects/582221984/remixes){:target="_blank"} för att se vad andra har gjort.
 
 --- /task ---
 
