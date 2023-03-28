@@ -46,16 +46,16 @@ Abre el proyecto inicial de [Ojos tontos](https://scratch.mit.edu/projects/58222
 
 --- collapse ---
 ---
-title: Obtén un objeto sorpresa
+title: Obtén una sorpresa
 ---
 
-¿No estás seguro sobre qué objeto elegir? Ve al menú **Elegir un objeto** y elige la opción **Sorpresa** para agregar un objeto sorpresa a tu proyecto.
+¿No estás seguro de cuál elegir? Ve al menú **Elegir un objeto** y elige la opción **Sorpresa** para agregar un objeto sorpresa a tu proyecto.
 
 ![La opción 'Sorpresa' en el menú 'Elegir un Objeto'.](images/surprise-sprite.png)
 
 --- /collapse ---
 
-**Consejo:** Si creas tu propio objeto en el Editor de dibujo, **no le agregues ojos todavía, porque estos deben ser objetos separados.**
+**Consejo:** Si creas el tuyo propio en el Editor de dibujo, **no le agregues ojos todavía, porque estos deben ser objetos separados.**
 
 --- /task ---
 
@@ -63,7 +63,7 @@ title: Obtén un objeto sorpresa
 
 --- task ---
 
-En el Panel de objetos, cambia el número en la propiedad **Tamaño** por un número de tu elección.
+En el Panel, cambia el número en la propiedad **Tamaño** por uno de tu elección.
 
 ![](images/size-property.png){:width="500px"}
 
