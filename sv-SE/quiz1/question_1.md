@@ -1,59 +1,59 @@
-## Quick quiz
+## Snabbt quiz
 
-Answer the three questions. There are hints to guide you to the correct answer.
+Svara på de tre frågorna. Det finns ledtrådar för att hjälpa dig på vägen till svaret.
 
-When you have answered each question, click on **Check my answer**.
+Tryck på **Kolla mitt svar** när du har svarat på alla frågor.
 
-Have fun!
+Ha det så kul!
 
 --- question ---
 ---
-legend: Question 1 of 3
+legend: Fråga 1 av 3
 ---
 
-We added this code to an **Eyeball** sprite, but the eyeball is not rotating when the mouse pointer moves.
+Vi har lagt till den här koden till en **Ögonglobs**sprajt men den roterar inte när muspekaren rör sig.
 
-![Screenshot showing the script and the Stage. The script is not glowing with a yellow outline. The blocks in the script are 'when green flag clicked', 'set rotation style all around', 'forever', 'point towards mouse-pointer'.](images/code-not-running.png)
+![Skärmdump som visar koden och scenen. Koden lyser inte med en gul kontur. Blocken i koden är 'när grön flagga klickas på', 'ställ rotationsstil rotera', 'för alltid' och 'peka mot muspekaren'.](images/code-not-running.png)
 
-How could you fix the problem with just one action?
+Hur skulle du kunna lösa det här problemet med bara en åtgärd?
 
 --- choices ---
 
-- (x) Click on the green flag
+- (x) Klicka på den gröna flaggan
 
   --- feedback ---
 
-Yes! Just adding the script does not make it run. You need to click on the green flag to make your code run.
+Ja! Att bara lägga till koden innebär inte att den körs. Du måste klicka på den gröna flaggan för att få din kod att köras.
 
-Your code will have a yellow outline around it when it is running.
+Din kod kommer att ha en gul kontur runt den när den körs.
 
-Forgetting to click on the green flag is a really common mistake — we all do it!
+Att glömma att klicka på den gröna flaggan är ett väldigt vanligt misstag - alla gör det då och då!
 
-**Tip:** If you change code in a loop while the script is running, Scratch will run the new code the next time that the loop runs! You don't need to click on the green flag again. This is really useful when you are trying out ideas.
+**Tips:** Om du ändrar kod i en loop medan koden körs kommer Scratch att köra den nya koden i den nästa omgången av loopen! Du behöver inte klicka på den gröna flaggan igen. Detta är verkligen användbart när du testar idéer.
 
   --- /feedback ---
 
-- ( ) Click on the eyeball
+- ( ) Klicka på ögongloben
 
   --- feedback ---
 
-The script does not start with a `when this sprite clicked`{:class="block3events"} block.
+Skriptet börjar inte med ett `"när denna sprajt klickas på"`{:class="block3events"}-block.
 
   --- /feedback ---
 
-- ( ) Move the `set rotation style`{:class="block3looks"} block inside the `forever`{:class="block3control"} loop
+- ( ) Flytta `"sätt rotationsstil"`{:class="block3looks"}-blocket in i `"för alltid"`{:class="block3control"}-loopen
 
   --- feedback ---
 
-You do not need to run the `set rotation style`{:class="block3looks"} block lots of times. If you set it once before the loop, it will not change until you set it to a different style. Moving the `set rotation style`{:class="block3looks"} block will not help with the problem in the question.
+Du behöver inte köra `"sätt rotationsstil"`{:class="block3looks"}-blocket många gånger. Om du ställer in den en gång före loopen kommer den inte att ändras förrän du ställer in den på en annan stil. Att flytta `"sätt rotationsstil"`{:class="block3looks"} blocket löser inte vårt problem.
 
   --- /feedback ---
 
-- ( ) Click on the Stage
+- ( ) Klicka på scenen
 
   --- feedback ---
 
-You do not need to click on the Stage to get the eyeball to rotate. When the code is running, the eyeball will just follow the mouse pointer (or your finger, if you are using a tablet).
+Du behöver inte klicka på scenen för att få ögongloben att rotera. När koden körs följer ögongloben bara muspekaren (eller ditt finger, om du använder en surfplatta).
 
   --- /feedback ---
 
