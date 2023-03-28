@@ -1,42 +1,42 @@
-## Your character
+## Din karaktär
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-Use your design skills to add a character sprite and suitable backdrop. 
+Använd dina designförmågor för att lägga till en karaktärssprajt och lämplig bakgrund. 
 </div>
 <div>
 
-![A large character.](images/character.png){:width="300px"}    
+![En stor karaktär.](images/character.png){:width="300px"}    
 
 </div>
 </div>
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-<span style="color: #0faeb0">**Design**</span> means deciding on the way that a project looks and making decisions about what it does. 
+<span style="color: #0faeb0">**Design**</span> innebär att bestämma hur ett projekt ska se ut och att fatta beslut om vad det ska göra. 
 </p>
 
-### Open the starter project
+### Öppna startprojektet
 
 --- task ---
 
-Open the [Silly eyes starter project](https://scratch.mit.edu/projects/582221984/editor){:target="_blank"}. Scratch will open in another browser tab.
+Öppna startprojektet [Roliga ögon](https://scratch.mit.edu/projects/582221984/editor){:target="_blank"}. Scratch kommer att öppnas i en annan flik i webbläsaren.
 
 [[[working-offline]]]
 
-⏱️ Not much time? You can start from one of the [examples](https://scratch.mit.edu/studios/29029028){:target="_blank"}.
+⏱️ Inte mycket tid? Du kan utgå från ett av [exemplen](https://scratch.mit.edu/studios/29029028){:target="_blank"}.
 
 --- /task ---
 
-### Choose your sprite and backdrop
+### Välj din sprajt och bakgrund
 
 --- task ---
 
-**Choose:** Add a **sprite** and a **backdrop** for your silly eyes project.
+**Välj:** Lägg till en **sprajt** och en **bakgrund** till ditt "roliga ögon"-projekt.
 
-+ What does your character look like? A person 🧜🏽‍♀️, animal 🐶 or object 🧸.
-+ Where do you want your character to live? Somewhere sensible 🏠 or silly 🎪.
++ Hur ser din karaktär ut? En person 🧜🏽‍♀️, ett djur 🐶 eller ett föremål 🧸.
++ Var vill du att din karaktär ska bo? Någonstans vettigt 🏠 eller roligt🎪.
 
-![The add sprite icon and add backdrop icon side by side.](images/sprite-and-backdrop.png)
+![Lägg till sprajtikonen och lägg till bakgrundsikonen bredvid varandra.](images/sprite-and-backdrop.png)
 
 [[[generic-scratch3-sprite-from-library]]]
 
@@ -46,24 +46,24 @@ Open the [Silly eyes starter project](https://scratch.mit.edu/projects/582221984
 
 --- collapse ---
 ---
-title: Get a surprise sprite
+titel: Få en överraskningssprajt
 ---
 
-Not sure which sprite to choose? Go to the **Choose a Sprite** menu and choose the **Surprise** option to add a surprise sprite to your project.
+Är du osäker på vilken sprajt du ska välja? Gå till **"Välj en sprajt"** -menyn och välj alternativet **Överraskning** för att lägga till en överraskningssprajt till ditt projekt.
 
-![The 'Surprise' option in the 'Choose a Sprite' menu.](images/surprise-sprite.png)
+![Överraskningsalternativet i "Välj en sprajt"-menyn.](images/surprise-sprite.png)
 
 --- /collapse ---
 
-**Tip:** If you create your own sprite in the Paint editor, **don't add eyes yet, because they need to be separate sprites.**
+**Tips:** Om du skapar din egen sprajt i målarredigeraren, **lägg inte till ögon än då de måste vara separata sprajter.**
 
 --- /task ---
 
-### Resize your sprite
+### Ändra storlek på din sprajt
 
 --- task ---
 
-In the Sprite pane, change the number in the **Size** property to a number that makes your character fill the Stage.
+I sprajtrutan ändrar du talet i egenskapen **Storlek** till något som får din karaktär att fylla scenen.
 
 ![](images/size-property.png){:width="500px"}
 
@@ -71,7 +71,7 @@ In the Sprite pane, change the number in the **Size** property to a number that 
 
 --- task ---
 
-Look at the Stage. You will see your large character and chosen backdrop.
+Kolla på scenen. Du kommer att se din stora karaktär och den valda bakgrunden.
 
 ![](images/large-sprite-stage.png){:width="500px"}
 
