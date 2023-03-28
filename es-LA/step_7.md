@@ -4,13 +4,13 @@ Si estás en un club, ¿por qué no compartes tu proyecto con tus amigos y compa
 
 También podrías mostrarle a tu familia cómo funciona tu proyecto.
 
-Si tienes una cuenta de Scratch, puedes compartir tu proyecto a través de Scratch. Puedes enviar un enlace a las personas que conoces y toda la comunidad de Scratch podrá encontrar tu proyecto y probarlo.
+Si tienes una cuenta, puedes compartir tu proyecto a través de Scratch. Puedes enviar un enlace a las personas que conoces y toda la comunidad de Scratch podrá encontrar tu proyecto y probarlo.
 
 [[[share-scratch]]]
 
 ¿Por qué no invitas a tus amigos a crear un proyecto? Déjales saber cuánto te divertiste.
 
-Si tienes una cuenta de Scratch y has compartido tu proyecto 'Ojos tontos', mantente atento a los comentarios que otros puedan hacer sobre tu creación. Los comentarios son una excelente manera de reflexionar sobre tu trabajo. Ignora cualquier comentario que sea inútil o irrelevante.
+Si tienes una cuenta de Scratch y has compartido tu proyecto 'Ojos tontos', mantente atento a los comentarios que otros puedan hacer sobre tu creación. Esta es una excelente manera de reflexionar sobre tu trabajo. Ignora cualquier comentario que sea inútil o irrelevante.
 
 [[[comments-feedback-scratch]]]
 
