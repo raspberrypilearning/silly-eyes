@@ -23,7 +23,7 @@ Agregamos este código a un objeto **Globo ocular**, pero el globo ocular no gir
 
   --- feedback ---
 
-¡Bien! El simple hecho de agregar el código no hace que este se ejecute. Debes hacer clic en la bandera verde para que se ejecute.
+¡Bien! El simple hecho de agregar el código no hace que este se ejecute. Debes hacer clic en la bandera verde para esto.
 
 Tu código tendrá un borde amarillo alrededor cuando se esté ejecutando.
 
