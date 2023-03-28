@@ -1,4 +1,4 @@
-## Crea ojos tontos
+## Haz ojos tontos
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
@@ -21,13 +21,13 @@ Utiliza la opción **Pintar** para crear un nuevo objeto ****.
 
 ![La opción 'Pintar' en el menú 'Elegir un objeto'.](images/paint-a-sprite.png)
 
-Se abrirá el Editor de dibujo, lo que te permitirá crear el disfraz de **Eyeball** (Globo ocular).
+Se abrirá el Editor de dibujo, lo que te permitirá crear el disfraz de **Globo ocular**.
 
 --- /task ---
 
 Es súper importante que:
-- La pupila negra y el iris de color miren hacia el lado derecho del disfraz **Eyeball** (Globo ocular)
-- El **Eyeball** (Globo ocular) esté centrado
+- La pupila negra y el iris de color miren hacia el lado derecho del disfraz **Globo ocular**
+- El **Globo ocular** esté centrado
 
 --- task ---
 
@@ -44,21 +44,21 @@ Selecciona la herramienta **Círculo**.
 
 Para dibujar un círculo perfecto, mantén presionada la tecla <kbd>Mayúscula</kbd> en el teclado mientras dibujas con la herramienta **Círculo**. Si estás usando una tableta, trata de dibujar un círculo lo más perfecto que puedas.
 
-En este ejemplo, estableceremos el **Contorno** en negro y el **Relleno** del globo ocular en blanco:
+En este ejemplo, estableceremos el **Contorno** en negro y el **Relleno** en blanco:
 
-![Un ojo blanco con un contorno negro.](images/eyeball-outline.png)
+![Un globo ocular blanco con un contorno negro.](images/eyeball-outline.png)
 
 Usa los selectores de color de **Relleno** y **Contorno** para elegir colores. Para hacerlo negro, cambia tanto la **Saturación** como el **Brillo** a `0`. Para hacerlo blanco, cambia la **Saturación** a `0` y el **Brillo** a `100`.
 
 ![Los controles de saturación y brillo establecidos en 0.](images/black-colour.png) ![Los controles de saturación y brillo establecidos en 100.](images/white-colour.png)
 
-Asegúrate de que el globo ocular esté centrado; muévelo de modo que la cruz azul del disfraz se alinee con la cruz gris en el Editor de dibujo.
+Asegúrate de que el globo ocular esté centrado; muévelo de modo que la cruz azul del disfraz se alinee con la cruz gris en el Editor.
 
-![Una imagen animada de un disfraz de círculo siendo arrastrado desde la parte superior izquierda para que encaje con el centro de los círculos sobre el ícono de la cruz.](images/eye-centre.gif)
+![Una imagen animada de un disfraz de círculo siendo arrastrado desde la parte superior izquierda, para que encaje con el centro de los círculos sobre el ícono de la cruz.](images/eye-centre.gif)
 
 Dibuja un círculo perfecto más pequeño y colócalo en el lado derecho del globo ocular:
 
-![Un ojo con iris rojo y pupila negra en el lado derecho.](images/eyeball-with-iris.png)
+![Con iris rojo y pupila negra en el lado derecho.](images/eyeball-with-iris.png)
 
 También puedes dibujar círculos dentro de círculos o usar colores para obtener diferentes efectos.
 
@@ -73,19 +73,19 @@ Hay disfraces en Scratch que puedes editar para crear ojos tontos para tu person
 
 ![Disfraces de Scratch existentes como globos oculares.](images/costume-eyes.gif)
 
-Haz clic en el icono**Elegir un disfraz**para ver la biblioteca de disfraces de Scratch.
+Haz clic en el icono**Elegir un disfraz**para ver la biblioteca de Scratch.
 
 ![El ícono 'Elige un disfraz'.](images/choose-a-costume.png)
 
 Haz clic en el disfraz que quieras agregar a tu objeto.
 
-Usa el Editor de dibujo para cambiar el disfraz. Puedes agregar círculos, elegir un color de **Relleno** diferente o quitar partes del disfraz para convertirlo en un ojo tonto.
+Usa el Editor de dibujo para cambiarlo. Puedes agregar círculos, elegir un color de **relleno** diferente o quitar partes del disfraz para convertirlo en un ojo tonto.
 
-Asegúrate de que el globo ocular esté centrado; muévelo de modo que la cruz azul del disfraz se alinee con la cruz gris en el Editor de dibujo.
+Asegúrate de que el globo ocular esté centrado; muévelo de modo que la cruz azul del disfraz se alinee con la cruz gris en el Editor.
 
 ![Una imagen animada de un disfraz de círculo siendo arrastrado desde la parte superior izquierda para que encaje con el centro de los círculos sobre el ícono de la cruz.](images/crosshair-centre.gif)
 
-**Consejo:** La pupila negra y el iris de color deben colocarse en la parte derecha del disfraz para que el **Globo ocular** siga el puntero del ratón.
+**Consejo:** La pupila negra y el iris de color deben colocarse en la parte derecha del disfraz para que el **Globo ocular** siga al mouse.
 
 ![El Editor de dibujo que muestra un disfraz button1 editado.](images/button-eye.png)
 
@@ -97,27 +97,27 @@ Asegúrate de que el globo ocular esté centrado; muévelo de modo que la cruz a
 
 Nombra tu objeto `Globo ocular` en el Panel de objetos.
 
-![El nombre del objeto establecido como 'Globo Ocular' en el Panel de objetos.](images/eyeball-name.png)
+![El nombre establecido como 'Globo Ocular' en el Panel de objetos.](images/eyeball-name.png)
 
 --- /task ---
 
 --- task ---
 
-Arrastra el objeto **Globo ocular** para colocarlo en el escenario y cambia su tamaño para que se ajuste a tu personaje.
+Arrastra el **Globo ocular** para colocarlo en el escenario y cambia su tamaño para que se ajuste a tu personaje.
 
 --- /task ---
 
-Ahora, haz que el globo ocular mire el `puntero del ratón `:class="block3motion"} para que el usuario pueda interactuar con tu proyecto.
+Ahora, haz que mire el `mouse `:class="block3motion"} para que el usuario pueda interactuar con tu proyecto.
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-<span style="color: #0faeb0">** Usuario **</span> se refiere a la persona que usa el proyecto (no solo la que lo hace), e <span style="color: #0faeb0">** interacción del usuario **</span> es cómo el proyecto reacciona cuando el usuario hace cosas como mover el ratón y hacer clic en la pantalla. 
+<span style="color: #0faeb0">** Usuario **</span> se refiere a la persona que usa el proyecto (no solo la que lo hace), e <span style="color: #0faeb0">** interacción del usuario **</span> es cómo el proyecto reacciona cuando el usuario hace cosas como mover el mouse y hacer clic en la pantalla. 
 </p>
 
 ### Programa tu Ojo
 
 --- task ---
 
-Agrega un Script `fijar estilo de rotación a`{:class="block3motion"} `en todas las direcciones`{:class="block3motion"} para hacer que el globo ocular pueda `apuntar hacia puntero del ratón`{:class="block3motion"} `por siempre`{:class="block3control"}.
+Agrega un Script `fijar estilo de rotación a`{:class="block3motion"} `en todas las direcciones`{:class="block3motion"} para hacer que el globo ocular pueda `apuntar hacia el mouse`{:class="block3motion"} `por siempre`{:class="block3control"}.
 
 --- collapse ---
 ---
@@ -173,18 +173,18 @@ Asegúrate de haber agregado el código a los objetos **Globo ocular** y hayas *
 
 --- collapse ---
 ---
-title: Los ojos apuntan lejos del mouse
+title: Los ojos apuntan lejos del ratón
 ---
 
-Para cada disfraz **Globo ocular**, comprueba que la pupila esté al lado derecho (más allá de la cruz azul en el medio del disfraz).
+Para los disfraces del **Globo ocular**, comprueba que la pupila esté al lado derecho (más allá de la cruz azul en el medio del disfraz).
 
 Los objetos **Globo ocular** tienen `en todas las direcciones`{:class="block3motion"} como `estilo de rotación`{:class="block3motion"}, por lo que pueden rotar en cualquier dirección.
 
-Cuando los **Globos oculares** giran para `apuntar hacia`{:class="block3motion"} el `puntero del ratón`{:class="block3motion"}, las pupilas estarán más cerca del puntero del ratón.
+Cuando giran para `apuntar hacia`{:class="block3motion"} el `puntero del ratón`{:class="block3motion"}, las pupilas estarán más cerca.
 
 ![Colocando la pupila en el lado derecho de un disfraz de globo ocular.](images/eye-right.gif)
 
-![Un disfraz de globo ocular con la pupila en el lado derecho.](images/eye-costume.png)
+![Un disfraz con la pupila en el lado derecho.](images/eye-costume.png)
 
 --- /collapse ---
 
@@ -193,11 +193,11 @@ Cuando los **Globos oculares** giran para `apuntar hacia`{:class="block3motion"}
 title: Los ojos saltan por el escenario
 ---
 
-Comprueba que los disfraces de **Globo ocular** estén centrados. Para centrar un disfraz, arrastra el disfraz de modo que la cruz azul en el disfraz se alinee con la cruz gris en el Editor de dibujo.
+Comprueba que los disfraces de **Globo ocular** estén centrados. Para centrar un disfraz, arrástralo de modo que la cruz azul se alinee con la gris en el Editor de dibujo.
 
-![Centrando un disfraz de globo ocular en el Editor de dibujo.](images/eye-centered.gif)
+![Centrando un globo ocular en el Editor de dibujo.](images/eye-centered.gif)
 
-![Un disfraz de globo ocular centrado en el Editor de dibujo.](images/eye-costume.png)
+![Un disfraz centrado en el Editor.](images/eye-costume.png)
 
 --- /collapse ---
 
@@ -206,7 +206,7 @@ Comprueba que los disfraces de **Globo ocular** estén centrados. Para centrar u
 título: El personaje está frente a los ojos
 ---
 
-Cuando arrastras un objeto para colocarlo en el escenario, se mueve delante de los otros objetos.
+Cuando arrastras un objeto para colocarlo en el escenario, se mueve delante de los demás.
 
 Para que tu objeto **personaje** se quede`al fondo`{:class="block3looks"}, usa:
 
@@ -225,7 +225,7 @@ title: El personaje y los ojos siguen el puntero del ratón
 
 ¿Agregaste ambos ojos como disfraces para tu **personaje** en lugar de como disfraces para objetos separados? Puedes solucionarlo.
 
-Una forma de solucionarlo es duplicar tu objeto **personaje** y luego cambiar el nombre de la copia a `Globo ocular`. Luego, elimina los disfraces **Globo ocular** del objeto **personaje**, y elimina los disfraces **personaje** del objeto **Globo ocular**. Luego, puedes duplicar el objeto **Globo ocular** y nombrar la copia `Globo ocular 2`.
+Una forma de solucionarlo es duplicar tu **personaje** y luego cambiar el nombre de la copia a `Globo ocular`. Luego, elimina los disfraces **Globo ocular** del objeto **personaje**, y elimina los disfraces **personaje** del objeto **Globo ocular**. Luego, puedes duplicar el **Globo ocular** y nombrar la copia `Globo ocular 2`.
 
 El código para `apuntar hacia`{:class="block3motion"} el `puntero del ratón`{:class="block3motion"} debe estar en los objetos para **Globo ocular** y no en el objeto **personaje**.
 
@@ -238,14 +238,14 @@ title: El personaje sigue el puntero del ratón (pero los ojos no)
 
 Necesitas añadir el código `apuntar hacia `{:class="block3motion"} a los objetos **Globo ocular**, no a tu **personaje**!
 
-Para copiar el código, puedes arrastrar el código desde el Área de código para tu **personaje** a los objetos **Globo ocular** en la Lista de objetos.
+Para copiar el código, puedes arrastrarlo desde el área de Código para tu **personaje** a los objetos **Globo ocular** en la Lista de objetos.
 
-También deberás eliminar el script del objeto **personaje**. Para hacer esto, arrastra el script al menú de Bloques.
+También deberás eliminar el script del **personaje**. Para hacer esto, arrastra el script al menú de Bloques.
 
 --- /collapse ---
 
 Es posible que encuentres un error que no se incluye aquí. ¿Puedes averiguar cómo solucionarlo?
 
-Nos encanta conocer tus errores y cómo los solucionaste. Usa el botón **Enviar comentarios** en la parte inferior de esta página y cuéntanos si encontraste un error distinto en tu proyecto.
+Nos encanta conocer tus errores y cómo los solucionaste. Usa el botón **Enviar comentarios** en la parte inferior de esta página y cuéntanos si encontraste uno distinto en tu proyecto.
 
 --- /task ---
