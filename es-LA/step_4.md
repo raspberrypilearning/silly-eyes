@@ -17,11 +17,11 @@ Puedes hacer que tu objeto **personaje** y tus objetos **ojo tonto** cambien su 
 
 Agrega un bloque `al hacer clic en este objeto`{:class="block3events"} a tu objeto **Eyeball**.
 
-¿Puedes averiguar qué bloque de código pondrías debajo para cambiar el color de ojos de tu objeto cuando haces clic en el objeto **Eyeball**?
+¿Puedes averiguar qué bloque de código pondrías debajo para cambiar el color de ojos de tu objeto cuando haces clic en el **Globo ocular**?
 
 --- collapse ---
 ---
-title: Cambia los efectos gráficos al hacer clic en un objeto
+title: Cámbiale los efectos gráficos al hacer clic en él
 ---
 
 ```blocks3
@@ -77,7 +77,7 @@ title: Haz que un objeto cambie de disfraz cuando hagas clic en él
 
 Algunos objetos ya tienen una selección de disfraces.
 
-Puedes agregar código para hacer que el disfraz de un objeto cambie al `siguiente disfraz`{:class="block3looks"} cuando haces clic en el objeto:
+Puedes agregar código para hacer que el disfraz cambie al `siguiente disfraz`{:class="block3looks"} cuando haces clic en el objeto:
 
 ```blocks3
 when this sprite clicked
@@ -86,7 +86,7 @@ next costume
 
 --- /collapse ---
 
-Si tu objeto no tiene una opción de disfraces, o quieres agregar más, puedes agregar cualquier disfraz a un objeto.
+Si tu objeto no tiene una opción de disfraces, o quieres agregar más, puedes agregar cualquier disfraz.
 
 [[[scratch3-add-costumes-to-a-sprite]]]
 
@@ -112,10 +112,10 @@ Si lo necesitaras, puedes restablecer los efectos gráficos:
 
 --- collapse ---
 ---
-title: No quiero estos efectos gráficos
+title: No quiero estos efectos
 ---
 
-Para restablecer los efectos gráficos en cualquier momento, haz clic en el bloque `quitar efectos gráficos`{: class = "block3looks"} en el Menú de bloques `Apariencia`{:class="block3looks"}. Hacer clic en la bandera verde también quita los efectos gráficos.
+Para restablecer los efectos gráficos en cualquier momento, haz clic en el bloque `quitar efectos gráficos`{: class = "block3looks"} en el Menú de bloques `Apariencia`{:class="block3looks"}. Hacer clic en la bandera verde también los quita.
 
 ```blocks3
 clear graphic effects
@@ -126,14 +126,14 @@ clear graphic effects
 
 --- task ---
 
-**Prueba:** Prueba tu proyecto otra vez, pero esta vez, hazlo en pantalla completa para que puedas ver como le aparecerá a alguien que lo vea.
+**Prueba:** Prueba tu proyecto otra vez, pero esta vez, hazlo en pantalla completa para que puedas ver como le aparecerá a quien lo vea.
 
 [[[scratch3-full-screen]]]
 
 --- /task ---
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-Al ver tu proyecto en pantalla completa, estás viendo lo que has hecho desde la perspectiva de un usuario que está jugando con tu proyecto. La ** Interacción del usuario ** es importante en la creación digital. 
+Al ver tu proyecto en pantalla completa, estás viendo lo que has hecho desde la perspectiva de un usuario que está jugando. La ** Interacción del usuario ** es importante en la creación digital. 
 </p>
 
 
