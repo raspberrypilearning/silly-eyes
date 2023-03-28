@@ -1,9 +1,9 @@
 --- question ---
 ---
-legend: Question 2 of 3
+legend: Fråga 2 av 3
 ---
 
-To make the rocket interactive, the **rocket** sprite has this script:
+För att göra raketen interaktiv har **raket**sprajten den här koden:
 
 ```blocks3
 when flag clicked
@@ -13,39 +13,39 @@ point towards (mouse-pointer v)
 end
 ```
 
-Which **rocket** costume should we use so that the top of the rocket will point towards the mouse pointer?
+Vilken **raket**-klädsel ska vi använda så att toppen av raketen pekar mot muspekaren?
 
 --- choices ---
 
-- ( ) ![A rocket pointing to the left-hand side.](images/rocket_left.png)
+- ( ) ![En raket som pekar åt vänster.](images/rocket_left.png)
 
   --- feedback ---
 
-If the rocket is pointing to the left-hand side, the rocket will be facing the opposite direction to (away from) the mouse pointer when it rotates.
+Om raketen pekar åt vänster, kommer raketen att vara vänd i motsatt riktning till (bort från) muspekaren när den roterar.
 
   --- /feedback ---
 
-- ( ) ![A rocket facing down.](images/rocket_down.png)
+- ( ) ![En nedåtvänd raket.](images/rocket_down.png)
 
   --- feedback ---
 
-If the rocket is facing down, it will be facing a different direction to the mouse pointer when it rotates.
+Om raketen är vänd nedåt kommer den att vara vänd mot en annan riktning än muspekaren när den roterar.
 
   --- /feedback ---
 
-- (x) ![A rocket pointing to the right-hand side.](images/rocket_right.png)
+- (x) ![En raket pekar åt höger.](images/rocket_right.png)
 
   --- feedback ---
 
-If the rocket is pointing to the right-hand side, the rocket is in the default position for correctly pointing towards your mouse pointer if the rotation style is set to `all around`{:class="block3motion"}.
+Om raketen pekar mot höger sida är raketen i standardpositionen för att peka mot din muspekare om rotationsstilen är inställd på `rotera`{:class="block3motion"}.
 
   --- /feedback ---
 
-- ( ) ![A rocket facing up.](images/rocket_up.png)
+- ( ) ![En uppåtvänd raket.](images/rocket_up.png)
 
   --- feedback ---
 
-If the rocket is facing up, it will be facing a different direction to the mouse pointer when it rotates.
+Om raketen är vänd uppåt kommer den att vara vänd mot en annan riktning än muspekaren när den roterar.
 
   --- /feedback ---
 
