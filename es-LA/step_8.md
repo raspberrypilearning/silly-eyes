@@ -4,7 +4,7 @@ Si estás siguiendo la ruta [Introduction a Scratch](https://projects.raspberryp
 
 --- print-only ---
 
-![¡Sorpresa! proyecto de animación.](images/surprise-story.png)
+![Un 'proyecto de animación' ¡sorpresa!](images/surprise-story.png)
 
 --- /print-only ---
 
