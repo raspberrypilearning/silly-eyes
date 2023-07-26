@@ -63,6 +63,14 @@ Click on the pufferfish, hat, scarf, backdrop and the eyeballs:
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/772759744/?autostart=false" frameborder="0"></iframe>
 </div>
 
+**⭐ Silly goalie glove by NinjaTR3R** (featured community project)
+
+Click on the backdrop and the eyeballs:
+
+<div class="scratch-preview" style="margin-left: 15px;">
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/877343292/?autostart=false" frameborder="0"></iframe>
+</div>
+
 --- /task ---
 
 --- /no-print ---
