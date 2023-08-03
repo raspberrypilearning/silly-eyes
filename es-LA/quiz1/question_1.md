@@ -1,10 +1,8 @@
-## Reflexión
+## Test rápido
 
-¡Bien hecho, has aprendido mucho! Ahora es momento de reflexionar: reflexionar es una parte importante del aprendizaje, porque ayuda a establecer nuevas conexiones en tu cerebro.
+Contesta las tres preguntas. Hay pistas para guiarte hacia la respuesta correcta.
 
-Responde las tres preguntas siguientes para reflexionar sobre lo que has aprendido.
-
-Cuando hayas respondido a cada pregunta, haz clic en **Enviar**. Vamos a guiarte hacia la respuesta correcta. Puedes realizar esta actividad tantas veces como quieras.
+Cuando hayas respondido a cada pregunta, haz clic en **Revisar mi respuesta**.
 
 ¡Qué te diviertas!
 
@@ -15,7 +13,7 @@ legend: Pregunta 1 de 3
 
 Agregamos este código a un objeto **Globo ocular**, pero el globo ocular no gira cuando se mueve el puntero del mouse.
 
-![Captura de pantalla que muestra el código y el escenario. El sript no se ilumina con un contorno amarillo. Los bloques en el script son 'al presionar bandera verde', 'fijar estilo de rotación en todas las direcciones', 'por siempre', 'apuntar hacia puntero del ratón'.](images/code-not-running.png)
+![Captura de pantalla que muestra el código y el escenario. El sript no se ilumina con un borde amarillo. Los bloques en el script son 'al presionar bandera verde', 'fijar estilo de rotación en todas las direcciones', 'por siempre', 'apuntar hacia puntero del ratón'.](images/code-not-running.png)
 
 ¿Cómo podrías solucionar este problema con una sola acción?
 
@@ -25,13 +23,13 @@ Agregamos este código a un objeto **Globo ocular**, pero el globo ocular no gir
 
   --- feedback ---
 
-¡Sí! El simple hecho de agregar el código no hace que este se ejecute. Debes hacer clic en la bandera verde para que se ejecute.
+¡Bien! El simple hecho de agregar el código no hace que este se ejecute. Debes hacer clic en la bandera verde para esto.
 
-Tu código tendrá un contorno amarillo alrededor cuando se esté ejecutando.
+Tu código tendrá un borde amarillo alrededor cuando se esté ejecutando.
 
 Olvidar hacer clic en la bandera verde es un error muy común: ¡nos ha pasado a todos!
 
-**sugerencia:** Si cambias el código en un bucle mientras se ejecutando ejecuta el código, ¡Scratch ejecutará el nuevo código la próxima vez que se ejecute el bucle! No es necesario que vuelvas a hacer clic en la bandera verde. Esto es realmente útil cuando estás probando ideas.
+**Consejo:** Si cambias el código en un bucle mientras se está ejecutando,¡Scratch ejecutará el nuevo código la próxima vez que se ejecute el bucle! No es necesario que vuelvas a hacer clic en la bandera verde. Esto es realmente útil cuando estás probando ideas.
 
   --- /feedback ---
 

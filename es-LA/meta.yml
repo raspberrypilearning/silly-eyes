@@ -8,16 +8,15 @@ listed: true
 copyedit: false
 last_tested: '2021-02-25'
 steps:
-- title: Introducción
+- title: Lo que harás
 - title: Tu personaje
-- title: Crea ojos tontos
+- title: Haz ojos tontos
   completion:
   - engaged
-- title: Efectos para un objeto
-- title: Efectos para escenario
+- title: Añade efectos al objeto
   completion:
   - internal
-- title: Reflexión
+- title: Examen rápido
   knowledge_quiz:
     path: quiz1
     version: 1
@@ -26,5 +25,5 @@ steps:
   completion:
   - external
 - title: Mejora tu proyecto
-- title: Comparte
-- title: "¿Qué sigue?"
+- title: Comparte y juega
+- title: '¿Qué sigue?'
