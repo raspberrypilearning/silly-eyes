@@ -16,7 +16,7 @@ steps:
 - title: Añade efectos al objeto
   completion:
   - internal
-- title: Examen rápido
+- title: Test rápido
   knowledge_quiz:
     path: quiz1
     version: 1
