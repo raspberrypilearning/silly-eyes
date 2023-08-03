@@ -74,7 +74,7 @@ Hay disfraces en Scratch que puedes editar para crear ojos tontos para tu person
 
 ![Disfraces de Scratch existentes como globos oculares.](images/costume-eyes.gif)
 
-Haz clic en el icono**Elegir un disfraz**para ver la biblioteca de Scratch.
+Haz clic en el icono **Elegir un disfraz** para ver la biblioteca de Scratch.
 
 ![El ícono 'Elige un disfraz'.](images/choose-a-costume.png)
 
@@ -118,7 +118,7 @@ Ahora, haz que mire el `puntero del ratón`{:class="block3motion"} para que el u
 
 --- task ---
 
-Agrega un Script `fijar estilo de rotación a`{:class="block3motion"} `en todas las direcciones`{:class="block3motion"} para hacer que el globo ocular pueda `apuntar hacia puntero del ratón`{:class="block3motion"} `por siempre`{:class="block3control"}.
+Agrega un Script `fijar estilo de rotación`{:class="block3motion"} a `en todas las direcciones`{:class="block3motion"} para hacer que el globo ocular pueda `apuntar hacia puntero del ratón`{:class="block3motion"} `por siempre`{:class="block3control"}.
 
 --- collapse ---
 ---
