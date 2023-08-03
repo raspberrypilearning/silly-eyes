@@ -19,8 +19,7 @@ Vas a:
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 175px; flex-grow: 1">  
 
-**Gobo mirando**: [Ver dentro]
-(https://scratch.mit.edu/projects/594685324/editor){:target="_blank"}
+**Gobo mirando**: [Ver dentro](https://scratch.mit.edu/projects/594685324/editor){:target="_blank"}
 
 Mueve el ratón (o si estás usando una tableta, mueve tu dedo) por el escenario. 
 

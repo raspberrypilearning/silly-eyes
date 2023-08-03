@@ -209,7 +209,7 @@ title: El personaje está frente a los ojos
 
 Cuando arrastras un objeto para colocarlo en el escenario, se mueve delante de los demás.
 
-Para que tu objeto **personaje** se quede`al fondo`{:class="block3looks"}, usa:
+Para que tu objeto **personaje** se quede `al fondo`{:class="block3looks"}, usa:
 
 ```blocks3
 when green flag clicked
