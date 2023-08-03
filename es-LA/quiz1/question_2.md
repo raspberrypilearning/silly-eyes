@@ -3,13 +3,13 @@
 legend: Pregunta 2 de 3
 ---
 
-Para hacer que el cohete sea interactivo, el **cohete** tiene este script:
+Para que sea interactivo, el **cohete** tiene este script:
 
 ```blocks3
 when flag clicked
-set rotation style [all around v]
+set rotation style [en todas las direcciones v]
 forever
-point towards (mouse-pointer v)
+point towards (puntero del ratón v)
 end
 ```
 
@@ -21,7 +21,7 @@ end
 
   --- feedback ---
 
-Si el cohete apunta hacia el lado izquierdo, el cohete estará orientado en la dirección opuesta (alejándose de) el puntero del ratón cuando gire.
+Si el cohete apunta hacia el lado izquierdo, el cohete estará orientado en la dirección opuesta (alejándose de) al puntero cuando gire.
 
   --- /feedback ---
 
@@ -29,7 +29,7 @@ Si el cohete apunta hacia el lado izquierdo, el cohete estará orientado en la d
 
   --- feedback ---
 
-Si el cohete mira hacia abajo, estará en una dirección diferente a la del puntero del ratón cuando gire.
+Si mira hacia abajo, estará en una dirección diferente a la del puntero cuando gire.
 
   --- /feedback ---
 
@@ -37,7 +37,7 @@ Si el cohete mira hacia abajo, estará en una dirección diferente a la del punt
 
   --- feedback ---
 
-Si el cohete apunta hacia el lado derecho, el cohete está en la posición predeterminada para apuntar correctamente hacia el puntero del mouse si se fija el estilo de rotación a `en todas las direcciones`{:class="block3motion"}.
+Si el cohete apunta hacia el lado derecho, el cohete está en la posición predeterminada para apuntar correctamente hacia el puntero si se fija el estilo de rotación a `en todas las direcciones`{:class="block3motion"}.
 
   --- /feedback ---
 

@@ -1,23 +1,31 @@
-## Comparte
+## ¿Qué sigue?
 
-Si estás en un club, ¿por qué no compartes tu proyecto con tus amigos y compañeros?
+Si estás siguiendo la ruta [Introduction a Scratch](https://projects.raspberrypi.org/es-LA/pathways/scratch-intro), puedes pasar al proyecto [¡Sorpresa! animación](https://projects.raspberrypi.org/es-LA/projects/surprise-animation). En este proyecto, harás la animación de una historia con una sorpresa.
 
-También podrías mostrarle a tu familia cómo funciona tu proyecto.
+--- print-only ---
 
-Si tienes una cuenta de Scratch, puedes compartir tu proyecto a través de Scratch. Puedes enviar un enlace a las personas que conoces y toda la comunidad de Scratch podrá encontrar tu proyecto y probarlo.
+![Un proyecto ¡Sorpresa! animación.](images/surprise-story.png)
 
-[[[share-scratch]]]
+--- /print-only ---
 
-¿Por qué no invitas a tus amigos a crear un proyecto? Déjales saber cuánto te divertiste.
+--- no-print ---
 
-Si tienes una cuenta de Scratch y has compartido tu proyecto 'Ojos tontos', mantente atento a los comentarios que otros puedan hacer sobre tu creación. La retroalimentación es una excelente manera de reflexionar sobre tu trabajo. Ignora cualquier comentario que sea inútil o irrelevante.
+Haz clic en la bandera verde para ver la animación:
 
-[[[comments-feedback-scratch]]]
+<div class="scratch-preview" style="margin-left: 15px;">
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/495932563/?autostart=false" frameborder="0"></iframe>
+</div>
 
---- task ---
+--- /no-print ---
 
-¡Inspira a la comunidad de la Fundación Raspberry Pi con tu proyecto!
+Si quieres divertirte más explorando Scratch, puedes probar cualquiera de estos [proyectos](https://projects.raspberrypi.org/es-LA/projects?software%5B%5D=scratch&curriculum%5B%5D=%201).
 
-Para enviar tu proyecto a ['Ojos tontos de la Comunidad' Scratch](https://scratch.mit.edu/studios/29120534){:target="_blank"}, completa [este formulario](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}.
+***
+Este proyecto fue traducido por voluntarios:
 
---- /task ---
+Verónica VL
+Laura Lurati
+Olivia Alonso
+José Salazar
+
+Gracias a los voluntarios, podemos dar a las personas de todo el mundo la oportunidad de aprender en su propio idioma. Puedes ayudarnos a llegar a más personas ofreciéndote como voluntario para traducir. Más información en [rpf.io/translate](https://rpf.io/translate).
