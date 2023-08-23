@@ -50,10 +50,8 @@ Tu pourrais aussi ajouter :
 - Plus d'accessoires, ou ajoute plus de costumes à tes accessoires
 
 Le personnage **Sporg** a également des bras qui `s'orientent vers le pointeur de la souris`{:class="block3motion"}.
-
-**Sporg** : [Voir à l'intérieur](https://scratch.mit.edu/projects/495865892/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/495865892/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="" frameborder="0"></iframe>
 </div>
 
 Si tu ajoutes d'autres parties du corps, tu devras les centrer à l'endroit à partir duquel tu souhaites qu'elles pivotent. Par exemple, un bras tournerait à partir de l'épaule.
