@@ -44,15 +44,11 @@ Que se passe-t-il lorsque tu cliques sur différentes parties du projet ?
 Joue avec ces exemples de projets pour trouver des idées :
 
 ⭐ Partage ton projet « Yeux rigolos » terminé pour avoir une chance qu'il soit présenté ici.
-
-**Ne mange pas de donut** : [Voir à l'intérieur](https://scratch.mit.edu/projects/495865093/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/495865093/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="" frameborder="0"></iframe>
 </div>
-
-**Sporg** : [Voir à l'intérieur](https://scratch.mit.edu/projects/495865892/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/495865892/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="" frameborder="0"></iframe>
 </div>
 
 **⭐ Silly pufferfish** (projet communautaire en vedette)
@@ -63,6 +59,14 @@ Clique sur le poisson-globe, le chapeau, l'écharpe, l'arrière-plan et les glob
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/772759744/?autostart=false" frameborder="0"></iframe>
 </div>
 
+**⭐ Silly goalie glove by NinjaTR3R** (featured community project)
+
+Click on the backdrop and the eyeballs:
+
+<div class="scratch-preview" style="margin-left: 15px;">
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/877343292/?autostart=false" frameborder="0"></iframe>
+</div>
+
 --- /task ---
 
 --- /no-print ---
@@ -71,9 +75,9 @@ Clique sur le poisson-globe, le chapeau, l'écharpe, l'arrière-plan et les glob
 
 ### Trouve l'inspiration 💭
 
-Conçois et crée un personnage aux yeux rigolos 👀. Les grands yeux rigolos du personnage suivront le pointeur de la souris pour donner vie à ton personnage. Pour obtenir plus d'idées, **Voir à l'intérieur** les exemples de projets dans le studio Scratch « Yeux rigolos » : https://scratch.mit.edu/studios/29029028
+Design and create a silly eye character 👀. The character's large, silly eyes will follow the mouse pointer to bring your character to life. To get more ideas, **See inside** example projects in the 'Silly eyes — Examples' Scratch studio: https://scratch.mit.edu/studios/29029028
 
-![Le projet "Gobo regarde".](images/gobo-watching.png) ![Le projet "Ne mange pas de donut".](images/dont-eat-donut.png) ![Le projet "Sporg".](images/sporg.png)
+![The 'Gobo watching' project.](images/gobo-watching.png) ![The 'Don't eat donut' project.](images/dont-eat-donut.png) ![The 'Sporg' project.](images/sporg.png)
 
 --- /print-only ---
 
