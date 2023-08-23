@@ -69,10 +69,8 @@ Lägg nu till ett **-tillbehör**, till exempel en hatt, som ändras när du kli
 ---
 title: Få en sprajt att byta klädsel när den klickas på
 ---
-
-**Gobo med klädseltillbehör**: [Se inuti](https://scratch.mit.edu/projects/496334057/editor){:target="_blank"}
 <div class="scratch-preview">
-<iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/496334057/?autostart=false" frameborder="0"></iframe>
+<iframe allowtransparency="true" width="485" height="402" src="" frameborder="0"></iframe>
 </div>
 
 Vissa sprajter har redan ett urval av klädslar.
