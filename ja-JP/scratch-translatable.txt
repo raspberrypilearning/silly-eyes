@@ -1,7 +1,7 @@
 他のすべてのスプライトの背後
 
-Don't eat me!
+食べないで！
 
-Eye of Sporg
+スポルグの目
 
-Arm of Sporg
+スポルグの腕
