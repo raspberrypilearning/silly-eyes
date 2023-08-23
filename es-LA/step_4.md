@@ -69,10 +69,8 @@ Ahora, agrega un **accesorio**, como un sombrero, que cambia cuando haces clic e
 ---
 title: Haz que un objeto cambie de disfraz cuando hagas clic en él
 ---
-
-**Gobo con accesorios de disfraz**: [Ver dentro](https://scratch.mit.edu/projects/496334057/editor){:target="_blank"}
 <div class="scratch-preview">
-<iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/496334057/?autostart=false" frameborder="0"></iframe>
+<iframe allowtransparency="true" width="485" height="402" src="" frameborder="0"></iframe>
 </div>
 
 Algunos objetos ya tienen una selección de disfraces.
