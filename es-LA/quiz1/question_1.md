@@ -1,4 +1,4 @@
-## Reflexión
+## Test rápido
 
 Contesta las tres preguntas. Hay pistas para guiarte hacia la respuesta correcta.
 
