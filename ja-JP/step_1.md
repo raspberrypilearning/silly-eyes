@@ -1,31 +1,31 @@
-## You will make
+## はじめに
 
-Design and create a silly eyes character 👀. キャラクターの大きくておかしな目は、マウスポインターをたどって、キャラクターに命を吹き込みます。
+おもしろい目のキャラクターを作りましょう👀。 キャラクターの大きくておかしな目は、マウスポインターをたどって、キャラクターに命を吹き込みます。
 
-![Examples of projects.](images/showcase-line.png)
+![プロジェクトの例](images/showcase-line.png)
 
 あなたは次のことを行います。
 
-+ Make a project that is fun to play with
-+ Create your own character
-+ Code your project using **sprites, scripts and loops**
++ 遊んでいて楽しいプロジェクトを作ります。
++ 自分の考えたキャラクターを作ります。
++ **スプライト、スクリプト、ループを使用してプロジェクトをコーディングします。**
 
 --- no-print ---
 
-### Play ▶️
+### 試してみる▶️
 
 --- task ---
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 175px; flex-grow: 1">  
 
-**Gobo watching**: [See inside](https://scratch.mit.edu/projects/495141114/editor){:target="_blank"}
+**ゴーボーが見ている**: [内部を見る](https://scratch.mit.edu/projects/495141114/editor){:target="_blank"}
 
-Move the mouse (or if you are using a tablet, move your finger) around the Stage. 
+ステージ上でマウスを動かします (タブレットを使用している場合は、指を動かします)。 
 
-What happens when you move between Gobo's eyes? 
+ゴーボーの目の間を移動するとどうなりますか？ 
   
-What happens when you click on different parts of the project?
+プロジェクトの別の部分をクリックするとどうなりますか?
 </div>
 <div>
 
@@ -37,30 +37,34 @@ What happens when you click on different parts of the project?
 
 --- /task ---
 
-### Get ideas 💭
+### アイデアを得る 💭
 
 --- task ---
 
-Play with these example projects to get ideas:
+これらのサンプル プロジェクトを試してアイデアを見つけてください。
 
-⭐ Share your finished Silly eyes project for a chance of it being featured here.
-
-**Don't eat donut**: [See inside](https://scratch.mit.edu/projects/495865093/editor){:target="_blank"}
+⭐ 完成した Silly eyes プロジェクトを共有すると、この教材に取り上げるかもしれません。
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/495865093/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="" frameborder="0"></iframe>
+</div>
+<div class="scratch-preview" style="margin-left: 15px;">
+  <iframe allowtransparency="true" width="485" height="402" src="" frameborder="0"></iframe>
 </div>
 
-**Sporg**: [See inside](https://scratch.mit.edu/projects/495865892/editor){:target="_blank"}
-<div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/495865892/?autostart=false" frameborder="0"></iframe>
-</div>
+**⭐ おかしなフグ** (注目のコミュニティ プロジェクト)
 
-**⭐ Silly pufferfish** (featured community project)
-
-Click on the pufferfish, hat, scarf, backdrop and the eyeballs:
+フグ、帽子、スカーフ、背景、目玉をクリックしてみてください。
 
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/772759744/?autostart=false" frameborder="0"></iframe>
+</div>
+
+**⭐ NinjaTR3R による愚かなゴールキーパー グローブ** (注目のコミュニティ プロジェクト)
+
+背景と目玉をクリックしてみてください。
+
+<div class="scratch-preview" style="margin-left: 15px;">
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/877343292/?autostart=false" frameborder="0"></iframe>
 </div>
 
 --- /task ---
@@ -69,11 +73,11 @@ Click on the pufferfish, hat, scarf, backdrop and the eyeballs:
 
 --- print-only ---
 
-### Get ideas 💭
+### アイデアを得る 💭
 
-Design and create a silly eye character 👀. The character's large, silly eyes will follow the mouse pointer to bring your character to life. To get more ideas, **See inside** example projects in the 'Silly eyes — Examples' Scratch studio: https://scratch.mit.edu/studios/29029028
+おもしろい目のキャラクターを作りましょう👀。 キャラクターの大きくておかしな目は、マウスポインターをたどって、キャラクターに命を吹き込みます。 より多くのアイデアを得るには、 「おかしな目」 サンプルプロジェクトの**内部を参照**してください。 サンプルのスクラッチスタジオはこちら：https://scratch.mit.edu/studios/29029028
 
-![The 'Gobo watching' project.](images/gobo-watching.png) ![The 'Don't eat donut' project.](images/dont-eat-donut.png) ![The 'Sporg' project.](images/sporg.png)
+![「ゴーボーが見ている」プロジェクト](images/gobo-watching.png) ![「ドーナツを食べないで」プロジェクト](images/dont-eat-donut.png) ![「スポルグ」プロジェクト](images/sporg.png)
 
 --- /print-only ---
 
