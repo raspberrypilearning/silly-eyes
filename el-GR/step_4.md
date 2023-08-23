@@ -69,10 +69,8 @@ change [color v] effect by (25)
 ---
 title: Κάνε μια αλλαγή ενδυμασίας στο αντικείμενο όταν κάνεις κλικ
 ---
-
-**Gobo με αξεσουάρ ενδυμασιών**: [Δες μέσα](https://scratch.mit.edu/projects/496334057/editor){: target = "_ blank"}
 <div class="scratch-preview">
-<iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/496334057/?autostart=false" frameborder="0"></iframe>
+<iframe allowtransparency="true" width="485" height="402" src="" frameborder="0"></iframe>
 </div>
 
 Ορισμένα αντικείμενα έχουν ήδη τη δυνατότητα επιλογής από ενδυμασίες.
