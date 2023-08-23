@@ -69,10 +69,8 @@ Voeg nu een **accessoire** toe, zoals een hoed, die verandert als je erop klikt 
 ---
 title: Verander een sprite-uiterlijk wanneer erop wordt geklikt
 ---
-
-**Gobo met accessoires voor het uiterlijk**: [Bekijk van binnen](https://scratch.mit.edu/projects/496334057/editor){:target="_blank"}
 <div class="scratch-preview">
-<iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/496334057/?autostart=false" frameborder="0"></iframe>
+<iframe allowtransparency="true" width="485" height="402" src="" frameborder="0"></iframe>
 </div>
 
 Sommige sprites hebben al een keuze uit uiterlijken.
