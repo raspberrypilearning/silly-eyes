@@ -50,10 +50,8 @@ Je zou het volgende kunnen toevoegen:
 - Meer accessoires of meer uiterlijken toevoegen aan je accessoires
 
 Het **Sporg**-personage heeft ook armen die `naar de muisaanwijzer wijzen`{:class="block3motion"}.
-
-**Sporg**: [Bekijk van binnen](https://scratch.mit.edu/projects/495865892/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/495865892/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="" frameborder="0"></iframe>
 </div>
 
 Als je andere lichaamsdelen toevoegt, moet je deze centreren op het punt waarvan je wilt dat ze omheen draaien. Een arm zou bijvoorbeeld vanuit de schouder draaien.
