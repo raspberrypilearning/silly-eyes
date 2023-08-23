@@ -44,15 +44,11 @@ Wat gebeurt er als je op verschillende onderdelen van het project klikt?
 Speel met deze voorbeeldprojecten om ideeën op te doen:
 
 ⭐ Deel je voltooide Maffe ogen-project om kans te maken dat het hier wordt weergegeven.
-
-**Eet geen donut**: [Bekikj van binnen](https://scratch.mit.edu/projects/495865093/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/495865093/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="" frameborder="0"></iframe>
 </div>
-
-**Sporg**: [Bekijk van binnen](https://scratch.mit.edu/projects/495865892/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/495865892/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="" frameborder="0"></iframe>
 </div>
 
 **⭐ Maffe kogelvis** (uitgelicht gemeenschapsproject)
@@ -63,6 +59,14 @@ Klik op de kogelvis, hoed, sjaal, achtergrond en de oogbollen:
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/772759744/?autostart=false" frameborder="0"></iframe>
 </div>
 
+**⭐ Silly goalie glove by NinjaTR3R** (featured community project)
+
+Click on the backdrop and the eyeballs:
+
+<div class="scratch-preview" style="margin-left: 15px;">
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/877343292/?autostart=false" frameborder="0"></iframe>
+</div>
+
 --- /task ---
 
 --- /no-print ---
@@ -71,9 +75,9 @@ Klik op de kogelvis, hoed, sjaal, achtergrond en de oogbollen:
 
 ### Doe inspiratie op 💭
 
-Ontwerp en maak een maffe ogen personage 👀. De grote, maffe ogen van het personage volgen de muisaanwijzer om je personage tot leven te brengen. Om meer ideeën op te doen, **Bekijk van binnen** de voorbeeldprojecten in de Scratch-studio 'Maffe ogen — Voorbeelden': https://scratch.mit.edu/studios/29029028
+Design and create a silly eye character 👀. The character's large, silly eyes will follow the mouse pointer to bring your character to life. To get more ideas, **See inside** example projects in the 'Silly eyes — Examples' Scratch studio: https://scratch.mit.edu/studios/29029028
 
-![Het project 'Gobo-kijken'.](images/gobo-watching.png) ![Het project 'Eet geen donut'.](images/dont-eat-donut.png) ![Het 'Sporg' project.](images/sporg.png)
+![The 'Gobo watching' project.](images/gobo-watching.png) ![The 'Don't eat donut' project.](images/dont-eat-donut.png) ![The 'Sporg' project.](images/sporg.png)
 
 --- /print-only ---
 
