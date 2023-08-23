@@ -44,15 +44,11 @@
 Παίξε με αυτά τα παραδείγματα έργων για να πάρεις ιδέες:
 
 ⭐ Μοιράσου το ολοκληρωμένο έργο κινουμένων σχεδίων Αστεία Μάτια για να έχεις την ευκαιρία να προβληθεί εδώ.
-
-**Μην τρως ντόνατ**: [Δες μέσα](https://scratch.mit.edu/projects/495865093/editor){: target = "_ blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/495865093/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="" frameborder="0"></iframe>
 </div>
-
-**Sporg**: [Δες μέσα](https://scratch.mit.edu/projects/495865892/editor){:target="_ blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/495865892/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="" frameborder="0"></iframe>
 </div>
 
 **⭐ Αστείος λαγοκέφαλος** (επιλεγμένο έργο της κοινότητας)
@@ -63,6 +59,14 @@
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/772759744/?autostart=false" frameborder="0"></iframe>
 </div>
 
+**⭐ Silly goalie glove by NinjaTR3R** (featured community project)
+
+Click on the backdrop and the eyeballs:
+
+<div class="scratch-preview" style="margin-left: 15px;">
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/877343292/?autostart=false" frameborder="0"></iframe>
+</div>
+
 --- /task ---
 
 --- /no-print ---
@@ -71,9 +75,9 @@
 
 ### Πάρε ιδέες 💭
 
-Σχεδίασε και δημιούργησε έναν χαρακτήρα με αστεία μάτια 👀. Τα μεγάλα, αστεία μάτια του χαρακτήρα θα ακολουθούν τον δείκτη του ποντικιού για να ζωντανέψουν τον χαρακτήρα σου. Για να πάρεις περισσότερες ιδέες, **Δες μέσα** παραδείγματα έργων στο στούντιο 'Silly eyes - Examples' Scratch: https://scratch.mit.edu/studios/29029028
+Design and create a silly eye character 👀. The character's large, silly eyes will follow the mouse pointer to bring your character to life. To get more ideas, **See inside** example projects in the 'Silly eyes — Examples' Scratch studio: https://scratch.mit.edu/studios/29029028
 
-![Το έργο «Ο Gobo παρακολουθεί».](images/gobo-watching.png) ![Το έργο «Μην τρως ντόνατ».](images/dont-eat-donut.png) ![Το έργο «Sporg».](images/sporg.png)
+![The 'Gobo watching' project.](images/gobo-watching.png) ![The 'Don't eat donut' project.](images/dont-eat-donut.png) ![The 'Sporg' project.](images/sporg.png)
 
 --- /print-only ---
 
