@@ -50,10 +50,8 @@ You could also add:
 - More accessories, or add more costumes to your accessories
 
 This **Sporg** character also has arms that `point towards the mouse pointer`{:class="block3motion"}.
-
-**Sporg**: [See inside](https://scratch.mit.edu/projects/495865892/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/495865892/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="" frameborder="0"></iframe>
 </div>
 
 If you add other body parts, you will need to centre them at the point that you want them to rotate from. For example, an arm would rotate from the shoulder.
