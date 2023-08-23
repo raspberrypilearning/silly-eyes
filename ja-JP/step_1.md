@@ -1,38 +1,34 @@
 ## はじめに
 
-このプロジェクトでは、おかしなな目のキャラクターをデザインして作成します。 キャラクターの大きくておかしな目は、マウスポインターをたどって、キャラクターに命を吹き込みます。
+おもしろい目のキャラクターを作りましょう👀。 キャラクターの大きくておかしな目は、マウスポインターをたどって、キャラクターに命を吹き込みます。
 
-<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-<span style="color: #0faeb0">**デザイン**</span> は、プロジェクトの外観を決定し、プロジェクトの内容を決定することを意味します。 
-</p>
+![プロジェクトの例](images/showcase-line.png)
 
 あなたは次のことを行います。
-+ プロジェクトを**ユーザーインタラクション**でつくります
-+ 色とグラフィック効果でプロジェクトをパーソナライズします
-+ デジタルメイキングのデザインについて学びます
 
-<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-<span style="color: #0faeb0">**ユーザー**</span> は（プロジェクトを作成するだけでなく）プロジェクトを使用する人を意味し、 <span style="color: #0faeb0">**ユーザーインタラクション**</span> は、マウスを動かしたり画面をクリックしたりするユーザーにプロジェクトがどのように反応するかを意味します。 
-</p>
-
-![プロジェクトの例。](images/showcase-line.png)
++ 遊んでいて楽しいプロジェクトを作ります。
++ 自分の考えたキャラクターを作ります。
++ **スプライト、スクリプト、ループを使用してプロジェクトをコーディングします。**
 
 --- no-print ---
+
+### 試してみる▶️
 
 --- task ---
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 175px; flex-grow: 1">  
 
-### 試してみる 
+**ゴーボーが見ている**: [内部を見る](https://scratch.mit.edu/projects/495141114/editor){:target="_blank"}
 
-マウスを画面上で動かして（またはタブレットを使用している場合は指を動かして）、Goboの目に何が起こるかを観察します。 Goboの目の間を移動するとどうなりますか？ 
+ステージ上でマウスを動かします (タブレットを使用している場合は、指を動かします)。 
+
+ゴーボーの目の間を移動するとどうなりますか？ 
   
-プロジェクトのさまざまな部分をクリックして、プロジェクトをカスタマイズしてみてください。
-
+プロジェクトの別の部分をクリックするとどうなりますか?
 </div>
 <div>
-**ゴーボーが見ている**：[内部を見る](https://scratch.mit.edu/projects/638329283/editor){:target="_blank"}
+
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/638329283/?autostart=false" frameborder="0"></iframe>
 </div>
@@ -41,38 +37,53 @@
 
 --- /task ---
 
-### インスピレーションを得る
-
-あなたは、あなたのキャラクターを作成するためにいくつかのデザイン上の決定をします。 どんなおかしな目のキャラクターを作りたいかを考えてみてください。
+### アイデアを得る 💭
 
 --- task ---
 
-これらのサンプルプロジェクトを調べて、より多くのアイデアを入手してください。
+これらのサンプル プロジェクトを試してアイデアを見つけてください。
+
+⭐ 完成した Silly eyes プロジェクトを共有すると、この教材に取り上げるかもしれません。
 
 **ドーナツを食べないで**： [内部を見る](https://scratch.mit.edu/projects/638328097/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/638328097/?autostart=false" frameborder="0"></iframe>
 </div>
 
-**海の中**： [内部を見る](https://scratch.mit.edu/projects/638330437/editor){:target="_blank"}
-<div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/638330437/?autostart=false" frameborder="0"></iframe>
-</div>
-
 **Sporg**： [内部を見る](https://scratch.mit.edu/projects/637216308/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/637216308/?autostart=false" frameborder="0"></iframe>
 </div>
+
+**⭐ おかしなフグ** (注目のコミュニティ プロジェクト)
+
+フグ、帽子、スカーフ、背景、目玉をクリックしてみてください。
+
+<div class="scratch-preview" style="margin-left: 15px;">
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/772759744/?autostart=false" frameborder="0"></iframe>
+</div>
+
+**⭐ NinjaTR3R による愚かなゴールキーパー グローブ** (注目のコミュニティ プロジェクト)
+
+背景と目玉をクリックしてみてください。
+
+<div class="scratch-preview" style="margin-left: 15px;">
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/877343292/?autostart=false" frameborder="0"></iframe>
+</div>
+
 --- /task ---
+
 --- /no-print ---
 
 --- print-only ---
 
-### インスピレーションを得る
+### アイデアを得る 💭
 
-あなたはあなたのキャラクターを作成するために、いくつかのデザイン上の決定をします。 どんなおかしな目のキャラクターを作りたいかを考えてみてください。 より多くのアイデアを得るには、 「おかしな目」 サンプルプロジェクトの**内部を参照**してください。サンプルのスクラッチスタジオはこちら：https://scratch.mit.edu/studios/29029028
+おもしろい目のキャラクターを作りましょう👀。 キャラクターの大きくておかしな目は、マウスポインターをたどって、キャラクターに命を吹き込みます。 より多くのアイデアを得るには、 「おかしな目」 サンプルプロジェクトの**内部を参照**してください。 サンプルのスクラッチスタジオはこちら：https://scratch.mit.edu/studios/29029028
 
-![「ゴーボーが見ている」プロジェクト。](images/gobo-watching.png) ![「ドーナツを食べないで」プロジェクト。](images/dont-eat-donut.png) ![「海の中」プロジェクト。](images/under-the-sea.png) ![「Sporg」プロジェクト。](images/sporg.png)
+![「ゴーボーが見ている」プロジェクト](images/gobo-watching.png)
+![「ドーナツを食べないで」プロジェクト](images/dont-eat-donut.png)
+![「スポルグ」プロジェクト](images/sporg.png)
 
 --- /print-only ---
 

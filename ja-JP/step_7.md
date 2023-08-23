@@ -1,27 +1,61 @@
-## プロジェクトをアップグレードする
+## 共有して遊ぶ
 
-時間がある場合は、プロジェクトをアップグレードできます。
+クラブに参加している場合は、プロジェクトを友人や仲間と共有してみませんか?
 
-以下のことができます：
-- ボディパーツを追加する
-- おかしな目のスプライトを追加する
-- 背景を追加する
-- アクセサリーを追加するか、アクセサリーにコスチュームを追加します
-- さまざまなグラフィック効果を試す
+プロジェクトの仕組みを家族に見せることもできます。
 
-['Silly eyes — Examples’ Scratch studio](https://scratch.mit.edu/studios/29029028){:target="_blank"}の各プロジェクトには **内部を参照** リンクがあり、これを使用してScratchエディターでプロジェクトを開き、コードを見てアイデアを得たり、プロジェクトがどのように機能するかを確認することができます。
+Scratchアカウントをお持ちの場合は、Scratchを介してプロジェクトを共有できます。 リンクを知り合いに送ったり、Scratchコミュニティ全体がプロジェクトを見つけて試すことができるようになります。
 
-**Sporg** キャラクターにも、 `マウスのポインターへ向ける`{:class="block3motion"}腕があります。
+[[[share-scratch]]]
 
-**Sporg**： [内部を参照](https://scratch.mit.edu/projects/637216308/editor){:target="_blank"}
+友達を誘ってプロジェクトを作成してみませんか？ どこが面白かったのか教えてあげてください。
+
+もしScratchアカウントを持っていて、「おかしな目」プロジェクトを共有していたら、誰かがあなたの作品にコメントを残してくれるかもしれません。 フィードバックは、自分の作品を振り返る素晴らしい機会です。 役に立たなかったり、無関係なコメントは無視してください。
+
+[[[comments-feedback-scratch]]]
+
+--- task ---
+
+あなたのプロジェクトでRaspberry Pi財団コミュニティを刺激してください！
+
+あなたのプロジェクトを ['Silly eyes — Community' Scratch studio](https://scratch.mit.edu/studios/29120534){:target="_blank"}に送るには、[このフォーム](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}を使ってください。
+
+--- /task ---
+
+### コミュニティへの投稿
+
+--- task ---
+
+['Silly eyes — Community' Scratch studio](https://scratch.mit.edu/studios/29120534){:target="_blank"} から、これらの素晴らしいコミュニティ プロジェクトをご覧ください。 背景、目玉、アクセサリーをクリックして操作します。
+
+**てんとう虫の恐怖** [内部を見る](https://scratch.mit.edu/projects/517735755/editor){:target="_blank"}
+
+背景をクリックしてください
+
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/637216308/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/517735755/?autostart=false" frameborder="0"></iframe>
 </div>
 
-他のボディパーツを追加する場合は、それらを回転させたいポイントを中央に配置する必要があります。 たとえば、腕は肩から回転します。
+**蝶と熊** [内部を見る](https://scratch.mit.edu/projects/569624392/editor){:target="_blank"}
 
-[[[scratch-crosshair]]]
+クマと蝶をクリックしてください
 
-['Silly eyes － Community’ Sctratch studio](https://scratch.mit.edu/studios/29120534){:target="_blank"}を見て、コミュニティメンバーによって作成されたプロジェクトを確認してください。
+<div class="scratch-preview" style="margin-left: 15px;">
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/569624392/?autostart=false" frameborder="0"></iframe>
+</div>
 
---- save ---
+**ピクセル ドット** [内部を見る](https://scratch.mit.edu/projects/747156758/editor){:target="_blank"}
+
+緑の旗をクリックすると、すべてがピクセル化されます。
+
+<div class="scratch-preview" style="margin-left: 15px;">
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/747156758/?autostart=false" frameborder="0"></iframe>
+</div>
+
+--- /task ---
+
+--- task ---
+
+また [Silly eyes スターター プロジェクト](https://scratch.mit.edu/projects/582221984/remixes){:target="_blank"} から派生した作品を見て、他のクリエイターが作成したものを確認することもできます。
+
+--- /task --- 

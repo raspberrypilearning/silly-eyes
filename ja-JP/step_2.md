@@ -2,7 +2,7 @@
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-あなたは、あなたのキャラクターについてのアイディアを持っていますか？ 今、あなたはおかしな目の準備ができます！
+あなたの想像力を働かせて、キャラクタースプライトと背景を追加しましょう。 
 </div>
 <div>
 
@@ -11,21 +11,36 @@
 </div>
 </div>
 
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
+<span style="color: #0faeb0">**デザイン**</span>とは、プロジェクトの見た目と動きを決めることです。 
+</p>
+
+### スタータープロジェクトを開きましょう
+
 --- task ---
 
 [おかしな目のスタータープロジェクト](https://scratch.mit.edu/projects/582221984/editor){:target="_blank"}を開きます。 Scratchはブラウザの別のタブで開きます。
 
 [[[working-offline]]]
 
+ゆっくりやる時間がないですか？ 忙しい人向けにプロジェクトの[例](https://scratch.mit.edu/studios/29029028){:target="_blank"}を用意しました。
+
 --- /task ---
+
+### スプライトと背景を選びましょう
 
 --- task ---
 
-**選択：** スプライトを選択 **または** ペイントエディタで簡単なスプライトを作成します。
+**選択します:** 愚かな目プロジェクトに **スプライト** と **背景** を追加します。
 
-人や動物を選ぶ必要はありません。 例えばドーナツのようなオブジェクトを選択できます。
++ あなたは、あなたのキャラクターについてのアイディアを持っていますか？ 人🧜🏽‍♀️や動物🐶、物🧸でもいいです。
++ キャラクターをどこに住まわせたいですか？ おしゃれな場所や、逆に変な場所でもいいかもしれません。
+
+![スプライトの追加アイコンと背景の追加アイコンが並んでいます。](images/sprite-and-backdrop.png)
 
 [[[generic-scratch3-sprite-from-library]]]
+
+[[[generic-scratch3-backdrop-from-library]]]
 
 [[[scratch3-backdrops-and-sprites-using-shapes]]]
 
@@ -40,28 +55,24 @@ title: サプライズスプライトを入手
 
 --- /collapse ---
 
-**ヒント：** ペイントエディタでスプライトを作成する場合、 **個別のスプライトである必要があるため、まだ目を追加しないでください。**
+**選択：** スプライトを選択 **または** ペイントエディタで簡単なスプライトを作成します。
 
 --- /task ---
 
-現時点では、キャラクターはサンプルプロジェクトのキャラクターよりもはるかに小さくなります。 キャラクターを大きくして、画面全体に表示することができます。
+### スプライトの大きさを変更
 
 --- task ---
 
-[スプライト] ペインで、[ **サイズ** プロパティの数値を任意の数値に変更します。
+[スプライト] ペインで、**サイズ** プロパティの数値を任意の数値に変更します。
 
 ![](images/size-property.png){:width="500px"}
 
 --- /task ---
 
-キャラクターをどこに住まわせたいですか？
-
 --- task ---
 
-**選択：** 賢明またはおかしな背景を選択します。
+ステージを見ると、 大きなキャラクターと背景が選ばれていることを確認できると思います。
 
-[[[generic-scratch3-backdrop-from-library]]]
+![](images/large-sprite-stage.png){:width="500px"}
 
 --- /task ---
-
---- save ---
