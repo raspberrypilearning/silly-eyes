@@ -1,52 +1,52 @@
-## Share and play
+## 共有して遊ぶ
 
-If you are in a club, why not share your project with friends and peers?
+クラブに参加している場合は、プロジェクトを友人や仲間と共有してみませんか?
 
-You could also show your family how your project works.
+プロジェクトの仕組みを家族に見せることもできます。
 
-If you have a Scratch account, you can share your project through Scratch. You can send a link to people you know, and the whole Scratch community will be able to find your project and try it out.
+Scratchアカウントをお持ちの場合は、Scratchを介してプロジェクトを共有できます。 リンクを知り合いに送ったり、Scratchコミュニティ全体がプロジェクトを見つけて試すことができるようになります。
 
 [[[share-scratch]]]
 
-Why not invite your friends to create a project? Let them know how you had fun.
+友達を誘ってプロジェクトを作成してみませんか？ どこが面白かったのか教えてあげてください。
 
-If you have a Scratch account, and have shared your 'Silly eyes' project, keep an eye out for comments that others may make about your creation. Feedback is a great way to reflect on your work. Ignore any comments that are unhelpful or irrelevant.
+もしScratchアカウントを持っていて、「おかしな目」プロジェクトを共有していたら、誰かがあなたの作品にコメントを残してくれるかもしれません。 フィードバックは、自分の作品を振り返る素晴らしい機会です。 役に立たなかったり、無関係なコメントは無視してください。
 
 [[[comments-feedback-scratch]]]
 
 --- task ---
 
-Inspire the Raspberry Pi Foundation community with your project!
+あなたのプロジェクトでRaspberry Pi財団コミュニティを刺激してください！
 
-To submit your project to our ['Silly eyes — Community' Scratch studio](https://scratch.mit.edu/studios/29120534){:target="_blank"}, please complete [this form](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}.
+あなたのプロジェクトを ['Silly eyes — Community' Scratch studio](https://scratch.mit.edu/studios/29120534){:target="_blank"}に送るには、[このフォーム](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}を使ってください。
 
 --- /task ---
 
-### Community submissions
+### コミュニティへの投稿
 
 --- task ---
 
-Take a look at these fabulous community projects from our ['Silly eyes — Community' Scratch studio](https://scratch.mit.edu/studios/29120534){:target="_blank"}. Click on the backdrops, eyeballs and accessories to interact with them:
+['Silly eyes — Community' Scratch studio](https://scratch.mit.edu/studios/29120534){:target="_blank"} から、これらの素晴らしいコミュニティ プロジェクトをご覧ください。 背景、目玉、アクセサリーをクリックして操作します。
 
-**Ladybug scare** [See inside](https://scratch.mit.edu/projects/517735755/editor){:target="_blank"}
+**てんとう虫の恐怖** [内部を見る](https://scratch.mit.edu/projects/517735755/editor){:target="_blank"}
 
-Click on the backdrop:
+背景をクリックしてください
 
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/517735755/?autostart=false" frameborder="0"></iframe>
 </div>
 
-**Butterfly and bear** [See inside](https://scratch.mit.edu/projects/569624392/editor){:target="_blank"}
+**蝶と熊** [内部を見る](https://scratch.mit.edu/projects/569624392/editor){:target="_blank"}
 
-Click on the bear and butterfly:
+クマと蝶をクリックしてください
 
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/569624392/?autostart=false" frameborder="0"></iframe>
 </div>
 
-**Pixel dot** [See inside](https://scratch.mit.edu/projects/747156758/editor){:target="_blank"}
+**ピクセル ドット** [内部を見る](https://scratch.mit.edu/projects/747156758/editor){:target="_blank"}
 
-Click on the green flag to see everything pixelate:
+緑の旗をクリックすると、すべてがピクセル化されます。
 
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/747156758/?autostart=false" frameborder="0"></iframe>
@@ -56,6 +56,6 @@ Click on the green flag to see everything pixelate:
 
 --- task ---
 
-You can also look at the remixes for the [Silly eyes starter project](https://scratch.mit.edu/projects/582221984/remixes){:target="_blank"} to see what other creators have made.
+また [Silly eyes スターター プロジェクト](https://scratch.mit.edu/projects/582221984/remixes){:target="_blank"} から派生した作品を見て、他のクリエイターが作成したものを確認することもできます。
 
 --- /task --- 
