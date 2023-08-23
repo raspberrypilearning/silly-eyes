@@ -50,10 +50,8 @@ También podrías añadir:
 - Más accesorios, o añadir más disfraces a tus accesorios
 
 Este personaje **Sporg** también tiene brazos que `apuntan hacia el puntero del ratón`{:class="block3motion"}.
-
-**Sporg**: [Ver dentro](https://scratch.mit.edu/projects/495865892/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/495865892/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="" frameborder="0"></iframe>
 </div>
 
 Si añades otras partes del cuerpo, necesitarás centrarlas en el punto desde que quieres que giren. Por ejemplo, un brazo rotaría desde el hombro.
