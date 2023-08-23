@@ -1,23 +1,23 @@
-## Upgrade your project
+## プロジェクトをアップグレードする
 
-If you have time, you can upgrade your project.
+時間がある場合は、プロジェクトをアップグレードできます。
 
-### Add Stage effects
+### ステージ効果を追加する
 
-Make your project do something when you click on the **Stage**.
+**Stage**をクリックすると、プロジェクトが何かをできるようにしよう。
 
-![The Stage with graphic effects.](images/stage-effects.png){:width="300px"}
+![グラフィック効果のあるステージ](images/stage-effects.png){:width="300px"}
 {:width="300px"}
 
 --- task ---
 
-Click on the Stage pane and then on the **Code** tab to add code to the **Stage**.
+ステージペインをクリックしてから、 **コード**タブで **ステージ**のコードを追加します。
 
-**Choose:** Choose what you want to change when the **Stage** is clicked.
+**選択:** **ステージ** をクリックしたときに変更する内容を選択します。
 
 --- collapse ---
 ---
-title: Change graphic effects when the Stage is clicked
+title: ステージがクリックされたときのグラフィック効果を変更する
 ---
 
 ```blocks3
@@ -29,7 +29,7 @@ change [color v] effect by [25]
 
 --- collapse ---
 ---
-title: Switch backdrop when the Stage is clicked
+title: ステージがクリックされたときに背景を切り替える
 ---
 
 ```blocks3
@@ -41,42 +41,40 @@ next backdrop
 
 --- /task ---
 
-### Add more
+### さらに追加しよう
 
-You could also add:
-- More body parts
-- More sprites with silly eyes
-- More backdrops
-- More accessories, or add more costumes to your accessories
+以下を追加することもできます。
+- その他のボディパーツ
+- おかしな目をしている別のスプライト
+- 背景
+- アクセサリーを増やしたり、アクセサリーにコスチュームを追加したりできます
 
-This **Sporg** character also has arms that `point towards the mouse pointer`{:class="block3motion"}.
-
-**Sporg**: [See inside](https://scratch.mit.edu/projects/495865892/editor){:target="_blank"}
+この **スポルグ** キャラクターには、 `マウス ポインターを指す`{:class="block3motion"} 腕もあります。
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/495865892/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="" frameborder="0"></iframe>
 </div>
 
-If you add other body parts, you will need to centre them at the point that you want them to rotate from. For example, an arm would rotate from the shoulder.
+他のボディ パーツを追加する場合は、回転させたいポイントでそれらを中央に配置する必要があります。 たとえば、腕は肩から回転します。
 
 [[[scratch-crosshair]]]
 
-### Get ideas
+### アイデアを得る
 
 --- task ---
 
-Each project in the ['Silly eyes — Examples' Scratch studio](https://scratch.mit.edu/studios/29029028){:target="_blank"} has a **See inside** link, which you can use to open the project in the Scratch editor and look at the code to get ideas and see how the project works.
+['Silly eyes — Examples' Scratch studio](https://scratch.mit.edu/studios/29029028){:target="_blank"} の各プロジェクトには **See inside** リンクがあり、これを使用して Scratch エディターでプロジェクトを開き、コードを見てアイデアを得ることができます。さらにプロジェクトがどのように機能するかを確認できます。
 
 --- /task ---
 
 --- task ---
 
-Take a look at our ['Silly eyes — Community' Scratch studio](https://scratch.mit.edu/studios/29120534){:target="_blank"} to see projects created by community members.
+['Silly eyes － Community’ Sctratch studio](https://scratch.mit.edu/studios/29120534){:target="_ blank"}を見て、コミュニティメンバーによって作成されたプロジェクトを見てみてください。
 
 --- /task ---
 
 --- task ---
 
-You can also look at the remixes for the [Silly eyes starter project](https://scratch.mit.edu/projects/582221984/remixes){:target="_blank"} to see what other creators have made.
+また [Silly eyes スターター プロジェクト](https://scratch.mit.edu/projects/582221984/remixes){:target="_blank"} から派生した作品を見て、他のクリエイターが作成したものを確認することもできます。
 
 --- /task ---
 
