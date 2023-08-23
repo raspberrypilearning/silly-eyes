@@ -1,23 +1,30 @@
-## 共有
+## 次は何をしますか？
 
-クラブにいる場合は、プロジェクトを友人や仲間と共有してみませんか？
+[スクラッチ入門](https://projects.raspberrypi.org/ja-JP/pathways/scratch-intro) 経路をたどっている場合は [サプライズ! アニメーション](https://projects.raspberrypi.org/ja-JP/projects/surprise-animation) プロジェクトに進むことができます。 このプロジェクトでは、驚きのあるストーリーのアニメーションを作成します。
 
-プロジェクトがどのように機能するかを家族に示すこともできます。
+--- print-only ---
 
-Scratchアカウントをお持ちの場合は、Scratchを介してプロジェクトを共有できます。 あなたはあなたが知っている人々にリンクを送ることができ、そしてスクラッチコミュニティ全体があなたのプロジェクトを見つけてそれを試すことができるでしょう。
+![サプライズ！ アニメーションのプロジェクト。](images/surprise-story.png)
 
-[[[share-scratch]]]
+--- /print-only ---
 
-友達を招待してプロジェクトを作ってみませんか？ あなたがどのように楽しんだかを彼らに知らせてください。
+--- no-print ---
 
-Scratchアカウントを持っていて、「おかしな目」プロジェクトを共有している場合は、他の人が行うあなたの創作物へのコメントに注意してください。 フィードバックは、あなたの仕事を振り返るのに最適な方法です。 役に立たない、または無関係なコメントは無視してください。
+アニメーションを見るには、緑色の旗をクリックしてください。
 
-[[[comments-feedback-scratch]]]
+<div class="scratch-preview" style="margin-left: 15px;">
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/642712326/?autostart=false" frameborder="0"></iframe>
+</div>
 
---- task ---
+--- /no-print ---
 
-あなたのプロジェクトでRaspberry Pi財団コミュニティを刺激してください！
+Scratchのさまざまな機能を触ってみたい場合は[これらのプロジェクト](https://projects.raspberrypi.org/en/projects?software%5B%5D=scratch&curriculum%5B%5D=%201)を試してみてください。
 
-あなたのプロジェクトを ['Silly eyes — Community' Scratch studio](https://scratch.mit.edu/studios/29120534){:target="_blank"}に送るには、[このフォーム](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}を使ってください。
+***
+このプロジェクトは以下のボランティアによって翻訳されました。
 
---- /task ---
+東 文彦
+大野 雅利
+Shu Hayakawa
+
+ボランティアのおかげで、世界中の人々に母国語で学ぶ機会を与えることができます。翻訳を引き受けていただくことで、より多くの人々に手を差し伸べることができます。詳しくは [rpf.io/translate](https://rpf.io/translate) をご覧ください。

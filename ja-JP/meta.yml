@@ -2,21 +2,22 @@
 title: おかしな目
 hero_image: images/banner.png
 description: 目がマウスポインタをたどるキャラクターで独自のアプリを作成する
+meta_title: 子供と十代の若者向けのScratch コーディング プロジェクト |おかしな目
+meta_description: Raspberry Pi Foundation の子供と十代の若者向けのコーディング プロジェクトで、Scratch でのコーディングを学びましょう。 Scratch アニメーションを作成して、おかしな目をしたキャラクターを作成します。
 version: 4
 listed: true
 copyedit: false
 last_tested: '2021-02-25'
 steps:
 - title: はじめに
-- title: あなたのキャラクター
+- title: キャラクターを作成する
 - title: おかしな目をつくる
   completion:
   - engaged
-- title: スプライト効果
-- title: ステージ効果
+- title: スプライト効果を追加する
   completion:
   - internal
-- title: ふりかえり
+- title: ふくしゅう
   knowledge_quiz:
     path: quiz1
     version: 1
@@ -25,5 +26,5 @@ steps:
   completion:
   - external
 - title: プロジェクトをアップグレードする
-- title: 共有
+- title: 共有して遊ぶ
 - title: 次は何をしますか？
