@@ -69,10 +69,8 @@ Maintenant, ajoute un **accessoire**, comme un chapeau, qui change lorsque tu cl
 ---
 title: Faire un changement de costume de sprite lorsque tu cliques dessus
 ---
-
-**Gobo avec accessoires de costume** : [Voir à l'intérieur](https://scratch.mit.edu/projects/496334057/editor){:target="_blank"}
 <div class="scratch-preview">
-<iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/496334057/?autostart=false" frameborder="0"></iframe>
+<iframe allowtransparency="true" width="485" height="402" src="" frameborder="0"></iframe>
 </div>
 
 Certains sprites ont déjà un choix de costumes.
