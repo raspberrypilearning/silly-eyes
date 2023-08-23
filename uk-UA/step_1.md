@@ -44,15 +44,11 @@
 Пограйся з цими проєктами, щоб отримати ідеї:
 
 ⭐ Поділися своїм готовим проєктом Дурненькі очі, щоб мати шанс бути опублікованим у цьому списку.
-
-**Не їжте пончики**: [Переглянути код](https://scratch.mit.edu/projects/495865093/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/495865093/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="" frameborder="0"></iframe>
 </div>
-
-**Sporg**: [Переглянути код](https://scratch.mit.edu/projects/495865892/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/495865892/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="" frameborder="0"></iframe>
 </div>
 
 **⭐ Silly pufferfish** (featured community project)
@@ -63,6 +59,14 @@ Click on the pufferfish, hat, scarf, backdrop and the eyeballs:
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/772759744/?autostart=false" frameborder="0"></iframe>
 </div>
 
+**⭐ Silly goalie glove by NinjaTR3R** (featured community project)
+
+Click on the backdrop and the eyeballs:
+
+<div class="scratch-preview" style="margin-left: 15px;">
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/877343292/?autostart=false" frameborder="0"></iframe>
+</div>
+
 --- /task ---
 
 --- /no-print ---
@@ -71,9 +75,9 @@ Click on the pufferfish, hat, scarf, backdrop and the eyeballs:
 
 ### Отримай ідеї 💭
 
-Придумай і створи персонажа з дурнуватими очима 👀. Великі, дурнуваті очі персонажа будуть слідувати за курсором миші, щоб оживити твого персонажа. Щоб надихнутися ідеями, **переглянь код** проєктів-прикладів у студії Scratch 'Дурненькі очі — Приклади': https://scratch.mit.edu/studios/29029028
+Design and create a silly eye character 👀. The character's large, silly eyes will follow the mouse pointer to bring your character to life. To get more ideas, **See inside** example projects in the 'Silly eyes — Examples' Scratch studio: https://scratch.mit.edu/studios/29029028
 
-![Проєкт 'Gobo спостерігає'.](images/gobo-watching.png) ![Проєкт 'Не їжте пончики'.](images/dont-eat-donut.png) ![Проєкт 'Sporg'.](images/sporg.png)
+![The 'Gobo watching' project.](images/gobo-watching.png) ![The 'Don't eat donut' project.](images/dont-eat-donut.png) ![The 'Sporg' project.](images/sporg.png)
 
 --- /print-only ---
 
