@@ -50,10 +50,8 @@ next backdrop
 - Περισσότερα αξεσουάρ ή περισσότερες ενδυμασίες στα αξεσουάρ σου
 
 Αυτός ο χαρακτήρας **Sporg** έχει επίσης χέρια που `δείχνουν προς τον δείκτη του ποντικιού`{:class="block3motion"}.
-
-**Sporg**: [Δες μέσα](https://scratch.mit.edu/projects/495865892/editor){:target="_ blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/495865892/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="" frameborder="0"></iframe>
 </div>
 
 Εάν προσθέσεις άλλα μέρη του σώματος, θα πρέπει να τα κεντράρεις γύρω από το σημείο από το οποίο θέλεις να περιστρέφονται. Για παράδειγμα, ένα χέρι θα περιστρεφόταν γύρω από τον ώμο.
