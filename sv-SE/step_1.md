@@ -44,15 +44,11 @@ Vad händer när du klickar på olika delar av projektet?
 Lek med dessa exempelprojekt för att få inspiration:
 
 ⭐ Dela ditt färdiga "roliga ögon"-projekt för en chans att få det visat här.
-
-**Ät inte munken**: [Se inuti](https://scratch.mit.edu/projects/495865093/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/495865093/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="" frameborder="0"></iframe>
 </div>
-
-**Sporg**: [Se inuti](https://scratch.mit.edu/projects/495865892/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/495865892/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="" frameborder="0"></iframe>
 </div>
 
 **⭐ Rolig blåsfisk** (utvalt samhällsprojekt)
@@ -63,6 +59,14 @@ Klicka på blåsfisken, mössan, halsduken, bakgrunden och ögongloberna:
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/772759744/?autostart=false" frameborder="0"></iframe>
 </div>
 
+**⭐ Silly goalie glove by NinjaTR3R** (featured community project)
+
+Click on the backdrop and the eyeballs:
+
+<div class="scratch-preview" style="margin-left: 15px;">
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/877343292/?autostart=false" frameborder="0"></iframe>
+</div>
+
 --- /task ---
 
 --- /no-print ---
@@ -71,9 +75,9 @@ Klicka på blåsfisken, mössan, halsduken, bakgrunden och ögongloberna:
 
 ### Få idéer 💭
 
-Designa och skapa en karaktär med roliga ögon👀. Karaktärens stora, roliga ögon kommer följa muspekaren för få den att verka levande. För att få fler idéer, **Se på** exempelprojekt i 'Silly eyes — Exempel'-Scratchstudion: https://scratch.mit.edu/studios/29029028
+Design and create a silly eye character 👀. The character's large, silly eyes will follow the mouse pointer to bring your character to life. To get more ideas, **See inside** example projects in the 'Silly eyes — Examples' Scratch studio: https://scratch.mit.edu/studios/29029028
 
-![Projektet 'Gobo tittar'.](images/gobo-watching.png) ![Projektet 'Ät inte munken'.](images/dont-eat-donut.png) ![Sporg-projektet.](images/sporg.png)
+![The 'Gobo watching' project.](images/gobo-watching.png) ![The 'Don't eat donut' project.](images/dont-eat-donut.png) ![The 'Sporg' project.](images/sporg.png)
 
 --- /print-only ---
 
