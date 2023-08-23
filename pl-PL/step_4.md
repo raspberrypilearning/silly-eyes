@@ -69,10 +69,8 @@ Now, add an **accessory**, such as a hat, that changes when you click on it — 
 ---
 title: Make a sprite change costume when clicked
 ---
-
-**Gobo with costume accessories**: [See inside](https://scratch.mit.edu/projects/496334057/editor){:target="_blank"}
 <div class="scratch-preview">
-<iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/496334057/?autostart=false" frameborder="0"></iframe>
+<iframe allowtransparency="true" width="485" height="402" src="" frameborder="0"></iframe>
 </div>
 
 Some sprites already have a choice of costumes.
