@@ -50,10 +50,8 @@ Du kan också lägga till:
 - Fler tillbehör eller lägg till fler klädslar till dina tillbehör
 
 Denna **Sporg**karaktär har även armar som `pekar mot muspekaren`{:class="block3motion"}.
-
-**Sporg**: [Se inuti](https://scratch.mit.edu/projects/495865892/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/495865892/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="" frameborder="0"></iframe>
 </div>
 
 Om du lägger till andra kroppsdelar måste du centrera dem på den punkt som du vill att de ska rotera kring. Till exempel skulle en arm rotera runt axeln.
