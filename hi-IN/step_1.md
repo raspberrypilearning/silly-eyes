@@ -44,15 +44,11 @@ What happens when you click on different parts of the project?
 Play with these example projects to get ideas:
 
 ⭐ Share your finished Silly eyes project for a chance of it being featured here.
-
-**Don't eat donut**: [See inside](https://scratch.mit.edu/projects/495865093/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/495865093/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="" frameborder="0"></iframe>
 </div>
-
-**Sporg**: [See inside](https://scratch.mit.edu/projects/495865892/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/495865892/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="" frameborder="0"></iframe>
 </div>
 
 **⭐ Silly pufferfish** (featured community project)
@@ -61,6 +57,14 @@ Click on the pufferfish, hat, scarf, backdrop and the eyeballs:
 
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/772759744/?autostart=false" frameborder="0"></iframe>
+</div>
+
+**⭐ Silly goalie glove by NinjaTR3R** (featured community project)
+
+Click on the backdrop and the eyeballs:
+
+<div class="scratch-preview" style="margin-left: 15px;">
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/877343292/?autostart=false" frameborder="0"></iframe>
 </div>
 
 --- /task ---
