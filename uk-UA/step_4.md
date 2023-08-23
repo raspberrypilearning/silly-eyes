@@ -69,10 +69,8 @@ change [color v] effect by (25)
 ---
 title: Зробити так, щоб спрайт змінював образ при натисканні
 ---
-
-**Gobo з аксесуарами**: [Переглянути код](https://scratch.mit.edu/projects/496334057/editor){:target="_blank"}
 <div class="scratch-preview">
-<iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/496334057/?autostart=false" frameborder="0"></iframe>
+<iframe allowtransparency="true" width="485" height="402" src="" frameborder="0"></iframe>
 </div>
 
 Деякі спрайти вже мають вибір образів.
