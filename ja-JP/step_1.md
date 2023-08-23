@@ -19,7 +19,7 @@
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 175px; flex-grow: 1">  
 
-**ゴーボーが見ている**: [内部を見る](https://scratch.mit.edu/projects/495141114/editor){:target="_blank"}
+**ゴーボーが見ている**: [内部を見る](https://scratch.mit.edu/projects/638329283/editor){:target="_blank"}
 
 ステージ上でマウスを動かします (タブレットを使用している場合は、指を動かします)。 
 

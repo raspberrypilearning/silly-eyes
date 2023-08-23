@@ -111,7 +111,7 @@ Scratchには、キャラクターのおかしな目を作るために編集で�
 では、目玉が`マウスポインタ`{:class="block3motion"}を見るようにしてみましょう。
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-<span style="color: #0faeb0">**ユーザー**</span> は(プロジェクトを作成するだけでなく) プロジェクトを使用する人を意味し、 <span style="color: #0faeb0">ユーザーインタラクション**</span> は、マウスを動かしたり画面をクリックしたりするユーザーにプロジェクトがどのように反応するかを意味します。 
+<span style="color: #0faeb0">**ユーザー**</span> は(プロジェクトを作成するだけでなく) プロジェクトを使用する人を意味し、 <span style="color: #0faeb0">**ユーザーインタラクション**</span> は、マウスを動かしたり画面をクリックしたりするユーザーにプロジェクトがどのように反応するかを意味します。 
 </p>
 
 ### 目に対するコードを書きましょう
