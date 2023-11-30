@@ -75,9 +75,9 @@ Click on the backdrop and the eyeballs:
 
 ### Πάρε ιδέες 💭
 
-Design and create a silly eye character 👀. The character's large, silly eyes will follow the mouse pointer to bring your character to life. To get more ideas, **See inside** example projects in the 'Silly eyes — Examples' Scratch studio: https://scratch.mit.edu/studios/29029028
+Σχεδίασε και δημιούργησε έναν χαρακτήρα με αστεία μάτια 👀. Τα μεγάλα, αστεία μάτια του χαρακτήρα θα ακολουθούν τον δείκτη του ποντικιού για να ζωντανέψουν τον χαρακτήρα σου. Για να πάρεις περισσότερες ιδέες, **Δες μέσα** παραδείγματα έργων στο στούντιο 'Silly eyes - Examples' Scratch: https://scratch.mit.edu/studios/29029028
 
-![The 'Gobo watching' project.](images/gobo-watching.png) ![The 'Don't eat donut' project.](images/dont-eat-donut.png) ![The 'Sporg' project.](images/sporg.png)
+![Το έργο «Ο Gobo παρακολουθεί».](images/gobo-watching.png) ![Το έργο «Μην τρως ντόνατ».](images/dont-eat-donut.png) ![Το έργο «Sporg».](images/sporg.png)
 
 --- /print-only ---
 
