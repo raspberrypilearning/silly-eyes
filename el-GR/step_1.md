@@ -59,9 +59,9 @@
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/772759744/?autostart=false" frameborder="0"></iframe>
 </div>
 
-**⭐ Silly goalie glove by NinjaTR3R** (featured community project)
+**⭐ Αστείο γάντι τερματοφύλακα by NinjaTR3R** (επιλεγμένο έργο της κοινότητας)
 
-Click on the backdrop and the eyeballs:
+Κάνε κλικ στο υπόβαθρο και στα μάτια:
 
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/877343292/?autostart=false" frameborder="0"></iframe>
