@@ -1,23 +1,23 @@
-## Upgrade your project
+## حدث مشروعك
 
-If you have time, you can upgrade your project.
+إذا كان لديك الوقت ، يمكنك ترقية مشروعك.
 
 ### Add Stage effects
 
-Make your project do something when you click on the **Stage**.
+اجعل مشروعك يعمل شيئا عند الضغط على الشخصية.
 
-![The Stage with graphic effects.](images/stage-effects.png){:width="300px"}
+![المرحلة مع تأثيرات رسومية.](images/stage-effects.png){:width="300px"}
 {:width="300px"}
 
 --- task ---
 
 Click on the Stage pane and then on the **Code** tab to add code to the **Stage**.
 
-**Choose:** Choose what you want to change when the **Stage** is clicked.
+**اختر:** اختر ما تريد تغييره عند النقر **الشخصية**.
 
 --- collapse ---
 ---
-title: Change graphic effects when the Stage is clicked
+title: تغيير تأثيرات الرسوم عند النقر فوق الكائن
 ---
 
 ```blocks3
@@ -29,7 +29,7 @@ change [color v] effect by [25]
 
 --- collapse ---
 ---
-title: Switch backdrop when the Stage is clicked
+title: تبديل الخلفية عند النقر فوق الشخصية
 ---
 
 ```blocks3
@@ -41,24 +41,24 @@ next backdrop
 
 --- /task ---
 
-### Add more
+### اضف المزيد
 
-You could also add:
-- More body parts
+يمكنك أيضا أضافه:
+- المزيد من أجزاء الجسم
 - More sprites with silly eyes
-- More backdrops
-- More accessories, or add more costumes to your accessories
+- المزيد من الخلفيات
+- أضف المزيد من الملحقات ، أو أضف المزيد من المظاهر إلى الملحقات الخاصة بك
 
 This **Sporg** character also has arms that `point towards the mouse pointer`{:class="block3motion"}.
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="" frameborder="0"></iframe>
 </div>
 
-If you add other body parts, you will need to centre them at the point that you want them to rotate from. For example, an arm would rotate from the shoulder.
+إذا قمت بإضافة أجزاء أخرى من الجسم ، فستحتاج إلى توسيطها عند النقطة التي تريد تدويرها منها. على سبيل المثال ، يدور الذراع من الكتف.
 
 [[[scratch-crosshair]]]
 
-### Get ideas
+### احصل على افكار
 
 --- task ---
 
