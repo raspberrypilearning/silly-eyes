@@ -4,13 +4,13 @@ If you are following the [Introduction to Scratch](https://projects.raspberrypi.
 
 --- print-only ---
 
-![A 'Surprise! animation' project.](images/surprise-story.png)
+![مفاجأة! مشروع الرسوم المتحركة.](images/surprise-story.png)
 
 --- /print-only ---
 
 --- no-print ---
 
-Click on the green flag to watch the animation:
+اضغط على العلم الأخضر لمشاهدة الرسوم المتحركة:
 
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/495932563/?autostart=false" frameborder="0"></iframe>
@@ -18,5 +18,5 @@ Click on the green flag to watch the animation:
 
 --- /no-print ---
 
-If you want to have more fun exploring Scratch, then you could try out any of [these projects](https://projects.raspberrypi.org/en/projects?software%5B%5D=scratch&curriculum%5B%5D=%201).
+إذا كنت ترغب في الحصول على مزيد من المتعة في استكشاف Scratch ، فيمكنك تجرِبة أي من [هذه المشروعات](https://projects.raspberrypi.org/en/projects?software%5B%5D=scratch&curriculum%5B%5D=%201).
 
