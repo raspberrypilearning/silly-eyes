@@ -1,10 +1,10 @@
 ## You will make
 
-Design and create a silly eyes character 👀. ستتبع عيون الشخصية الكبيرة المضحكة مؤشر الماوس لجلب الحيوية على شخصيتك.
+في هذا المشروع ، ستقوم بتصميم وإنشاء شخصية عيون مضحكة متحركة. The character's large, silly eyes will follow the mouse pointer to bring your character to life.
 
 ![Examples of projects.](images/showcase-line.png)
 
-سوف تفعلها:
+You will:
 
 + Make a project that is fun to play with
 + Create your own character
@@ -12,7 +12,7 @@ Design and create a silly eyes character 👀. ستتبع عيون الشخصي�
 
 --- no-print ---
 
-### Play ▶️
+### تشغيل
 
 --- task ---
 
