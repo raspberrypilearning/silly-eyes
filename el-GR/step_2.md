@@ -6,7 +6,7 @@
 </div>
 <div>
 
-! [Ένας μεγάλος χαρακτήρας.] (Images/character.png){:width="300px"}    
+![Ένας μεγάλος χαρακτήρας.](images/character.png){:width="300px"}    
 
 </div>
 </div>
