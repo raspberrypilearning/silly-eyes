@@ -1,31 +1,31 @@
-## You will make
+## Co będziesz robić
 
-Design and create a silly eyes character 👀. The character's large, silly eyes will follow the mouse pointer to bring your character to life.
+Zaprojektujesz i stworzysz postać z głupkowatymi oczami 👀. Duże, śmieszne oczy postaci będą podążać za wskaźnikiem myszy, dzięki czemu Twoja postać będzie sprawiała wrażenie żywej.
 
-![Examples of projects.](images/showcase-line.png)
+![Przykłady projektów.](images/showcase-line.png)
 
-You will:
+Co zrobisz:
 
-+ Make a project that is fun to play with
-+ Create your own character
-+ Code your project using **sprites, scripts and loops**
++ Stworzysz projekt, z którym będziesz się dobrze bawić
++ Stworzysz swoją własną postać
++ Zakodujesz swój projekt za pomocą **duszków, skryptów i pętli**
 
 --- no-print ---
 
-### Play ▶️
+### Zagraj ▶️
 
 --- task ---
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 175px; flex-grow: 1">  
 
-**Gobo watching**: [See inside](https://scratch.mit.edu/projects/495141114/editor){:target="_blank"}
+**Gobo patrzy**: [Zobacz zawartość](https://scratch.mit.edu/projects/495141114/editor){:target="_blank"}
 
-Move the mouse (or if you are using a tablet, move your finger) around the Stage. 
+Poruszaj myszką (lub, jeśli używasz tabletu, przesuń palcem) po scenie. 
 
-What happens when you move between Gobo's eyes? 
+Co się dzieje, gdy poruszasz myszką pomiędzy oczami Gobo? 
   
-What happens when you click on different parts of the project?
+Co się stanie, gdy klikniesz różne części sceny?
 </div>
 <div>
 
@@ -37,13 +37,13 @@ What happens when you click on different parts of the project?
 
 --- /task ---
 
-### Get ideas 💭
+### Zdobądź pomysły 💭
 
 --- task ---
 
-Play with these example projects to get ideas:
+Zapoznaj się z tymi przykładowymi projektami, aby zdobyć więcej pomysłów:
 
-⭐ Share your finished Silly eyes project for a chance of it being featured here.
+⭐ Udostępnij swój ukończony projekt animacji Głupkowate oczy, aby mieć szansę na zaprezentowanie go tutaj.
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="" frameborder="0"></iframe>
 </div>
@@ -51,17 +51,17 @@ Play with these example projects to get ideas:
   <iframe allowtransparency="true" width="485" height="402" src="" frameborder="0"></iframe>
 </div>
 
-**⭐ Silly pufferfish** (featured community project)
+**⭐ Śmieszna ryba rozdymka** (wyróżniony projekt społeczności)
 
-Click on the pufferfish, hat, scarf, backdrop and the eyeballs:
+Kliknij rozdymkę, czapkę, szalik, tło i oczy:
 
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/772759744/?autostart=false" frameborder="0"></iframe>
 </div>
 
-**⭐ Silly goalie glove by NinjaTR3R** (featured community project)
+**⭐ Śmieszna rękawica bramkarska autorstwa NinjaTR3R** (wyróżniony projekt społeczności)
 
-Click on the backdrop and the eyeballs:
+Kliknij tło i gałki oczne:
 
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/877343292/?autostart=false" frameborder="0"></iframe>
@@ -73,11 +73,11 @@ Click on the backdrop and the eyeballs:
 
 --- print-only ---
 
-### Get ideas 💭
+### Zdobądź pomysły 💭
 
-Design and create a silly eye character 👀. The character's large, silly eyes will follow the mouse pointer to bring your character to life. To get more ideas, **See inside** example projects in the 'Silly eyes — Examples' Scratch studio: https://scratch.mit.edu/studios/29029028
+Zaprojektuj i stwórz postać ze śmiesznymi oczami 👀. Duże, śmieszne oczy postaci będą podążać za wskaźnikiem myszy, dzięki czemu Twoja postać będzie sprawiała wrażenie żywej. Aby znaleźć więcej pomysłów, **Zajrzyj do środka** przykładowych projektów w studiu Scratch „Głupkowate oczy — Przykłady”: https://scratch.mit.edu/studios/29029028
 
-![The 'Gobo watching' project.](images/gobo-watching.png) ![The 'Don't eat donut' project.](images/dont-eat-donut.png) ![The 'Sporg' project.](images/sporg.png)
+![Projekt „Gobo patrzy”.](images/gobo-watching.png) ![Projekt „Nie jedz pączka”.](images/dont-eat-donut.png) ![Projekt „Sporg”.](images/sporg.png)
 
 --- /print-only ---
 
