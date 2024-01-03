@@ -1,11 +1,11 @@
 --- question ---
 ---
-legend: Question 3 of 3
+legend: Pytanie 3 z 3
 ---
 
-<span style="color: #0faeb0">**User interaction**</span> is how the project reacts to the user. The 'Silly eyes' project that you have made probably has lots of <span style="color: #0faeb0">**user interaction**</span>!
+<span style="color: #0faeb0">**Interakcja z użytkownikiem**</span> to reakcja projektu na działania użytkownika. Tworzony przez Ciebie projekt „Głupkowate oczy” prawdopodobnie ma dużo <span style="color: #0faeb0">**interakcji z użytkownikiem**</span>!
 
-Which of these scripts allows user interaction after the program has started?
+Który z tych skryptów umożliwia interakcję z użytkownikiem po uruchomieniu programu?
 
 --- choices ---
 
@@ -17,7 +17,7 @@ clear graphic effects
 
   --- feedback ---
 
-The graphic effects are cleared after the timer reaches 10. The user does not have to do anything, so there is no user interaction.
+Efekty graficzne są usuwane, gdy licznik osiągnie 10. Użytkownik nie musi nic robić, więc nie ma z nim interakcji.
 
   --- /feedback ---
 - ( )
@@ -28,7 +28,7 @@ say [hello] for (2) seconds
 
   --- feedback ---
 
-The sprite says "hello" after the backdrop switches. The user does not have to do anything, so there is no user interaction.
+Sprite mówi „cześć” po zmianie tła. Użytkownik nie musi nic robić, więc nie ma z nim interakcji.
 
   --- /feedback ---
 - (x)
@@ -39,16 +39,16 @@ change [color v] effect by (25)
 
   --- feedback ---
 
-The user has to click on the sprite to change the colour. This is user interaction.
+Użytkownik musi kliknąć duszka, aby zmienić kolor. To jest interakcja z użytkownikiem.
 
   --- /feedback ---
 
 
-- ( ) Give me a clue.
+- ( ) Daj mi podpowiedź.
 
   --- feedback ---
 
- User interaction is how the project reacts to the user doing things such as moving the mouse and clicking on the screen.
+ Interakcja z użytkownikiem to sposób, w jaki projekt reaguje na wykonywanie przez użytkownika takich czynności, jak poruszanie myszą i klikanie na ekranie.
 
   --- /feedback ---
 
