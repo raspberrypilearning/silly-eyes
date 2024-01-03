@@ -1,16 +1,16 @@
-## What next?
+## E adesso?
 
-If you are following the [Introduction to Scratch](https://projects.raspberrypi.org/en/pathways/scratch-intro) pathway, you can move on to the [Surprise! animation](https://projects.raspberrypi.org/en/projects/surprise-animation) project. In this project, you will make an animation of a story with a surprise.
+Se stai seguendo il percorso [Introduzione a Scratch](https://projects.raspberrypi.org/en/pathways/scratch-intro) puoi passare al progetto [Sorpresa! animazione](https://projects.raspberrypi.org/en/projects/surprise-animation). In questo progetto realizzerai un'animazione di una storia con una sorpresa.
 
 --- print-only ---
 
-![A 'Surprise! animation' project.](images/surprise-story.png)
+![Una sorpresa! animazione.](images/surprise-story.png)
 
 --- /print-only ---
 
 --- no-print ---
 
-Click on the green flag to watch the animation:
+Clicca sulla bandierina verde per vedere l'animazione:
 
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/495932563/?autostart=false" frameborder="0"></iframe>
@@ -18,5 +18,5 @@ Click on the green flag to watch the animation:
 
 --- /no-print ---
 
-If you want to have more fun exploring Scratch, then you could try out any of [these projects](https://projects.raspberrypi.org/en/projects?software%5B%5D=scratch&curriculum%5B%5D=%201).
+Se vuoi divertirti ancora di più esplorando Scratch, puoi provare uno qualsiasi di [questi progetti](https://projects.raspberrypi.org/en/projects?software%5B%5D=scratch&curriculum%5B%5D=%201).
 
