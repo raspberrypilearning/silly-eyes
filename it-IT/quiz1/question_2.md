@@ -1,9 +1,9 @@
 --- question ---
 ---
-legend: Question 2 of 3
+legend: Domanda 2 di 3
 ---
 
-To make the rocket interactive, the **rocket** sprite has this script:
+Per rendere interattivo il razzo, lo sprite **rocket** ha questo script:
 
 ```blocks3
 when flag clicked
@@ -13,39 +13,39 @@ point towards (mouse-pointer v)
 end
 ```
 
-Which **rocket** costume should we use so that the top of the rocket will point towards the mouse pointer?
+Quale costume **rocket** dovremmo usare in modo che la parte superiore del razzo punti verso il puntatore del mouse?
 
 --- choices ---
 
-- ( ) ![A rocket pointing to the left-hand side.](images/rocket_left.png)
+- ( ) ![Un razzo che punta verso il lato sinistro.](images/rocket_left.png)
 
   --- feedback ---
 
-If the rocket is pointing to the left-hand side, the rocket will be facing the opposite direction to (away from) the mouse pointer when it rotates.
+Se il razzo punta verso il lato sinistro, il razzo sarà rivolto nella direzione opposta (lontano dal) puntatore del mouse quando ruoterà.
 
   --- /feedback ---
 
-- ( ) ![A rocket facing down.](images/rocket_down.png)
+- ( ) ![Un razzo rivolto verso il basso.](images/rocket_down.png)
 
   --- feedback ---
 
-If the rocket is facing down, it will be facing a different direction to the mouse pointer when it rotates.
+Se il razzo è rivolto verso il basso, sarà rivolto in una direzione diversa rispetto al puntatore del mouse quando ruoterà.
 
   --- /feedback ---
 
-- (x) ![A rocket pointing to the right-hand side.](images/rocket_right.png)
+- (x) ![Un razzo che punta verso il lato destro.](images/rocket_right.png)
 
   --- feedback ---
 
-If the rocket is pointing to the right-hand side, the rocket is in the default position for correctly pointing towards your mouse pointer if the rotation style is set to `all around`{:class="block3motion"}.
+Se il razzo punta verso destra, il razzo è nella posizione predefinita per puntare correttamente verso il puntatore del mouse se lo stile di rotazione è impostato su `può ruotare`{:class="block3motion"}.
 
   --- /feedback ---
 
-- ( ) ![A rocket facing up.](images/rocket_up.png)
+- ( ) ![Un razzo rivolto verso l'alto.](images/rocket_up.png)
 
   --- feedback ---
 
-If the rocket is facing up, it will be facing a different direction to the mouse pointer when it rotates.
+Se il razzo è rivolto verso l'alto, sarà rivolto in una direzione diversa rispetto al puntatore del mouse quando ruoterà.
 
   --- /feedback ---
 
