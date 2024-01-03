@@ -1,93 +1,93 @@
-## Make silly eyes
+## Zrób śmieszne oczy
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-Make the silly eyes! Each eye needs to be a separate sprite so that it can move separately.
+Zrób śmieszne oczy! Każde oko musi być osobnym duszkiem, aby mogły się poruszać niezależnie.
 
 </div>
 <div>
 
-![A character with silly eyes.](images/character-with-eyes.png)
+![Postać ze śmiesznymi oczami.](images/character-with-eyes.png)
 {:width="300px"}  
 
 </div>
 </div>
 
-### Draw an eyeball
+### Narysuj gałkę oczną
 
 --- task ---
 
-Use the **Paint** option to create a new **sprite**.
+Użyj opcji **Maluj**, aby utworzyć nowego **duszka**.
 
-![The 'Paint' option in the 'Choose a Sprite' menu.](images/paint-a-sprite.png)
+![Opcja „Maluj” w menu „Wybierz duszka”.](images/paint-a-sprite.png)
 
-The Paint editor will open, which will allow you to create your **Eyeball** sprite's costume.
+Otworzy się edytor Paint, który pozwoli ci stworzyć kostium Twojego duszka **Oko**.
 
 --- /task ---
 
-It is really important that:
-- The black pupil and coloured iris face to the right-hand side of the **Eyeball** costume
-- The **Eyeball** costume is centred
+Bardzo ważne jest, aby:
+- Czarna źrenica i kolorowa tęczówka były skierowane w prawą stronę kostiumu **Oko**
+- Kostium **Oko** był wyśrodkowany
 
 --- task ---
 
-**Choose:** Draw an eyeball **or** start from a round sprite.
+**Wybierz:** Narysuj gałkę oczną **lub** zacznij od okrągłego duszka.
 
-![Example eyeballs. One drawn from scratch, another taken from the beachball and the third from a baseball.](images/make-an-eye.png)
+![Przykładowe oczy. Jedno narysowane od podstaw, drugie to przekształcona piłka plażowa, a trzecie to przekształcona piłka baseballowa.](images/make-an-eye.png)
 
 --- collapse ---
 ---
-title: Draw an eyeball in the Paint editor
+title: Narysuj gałkę oczną w edytorze Paint
 ---
 
-Select the **Circle** tool.
+Wybierz narzędzie **Okrąg**.
 
-To draw a perfect circle, press and hold the <kbd>Shift</kbd> key on the keyboard while you draw with the **Circle** tool. If you are using a tablet, try to get as close to a perfect circle as you can.
+Aby narysować idealne koło, naciśnij i przytrzymaj klawisz <kbd>Shift</kbd> na klawiaturze podczas rysowania za pomocą narzędzia **Okrąg**. Jeśli używasz tabletu, spróbuj jak najbardziej zbliżyć się kształtem do idealnego okręgu.
 
-In this example, we set the **Outline** to black and the **Fill** colour of the eyeball to white:
+W tym przykładzie ustawiamy kolor **Zarys** na czarny, a kolor **Wypełnij** na biały:
 
-![A white eyeball with a black outline.](images/eyeball-outline.png)
+![Białe oko z czarną obwódką.](images/eyeball-outline.png)
 
-Use the **Fill** and **Outline** colour choosers to choose colours. To make black, slide both the **Saturation** and **Brightness** to `0`. To make white, slide the **Saturation** to `0` and the **Brightness** to `100`.
+Skorzystaj z okienek wyboru koloru dla **Wypełnij** i **Zarys** aby wybrać kolory. Aby uzyskać czerń, ustaw zarówno **Nasycenie** jak i **Jasność** na `0`. Aby uzyskać biel, ustaw **Nasycenie** na `0` i **Jasność** na `100`.
 
-![Saturation and brightness sliders set to 0.](images/black-colour.png) ![Saturation and brightness sliders set to 100.](images/white-colour.png)
+![Suwaki nasycenia i jasności ustawione na 0.](images/black-colour.png) ![Suwaki nasycenia i jasności ustawione na 100.](images/white-colour.png)
 
-Make sure that the eyeball is centred — move it so that the blue cross in the costume lines up with the grey crosshair in the Paint editor.
+Upewnij się, że gałka oczna jest wyśrodkowana — przesuń ją tak, aby niebieski krzyżyk w kostiumie zrównał się z szarym celownikiem w edytorze Paint.
 
-![An animated image of a circle costume being dragged from the top left to fit with the circles centre over the crosshair icon.](images/eye-centre.gif)
+![Animowany obraz kostiumu w kształcie koła przeciąganego z lewego górnego rogu, tak aby koła znajdowały się na środku ikony celownika.](images/eye-centre.gif)
 
-Draw a smaller perfect circle and position it on the right-hand side of the eyeball:
+Narysuj mniejsze, również idealne koło i umieść je po prawej stronie gałki ocznej:
 
-![An eyeball with a red iris and black pupil on the right-hand side.](images/eyeball-with-iris.png)
+![Oko z czerwoną tęczówką i czarną źrenicą po prawej stronie.](images/eyeball-with-iris.png)
 
-You could also draw circles inside circles, or use colour, to get different effects.
+Możesz także narysować koła wewnątrz innych kół lub użyć koloru, aby uzyskać różne efekty.
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: Turn a round costume into an eyeball
+title: Zamień okrągły kostium w gałkę oczną
 ---
 
-There are costumes in Scratch that you can edit to make silly eyes for your character.
+W Scratch znajdują się kostiumy, które możesz edytować, aby zrobić oczy dla swojej postaci.
 
-![Existing Scratch costumes as eyeballs.](images/costume-eyes.gif)
+![Istniejące kostiumy Scratch jako oczy.](images/costume-eyes.gif)
 
-Click on the **Choose a Costume** icon to see the library Scratch costumes.
+Kliknij ikonę **Wybierz kostium**, aby zobaczyć bibliotekę kostiumów Scratch.
 
-![The Choose a Costume icon.](images/choose-a-costume.png)
+![Ikona 'Wybierz kostium'.](images/choose-a-costume.png)
 
-Click on the costume you want to add to your sprite.
+Kliknij kostium, który chcesz dodać do Twojego duszka.
 
-Use the Paint editor to change the costume. You could add circles, choose a different **Fill** colour, or remove parts of the costume to turn it into a silly eye.
+Użyj edytora Paint, aby zmodyfikować kostium. Możesz dodać kółka, wybrać inny kolor w polu **Wypełnij** lub usunąć części kostiumu, aby zmienić go w śmieszne oko.
 
-Make sure that the eyeball is centred — move it so that the blue cross in the costume lines up with the grey crosshair in the Paint editor.
+Upewnij się, że gałka oczna jest wyśrodkowana — przesuń ją tak, aby niebieski krzyżyk w kostiumie zrównał się z szarym celownikiem w edytorze Paint.
 
-![An animated image of a ball costume being dragged from the top left to fit with the balls centre over the crosshair icon.](images/crosshair-centre.gif)
+![Animowany obraz kostiumu w kształcie kuli przeciąganego z lewego górnego rogu, tak aby znalazł się na środku ikony celownika.](images/crosshair-centre.gif)
 
-**Tip:** The black pupil and coloured iris need to be positioned on the right-hand side of the costume so that the **Eyeball** follows the mouse pointer.
+**Wskazówka:** Czarna źrenica i kolorowa tęczówka muszą być umieszczone po prawej stronie kostiumu tak, aby **Oko** podążało za kursorem myszy.
 
-![The Paint editor showing an edited button1 costume.](images/button-eye.png)
+![Edytor Paint przedstawiający zedytowany kostium button1.](images/button-eye.png)
 
 --- /collapse ---
 
@@ -95,33 +95,33 @@ Make sure that the eyeball is centred — move it so that the blue cross in the 
 
 --- task ---
 
-Name your sprite `Eyeball` in the Sprite pane.
+Nazwij swojego duszka `Oko` w panelu Duszka.
 
-![The sprite's name set to 'Eyeball' in the Sprite pane.](images/eyeball-name.png)
+![Nazwa duszka ustawiona na „Oko” w panelu duszka.](images/eyeball-name.png)
 
 --- /task ---
 
 --- task ---
 
-Drag the **Eyeball** sprite to position it on the Stage, and change its size to fit your character.
+Przeciągnij duszka **Oko** aby umieścić go na scenie, i zmień jego rozmiar, aby dopasować go do swojej postaci.
 
 --- /task ---
 
-Now, make the eyeball look at the `mouse-pointer`{:class="block3motion"} so that the user can interact with your project.
+Teraz spraw, aby oko patrzyło na `wskaźnik myszy`{:class="block3motion"}, aby użytkownik mógł wchodzić w interakcję z Twoim projektem.
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-<span style="color: #0faeb0">**User**</span> means the person using the project (not just making it), and <span style="color: #0faeb0">**user interaction**</span> is how the project reacts to the user doing things such as moving the mouse and clicking on the screen. 
+<span style="color: #0faeb0">**Użytkownik**</span> oznacza osobę korzystającą z projektu (a nie tylko go tworzącą), a <span style="color: #0faeb0">**interakcja z użytkownikiem**</span> to reakcja projektu na wykonywanie przez użytkownika takich czynności, jak poruszanie myszą i klikanie na ekranie. 
 </p>
 
-### Code your eyeball
+### Zakoduj swoje oko
 
 --- task ---
 
-Add a script to `set the rotation style`{:class="block3motion"} to `all around`{:class="block3motion"} to make the eyeball `point towards the mouse pointer`{:class="block3motion"} `forever`{:class="block3control"}.
+Dodaj skrypt, aby `ustawić styl obrotu na`{:class="block3motion"} `dookoła`{:class="block3motion"}, dzięki czemu oko będzie `zawsze`{:class="block3control"} `ustawione w kierunku duszka wskaźnik myszy`{:class="block3motion"}.
 
 --- collapse ---
 ---
-title: Make a sprite point towards the mouse pointer
+title: Spraw, aby duszek był skierowany w kierunku wskaźnika myszy
 ---
 
 ```blocks3
@@ -136,79 +136,79 @@ end
 
 --- /task ---
 
-### Add another eyeball
+### Dodaj kolejne oko
 
 --- task ---
 
-To add another eye, right-click (or on a tablet, tap and hold) on the **Eyeball** sprite in the Sprite list and choose **duplicate**.
+Aby dodać kolejne oko, kliknij prawym przyciskiem myszy (lub na tablecie dotknij i przytrzymaj) duszka **Oko** na liście duszków i wybierz **duplikuj**.
 
-![Example eyeballs in pairs. One drawn from scratch and another made from the ball sprite.](images/duplicate-eyes.png)
+![Przykładowe oczy w parach. Pierwsze narysowane od podstaw, a drugie wykonany z duszka w kształcie kuli.](images/duplicate-eyes.png)
 
 [[[scratch3-duplicate-sprite]]]
 
 --- /task ---
 
-### Test your silly eyes
+### Przetestuj swoje śmieszne oczy
 
 --- task ---
 
-**Test:** Click on the green flag and test your project. Do the silly eyes follow your mouse pointer as you move the mouse around?
+**Test:** Kliknij zieloną flagę i przetestuj swój projekt. Czy głupkowate oczy podążają wzrokiem za wskaźnikiem myszy, gdy nim poruszasz?
 
-**Tip:** You don't have to keep the mouse pointer on the Stage. The eyes will follow your mouse pointer as you carry on coding in Scratch.
+**Wskazówka:** Wskaźnik myszy nie musi znajdować się tylko na scenie. Oczy będą podążać wzrokiem za wskaźnikiem myszy podczas kodowania w Scratchu.
 
 --- /task ---
 
 --- task ---
 
-**Debug:** You might find some bugs in your project that you need to fix. Here are some common bugs:
+**Debugowanie:** Być może znajdziesz błędy w swoim projekcie, które musisz naprawić. Oto kilka częstych błędów:
 
 --- collapse ---
 ---
-title: The eyes do not move
+title: Oczy się nie poruszają
 ---
 
-Make sure that you have added the code to the **Eyeball** sprites and **clicked on the green flag**. Your code will not run until you click on the green flag.
+Upewnij się, że kod został dodany do duszków **Oko** i, że **zielona flaga została kliknięta**. Twój kod nie zostanie uruchomiony, dopóki nie klikniesz zielonej flagi.
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: The eyes point away from the mouse
+title: Oczy są odwrócone od wskaźnika myszy
 ---
 
-In the **Eyeball** costumes, check that the pupil is on the right-hand side (past the blue cross in the middle of the costume).
+W kostiumach duszka **Oko** sprawdź, czy źrenica znajduje się po prawej stronie (za niebieskim krzyżykiem na środku kostiumu).
 
-The **Eyeball** sprites have the `all around`{:class="block3motion"} `rotation style`{:class="block3motion"}, so they can rotate in any direction.
+Duszki **Oko** mają ustawiony `styl obrotu na`{:class="block3motion"} `dookoła`{:class="block3motion"}, więc mogą obracać się w dowolnym kierunku.
 
-When the **Eyeballs** rotate to `point towards`{:class="block3motion"} the `mouse-pointer`{:class="block3motion"}, the pupils will be closest to the mouse pointer.
+Kiedy duszki **Oko** obracają się, aby `ustawić się w kierunku duszka`{:class="block3motion"} `wskaźnik myszy`{:class="block3motion"}, źrenice będą najbliżej wskaźnika myszy.
 
-![Placing the pupil on the right-hand side of an eyeball costume.](images/eye-right.gif)
+![Umieszczenie źrenicy po prawej stronie kostiumu oka.](images/eye-right.gif)
 
-![An eyeball costume with the pupil on the right-hand side.](images/eye-costume.png)
+![Kostium oka ze źrenicą po prawej stronie.](images/eye-costume.png)
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: The eyes jump around the Stage
+title: Oczy skaczą po scenie
 ---
 
-Check that the **Eyeball** costumes are centred. To centre a costume, drag the costume so that the blue cross in the costume lines up with the grey crosshair in the Paint editor.
+Sprawdź, czy kostium duszka **Oko** jest wyśrodkowany. Aby wyśrodkować kostium, przeciągnij go tak, aby niebieski krzyżyk w kostiumie zrównał się z szarym krzyżykiem w edytorze Paint.
 
-![Centring an eyeball costume in the Paint editor.](images/eye-centered.gif)
+![Wyśrodkowanie kostiumu oka w edytorze Paint.](images/eye-centered.gif)
 
-![An eyeball costume centred in the Paint editor.](images/eye-costume.png)
+![Kostium oka wyśrodkowany w edytorze Paint.](images/eye-costume.png)
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: The character is in front of the eyes
+title: Postać jest przed oczami
 ---
 
-When you drag a sprite to position it on the Stage, it moves in front of the other sprites.
+Kiedy przeciągasz duszka w celu umieszczenia go na scenie, ustawia się on przed innymi duszkami.
 
-To get your **character** sprite to stay at the `back`{:class="block3looks"}, use:
+Aby duszek Twojej **postaci** pozostał `na spodzie`{:class="block3looks"}, użyj:
 
 ```blocks3
 when green flag clicked
@@ -220,32 +220,32 @@ go to [back v] layer // behind all other sprites
 
 --- collapse ---
 ---
-title: The character and the eyes follow the mouse pointer
+title: Postać i oczy podążają za wskaźnikiem myszy
 ---
 
-Did you add the eyes as costumes for your **character** instead of as costumes for separate sprites? You can fix that.
+Czy oczy nie zostały przypadkiem dodane jako kostiumy dla Twojej **postaci** zamiast jako kostiumy dla oddzielnych duszków? Jeśli tak, możesz to naprawić.
 
-One way to fix it is to duplicate the **character** sprite and then rename the copy `Eyeball`. Then, delete the **Eyeball** costumes from the **character** sprite, and delete the **character** costumes from the **Eyeball** sprite. Then, you can duplicate the **Eyeball** sprite and name the copy `Eyeball 2`.
+Jednym ze sposobów rozwiązania tego problemu jest zduplikowanie duszka **postaci**, a następnie zmiana nazwy kopii na `Oko`. Następnie usuń kostiumy **Oko** z duszka **postaci** i usuń kostiumy **postaci** z duszka **Oko**. Następnie możesz zduplikować duszka **Oko** i nazwać kopię `Oko 2`.
 
-The code to `point towards`{:class="block3motion"} the `mouse-pointer`{:class="block3motion"} should be on the **Eyeball** sprites and not the **character** sprite.
+Kod służący do `ustawiania się w kierunku duszka`{:class="block3motion"} `wskaźnik myszy `{:class="block3motion"} powinien znajdować się w duszkach **Oko**, a nie w duszku **postaci**.
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: The character follows the mouse pointer (and the eyes do not)
+title: Postać podąża za wskaźnikiem myszy (a oczy nie)
 ---
 
-You need to add the `point towards`{:class="block3motion"} code to the individual **Eyeball** sprites, not your **character** sprite!
+Musisz dodać polecenie `ustaw w kierunku duszka`{:class="block3motion"} do poszczególnych duszków **Oko**, a nie duszka Twojej **postaci**!
 
-To copy the code, you can drag the code from the Code area for your **character** to the **Eyeball** sprites in the Sprite list.
+Aby skopiować kod, możesz przeciągnąć kod z obszaru kodu swojej **postaci** do duszków **Oko** na liście duszków.
 
-You will also need to delete the script from the **character** sprite. To do this, drag the script to the Blocks menu.
+Trzeba będzie także usunąć skrypt z duszka **postaci**. Aby to zrobić, przeciągnij skrypt do menu z blokami.
 
 --- /collapse ---
 
-You might find a bug that is not listed here. Can you work out how to fix it?
+Możesz też znaleźć błąd, który nie został tutaj wymieniony. Może wymyślisz, jak go naprawić?
 
-We love hearing about your bugs and how you fixed them. Use the **Send feedback** button at the bottom of this page and tell us if you found a different bug in your project.
+Uwielbiamy dowiadywać się o napotkanych przez Ciebie błędach i wymyślonych przez Ciebie sposobach poradzenia sobie z nimi. Użyj przycisku **Prześlij opinię** na dole tej strony i poinformuj nas, czy w Twoim projekcie pojawił się inny błąd.
 
 --- /task ---
