@@ -1,9 +1,9 @@
 --- question ---
 ---
-legend: Question 2 of 3
+legend: Pytanie 2 z 3
 ---
 
-To make the rocket interactive, the **rocket** sprite has this script:
+Aby uczynić rakietę interaktywną, duszek **rakieta** ma następujący skrypt:
 
 ```blocks3
 when flag clicked
@@ -13,39 +13,39 @@ point towards (mouse-pointer v)
 end
 ```
 
-Which **rocket** costume should we use so that the top of the rocket will point towards the mouse pointer?
+Którego kostiumu **rakieta** powinniśmy użyć, aby czubek rakiety był skierowany w stronę wskaźnika myszy?
 
 --- choices ---
 
-- ( ) ![A rocket pointing to the left-hand side.](images/rocket_left.png)
+- ( ) ![Rakieta skierowana w lewą stronę.](images/rocket_left.png)
 
   --- feedback ---
 
-If the rocket is pointing to the left-hand side, the rocket will be facing the opposite direction to (away from) the mouse pointer when it rotates.
+Jeśli rakieta jest skierowana w lewą stronę, to będzie ona zawsze skierowana w kierunku przeciwnym do (z dala od) wskaźnika myszy, gdy się obraca.
 
   --- /feedback ---
 
-- ( ) ![A rocket facing down.](images/rocket_down.png)
+- ( ) ![Rakieta skierowana w dół.](images/rocket_down.png)
 
   --- feedback ---
 
-If the rocket is facing down, it will be facing a different direction to the mouse pointer when it rotates.
+Jeśli rakieta jest skierowana w dół, podczas obrotu będzie skierowana w innym kierunku niż wskaźnik myszy.
 
   --- /feedback ---
 
-- (x) ![A rocket pointing to the right-hand side.](images/rocket_right.png)
+- (x) ![Rakieta skierowana w prawą stronę.](images/rocket_right.png)
 
   --- feedback ---
 
-If the rocket is pointing to the right-hand side, the rocket is in the default position for correctly pointing towards your mouse pointer if the rotation style is set to `all around`{:class="block3motion"}.
+Jeśli rakieta jest skierowana w prawą stronę, to jest ona w domyślnej pozycji do prawidłowego wskazywania wskaźnika myszy, jeśli styl obrotu jest ustawiony na `dookoła`{:class="block3motion"}.
 
   --- /feedback ---
 
-- ( ) ![A rocket facing up.](images/rocket_up.png)
+- ( ) ![Rakieta skierowana w górę.](images/rocket_up.png)
 
   --- feedback ---
 
-If the rocket is facing up, it will be facing a different direction to the mouse pointer when it rotates.
+Jeśli rakieta jest skierowana do góry, podczas obrotu będzie skierowana w innym kierunku niż wskaźnik myszy.
 
   --- /feedback ---
 
