@@ -1,27 +1,27 @@
-## Sprite effects
+## Efekty duszka
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-You can make your **character** sprite and **silly eye** sprites change their `Looks`{:class="block3looks"} when you click on them.
+Możesz sprawić, aby duszki **postaci** i **głupkowatego oka** zmieniały swój `Wygląd`{:class="block3looks"} po ich kliknięciu.
 </div>
 <div>
 
-![A character and eyes with graphic effects.](images/character-graphic-effects.png){:width="300px"}    
+![Postać i oczy z efektami graficznymi.](images/character-graphic-effects.png){:width="300px"}    
 
 </div>
 </div>
 
-### Silly eye effects
+### Efekty dla głupkowatych oczu
 
 --- task ---
 
-Add a `when this sprite clicked`{:class="block3events"} block to your **Eyeball** sprite.
+Dodaj blok `kiedy ten duszek kliknięty`{:class="block3events"} do swojego duszka **Oko**.
 
-Can you work out what code block you would put underneath to change your sprite's eye colour when you click on the **Eyeball** sprite?
+Czy potrafisz określić, jaki blok kodu należy umieścić pod spodem, aby zmienić kolor oczu duszka po kliknięciu duszka **Oko**?
 
 --- collapse ---
 ---
-title: Change graphic effects when the sprite is clicked
+title: Zmień efekty graficzne po kliknięciu duszka
 ---
 
 ```blocks3
@@ -35,47 +35,47 @@ change [color v] effect by (25)
 
 --- task ---
 
-If you want both eyeballs to have the same effect, you will need to copy your script to the **Eyeball 2** sprite.
+Jeśli chcesz, aby obie gałki oczne miały ten sam efekt, musisz skopiować skrypt do duszka **Oko 2**.
 
 [[[scratch3-copy-code]]]
 
 --- /task ---
 
-### Character effects
+### Efekty postaci
 
 --- task ---
 
-Click on your **character** sprite in the Sprite list, then click on the **Code** tab.
+Kliknij duszka **postać** na liście duszków, a następnie kliknij zakładkę **Skrypt**.
 
-Add the same script as you used to change the eye colour. Which graphic effects do you want to change for your **character**?
+Dodaj ten sam skrypt, którego użyliśmy do zmiany koloru oczu. Jakie efekty graficzne chcesz zmienić dla swojej **postaci**?
 
-**Choose:** Choose an effect in the drop-down menu within the `change color effect by`{:class="block3looks"} block. Experiment with the numbers and effects until you have a change that you like.
+**Wybierz:** Wybierz efekt z menu rozwijanego w bloku `zmień efekt kolor o`{:class="block3looks"}. Eksperymentuj z liczbami i efektami, aż uzyskasz pożądaną zmianę.
 
 [[[scratch3-graphic-effects]]]
 
 --- /task ---
 
-### An accessory
+### Akcesoria
 
-Now, add an **accessory**, such as a hat, that changes when you click on it — use the `next costume`{:class="block3looks"} block.
+Teraz dodaj **akcesoria**, takie jak kapelusz, które zmieniają się po kliknięciu — użyj bloku `następny kostium`{:class="block3looks"}.
 
 --- task ---
 
-**Choose:** Add an accessory change or costume change of your choice.
+**Wybierz:** Dodaj zmianę akcesorium lub zmianę kostiumu na taki, jaki chcesz.
 
-![Sprites with accessories.](images/accessory-sprite.png)
+![Duszki z akcesoriami.](images/accessory-sprite.png)
 
 --- collapse ---
 ---
-title: Make a sprite change costume when clicked
+title: Spraw, aby duszek zmieniał swój kostium po kliknięciu
 ---
 <div class="scratch-preview">
 <iframe allowtransparency="true" width="485" height="402" src="" frameborder="0"></iframe>
 </div>
 
-Some sprites already have a choice of costumes.
+Niektóre duszki mają już wybór kostiumów.
 
-You can add code to make a sprite's costume change to the `next costume`{:class="block3looks"} when you click on the sprite:
+Możesz dodać kod, aby zmienić kostium duszka na `następny kostium`{:class="block3looks"} po kliknięciu duszka:
 
 ```blocks3
 when this sprite clicked
@@ -84,7 +84,7 @@ next costume
 
 --- /collapse ---
 
-If your sprite does not have a choice of costumes, or you want to add more, you can add any costume to a sprite.
+Jeśli duszek nie ma możliwości wyboru kostiumów lub chcesz dodać ich więcej, możesz dodać do duszka dowolny kostium.
 
 [[[scratch3-add-costumes-to-a-sprite]]]
 
@@ -92,28 +92,28 @@ If your sprite does not have a choice of costumes, or you want to add more, you 
 
 --- task ---
 
-**Test:** Work on your sprites until they interact in the way that you want.
+**Test:** Pracuj nad swoimi duszkami, aż będą wchodzić w interakcje w pożądany sposób.
 
-**Tip:** Try one change at a time and test what it does so that you can easily spot each change and undo anything that you do not like.
+**Wskazówka:** Wypróbuj jedną zmianę i przetestuj jej działanie, aby móc łatwo wykryć każdą zmianę i cofnąć wszystko, co Ci się nie podoba.
 
 --- /task ---
 
 --- task ---
 
-**Debug:**
+**Debugowanie:**
 
-If you add code to the wrong sprite, you can fix that:
+Jeśli dodasz kod do niewłaściwego duszka, możesz to naprawić:
 
 [[[scratch3-copy-code]]]
 
-If you need to, you can reset the graphic effects:
+W razie potrzeby możesz zresetować efekty graficzne:
 
 --- collapse ---
 ---
-title: I don't want these graphic effects
+title: Nie chcę tych efektów graficznych
 ---
 
-To reset the graphic effects at any time, click on the `clear graphic effects`{:class="block3looks"} block in the `Looks`{:class="block3looks"} blocks menu. Clicking on the green flag also clears graphic effects.
+Aby w dowolnym momencie zresetować efekty graficzne, kliknij blok `wyczyść efekty graficzne`{:class="block3looks"} w menu bloków `Wygląd`{:class="block3looks"}. Kliknięcie zielonej flagi również usuwa efekty graficzne.
 
 ```blocks3
 clear graphic effects
@@ -124,14 +124,14 @@ clear graphic effects
 
 --- task ---
 
-**Test:** Test your project again, but this time, make it full-screen so that you can see how it will appear to someone looking at it.
+**Test:** Przetestuj swój projekt ponownie, ale tym razem uruchom go na pełnym ekranie, aby można było zobaczyć, jak będzie wyglądał dla kogoś, kto będzie chciał go obejrzeć.
 
 [[[scratch3-full-screen]]]
 
 --- /task ---
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-By making your project full-screen, you are seeing what you have made from the perspective of a user who is playing with your project. **User interaction** is important in digital making. 
+Wyświetlając swój projekt na pełnym ekranie, widzisz go z perspektywy użytkownika, który bawi się nim. **Interakcja z użytkownikiem** jest ważna w tworzeniu treści cyfrowych. 
 </p>
 
 
