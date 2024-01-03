@@ -1,23 +1,23 @@
-## Upgrade your project
+## Ulepsz swój projekt
 
-If you have time, you can upgrade your project.
+Jeśli masz czas, możesz ulepszyć swój projekt.
 
-### Add Stage effects
+### Dodaj efekty dla sceny
 
-Make your project do something when you click on the **Stage**.
+Spraw, aby Twój projekt coś zrobił, gdy klikniesz **scenę**.
 
-![The Stage with graphic effects.](images/stage-effects.png){:width="300px"}
+![Scena z efektami graficznymi.](images/stage-effects.png){:width="300px"}
 {:width="300px"}
 
 --- task ---
 
-Click on the Stage pane and then on the **Code** tab to add code to the **Stage**.
+Kliknij panel sceny, a następnie na zakładkę **Skrypt** aby dodać kod do **Sceny**.
 
-**Choose:** Choose what you want to change when the **Stage** is clicked.
+**Wybierz:** Wybierz, co chcesz zmienić po kliknięciu **Sceny**.
 
 --- collapse ---
 ---
-title: Change graphic effects when the Stage is clicked
+title: Zmień efekty graficzne po kliknięciu sceny
 ---
 
 ```blocks3
@@ -29,7 +29,7 @@ change [color v] effect by [25]
 
 --- collapse ---
 ---
-title: Switch backdrop when the Stage is clicked
+title: Przełącz tło po kliknięciu sceny
 ---
 
 ```blocks3
@@ -41,40 +41,40 @@ next backdrop
 
 --- /task ---
 
-### Add more
+### Dodaj więcej
 
-You could also add:
-- More body parts
-- More sprites with silly eyes
-- More backdrops
-- More accessories, or add more costumes to your accessories
+Możesz także dodać:
+- Więcej części ciała
+- Więcej duszków ze śmiesznymi oczami
+- Więcej teł
+- Więcej akcesoriów lub dodać więcej kostiumów do swoich akcesoriów
 
-This **Sporg** character also has arms that `point towards the mouse pointer`{:class="block3motion"}.
+Ta postać **Sporg** ma również ramiona skierowane w taki sposób, aby `ustawiały się w kierunku duszka wskaźnik myszy`{:class="block3motion"}.
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="" frameborder="0"></iframe>
 </div>
 
-If you add other body parts, you will need to centre them at the point that you want them to rotate from. For example, an arm would rotate from the shoulder.
+Jeśli dodasz inne części ciała, będzie trzeba wyśrodkować je w punkcie, od którego chcesz je obrócić. Na przykład ręka obracałaby się od ramienia.
 
 [[[scratch-crosshair]]]
 
-### Get ideas
+### Zdobądź pomysły
 
 --- task ---
 
-Each project in the ['Silly eyes — Examples' Scratch studio](https://scratch.mit.edu/studios/29029028){:target="_blank"} has a **See inside** link, which you can use to open the project in the Scratch editor and look at the code to get ideas and see how the project works.
+Każdy projekt w [studiu Scratch 'Głupkowate oczy — Przykłady'](https://scratch.mit.edu/studios/29029028){:target="_blank"} ma link **Zajrzyj do środka**, który możesz kliknąć, aby otworzyć projekt w edytorze Scratch i spojrzeć na jego kod, i w ten sposób uzyskać pomysły oraz zobaczyć, jak działa projekt.
 
 --- /task ---
 
 --- task ---
 
-Take a look at our ['Silly eyes — Community' Scratch studio](https://scratch.mit.edu/studios/29120534){:target="_blank"} to see projects created by community members.
+Spójrz na nasze studio Scratch ['Głupkowate oczy — Społeczność'](https://scratch.mit.edu/studios/29120534){:target="_blank"}, aby zobaczyć projekty stworzone przez członków społeczności.
 
 --- /task ---
 
 --- task ---
 
-You can also look at the remixes for the [Silly eyes starter project](https://scratch.mit.edu/projects/582221984/remixes){:target="_blank"} to see what other creators have made.
+Możesz też obejrzeć remiksy projektu startowego [Głupkowate oczy](https://scratch.mit.edu/projects/582221984/remixes){:target="_blank"}, aby zobaczyć, co stworzyli inni twórcy.
 
 --- /task ---
 
