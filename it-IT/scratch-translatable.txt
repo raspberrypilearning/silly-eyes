@@ -1,7 +1,7 @@
-behind all other sprites
+dietro tutti gli altri sprite
 
-Don't eat me!
+Non mangiarmi!
 
-Eye of Sporg
+Occhio di Sporg
 
-Arm of Sporg
+Braccio di Sporg
