@@ -1,28 +1,28 @@
 ---
-title: Silly eyes
+title: Occhi buffi
 hero_image: images/banner.png
-description: Create your own app with a character whose eyes follow the mouse pointer
-meta_title: Scratch coding projects for kids and teens | Silly eyes
-meta_description: Learn to code in Scratch with the Raspberry Pi Foundation's coding projects for kids and teens. Make a Scratch animation and create a character with silly eyes.
+description: Crea la tua app con un personaggio i cui occhi seguono il puntatore del mouse
+meta_title: Progetti di programmazione con Scratch per bambini e ragazzi | Occhi buffi
+meta_description: Impara a programmare con Scratch con i progetti di programmazione per bambini e ragazzi offerti dalla Raspberry Pi Foundation. Fai un'animazione Scratch e crea un personaggio con degli occhi buffi.
 version: 4
 listed: true
 copyedit: false
 last_tested: '2021-02-25'
 steps:
   - 
-    title: You will make
+    title: Quello che farai
   - 
-    title: Create your character
+    title: Crea il tuo personaggio
   - 
-    title: Make silly eyes
+    title: Crea degli occhi buffi
     completion:
       - engaged
   - 
-    title: Add sprite effects
+    title: Aggiungi effetti allo sprite
     completion:
       - internal
   - 
-    title: Quick quiz
+    title: Quiz veloce
     knowledge_quiz:
       path: quiz1
       version: 1
@@ -31,8 +31,8 @@ steps:
     completion:
       - external
   - 
-    title: Upgrade your project
+    title: Migliora il tuo progetto
   - 
-    title: Share and play
+    title: Condividi e gioca
   - 
-    title: What next?
+    title: E adesso?
