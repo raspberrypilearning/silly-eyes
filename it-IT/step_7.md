@@ -1,52 +1,52 @@
-## Share and play
+## Condividi e gioca
 
-If you are in a club, why not share your project with friends and peers?
+Se fai parte di un club, perché non condividere il tuo progetto con amici e compagni?
 
-You could also show your family how your project works.
+Potresti anche mostrare alla tua famiglia come funziona il tuo progetto.
 
-If you have a Scratch account, you can share your project through Scratch. You can send a link to people you know, and the whole Scratch community will be able to find your project and try it out.
+Se hai un account Scratch, puoi condividere il tuo progetto tramite Scratch. Puoi inviare un collegamento alle persone che conosci e l'intera comunità di Scratch sarà in grado di trovare il tuo progetto e provarlo.
 
 [[[share-scratch]]]
 
-Why not invite your friends to create a project? Let them know how you had fun.
+Perché non invitare i tuoi amici a creare un progetto? Fagli sapere come ti sei divertito.
 
-If you have a Scratch account, and have shared your 'Silly eyes' project, keep an eye out for comments that others may make about your creation. Feedback is a great way to reflect on your work. Ignore any comments that are unhelpful or irrelevant.
+Se hai un account Scratch e hai condiviso il tuo progetto 'Occhi buffi', tieni d'occhio i commenti che altri potrebbero fare sulla tua creazione. Il feedback è un ottimo modo per riflettere sul tuo lavoro. Ignora eventuali commenti inutili o irrilevanti.
 
 [[[comments-feedback-scratch]]]
 
 --- task ---
 
-Inspire the Raspberry Pi Foundation community with your project!
+Ispira la comunità della Raspberry Pi Foundation con il tuo progetto!
 
-To submit your project to our ['Silly eyes — Community' Scratch studio](https://scratch.mit.edu/studios/29120534){:target="_blank"}, please complete [this form](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}.
+Per inviare il tuo progetto al nostro ['Silly Eyes — Community' Scratch studio](https://scratch.mit.edu/studios/29120534){:target="_blank"}, completa [questo modulo](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}.
 
 --- /task ---
 
-### Community submissions
+### Contributi della comunità
 
 --- task ---
 
-Take a look at these fabulous community projects from our ['Silly eyes — Community' Scratch studio](https://scratch.mit.edu/studios/29120534){:target="_blank"}. Click on the backdrops, eyeballs and accessories to interact with them:
+Dai un'occhiata a questi favolosi progetti comunitari del nostro ['Silly Eyes - Community' Scratch studio](https://scratch.mit.edu/studios/29120534){:target="_blank"}. Clicca sugli sfondi, sui bulbi oculari e sugli accessori per interagire con loro:
 
-**Ladybug scare** [See inside](https://scratch.mit.edu/projects/517735755/editor){:target="_blank"}
+**Ladybug scare** [Guarda dentro](https://scratch.mit.edu/projects/517735755/editor){:target="_blank"}
 
-Click on the backdrop:
+Clicca sullo Sfondo:
 
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/517735755/?autostart=false" frameborder="0"></iframe>
 </div>
 
-**Butterfly and bear** [See inside](https://scratch.mit.edu/projects/569624392/editor){:target="_blank"}
+**Butterfly and bear** [Guarda dentro](https://scratch.mit.edu/projects/569624392/editor){:target="_blank"}
 
-Click on the bear and butterfly:
+Clicca sull'orso e sulla farfalla:
 
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/569624392/?autostart=false" frameborder="0"></iframe>
 </div>
 
-**Pixel dot** [See inside](https://scratch.mit.edu/projects/747156758/editor){:target="_blank"}
+**Pixel dot** [Guarda dentro](https://scratch.mit.edu/projects/747156758/editor){:target="_blank"}
 
-Click on the green flag to see everything pixelate:
+Clicca sulla bandierina verde per vedere tutto pixelato:
 
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/747156758/?autostart=false" frameborder="0"></iframe>
@@ -56,6 +56,6 @@ Click on the green flag to see everything pixelate:
 
 --- task ---
 
-You can also look at the remixes for the [Silly eyes starter project](https://scratch.mit.edu/projects/582221984/remixes){:target="_blank"} to see what other creators have made.
+Puoi anche guardare i remix al progetto iniziale [Occhi buffi](https://scratch.mit.edu/projects/582221984/remixes){:target="_blank"} per vedere cosa hanno realizzato gli altri creatori.
 
 --- /task --- 
