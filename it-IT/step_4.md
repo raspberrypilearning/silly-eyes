@@ -1,27 +1,27 @@
-## Sprite effects
+## Effetti sugli sprite
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-You can make your **character** sprite and **silly eye** sprites change their `Looks`{:class="block3looks"} when you click on them.
+Puoi fare in modo che lo sprite del tuo **personaggio** e gli sprite dell'**occhio buffo** cambino il loro `Aspetto`{:class="block3looks"} quando fai clic su di essi.
 </div>
 <div>
 
-![A character and eyes with graphic effects.](images/character-graphic-effects.png){:width="300px"}    
+![Un personaggio e i suoi occhi con effetti grafici.](images/character-graphic-effects.png){:width="300px"}    
 
 </div>
 </div>
 
-### Silly eye effects
+### Effetti per gli occhi buffi
 
 --- task ---
 
-Add a `when this sprite clicked`{:class="block3events"} block to your **Eyeball** sprite.
+Aggiungi un blocco `quando si clicca su questo sprite`{:class="block3events"} al tuo sprite **Bulbo oculare**.
 
-Can you work out what code block you would put underneath to change your sprite's eye colour when you click on the **Eyeball** sprite?
+Riesci a capire quale blocco di codice inseriresti sotto per cambiare il colore degli occhi del tuo sprite quando fai clic sullo sprite **Bulbo oculare**?
 
 --- collapse ---
 ---
-title: Change graphic effects when the sprite is clicked
+title: Modifica gli effetti grafici quando si fa clic sullo sprite
 ---
 
 ```blocks3
@@ -35,47 +35,47 @@ change [color v] effect by (25)
 
 --- task ---
 
-If you want both eyeballs to have the same effect, you will need to copy your script to the **Eyeball 2** sprite.
+Se vuoi che entrambi i bulbi oculari abbiano lo stesso effetto, dovrai copiare il tuo script nello sprite **Bulbo oculare 2**.
 
 [[[scratch3-copy-code]]]
 
 --- /task ---
 
-### Character effects
+### Effetti sui personaggi
 
 --- task ---
 
-Click on your **character** sprite in the Sprite list, then click on the **Code** tab.
+Fai clic sul tuo sprite del **personaggio** nell'elenco degli Sprite, poi fai clic sulla scheda **Codice**.
 
-Add the same script as you used to change the eye colour. Which graphic effects do you want to change for your **character**?
+Aggiungi lo stesso script che hai usato per cambiare il colore degli occhi. Quali effetti grafici vuoi cambiare per il tuo **personaggio**?
 
-**Choose:** Choose an effect in the drop-down menu within the `change color effect by`{:class="block3looks"} block. Experiment with the numbers and effects until you have a change that you like.
+**Scegli:** Scegli un effetto nel menu a discesa all'interno del blocco `cambia effetto colore`{:class="block3looks"}. Sperimenta i numeri e gli effetti finché non ottieni il cambiamento che ti piace.
 
 [[[scratch3-graphic-effects]]]
 
 --- /task ---
 
-### An accessory
+### Un accessorio
 
-Now, add an **accessory**, such as a hat, that changes when you click on it — use the `next costume`{:class="block3looks"} block.
+Ora aggiungi un **accessorio**, ad esempio un cappello, che cambia quando fai clic su di esso: utilizza il blocco `passa al costume seguente`{:class="block3looks"}.
 
 --- task ---
 
-**Choose:** Add an accessory change or costume change of your choice.
+**Scegli:** Aggiungi un cambio di accessorio o un cambio di costume a tua scelta.
 
-![Sprites with accessories.](images/accessory-sprite.png)
+![Sprite con accessori.](images/accessory-sprite.png)
 
 --- collapse ---
 ---
-title: Make a sprite change costume when clicked
+title: Fai cambiare costume al tuo sprite quando viene cliccato
 ---
 <div class="scratch-preview">
 <iframe allowtransparency="true" width="485" height="402" src="" frameborder="0"></iframe>
 </div>
 
-Some sprites already have a choice of costumes.
+Alcuni sprite hanno già una scelta di costumi.
 
-You can add code to make a sprite's costume change to the `next costume`{:class="block3looks"} when you click on the sprite:
+Puoi aggiungere il codice per modificare il costume di uno sprite quando fai clic sullo sprite, utilizzando il blocco `passa al costume successivo`{:class="block3looks"}:
 
 ```blocks3
 when this sprite clicked
@@ -84,7 +84,7 @@ next costume
 
 --- /collapse ---
 
-If your sprite does not have a choice of costumes, or you want to add more, you can add any costume to a sprite.
+Se il tuo sprite non ha una scelta di costumi, o vuoi aggiungerne altri, puoi aggiungere qualsiasi costume allo sprite.
 
 [[[scratch3-add-costumes-to-a-sprite]]]
 
@@ -92,9 +92,9 @@ If your sprite does not have a choice of costumes, or you want to add more, you 
 
 --- task ---
 
-**Test:** Work on your sprites until they interact in the way that you want.
+**Prova:** Modifica i tuoi sprite finché non interagiscono nel modo che desideri.
 
-**Tip:** Try one change at a time and test what it does so that you can easily spot each change and undo anything that you do not like.
+**Suggerimento:** Prova una modifica alla volta e verifica cosa fa in modo da poter individuare facilmente ogni modifica e togliere tutto ciò che non ti piace.
 
 --- /task ---
 
@@ -102,18 +102,18 @@ If your sprite does not have a choice of costumes, or you want to add more, you 
 
 **Debug:**
 
-If you add code to the wrong sprite, you can fix that:
+Se aggiungi codice allo sprite sbagliato, puoi sistemarlo:
 
 [[[scratch3-copy-code]]]
 
-If you need to, you can reset the graphic effects:
+Se vuoi, puoi ripristinare gli effetti grafici:
 
 --- collapse ---
 ---
-title: I don't want these graphic effects
+title: Non voglio questi effetti grafici
 ---
 
-To reset the graphic effects at any time, click on the `clear graphic effects`{:class="block3looks"} block in the `Looks`{:class="block3looks"} blocks menu. Clicking on the green flag also clears graphic effects.
+Per ripristinare gli effetti grafici in qualsiasi momento, clicca sul blocco `rimuovi effetti grafici`{:class="block3looks"} nel menu dei blocchi `Aspetto`{:class="block3looks"}. Facendo clic sulla bandierina verde si cancellano anche gli effetti grafici.
 
 ```blocks3
 clear graphic effects
@@ -124,14 +124,14 @@ clear graphic effects
 
 --- task ---
 
-**Test:** Test your project again, but this time, make it full-screen so that you can see how it will appear to someone looking at it.
+**Prova:** Prova nuovamente il tuo progetto, ma questa volta impostalo a schermo intero in modo da poter vedere come apparirà a qualcuno che lo guarda.
 
 [[[scratch3-full-screen]]]
 
 --- /task ---
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-By making your project full-screen, you are seeing what you have made from the perspective of a user who is playing with your project. **User interaction** is important in digital making. 
+Rendendo il tuo progetto a schermo intero, vedrai ciò che hai realizzato dal punto di vista di un utente che sta giocando con il tuo progetto. **L'interazione con l'utente** (User Interaction) è importante nella creazione digitale. 
 </p>
 
 
