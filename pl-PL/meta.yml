@@ -1,28 +1,28 @@
 ---
-title: Silly eyes
+title: Głupkowate oczy
 hero_image: images/banner.png
-description: Create your own app with a character whose eyes follow the mouse pointer
-meta_title: Scratch coding projects for kids and teens | Silly eyes
-meta_description: Learn to code in Scratch with the Raspberry Pi Foundation's coding projects for kids and teens. Make a Scratch animation and create a character with silly eyes.
+description: Stwórz swoją własną aplikację z postacią, której oczy podążają za kursorem myszy
+meta_title: Projekty Scratch dla dzieci i młodzieży | Głupkowate oczy
+meta_description: Naucz się programować w języku Scratch dzięki projektom programistycznym Fundacji Raspberry Pi dla dzieci i nastolatków. Zrób animację w Scratch i stwórz postać z głupkowatymi oczami.
 version: 4
 listed: true
 copyedit: false
 last_tested: '2021-02-25'
 steps:
   - 
-    title: You will make
+    title: Co będziesz robić
   - 
-    title: Create your character
+    title: Stwórz swoją postać
   - 
-    title: Make silly eyes
+    title: Zrób śmieszne oczy
     completion:
       - engaged
   - 
-    title: Add sprite effects
+    title: Dodaj efekty duszka
     completion:
       - internal
   - 
-    title: Quick quiz
+    title: Szybki quiz
     knowledge_quiz:
       path: quiz1
       version: 1
@@ -31,8 +31,8 @@ steps:
     completion:
       - external
   - 
-    title: Upgrade your project
+    title: Ulepsz swój projekt
   - 
-    title: Share and play
+    title: Udostępnij i graj
   - 
-    title: What next?
+    title: Co dalej?
