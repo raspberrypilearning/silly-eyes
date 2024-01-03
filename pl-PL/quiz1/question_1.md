@@ -1,59 +1,59 @@
-## Quick quiz
+## Szybki quiz
 
-Answer the three questions. There are hints to guide you to the correct answer.
+Odpowiedz na trzy pytania. Do pytań dołączone są wskazówki, które naprowadzą Cię na poprawną odpowiedź.
 
-When you have answered each question, click on **Check my answer**.
+Po udzieleniu odpowiedzi na każde pytanie kliknij przycisk **Sprawdź moją odpowiedź**.
 
-Have fun!
+Miłej zabawy!
 
 --- question ---
 ---
-legend: Question 1 of 3
+legend: Pytanie 1 z 3
 ---
 
-We added this code to an **Eyeball** sprite, but the eyeball is not rotating when the mouse pointer moves.
+Dodaliśmy ten kod do duszka **Oka**, ale oko nie obraca się, podczas ruchu kursora myszy.
 
-![Screenshot showing the script and the Stage. The script is not glowing with a yellow outline. The blocks in the script are 'when green flag clicked', 'set rotation style all around', 'forever', 'point towards mouse-pointer'.](images/code-not-running.png)
+![Zrzut ekranu przedstawiający skrypt i scenę. Skrypt nie jest podświetlony żółtym konturem. Bloki w skrypcie to „kiedy kliknięto zieloną flagę”, „ustaw styl obrotu na dookoła”, „zawsze”, „ustaw w kierunku duszka wskaźnik myszy”.](images/code-not-running.png)
 
-How could you fix the problem with just one action?
+Jak możesz rozwiązać ten problem za pomocą tylko jednej czynności?
 
 --- choices ---
 
-- (x) Click on the green flag
+- (x) Kliknij zieloną flagę
 
   --- feedback ---
 
-Yes! Just adding the script does not make it run. You need to click on the green flag to make your code run.
+Tak! Samo dodanie skryptu nie powoduje jego uruchomienia. Musisz kliknąć zieloną flagę, aby uruchomić kod.
 
-Your code will have a yellow outline around it when it is running.
+Podczas działania Twój skrypt będzie otoczony żółtą obwódką.
 
-Forgetting to click on the green flag is a really common mistake — we all do it!
+Zapominanie o kliknięciu zielonej flagi to bardzo częsty błąd — wszyscy to robimy!
 
-**Tip:** If you change code in a loop while the script is running, Scratch will run the new code the next time that the loop runs! You don't need to click on the green flag again. This is really useful when you are trying out ideas.
+**Wskazówka:** Jeśli zmienisz kod w pętli podczas działania skryptu, Scratch uruchomi nowy kod przy następnym uruchomieniu pętli! Nie musisz ponownie klikać zielonej flagi. Jest to bardzo przydatne podczas wypróbowywania nowych pomysłów.
 
   --- /feedback ---
 
-- ( ) Click on the eyeball
+- ( ) Kliknij oko
 
   --- feedback ---
 
-The script does not start with a `when this sprite clicked`{:class="block3events"} block.
+Skrypt nie uruchamia się przy użyciu bloku `kiedy ten duszek kliknięty`{:class="block3events"}.
 
   --- /feedback ---
 
-- ( ) Move the `set rotation style`{:class="block3looks"} block inside the `forever`{:class="block3control"} loop
+- () Przesuń blok `ustaw styl obrotu na`{:class="block3looks"} wewnątrz pętli `zawsze`{:class="block3control"}
 
   --- feedback ---
 
-You do not need to run the `set rotation style`{:class="block3looks"} block lots of times. If you set it once before the loop, it will not change until you set it to a different style. Moving the `set rotation style`{:class="block3looks"} block will not help with the problem in the question.
+Nie musisz wiele razy uruchamiać bloku `ustaw styl obrotu na`{:class="block3looks"}. Jeśli ustawisz go raz przed pętlą, nie zmieni się, dopóki nie ustawisz go na inny styl. Przesunięcie bloku `ustaw styl obrotu na`{:class="block3looks"} nie pomoże w rozwiązaniu problemu z pytania.
 
   --- /feedback ---
 
-- ( ) Click on the Stage
+- ( ) Kliknij scenę
 
   --- feedback ---
 
-You do not need to click on the Stage to get the eyeball to rotate. When the code is running, the eyeball will just follow the mouse pointer (or your finger, if you are using a tablet).
+Nie musisz klikać sceny, aby oko zaczęło się obracać. Gdy kod jest uruchomiony, gałka oczna będzie podążać wzrokiem za wskaźnikiem myszy (lub palcem, jeśli używasz tabletu).
 
   --- /feedback ---
 
