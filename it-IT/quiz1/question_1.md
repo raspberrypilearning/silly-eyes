@@ -1,59 +1,59 @@
-## Quick quiz
+## Quiz veloce
 
-Answer the three questions. There are hints to guide you to the correct answer.
+Rispondi alle tre domande. Ci sono suggerimenti per aiutarti a trovare la risposta corretta.
 
-When you have answered each question, click on **Check my answer**.
+Dopo aver risposto a ciascuna domanda, fai clic su **Controlla la mia risposta**.
 
-Have fun!
+Divertiti!
 
 --- question ---
 ---
-legend: Question 1 of 3
+legend: Domanda 1 di 3
 ---
 
-We added this code to an **Eyeball** sprite, but the eyeball is not rotating when the mouse pointer moves.
+Abbiamo aggiunto questo codice a uno sprite **Eyeball**, ma il bulbo oculare non ruota quando il puntatore del mouse si muove.
 
-![Screenshot showing the script and the Stage. The script is not glowing with a yellow outline. The blocks in the script are 'when green flag clicked', 'set rotation style all around', 'forever', 'point towards mouse-pointer'.](images/code-not-running.png)
+![Screenshot che mostra lo script e lo Stage. Lo script non si illumina con un contorno giallo. I blocchi nello script sono 'quando si clicca sull bandierina verde, 'usa stile rotazione può ruotare', 'per sempre', 'punta verso puntatore del mouse'.](images/code-not-running.png)
 
-How could you fix the problem with just one action?
+Come potresti risolvere il problema con una sola azione?
 
 --- choices ---
 
-- (x) Click on the green flag
+- (x) Fai clic sulla bandierina verde
 
   --- feedback ---
 
-Yes! Just adding the script does not make it run. You need to click on the green flag to make your code run.
+Sì! Aggiungere lo script non basta a farlo funzionare. Devi cliccare sulla bandierina verde per far eseguire il codice.
 
-Your code will have a yellow outline around it when it is running.
+Il tuo codice avrà un contorno giallo attorno ai blocchi quando è in esecuzione.
 
-Forgetting to click on the green flag is a really common mistake — we all do it!
+Dimenticare di cliccare sulla bandierina verde è un errore molto comune - lo facciamo tutti!
 
-**Tip:** If you change code in a loop while the script is running, Scratch will run the new code the next time that the loop runs! You don't need to click on the green flag again. This is really useful when you are trying out ideas.
+**Suggerimento:** Se modifichi il codice in un ciclo mentre lo script è in esecuzione, Scratch eseguirà il nuovo codice la prossima volta che verrà eseguito il ciclo! Non devi fare clic sulla bandierina verde di nuovo. È molto utile quando stai provando nuove idee.
 
   --- /feedback ---
 
-- ( ) Click on the eyeball
+- ( ) Clicca su eyeball (bulbo oculare)
 
   --- feedback ---
 
-The script does not start with a `when this sprite clicked`{:class="block3events"} block.
+Lo script non inizia con un blocco `quando si clicca su questo sprite`{:class="block3events"}.
 
   --- /feedback ---
 
-- ( ) Move the `set rotation style`{:class="block3looks"} block inside the `forever`{:class="block3control"} loop
+- ( ) Sposta il blocco `usa stile rotazione`{:class="block3motion"} all'interno del ciclo `per sempre`{:class="block3control"}
 
   --- feedback ---
 
-You do not need to run the `set rotation style`{:class="block3looks"} block lots of times. If you set it once before the loop, it will not change until you set it to a different style. Moving the `set rotation style`{:class="block3looks"} block will not help with the problem in the question.
+Non è necessario eseguire il blocco `usa stile rotazione`{:class="block3motion"} molte volte. Se lo imposti una volta prima del loop, non cambierà finché non lo imposti su uno stile diverso. Muovere il blocco `usa stile rotazione`{:class="block3looks"} non aiuterà a risolvere il problema nella domanda.
 
   --- /feedback ---
 
-- ( ) Click on the Stage
+- ( ) Fai clic sullo Stage
 
   --- feedback ---
 
-You do not need to click on the Stage to get the eyeball to rotate. When the code is running, the eyeball will just follow the mouse pointer (or your finger, if you are using a tablet).
+Non è necessario fare clic sullo stage per far ruotare il bulbo oculare. Durante l'esecuzione del codice, il bulbo oculare seguirà semplicemente il puntatore del mouse (o il dito, se stai utilizzando un tablet).
 
   --- /feedback ---
 
