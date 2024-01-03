@@ -1,11 +1,11 @@
 --- question ---
 ---
-legend: Question 3 of 3
+legend: Domanda 3 di 3
 ---
 
-<span style="color: #0faeb0">**User interaction**</span> is how the project reacts to the user. The 'Silly eyes' project that you have made probably has lots of <span style="color: #0faeb0">**user interaction**</span>!
+L'<span style="color: #0faeb0">**Interazione con l'utente**</span> (User Interaction) è il modo in cui il progetto reagisce all'utente. Il progetto 'Occhi buffi' che hai realizzato probabilmente ha molte <span style="color: #0faeb0">**interazioni con l'utente**</span>!
 
-Which of these scripts allows user interaction after the program has started?
+Quale di questi script consente l'interazione dell'utente dopo l'avvio del programma?
 
 --- choices ---
 
@@ -17,7 +17,7 @@ clear graphic effects
 
   --- feedback ---
 
-The graphic effects are cleared after the timer reaches 10. The user does not have to do anything, so there is no user interaction.
+Gli effetti grafici vengono cancellati dopo che il timer raggiunge 10. L'utente non deve fare nulla, quindi non c'è interazione con l'utente.
 
   --- /feedback ---
 - ( )
@@ -28,7 +28,7 @@ say [hello] for (2) seconds
 
   --- feedback ---
 
-The sprite says "hello" after the backdrop switches. The user does not have to do anything, so there is no user interaction.
+Lo sprite dice "ciao" dopo che lo sfondo cambia. L'utente non deve fare nulla, quindi non c'è interazione con l'utente.
 
   --- /feedback ---
 - (x)
@@ -39,16 +39,16 @@ change [color v] effect by (25)
 
   --- feedback ---
 
-The user has to click on the sprite to change the colour. This is user interaction.
+L'utente deve fare clic sullo sprite per cambiare il colore. Questa è interazione con l'utente (User Interaction).
 
   --- /feedback ---
 
 
-- ( ) Give me a clue.
+- ( ) Dammi un indizio.
 
   --- feedback ---
 
- User interaction is how the project reacts to the user doing things such as moving the mouse and clicking on the screen.
+ L'interazione con l'utente è il modo in cui il progetto reagisce alle azioni dell'utente, ad esempio spostare il mouse e fare clic sullo schermo.
 
   --- /feedback ---
 
