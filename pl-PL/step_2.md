@@ -1,42 +1,42 @@
-## Your character
+## Twoja postać
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-Use your design skills to add a character sprite and suitable backdrop. 
+Wykorzystaj swoje umiejętności projektowania, aby dodać duszka postaci i odpowiednie tło. 
 </div>
 <div>
 
-![A large character.](images/character.png){:width="300px"}    
+![Duża postać.](images/character.png){:width="300px"}    
 
 </div>
 </div>
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-<span style="color: #0faeb0">**Design**</span> means deciding on the way that a project looks and making decisions about what it does. 
+<span style="color: #0faeb0">**Projektowanie**</span> oznacza decydowanie o tym, jak projekt ma wyglądać oraz o tym, jak ma działać. 
 </p>
 
-### Open the starter project
+### Otwórz projekt startowy
 
 --- task ---
 
-Open the [Silly eyes starter project](https://scratch.mit.edu/projects/582221984/editor){:target="_blank"}. Scratch will open in another browser tab.
+Otwórz [projekt startowy Głupkowate oczy](https://scratch.mit.edu/projects/582221984/editor){:target="_blank"}. Scratch otworzy się w nowej karcie przeglądarki.
 
 [[[working-offline]]]
 
-⏱️ Not much time? You can start from one of the [examples](https://scratch.mit.edu/studios/29029028){:target="_blank"}.
+⏱️ Mało czasu? Możesz zacząć od jednego z [przykładów](https://scratch.mit.edu/studios/29029028){:target="_blank"}.
 
 --- /task ---
 
-### Choose your sprite and backdrop
+### Wybierz duszka i tło
 
 --- task ---
 
-**Choose:** Add a **sprite** and a **backdrop** for your silly eyes project.
+**Wybierz:** Dodaj **duszka** i **tło** do swojego projektu.
 
-+ What does your character look like? A person 🧜🏽‍♀️, animal 🐶 or object 🧸.
-+ Where do you want your character to live? Somewhere sensible 🏠 or silly 🎪.
++ Jak wygląda Twoja postać? Osoba 🧜🏽‍♀️, zwierzę 🐶 a może przedmiot 🧸.
++ Gdzie chcesz, aby Twoja postać mieszkała? W sensownym miejscu 🏠 a może w śmiesznym 🎪.
 
-![The add sprite icon and add backdrop icon side by side.](images/sprite-and-backdrop.png)
+![Ikona dodawania duszka i ikona dodawania tła obok siebie.](images/sprite-and-backdrop.png)
 
 [[[generic-scratch3-sprite-from-library]]]
 
@@ -46,24 +46,24 @@ Open the [Silly eyes starter project](https://scratch.mit.edu/projects/582221984
 
 --- collapse ---
 ---
-title: Get a surprise sprite
+title: Duszek-niespodzianka
 ---
 
-Not sure which sprite to choose? Go to the **Choose a Sprite** menu and choose the **Surprise** option to add a surprise sprite to your project.
+Nie wiesz, którego duszka wybrać? Przejdź do menu **Wybierz duszka** i wybierz opcję **Niespodzianka**, aby dodać duszka-niespodziankę do swojego projektu.
 
-![The 'Surprise' option in the 'Choose a Sprite' menu.](images/surprise-sprite.png)
+![Opcja „Niespodzianka” w menu „Wybierz duszka”.](images/surprise-sprite.png)
 
 --- /collapse ---
 
-**Tip:** If you create your own sprite in the Paint editor, **don't add eyes yet, because they need to be separate sprites.**
+**Wskazówka:** Jeśli tworzysz własnego duszka w edytorze Paint, **nie dodawaj jeszcze oczu, ponieważ muszą to być oddzielne duszki.**
 
 --- /task ---
 
-### Resize your sprite
+### Zmień rozmiar duszka
 
 --- task ---
 
-In the Sprite pane, change the number in the **Size** property to a number that makes your character fill the Stage.
+W panelu duszka zmień liczbę we właściwości **Rozmiar** na liczbę, która sprawi, że Twoja postać wypełni scenę.
 
 ![](images/size-property.png){:width="500px"}
 
@@ -71,7 +71,7 @@ In the Sprite pane, change the number in the **Size** property to a number that 
 
 --- task ---
 
-Look at the Stage. You will see your large character and chosen backdrop.
+Spójrz na scenę. Zobaczysz swoją dużą postać i wybrane tło.
 
 ![](images/large-sprite-stage.png){:width="500px"}
 
