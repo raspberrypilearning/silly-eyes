@@ -1,23 +1,23 @@
-## Upgrade your project
+## Migliora il tuo progetto
 
-If you have time, you can upgrade your project.
+Se hai più tempo, puoi migliorare il tuo progetto.
 
-### Add Stage effects
+### Aggiungi effetti allo Stage
 
-Make your project do something when you click on the **Stage**.
+Fai in modo che il tuo progetto faccia qualcosa quando fai clic sullo **Stage**.
 
-![The Stage with graphic effects.](images/stage-effects.png){:width="300px"}
+![Lo Stage con effetti grafici.](images/stage-effects.png){:width="300px"}
 {:width="300px"}
 
 --- task ---
 
-Click on the Stage pane and then on the **Code** tab to add code to the **Stage**.
+Fai clic sul pannello degli Stage e poi sulla scheda **Codice** per aggiungere codice allo **Stage**.
 
-**Choose:** Choose what you want to change when the **Stage** is clicked.
+**Scegli:** Scegli cosa vuoi modificare quando si fai clic sullo **Stage**.
 
 --- collapse ---
 ---
-title: Change graphic effects when the Stage is clicked
+title: Modifica gli effetti grafici quando si clicca sullo Stage
 ---
 
 ```blocks3
@@ -29,7 +29,7 @@ change [color v] effect by [25]
 
 --- collapse ---
 ---
-title: Switch backdrop when the Stage is clicked
+title: Cambia lo sfondo quando si clicca sullo Stage
 ---
 
 ```blocks3
@@ -41,40 +41,40 @@ next backdrop
 
 --- /task ---
 
-### Add more
+### Aggiungi più cose
 
-You could also add:
-- More body parts
-- More sprites with silly eyes
-- More backdrops
-- More accessories, or add more costumes to your accessories
+Potresti anche aggiungere:
+- Più parti del corpo
+- Più sprite con occhi buffi
+- Più sfondi
+- Più accessori o aggiungere più costumi ai tuoi accessori
 
-This **Sporg** character also has arms that `point towards the mouse pointer`{:class="block3motion"}.
+Questo personaggio **Sporg** ha anche le braccia che `puntano verso il puntatore del mouse`{:class="block3motion"}.
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="" frameborder="0"></iframe>
 </div>
 
-If you add other body parts, you will need to centre them at the point that you want them to rotate from. For example, an arm would rotate from the shoulder.
+Se aggiungi altre parti del corpo, devi comunque centrarle nel punto intorno a cui vuoi che girino. Ad esempio, un braccio ruoterebbe dalla spalla.
 
 [[[scratch-crosshair]]]
 
-### Get ideas
+### Lasciati ispirare
 
 --- task ---
 
-Each project in the ['Silly eyes — Examples' Scratch studio](https://scratch.mit.edu/studios/29029028){:target="_blank"} has a **See inside** link, which you can use to open the project in the Scratch editor and look at the code to get ideas and see how the project works.
+Ogni progetto in ['Silly eyes — Esempi' Scratch studio](https://scratch.mit.edu/studios/29029028){:target="_blank"} ha un collegamento **Guarda dentro**, che puoi utilizzare per aprire il progetto nell'editor di Scratch e guardare il codice per avere idee e vedere come funziona il progetto.
 
 --- /task ---
 
 --- task ---
 
-Take a look at our ['Silly eyes — Community' Scratch studio](https://scratch.mit.edu/studios/29120534){:target="_blank"} to see projects created by community members.
+Dai un'occhiata al nostro ['Silly Eyes — Community' Scratch studio](https://scratch.mit.edu/studios/29120534){:target="_blank"} per vedere i progetti creati dai membri della community.
 
 --- /task ---
 
 --- task ---
 
-You can also look at the remixes for the [Silly eyes starter project](https://scratch.mit.edu/projects/582221984/remixes){:target="_blank"} to see what other creators have made.
+Puoi anche guardare i remix per il progetto iniziale [Occhi buffi](https://scratch.mit.edu/projects/582221984/remixes){:target="_blank"} per vedere cosa hanno realizzato gli altri creatori.
 
 --- /task ---
 
