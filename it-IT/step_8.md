@@ -20,3 +20,11 @@ Clicca sulla bandierina verde per vedere l'animazione:
 
 Se vuoi divertirti ancora di più esplorando Scratch, puoi provare uno qualsiasi di [questi progetti](https://projects.raspberrypi.org/it-IT/projects?software%5B%5D=scratch&curriculum%5B%5D=%201).
 
+***
+
+Questo progetto è stato tradotto da volontari:
+
+Alberto Giust
+Omar Lazzari
+
+Grazie ai volontari, possiamo offrire alle persone di tutto il mondo la possibilità di imparare nella loro lingua. Puoi aiutarci a raggiungere più persone offrendoti come volontario per la traduzione - puoi trovare maggiori informazioni su [rpf.io/translate](https://rpf.io/translate).
