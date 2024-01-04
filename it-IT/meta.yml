@@ -1,0 +1,30 @@
+---
+title: Occhi buffi
+hero_image: images/banner.png
+description: Crea la tua app con un personaggio i cui occhi seguono il puntatore del mouse
+meta_title: Progetti di programmazione con Scratch per bambini e ragazzi | Occhi buffi
+meta_description: Impara a programmare con Scratch con i progetti di programmazione per bambini e ragazzi offerti dalla Raspberry Pi Foundation. Fai un'animazione Scratch e crea un personaggio con degli occhi buffi.
+version: 4
+listed: true
+copyedit: false
+last_tested: '2021-02-25'
+steps:
+  - title: Quello che farai
+  - title: Crea il tuo personaggio
+  - title: Crea degli occhi buffi
+    completion:
+      - engaged
+  - title: Aggiungi effetti allo sprite
+    completion:
+      - internal
+  - title: Quiz veloce
+    knowledge_quiz:
+      path: quiz1
+      version: 1
+      questions: 3
+      passing_score: 3
+    completion:
+      - external
+  - title: Migliora il tuo progetto
+  - title: Condividi e gioca
+  - title: E adesso?
