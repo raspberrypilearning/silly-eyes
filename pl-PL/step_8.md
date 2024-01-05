@@ -20,3 +20,12 @@ Kliknij zieloną flagę, aby obejrzeć animację:
 
 Jeśli chcesz mieć więcej zabawy podczas odkrywania Scratch, możesz wypróbować dowolny z [tych projektów](https://projects.raspberrypi.org/pl-PL/projects?software%5B%5D=scratch&curriculum%5B%5D=%201).
 
+***
+
+Ten projekt został przetłumaczony przez wolontariuszy:
+
+Hubert Łukasik
+Szymon Olesiński
+
+Dzięki wolontariuszom możemy dać ludziom na całym świecie szansę nauki w ich własnym języku. Możesz pomóc nam dotrzeć do większej liczby osób, zgłaszając się na ochotnika do tłumaczenia - więcej informacji na stronie [rpf.io/translate](https://rpf.io/translate).
+
