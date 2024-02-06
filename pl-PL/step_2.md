@@ -55,7 +55,7 @@ Nie wiesz, którego duszka wybrać? Przejdź do menu **Wybierz duszka** i wybier
 
 --- /collapse ---
 
-**Wskazówka:** Jeśli tworzysz własnego duszka w edytorze Paint, **nie dodawaj jeszcze oczu, ponieważ muszą to być oddzielne duszki.**
+**Wskazówka:** Jeśli tworzysz własnego duszka w edytorze Malowania, **nie dodawaj jeszcze oczu, ponieważ muszą to być oddzielne duszki.**
 
 --- /task ---
 
