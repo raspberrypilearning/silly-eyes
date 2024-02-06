@@ -81,7 +81,7 @@ Kliknij kostium, który chcesz dodać do Twojego duszka.
 
 Użyj edytora Paint, aby zmodyfikować kostium. Możesz dodać kółka, wybrać inny kolor w polu **Wypełnij** lub usunąć części kostiumu, aby zmienić go w śmieszne oko.
 
-Upewnij się, że gałka oczna jest wyśrodkowana — przesuń ją tak, aby niebieski krzyżyk w kostiumie zrównał się z szarym celownikiem w edytorze Paint.
+Upewnij się, że gałka oczna jest wyśrodkowana — przesuń ją tak, aby niebieski krzyżyk w kostiumie zrównał się z szarym celownikiem w edytorze Malowania.
 
 ![Animowany obraz kostiumu w kształcie kuli przeciąganego z lewego górnego rogu, tak aby znalazł się na środku ikony celownika.](images/crosshair-centre.gif)
 
