@@ -7,9 +7,9 @@ Aby uczynić rakietę interaktywną, duszek **rakieta** ma następujący skrypt:
 
 ```blocks3
 when flag clicked
-set rotation style [all around v]
+set rotation style [dookoła v]
 forever
-point towards (mouse-pointer v)
+point towards (wkaźnik myszy v)
 end
 ```
 

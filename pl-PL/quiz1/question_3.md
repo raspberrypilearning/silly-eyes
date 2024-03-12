@@ -28,13 +28,13 @@ say [hello] for (2) seconds
 
   --- feedback ---
 
-Sprite mówi „cześć” po zmianie tła. Użytkownik nie musi nic robić, więc nie ma z nim interakcji.
+Duszek mówi „cześć” po zmianie tła. Użytkownik nie musi nic robić, więc nie ma z nim interakcji.
 
   --- /feedback ---
 - (x)
 ```blocks3
 when this sprite clicked
-change [color v] effect by (25)
+change [kolor v] effect by (25)
 ```
 
   --- feedback ---

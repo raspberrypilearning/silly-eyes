@@ -26,7 +26,7 @@ title: Zmień efekty graficzne po kliknięciu duszka
 
 ```blocks3
 when this sprite clicked  
-change [color v] effect by (25)
+change [kolor v] effect by (25)
 ```
 
 --- /collapse ---
