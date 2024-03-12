@@ -22,7 +22,7 @@ title: Zmień efekty graficzne po kliknięciu sceny
 
 ```blocks3
 when stage clicked
-change [color v] effect by [25]
+change [kolor v] effect by [25]
 ```
 
 --- /collapse ---

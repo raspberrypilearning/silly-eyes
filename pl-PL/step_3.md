@@ -127,9 +127,9 @@ title: Spraw, aby duszek był skierowany w kierunku wskaźnika myszy
 
 ```blocks3
 when flag clicked
-set rotation style [all around v]
+set rotation style [dookoła v]
 forever
-point towards (mouse-pointer v)
+point towards (wkaźnik myszy v)
 end
 ```
 
@@ -214,7 +214,7 @@ Aby duszek Twojej **postaci** pozostał `na spodzie`{:class="block3looks"}, uży
 ```blocks3
 when green flag clicked
 forever
-go to [back v] layer // za wszystkimi innymi duszkami
+go to [spód v] layer // za wszystkimi innymi duszkami
 ```
 
 --- /collapse ---
