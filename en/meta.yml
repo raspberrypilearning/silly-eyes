@@ -4,6 +4,7 @@ hero_image: images/banner.png
 description: Create your own app with a character whose eyes follow the mouse pointer
 meta_title: Scratch coding projects for kids and teens | Silly eyes
 meta_description: Learn to code in Scratch with the Raspberry Pi Foundation's coding projects for kids and teens. Make a Scratch animation and create a character with silly eyes.
+pdf: resources/silly-eyes.pdf
 version: 4
 listed: true
 copyedit: false
